@@ -1,5 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="CheckinProject" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl w" />
   </action>
@@ -9,6 +11,7 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
   </action>
+  <action id="GotoLine" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
