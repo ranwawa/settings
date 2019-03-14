@@ -20,6 +20,13 @@
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl p" />
   </action>
   <action id="GotoLine" />
+  <action id="GotoSymbol" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+  </action>
+  <action id="NewElementMenu">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
