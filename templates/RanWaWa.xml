@@ -1,0 +1,8 @@
+<templateSet group="RanWaWa">
+  <template name="vue-page-normal" value="&lt;style lang=&quot;scss&quot;&gt;&#10;&#10;&lt;/style&gt;&#10;&lt;template&gt;&#10;  &lt;main class=&quot;vueMain&quot;&gt;&#10;    1&#10;  &lt;/main&gt;&#10;&lt;/template&gt;&#10;&lt;script lang=&quot;ts&quot;&gt;&#10;  export default {&#10;    name:'$FILENAME$',&#10;    data: () =&gt;({}),&#10;    computed:{},&#10;    methods: {},&#10;    created(){},&#10;  }&#10;&lt;/script&gt;&#10;" description="普通的vue页面" toReformat="true" toShortenFQNames="true">
+    <variable name="FILENAME" expression="underscoresToCamelCase(fileNameWithoutExtension())" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
