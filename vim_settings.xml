@@ -28,7 +28,7 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="E:/project/防水2版 - 参考雨停防水 - www.cqytfs.com/list-item.html" timestamp="1553072197120">
+      <file name="E:/project/防水2版 - 参考雨停防水 - www.cqytfs.com/list-item.html" timestamp="1553074617500">
         <mark key="'" line="339" column="23" />
         <mark key="[" line="323" column="2" />
         <mark key="]" line="336" column="4" />
@@ -325,12 +325,12 @@
         <mark key="." line="2598" column="20" />
         <mark key="^" line="2598" column="20" />
       </file>
-      <file name="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/App.vue" timestamp="1553073644982">
-        <mark key="'" line="50" column="21" />
-        <mark key="[" line="193" column="16" />
-        <mark key="]" line="193" column="16" />
-        <mark key="." line="193" column="16" />
-        <mark key="^" line="193" column="16" />
+      <file name="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/App.vue" timestamp="1553074339333">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="202" column="16" />
+        <mark key="]" line="202" column="32" />
+        <mark key="." line="202" column="32" />
+        <mark key="^" line="202" column="32" />
       </file>
       <file name="E:/管理系统/zmn-all/zmn-plat/zmn-plat-admin/src/main/resources/static/js/module/servcategory/zmn.art.serv.ass.categ.list.js" timestamp="1552137136956">
         <mark key="'" line="34" column="8" />
@@ -602,7 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
       <jump line="239" column="0" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/App.vue" />
       <jump line="127" column="0" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
       <jump line="71" column="0" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/App.vue" />
@@ -702,32 +701,20 @@
       <jump line="115" column="51" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/App.vue" />
       <jump line="339" column="23" filename="E:/project/防水2版 - 参考雨停防水 - www.cqytfs.com/list-item.html" />
       <jump line="50" column="21" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/App.vue" />
+      <jump line="201" column="0" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/App.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>addClass</text>
+        <text>bind</text>
       </register>
       <register name="-" type="4">
-        <text>addClass</text>
+        <text>bind</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>bind</text>
       </register>
-      <register name="0" type="4">
-        <text>// 图片鼠标移动放大
-  function animateCSS(element, animationName) {
-    element.addClass('animated ' + animationName);
-    function handleAnimationEnd() {
-      element.removeClass('animated ' + animationName);
-      element.unbind('animationend', handleAnimationEnd);
-    }
-    element.bind('animationend', handleAnimationEnd);
-  }
-  $('img').mouseenter(function () {
-    const index = Math.floor((Math.random() * 5));
-    const animateCss = ['bounce', 'jello', 'tada', 'flipInX', 'flipInX'][index];
-    animateCSS($(this), animateCss);
-  });</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBlbGVtZW50LmNsYXNzTGlzdC5hZGQoYW5pbWF0aW9uTmFtZSk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>('mouseenter', function(e) {
@@ -769,9 +756,9 @@
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>bind</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>bind</last-pattern>
       <last-replace encoding="base64">PFxhPg==</last-replace>
       <last-substitute encoding="base64">PFwvYWE+</last-substitute>
       <last-dir>1</last-dir>
@@ -779,7 +766,6 @@
     </search>
     <history>
       <history-search>
-        <entry>src</entry>
         <entry>color</entry>
         <entry>variables</entry>
         <entry>vari</entry>
@@ -799,6 +785,7 @@
         <entry>logo</entry>
         <entry>4000</entry>
         <entry>title</entry>
+        <entry>bind</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
