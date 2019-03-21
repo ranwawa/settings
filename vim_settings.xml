@@ -140,6 +140,12 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="38" />
       </file>
+      <file name="E:/project/工控2版 - 参考东浩联创 - www.donhonet.net/public/index.html" timestamp="1553160915927">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+      </file>
       <file name="E:/project/防水2版 - 防雨停防水 - www.cqytfs.com/list-new.html" timestamp="1552732755712">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="51" column="3" />
@@ -194,11 +200,12 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="E:/project/工控2版 - 参考东浩联创 - www.donhonet.net/src/App.vue" timestamp="1553159160509">
-        <mark key="'" line="37" column="20" />
-        <mark key="[" line="137" column="19" />
-        <mark key="]" line="137" column="19" />
-        <mark key="." line="137" column="19" />
+      <file name="E:/project/工控2版 - 参考东浩联创 - www.donhonet.net/src/App.vue" timestamp="1553160712351">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="154" column="17" />
+        <mark key="]" line="154" column="34" />
+        <mark key="." line="154" column="34" />
+        <mark key="^" line="154" column="34" />
       </file>
       <file name="E:/woodpocker/zmn-all/zmn-plat/zmn-plat-admin/src/main/resources/template/servcategroy/list.html" timestamp="1552302680226">
         <mark key="[" line="27" column="84" />
@@ -374,9 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="506" column="29" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
-      <jump line="433" column="20" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
-      <jump line="163" column="34" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/App.vue" />
       <jump line="0" column="0" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/App.vue" />
       <jump line="401" column="25" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
       <jump line="157" column="15" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/App.vue" />
@@ -474,16 +478,19 @@
       <jump line="449" column="31" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
       <jump line="486" column="31" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
       <jump line="38" column="20" filename="E:/project/工控2版 - 参考东浩联创 - www.donhonet.net/src/App.vue" />
+      <jump line="108" column="27" filename="E:/project/工控2版 - 参考东浩联创 - www.donhonet.net/src/App.vue" />
+      <jump line="106" column="15" filename="E:/project/工控2版 - 参考东浩联创 - www.donhonet.net/src/App.vue" />
+      <jump line="0" column="0" filename="E:/project/工控2版 - 参考东浩联创 - www.donhonet.net/src/App.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>./assets</text>
+        <text>logo</text>
       </register>
       <register name="-" type="4">
-        <text>./assets</text>
+        <text>logo</text>
       </register>
       <register name="/" type="4">
-        <text>col-sm-6 col-sm-12</text>
+        <text>logo</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9Im1lbmRJbWcgY29sLW1kLTQgY29sLXNtLTYgY29sLXNtLTEyIj4KICAgICAgICAgICAgPGRpdiBzdHlsZT0iYmFja2dyb3VuZDogdXJsKCcvaW1hZ2VzL7f+zvHE2sjdLmpwZycpIj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KIA==</text>
@@ -520,9 +527,9 @@
       </register>
     </registers>
     <search>
-      <last-search>col-sm-6 col-sm-12</last-search>
+      <last-search>logo</last-search>
       <last-offset />
-      <last-pattern>col-sm-6 col-sm-12</last-pattern>
+      <last-pattern>logo</last-pattern>
       <last-replace encoding="base64">PFxhPg==</last-replace>
       <last-substitute encoding="base64">PFwvYWE+</last-substitute>
       <last-dir>1</last-dir>
@@ -530,7 +537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>product</entry>
         <entry>txt-ind</entry>
         <entry>text-in</entry>
         <entry>mendImg</entry>
@@ -550,6 +556,7 @@
         <entry>服务</entry>
         <entry>xs-12</entry>
         <entry>col-sm-6 col-sm-12</entry>
+        <entry>logo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
