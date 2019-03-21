@@ -328,11 +328,12 @@
       <file name="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/node_modules/bootstrap/scss/_functions.scss" timestamp="1553044825743">
         <mark key="'" line="51" column="29" />
       </file>
-      <file name="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" timestamp="1553141103143">
-        <mark key="'" line="3" column="23" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
+      <file name="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" timestamp="1553147175667">
+        <mark key="'" line="149" column="4" />
+        <mark key="[" line="159" column="18" />
+        <mark key="]" line="159" column="18" />
+        <mark key="." line="159" column="18" />
+        <mark key="^" line="303" column="46" />
       </file>
       <file name="E:/project/客服插件/dist/index.html" timestamp="1552543366840">
         <mark key="[" line="13" column="8" />
@@ -367,10 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="1" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="65" column="3" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="77" column="7" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="7" column="17" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/node_modules/bootstrap/scss/_functions.scss" />
       <jump line="59" column="13" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/node_modules/bootstrap/scss/_functions.scss" />
       <jump line="51" column="29" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/node_modules/bootstrap/scss/_functions.scss" />
       <jump line="52" column="19" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/node_modules/bootstrap/scss/_variables.scss" />
@@ -465,18 +462,22 @@
       <jump line="746" column="35" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
       <jump line="193" column="5" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
       <jump line="280" column="10" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
-      <jump line="0" column="0" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
       <jump line="3" column="23" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
+      <jump line="0" column="18" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
+      <jump line="673" column="13" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
+      <jump line="40" column="10" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
+      <jump line="141" column="10" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
+      <jump line="149" column="4" filename="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>case</text>
+        <text>max-width</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcG9zaXRpb246IGFic29sdXRlOwo=</text>
@@ -513,9 +514,9 @@
       </register>
     </registers>
     <search>
-      <last-search>case</last-search>
+      <last-search>max-width</last-search>
       <last-offset />
-      <last-pattern>case</last-pattern>
+      <last-pattern>max-width</last-pattern>
       <last-replace encoding="base64">PFxhPg==</last-replace>
       <last-substitute encoding="base64">PFwvYWE+</last-substitute>
       <last-dir>1</last-dir>
@@ -523,8 +524,6 @@
     </search>
     <history>
       <history-search>
-        <entry>服务内容</entry>
-        <entry>section</entry>
         <entry>logo</entry>
         <entry>4000</entry>
         <entry>title</entry>
@@ -543,6 +542,8 @@
         <entry>服务项目</entry>
         <entry>product</entry>
         <entry>case</entry>
+        <entry>data</entry>
+        <entry>max-width</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
