@@ -94,6 +94,7 @@
         <mark key="." line="272" column="17" />
         <mark key="^" line="272" column="17" />
       </file>
+      <file name="E:/站群/中央空调3版 - 不用vue/src/style/_custom.scss" timestamp="1553499852543" />
       <file name="E:/project/中央空调2版 - 参考易百讯 - www.yibaixun.com/pre/index.html" timestamp="1553224153705">
         <mark key="'" line="19" column="3" />
       </file>
@@ -303,7 +304,7 @@
         <text>png</text>
       </register>
       <register name="/" type="4">
-        <text>p1\.png</text>
+        <text>~bootstrap\/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoOmhyZWY9IkB7JHtzdGF0aWNQYXRofSArICdqcy9jaHVuay12ZW5kb3JzLmI2ZTIwMGE2LmpzJ30iCg==</text>
@@ -340,17 +341,16 @@
       </register>
     </registers>
     <search>
-      <last-search>p1\.png</last-search>
+      <last-search>~bootstrap\/</last-search>
       <last-offset />
-      <last-pattern>p1\.png</last-pattern>
+      <last-pattern>~bootstrap\/</last-pattern>
       <last-replace>p1\.jpg</last-replace>
-      <last-substitute>p1\.png</last-substitute>
+      <last-substitute>~bootstrap\/</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>true</entry>
         <entry>401</entry>
         <entry>302</entry>
         <entry>305</entry>
@@ -370,12 +370,14 @@
         <entry>case1</entry>
         <entry>p1</entry>
         <entry>p1\.png</entry>
+        <entry>~bootstrap\/</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
         <entry encoding="base64">JXMvPFwvYWE+LzxcYT4vZw==</entry>
         <entry>%s/####/#/g</entry>
         <entry>%s/p1\.png/p1\.jpg/g</entry>
+        <entry>%s/~bootstrap\//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
