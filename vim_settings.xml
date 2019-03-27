@@ -116,6 +116,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
+      <file name="E:/zmn-h5/README.md" timestamp="1553652536859">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+      </file>
       <file name="E:/站群/中央空调3版 - 不用vue/src/index.js" timestamp="1553571898894">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="25" />
@@ -238,9 +244,14 @@
         <mark key="^" line="8516" column="18" />
         <mark key="." line="8520" column="0" />
       </file>
+      <file name="E:/zmn-h5/test.js" timestamp="1553652188031">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="23" filename="E:/站群/防水2版 - 参考雨停防水 - www.cqytfs.com/template/index.html" />
       <jump line="275" column="23" filename="E:/站群/防水2版 - 参考雨停防水 - www.cqytfs.com/template/index.html" />
       <jump line="300" column="23" filename="E:/站群/防水2版 - 参考雨停防水 - www.cqytfs.com/template/index.html" />
       <jump line="325" column="23" filename="E:/站群/防水2版 - 参考雨停防水 - www.cqytfs.com/template/index.html" />
@@ -340,13 +351,14 @@
       <jump line="89" column="11" filename="E:/zmn-h5/中央空调3版 - 不用vue/template/index.html" />
       <jump line="263" column="26" filename="E:/zmn-h5/中央空调3版 - 不用vue/src/scss/custom.scss" />
       <jump line="59" column="29" filename="E:/zmn-h5/中央空调3版 - 不用vue/dist/list.html" />
+      <jump line="2" column="0" filename="E:/zmn-h5/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>123</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>123</text>
+        <text>ele</text>
       </register>
       <register name="/" type="4">
         <text>news</text>
@@ -355,31 +367,50 @@
         <text encoding="base64">ICAgICJidWlsZCI6ICJ3ZWJwYWNrIC0tY29uZmlnIHdlYnBhY2suY29uZmlnLmpzIC0td2F0Y2giCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJpIjogIl4wLjMuNiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDEyMzEyMzEyCg==</text>
+        <text encoding="base64">YAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWx0PSIiCg==</text>
+      <register name="5" type="4">
+        <text>```$xslt
+─.config
+│  └─configstore
+├─.dubbo
+├─.gem
+│  └─specs
+│      ├─gems.ruby-china.org%443
+│      ├─ruby.taobao.org%443
+│      ├─ruby.taobao.org%80
+│      └─rubygems.org%443
+├─.IntelliJIdea2018.3
+│  ├─config
+│  │  ├─chrome-user-data-54765
+│  │  │  ├─BrowserMetrics
+│  │  │  ├─CertificateRevocation
+│  │  │  │  └─5024
+│  │  │  │      └─_metadata
+│  │  │  ├─CertificateTransparency
+│  │  │  │  └─1057
+``</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2LWZvcj0iaXRlbSBpbiAzIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6a2V5PSJpdGVtIgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">Ky0tIF9jb25maWcueW1sCistLSBfZHJhZnRzCnwgICArLS0gYmVnaW4td2l0aC10aGUtY3JhenktaWRlYXMudGV4dGlsZQp8ICAgKy0tIG9uLXNpbXBsaWNpdHktaW4tdGVjaG5vbG9neS5tYXJrZG93bgorLS0gX2luY2x1ZGVzCnwgICArLS0gZm9vdGVyLmh0bWwKfCAgICstLSBoZWFkZXIuaHRtbAorLS0gX2xheW91dHMKfCAgICstLSBkZWZhdWx0Lmh0bWwKfCAgICstLSBwb3N0Lmh0bWwKKy0tIF9wb3N0cwp8ICAgKy0tIDIwMDctMTAtMjktd2h5LWV2ZXJ5LXByb2dyYW1tZXItc2hvdWxkLXBsYXktbmV0aGFjay50ZXh0aWxlCnwgICArLS0gMjAwOS0wNC0yNi1iYXJjYW1wLWJvc3Rvbi00LXJvdW5kdXAudGV4dGlsZQorLS0gX2RhdGEKfCAgICstLSBtZW1iZXJzLnltbAorLS0gX3NpdGUKKy0tIGluZGV4Lmh0bWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6a2V5PSJpdGVtIgo=</text>
+        <text encoding="base64">Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgOmNsYXNzPSJ7IGFjdGl2ZTogY3VycmVudEl0ZW1DYXRlID09PSBpdGVtfSIK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/p1\.png/p1\.jpg/g</text>
