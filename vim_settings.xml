@@ -52,8 +52,6 @@
       <file name="/JavaScript Console" timestamp="1553680855261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/zmn-h5/src/防水2版 - 参考雨停防水 - www.cqytfs.com/template/list.html" timestamp="1553693868113" />
-      <file name="E:/zmn-h5/src/中央空调3版 - 不用vue/template/list.html" timestamp="1553692676054" />
       <file name="E:/zmn-h5/src/工控2版 - 参考东浩联创 - www.donhonet.net/src/App.vue" timestamp="1553667607744">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
@@ -110,6 +108,12 @@
         <mark key="." line="20" column="185" />
         <mark key="^" line="20" column="185" />
       </file>
+      <file name="E:/zmn-h5/tpl/111/style/custom.css" timestamp="1553697968924">
+        <mark key="[" line="8324" column="3" />
+        <mark key="]" line="8326" column="16" />
+        <mark key="^" line="8326" column="16" />
+        <mark key="." line="8326" column="16" />
+      </file>
       <file name="E:/zmn-h5/src/工控2版 - 参考东浩联创 - www.donhonet.net/src/pages/Home.vue" timestamp="1553689830515">
         <mark key="'" line="271" column="16" />
       </file>
@@ -138,11 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="69" filename="E:/站群/中央空调3版 - 不用vue/src/scss/custom.scss" />
-      <jump line="138" column="71" filename="E:/站群/中央空调3版 - 不用vue/src/scss/custom.scss" />
-      <jump line="163" column="12" filename="E:/站群/中央空调3版 - 不用vue/src/scss/custom.scss" />
-      <jump line="187" column="73" filename="E:/站群/中央空调3版 - 不用vue/src/scss/custom.scss" />
-      <jump line="357" column="24" filename="E:/站群/中央空调3版 - 不用vue/src/scss/custom.scss" />
       <jump line="7095" column="21" filename="E:/站群/中央空调3版 - 不用vue/dist/style/custom.css" />
       <jump line="74" column="23" filename="E:/站群/中央空调3版 - 不用vue/src/scss/custom.scss" />
       <jump line="319" column="24" filename="E:/站群/中央空调3版 - 不用vue/src/scss/custom.scss" />
@@ -238,6 +237,11 @@
       <jump line="83" column="29" filename="E:/zmn-h5/src/防水2版 - 参考雨停防水 - www.cqytfs.com/template/index.html" />
       <jump line="191" column="8" filename="E:/zmn-h5/template/112/index.html" />
       <jump line="300" column="24" filename="E:/zmn-h5/src/防水2版 - 参考雨停防水 - www.cqytfs.com/template/index.html" />
+      <jump line="9" column="18" filename="E:/zmn-h5/tpl/111/style/custom.css" />
+      <jump line="254" column="2" filename="E:/zmn-h5/tpl/111/style/custom.css" />
+      <jump line="386" column="2" filename="E:/zmn-h5/tpl/111/style/custom.css" />
+      <jump line="453" column="17" filename="E:/zmn-h5/tpl/111/style/custom.css" />
+      <jump line="7051" column="11" filename="E:/zmn-h5/tpl/111/style/custom.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -247,7 +251,7 @@
         <text>${telphone}</text>
       </register>
       <register name="/" type="4">
-        <text>80</text>
+        <text>960px</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tILf+zvHP7sS/LcHQse3P7i3NvLHqIC0tPgo=</text>
@@ -284,9 +288,9 @@
       </register>
     </registers>
     <search>
-      <last-search>80</last-search>
+      <last-search>960px</last-search>
       <last-offset />
-      <last-pattern>80</last-pattern>
+      <last-pattern>960px</last-pattern>
       <last-replace>p1\.jpg</last-replace>
       <last-substitute>~bootstrap\/</last-substitute>
       <last-dir>1</last-dir>
@@ -294,8 +298,6 @@
     </search>
     <history>
       <history-search>
-        <entry>png</entry>
-        <entry>images</entry>
         <entry>each</entry>
         <entry>成功案例</entry>
         <entry>case-img</entry>
@@ -314,6 +316,8 @@
         <entry>nav-outer</entry>
         <entry>75</entry>
         <entry>80</entry>
+        <entry>max-width</entry>
+        <entry>960px</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
