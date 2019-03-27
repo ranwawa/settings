@@ -4,7 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="E:/zmn-h5/src/防水2版 - 参考雨停防水 - www.cqytfs.com/template/index.html" timestamp="1553671754249" />
-      <file name="E:/zmn-h5/src/中央空调3版 - 不用vue/template/index.html" timestamp="1553667371418" />
+      <file name="E:/zmn-h5/src/中央空调3版 - 不用vue/template/index.html" timestamp="1553672558309">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="56" column="0" />
+      </file>
       <file name="E:/zmn-h5/src/工控2版 - 参考东浩联创 - www.donhonet.net/src/assets/scss/_custom.scss" timestamp="1553668446464" />
       <file name="E:/zmn-h5/src/112/src/index.html" timestamp="1553667963298">
         <mark key="'" line="346" column="0" />
@@ -179,12 +182,12 @@
         <mark key="^" line="53" column="101" />
         <mark key="." line="53" column="79" />
       </file>
-      <file name="E:/zmn-h5/src/112/src/assets/scss/custom.scss" timestamp="1553669295310">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="5" />
-        <mark key="^" line="13" column="5" />
-        <mark key="." line="13" column="5" />
+      <file name="E:/zmn-h5/src/112/src/assets/scss/custom.scss" timestamp="1553672678610">
+        <mark key="'" line="108" column="5" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="E:/站群/.gitignore" timestamp="1553260728467">
         <mark key="[" line="2" column="5" />
@@ -220,12 +223,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="E:/zmn-h5/template/112/index.html" timestamp="1553672253780">
+      <file name="E:/zmn-h5/template/112/index.html" timestamp="1553673036226">
         <mark key="'" line="44" column="55" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="31" column="11" />
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="68" />
+        <mark key="." line="25" column="44" />
+        <mark key="^" line="78" column="15" />
       </file>
       <file name="E:/站群/中央空调3版 - 不用vue/src/index.html" timestamp="1553522487343">
         <mark key="[" line="8" column="37" />
@@ -273,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="416" column="26" filename="E:/站群/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
       <jump line="9" column="11" filename="E:/站群/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
       <jump line="20" column="6" filename="E:/站群/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
       <jump line="31" column="6" filename="E:/站群/中央空调2版 - 参考易百讯 - www.yibaixun.com/src/pages/Home.vue" />
@@ -373,46 +375,47 @@
       <jump line="48" column="34" filename="E:/zmn-h5/template/112/index.html" />
       <jump line="49" column="9" filename="E:/zmn-h5/template/112/index.html" />
       <jump line="44" column="55" filename="E:/zmn-h5/template/112/index.html" />
+      <jump line="125" column="5" filename="E:/zmn-h5/src/112/src/assets/scss/custom.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLSC59ravzbwgLS0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG9uY2xpY2s9InNob3dOYXZMaXN0KCki</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e3sgaXRlbSB9fSA=</text>
+        <text encoding="base64">IG9uY2xpY2s9InNob3dOYXZMaXN0KCki</text>
       </register>
       <register name="/" type="4">
         <text>-outer</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iIyMjIyIgY2xhc3M9Im5hdi10YWIiID57eyBpdGVtIH19IDwvYT4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">PCEtLSC59ravzbwgLS0+CjxkaXYgaWQ9ImNhcm91c2VsRXhhbXBsZUluZGljYXRvcnMiIGNsYXNzPSJjYXJvdXNlbCBzbGlkZSIgZGF0YS1yaWRlPSJjYXJvdXNlbCI+CiAgPCEtLSC59ravzbzWuMq+xvcgLS0+CiAgPG9sIGNsYXNzPSJjYXJvdXNlbC1pbmRpY2F0b3JzIj4KICAgIDxsaSBkYXRhLXRhcmdldD0iI2Nhcm91c2VsRXhhbXBsZUluZGljYXRvcnMiIHRoOmRhdGEtc2xpZGUtdG89IiR7aXRlci5pbmRleH0iIGNsYXNzPSJhY3RpdmUiIHRoOmVhY2g9Iml0ZW0saXRlcjoke2luZGV4X2ZvY3VzfSI+PC9saT4KICA8L29sPgogIDwhLS0gufa2r828zbzGrCAtLT4KICA8ZGl2IGNsYXNzPSJjYXJvdXNlbC1pbm5lciI+CiAgICA8ZGl2IGNsYXNzPSJjYXJvdXNlbC1pdGVtIGFjdGl2ZSIgdGg6ZWFjaD0iaXRlbSxpdGVyOiR7aW5kZXhfZm9jdXN9Ij4KICAgICAgPGltZyBjbGFzcz0iZC1ibG9jayB3LTEwMCIgdGg6c3JjPSJAeyR7aW1hZ2VQYXRofSArICR7aXRlbS5pbWdTcmN9fSIgYWx0PSJGaXJzdCBzbGlkZSI+CiAgICA8L2Rpdj4KICA8L2Rpdj4KICA8IS0tILn2tq/NvNfz09K3rdKzsLTFpSAtLT4KICA8YSBjbGFzcz0iY2Fyb3VzZWwtY29udHJvbC1wcmV2IiBocmVmPSIjY2Fyb3VzZWxFeGFtcGxlSW5kaWNhdG9ycyIgcm9sZT0iYnV0dG9uIiBkYXRhLXNsaWRlPSJwcmV2Ij4KICAgIDxzcGFuIGNsYXNzPSJjYXJvdXNlbC1jb250cm9sLXByZXYtaWNvbiIgYXJpYS1oaWRkZW49InRydWUiPjwvc3Bhbj4KICAgIDxzcGFuIGNsYXNzPSJzci1vbmx5Ij5QcmV2aW91czwvc3Bhbj4KICA8L2E+CiAgPGEgY2xhc3M9ImNhcm91c2VsLWNvbnRyb2wtbmV4dCIgaHJlZj0iI2Nhcm91c2VsRXhhbXBsZUluZGljYXRvcnMiIHJvbGU9ImJ1dHRvbiIgZGF0YS1zbGlkZT0ibmV4dCI+CiAgICA8c3BhbiBjbGFzcz0iY2Fyb3VzZWwtY29udHJvbC1uZXh0LWljb24iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+CiAgICA8c3BhbiBjbGFzcz0ic3Itb25seSI+TmV4dDwvc3Bhbj4KICA8L2E+CjwvZGl2Pgo8</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PCEtLSC59ravzbwgLS0+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">I2FwcCB7CiAgZm9udC1mYW1pbHk6ICdBdmVuaXInLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogIC13ZWJraXQtZm9udC1zbW9vdGhpbmc6IGFudGlhbGlhc2VkOwogIC1tb3otb3N4LWZvbnQtc21vb3RoaW5nOiBncmF5c2NhbGU7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogIGNvbG9yOiAjMmMzZTUwOwp9CiNuYXYgewogIHBhZGRpbmc6IDMwcHg7CiAgYSB7CiAgICBmb250LXdlaWdodDogYm9sZDsKICAgIGNvbG9yOiAjMmMzZTUwOwogICAgJi5yb3V0ZXItbGluay1leGFjdC1hY3RpdmUgewogICAgICBjb2xvcjogIzQyYjk4MzsKICAgIH0KICB9Cn0KLw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">PCEtLSC59ravzbwgLS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBAY2xpY2s9IiRzdG9yZS5jb21taXQoJ3NldEN1cnJlbnROYXYnLCBpdGVtKSIK</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6Y2xhc3M9InthY3RpdmU6IGl0ZW0gPT09IGN1cnJlbnROYXZ9Igo=</text>
+        <text encoding="base64">PCEtLSC59ravzbwgLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6a2V5PSJpdGVtIgo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2LWZvcj0iaXRlbSBpbiBuYXZMaXN0Igo=</text>
+        <text encoding="base64">ICAgICAgICBAY2xpY2s9IiRzdG9yZS5jb21taXQoJ3NldEN1cnJlbnROYXYnLCBpdGVtKSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgOmNsYXNzPSJ7IGFjdGl2ZTogc2hvd05hdkxpc3R9Igo=</text>
+        <text encoding="base64">ICAgICAgICA6Y2xhc3M9InthY3RpdmU6IGl0ZW0gPT09IGN1cnJlbnROYXZ9Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA0MDAtMDAwMC0wMDAK</text>
+        <text encoding="base64">ICAgICAgICA6a2V5PSJpdGVtIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGltZyB0aDpzcmM9Ii8iIGNsYXNzPSJuYXYtbG9nbyIgaGVpZ2h0PSI0N3B4IiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICB2LWZvcj0iaXRlbSBpbiBuYXZMaXN0Igo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/p1\.png/p1\.jpg/g</text>
