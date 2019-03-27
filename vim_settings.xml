@@ -5,7 +5,7 @@
     <filemarks>
       <file name="E:/zmn-h5/src/中央空调3版 - 不用vue/template/index.html" timestamp="1553667371418" />
       <file name="E:/zmn-h5/src/工控2版 - 参考东浩联创 - www.donhonet.net/src/assets/scss/_custom.scss" timestamp="1553667767548" />
-      <file name="E:/zmn-h5/src/112/src/index.html" timestamp="1553667529493">
+      <file name="E:/zmn-h5/src/112/src/index.html" timestamp="1553667963298">
         <mark key="'" line="346" column="0" />
         <mark key="[" line="302" column="0" />
         <mark key="]" line="302" column="0" />
@@ -212,6 +212,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
+      <file name="E:/zmn-h5/template/112/index.html" timestamp="1553667982240">
+        <mark key="[" line="324" column="0" />
+        <mark key="]" line="324" column="0" />
+        <mark key="." line="324" column="0" />
+      </file>
       <file name="E:/站群/中央空调3版 - 不用vue/src/index.html" timestamp="1553522487343">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="8" column="51" />
@@ -361,7 +366,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -373,31 +378,31 @@
         <text>path.resolve(__dirname, '..', '..', 'template', path.parse(__dirname).base)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxyb3V0ZXItdmlldy8+Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY2Fyb3VzZWwgc2xpZGUiIGRhdGEtcmlkZT0iY2Fyb3VzZWwiPgogIDwhLS0gufa2r8281rjKvsb3IC0tPgogIDxvbCBjbGFzcz0iY2Fyb3VzZWwtaW5kaWNhdG9ycyI+CiAgICA8bGkgZGF0YS10YXJnZXQ9IiNjYXJvdXNlbEV4YW1wbGVJbmRpY2F0b3JzIiB0aDpkYXRhLXNsaWRlLXRvPSIke2l0ZXIuaW5kZXh9IiBjbGFzcz0iYWN0aXZlIiB0aDplYWNoPSJpdGVtLGl0ZXI6JHtpbmRleF9mb2N1c30iPjwvbGk+CiAgPC9vbD4KICA8IS0tILn2tq/NvM28xqwgLS0+CiAgPGRpdiBjbGFzcz0iY2Fyb3VzZWwtaW5uZXIiPgogICAgPGRpdiBjbGFzcz0iY2Fyb3VzZWwtaXRlbSBhY3RpdmUiIHRoOmVhY2g9Iml0ZW0saXRlcjoke2luZGV4X2ZvY3VzfSI+CiAgICAgIDxpbWcgY2xhc3M9ImQtYmxvY2sgdy0xMDAiIHRoOnNyYz0iQHske2ltYWdlUGF0aH0gKyAke2l0ZW0uaW1nU3JjfX0iIGFsdD0iRmlyc3Qgc2xpZGUiPgogICAgPC9kaXY+CiAgPC9kaXY+CiAgPCEtLSC59ravzbzX89PSt63Ss7C0xaUgLS0+CiAgPGEgY2xhc3M9ImNhcm91c2VsLWNvbnRyb2wtcHJldiIgaHJlZj0iI2Nhcm91c2VsRXhhbXBsZUluZGljYXRvcnMiIHJvbGU9ImJ1dHRvbiIgZGF0YS1zbGlkZT0icHJldiI+CiAgICA8c3BhbiBjbGFzcz0iY2Fyb3VzZWwtY29udHJvbC1wcmV2LWljb24iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+CiAgICA8c3BhbiBjbGFzcz0ic3Itb25seSI+UHJldmlvdXM8L3NwYW4+CiAgPC9hPgogIDxhIGNsYXNzPSJjYXJvdXNlbC1jb250cm9sLW5leHQiIGhyZWY9IiNjYXJvdXNlbEV4YW1wbGVJbmRpY2F0b3JzIiByb2xlPSJidXR0b24iIGRhdGEtc2xpZGU9Im5leHQiPgogICAgPHNwYW4gY2xhc3M9ImNhcm91c2VsLWNvbnRyb2wtbmV4dC1pY29uIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPgogICAgPHNwYW4gY2xhc3M9InNyLW9ubHkiPk5leHQ8L3NwYW4+CiAgPC9hPgo8L2Rpdj4KPA==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">PAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxyb3V0ZXItdmlldy8+Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY2Fyb3VzZWwgc2xpZGUiIGRhdGEtcmlkZT0iY2Fyb3VzZWwiPgogIDwhLS0gufa2r8281rjKvsb3IC0tPgogIDxvbCBjbGFzcz0iY2Fyb3VzZWwtaW5kaWNhdG9ycyI+CiAgICA8bGkgZGF0YS10YXJnZXQ9IiNjYXJvdXNlbEV4YW1wbGVJbmRpY2F0b3JzIiB0aDpkYXRhLXNsaWRlLXRvPSIke2l0ZXIuaW5kZXh9IiBjbGFzcz0iYWN0aXZlIiB0aDplYWNoPSJpdGVtLGl0ZXI6JHtpbmRleF9mb2N1c30iPjwvbGk+CiAgPC9vbD4KICA8IS0tILn2tq/NvM28xqwgLS0+CiAgPGRpdiBjbGFzcz0iY2Fyb3VzZWwtaW5uZXIiPgogICAgPGRpdiBjbGFzcz0iY2Fyb3VzZWwtaXRlbSBhY3RpdmUiIHRoOmVhY2g9Iml0ZW0saXRlcjoke2luZGV4X2ZvY3VzfSI+CiAgICAgIDxpbWcgY2xhc3M9ImQtYmxvY2sgdy0xMDAiIHRoOnNyYz0iQHske2ltYWdlUGF0aH0gKyAke2l0ZW0uaW1nU3JjfX0iIGFsdD0iRmlyc3Qgc2xpZGUiPgogICAgPC9kaXY+CiAgPC9kaXY+CiAgPCEtLSC59ravzbzX89PSt63Ss7C0xaUgLS0+CiAgPGEgY2xhc3M9ImNhcm91c2VsLWNvbnRyb2wtcHJldiIgaHJlZj0iI2Nhcm91c2VsRXhhbXBsZUluZGljYXRvcnMiIHJvbGU9ImJ1dHRvbiIgZGF0YS1zbGlkZT0icHJldiI+CiAgICA8c3BhbiBjbGFzcz0iY2Fyb3VzZWwtY29udHJvbC1wcmV2LWljb24iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+CiAgICA8c3BhbiBjbGFzcz0ic3Itb25seSI+UHJldmlvdXM8L3NwYW4+CiAgPC9hPgogIDxhIGNsYXNzPSJjYXJvdXNlbC1jb250cm9sLW5leHQiIGhyZWY9IiNjYXJvdXNlbEV4YW1wbGVJbmRpY2F0b3JzIiByb2xlPSJidXR0b24iIGRhdGEtc2xpZGU9Im5leHQiPgogICAgPHNwYW4gY2xhc3M9ImNhcm91c2VsLWNvbnRyb2wtbmV4dC1pY29uIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPgogICAgPHNwYW4gY2xhc3M9InNyLW9ubHkiPk5leHQ8L3NwYW4+CiAgPC9hPgo8L2Rpdj4KPA==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">PGItY2Fyb3VzZWwKICBjb250cm9scwogIGluZGljYXRvcnMKICA6aW1nLXdpZHRoPSIxOTgwIgogIDppbWctaGVpZ2h0PSI0MDAiCj4KICA8Yi1jYXJvdXNlbC1zbGlkZQogICAgaW1nLXNyYz0iaW1hZ2VzL2Jhbm5lci5qcGciCiAgPjwvYi1jYXJvdXNlbC1zbGlkZT4KICA8IS0tICAgICAgPGItY2Fyb3VzZWwtc2xpZGUgaW1nLXNyYz0iaHR0cHM6Ly9waWNzdW0ucGhvdG9zLzEwMjQvNDgwLz9pbWFnZT0xMiI+PC9iLWNhcm91c2VsLXNsaWRlPi0tPgogIDwhLS0gICAgICA8Yi1jYXJvdXNlbC1zbGlkZSBpbWctc3JjPSJodHRwczovL3BpY3N1bS5waG90b3MvMTAyNC80ODAvP2ltYWdlPTIyIj48L2ItY2Fyb3VzZWwtc2xpZGU+LS0+CjwvYi1jYXJvdXNlbD4KPHJvdXRlci12aWV3Lz4=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICA8bWV0YSBuYW1lPaGxZGVzY3JpcHRpb26hsSBjb250ZW50PaGxxOO1xMPoyvbE2sjdobE+CiAgPG1ldGEgbmFtZT2hsWtleXdvcmShsSBjb250ZW50PaGxudi8/NfWMaOsudi8/NfWMqOsoaqhsD4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PCEtLSDX1Lao0uW9xbG+IC0tPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHRoOmlubGluZT0iamF2YXNjcmlwdCI+CiAgY29uc3QgYSA9IFtbJHtpbmRleF9zZXJ2aWNlX2xhYmVsfV1dOwogIGNvbnNvbGUubG9nKGEpOwo8L3NjcmlwdD4K</text>
+        <text encoding="base64">PCEtLSDX1Lao0uW9xbG+IC0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/p1\.png/p1\.jpg/g</text>
