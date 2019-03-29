@@ -25,12 +25,12 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/my-project/build/webpack.dev.conf.js" timestamp="1553827908621" />
-      <file name="E:/zmn-h5/tpl/110/list.html" timestamp="1553761930795">
-        <mark key="'" line="136" column="74" />
-        <mark key="[" line="81" column="23" />
-        <mark key="]" line="82" column="30" />
-        <mark key="." line="82" column="30" />
-        <mark key="^" line="82" column="30" />
+      <file name="E:/zmn-h5/tpl/110/list.html" timestamp="1553830268634">
+        <mark key="'" line="52" column="37" />
+        <mark key="[" line="135" column="43" />
+        <mark key="]" line="135" column="43" />
+        <mark key="." line="135" column="43" />
+        <mark key="^" line="135" column="43" />
       </file>
       <file name="E:/zmn-h5/tpl/110/config.json" timestamp="1553778048520">
         <mark key="[" line="18" column="167" />
@@ -116,13 +116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="E:/zmn-h5/src/components/carousel-bootstrap/index.html" />
-      <jump line="25" column="0" filename="E:/zmn-h5/src/components/carousel-bootstrap/index.html" />
-      <jump line="13" column="27" filename="E:/zmn-h5/src/112/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="221" column="0" filename="E:/zmn-h5/src/112/node_modules/bootstrap/scss/_variables.scss" />
-      <jump line="8542" column="26" filename="E:/zmn-h5/tpl/110/style/custom.css" />
-      <jump line="14" column="17" filename="E:/zmn-h5/tpl/111/style/custom.css" />
-      <jump line="162" column="20" filename="E:/zmn-h5/tpl/110/index.html" />
       <jump line="163" column="11" filename="E:/zmn-h5/tpl/110/index.html" />
       <jump line="166" column="12" filename="E:/zmn-h5/tpl/110/index.html" />
       <jump line="185" column="35" filename="E:/zmn-h5/tpl/110/index.html" />
@@ -216,16 +209,23 @@
       <jump line="8601" column="12" filename="E:/zmn-h5/tpl/110/style/custom.css" />
       <jump line="133" column="28" filename="E:/zmn-h5/tpl/110/index.html" />
       <jump line="165" column="4" filename="E:/zmn-h5/tpl/110/style/custom.css" />
+      <jump line="13" column="13" filename="E:/zmn-h5/tpl/110/list.html" />
+      <jump line="29" column="12" filename="E:/zmn-h5/tpl/110/list.html" />
+      <jump line="30" column="11" filename="E:/zmn-h5/tpl/110/list.html" />
+      <jump line="31" column="11" filename="E:/zmn-h5/tpl/110/list.html" />
+      <jump line="47" column="21" filename="E:/zmn-h5/tpl/110/list.html" />
+      <jump line="50" column="37" filename="E:/zmn-h5/tpl/110/list.html" />
+      <jump line="52" column="37" filename="E:/zmn-h5/tpl/110/list.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>.case-cate-item.active</text>
+        <text>href</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">LmVudHJ5LWl0ZW0gPiAudGltZQ==</text>
@@ -262,9 +262,9 @@
       </register>
     </registers>
     <search>
-      <last-search>.case-cate-item.active</last-search>
+      <last-search>href</last-search>
       <last-offset />
-      <last-pattern>.case-cate-item.active</last-pattern>
+      <last-pattern>href</last-pattern>
       <last-replace>p1\.jpg</last-replace>
       <last-substitute>~bootstrap\/</last-substitute>
       <last-dir>1</last-dir>
@@ -272,7 +272,6 @@
     </search>
     <history>
       <history-search>
-        <entry>成功案例</entry>
         <entry>telephone</entry>
         <entry>text-center</entry>
         <entry>wap-list</entry>
@@ -292,6 +291,7 @@
         <entry>行业新闻</entry>
         <entry>case-cate-item</entry>
         <entry>.case-cate-item.active</entry>
+        <entry>href</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
