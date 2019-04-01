@@ -54,11 +54,11 @@
         <mark key="." line="163" column="58" />
         <mark key="^" line="160" column="163" />
       </file>
-      <file name="E:/webpack/src/public.html" timestamp="1554109500103">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="23" />
+      <file name="E:/webpack/src/public.html" timestamp="1554111468144">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
       </file>
       <file name="E:/webpack/package.json" timestamp="1554104144002">
         <mark key="[" line="7" column="49" />
@@ -121,11 +121,12 @@
       <file name="E:/webpack/dist/main.js" timestamp="1554106469477">
         <mark key="'" line="0" column="15" />
       </file>
-      <file name="E:/zmn-h5/README.md" timestamp="1553917367232">
-        <mark key="[" line="81" column="14" />
-        <mark key="]" line="81" column="14" />
-        <mark key="^" line="61" column="27" />
-        <mark key="." line="81" column="14" />
+      <file name="E:/zmn-h5/README.md" timestamp="1554110210393">
+        <mark key="'" line="71" column="5" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/index.php" timestamp="1553855113890">
         <mark key="[" line="17" column="50" />
@@ -139,7 +140,12 @@
         <mark key="^" line="156" column="28" />
         <mark key="." line="156" column="28" />
       </file>
-      <file name="E:/zmn-h5/tpl/112/index.html" timestamp="1553854418938">
+      <file name="E:/webpack/src/public/html/header.html" timestamp="1554111234727">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="E:/zmn-h5/tpl/112/index.html" timestamp="1554110953644">
         <mark key="'" line="157" column="0" />
         <mark key="[" line="407" column="62" />
         <mark key="]" line="407" column="62" />
@@ -178,6 +184,11 @@
         <mark key="." line="624" column="0" />
         <mark key="^" line="624" column="0" />
       </file>
+      <file name="E:/webpack/src/public/html/footer.html" timestamp="1554111238427">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="60" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="E:/webpack/dist/1c42a9577efcff2b86824621055c7f67.html" timestamp="1554104297506" />
       <file name="E:/zmn-h5/tpl/110/readme.md" timestamp="1553859842979">
         <mark key="[" line="3" column="6" />
@@ -187,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="30" filename="E:/zmn-h5/tpl/110/index.html" />
       <jump line="215" column="14" filename="E:/zmn-h5/tpl/110/index.html" />
       <jump line="4" column="24" filename="E:/zmn-h5/tpl/110/index.html" />
       <jump line="5" column="46" filename="E:/zmn-h5/tpl/110/index.html" />
@@ -287,24 +297,40 @@
       <jump line="119" column="13" filename="E:/zmn-h5/tpl/112/list.html" />
       <jump line="123" column="160" filename="E:/zmn-h5/tpl/112/list.html" />
       <jump line="0" column="15" filename="E:/webpack/dist/main.js" />
+      <jump line="71" column="5" filename="E:/zmn-h5/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>header</text>
       </register>
       <register name="-" type="4">
-        <text>html-loader!</text>
+        <text>header</text>
       </register>
       <register name="/" type="4">
         <text>page</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtsb2FkZXI6ICdleHRyYWN0LWxvYWRlcid9LAo=</text>
+        <text encoding="base64">ICA8JT1yZXF1aXJlKCdodG1sLWxvYWRlciEuL3B1YmxpYy9odG1sL2hlYWRlci5odG1sJyklPgo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">PCEtLSC5q7myanO9xbG+IC0tPgo8c2NyaXB0IHRoOnNyYz0iQHske3N0YXRpY1BhdGh9ICsgJ2pzL2pxdWVyeS5taW4uanMnfSI+PC9zY3JpcHQ+CjxzY3JpcHQgdGg6c3JjPSJAeyR7c3RhdGljUGF0aH0gKyAnanMvYm9vdHN0cmFwLm1pbi5qcyd9Ij48L3NjcmlwdD4KPCEtLSDX1Lao0uW9xbG+IC0tPgo8c2NyaXB0IHRoOnNyYz0iQHske3N0YXRpY1BhdGh9ICsgJ2pzL2N1c3RvbS5qcyd9Ij48L3NjcmlwdD4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PCU9cmVxdWlyZSgnaHRtbC1sb2FkZXIhLi9wdWJsaWMvaHRtbC9oZWFkZXIuaHRtbCcpJT4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgdXNlci1zY2FsYWJsZT1ubywgaW5pdGlhbC1zY2FsZT0xLjAsIG1heGltdW0tc2NhbGU9MS4wLCBtaW5pbXVtLXNjYWxlPTEuMCI+CiAgPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJpZT1lZGdlIj4KICA8dGl0bGU+1eLKx7mrubKyv7fWPC90aXRsZT4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PGhyZWY+PC9ocmVmPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PGhlYWRlcj48L2hlYWRlcj4K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>rules:[
       {
         test: /\.html$/,
@@ -312,26 +338,11 @@
       }
     ],</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ayAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2U6IFsKICAgICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRtCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHsKICAgICAgICB0ZXN0Oi9cLmh0bWwkLywKICAgICAgICB1c2U6WwogICAgICAgICAgewogICAgICAgICAgICBsb2FkZXI6ICdmaWxlLWxvYWRlcicsCiAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICBuYW1lOiAnW25hbWVdLmh0bWwnCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIGxvYWRlcjogJ2V4dHJhY3QtbG9hZGVyJywKICAgICAgICAgIH0sCiAgICAgICAgICAgewogICAgICAgICAgICBsb2FkZXI6J2h0bWwtbG9hZGVyJywKICAgICAgICAgICAgb3B0aW9uczp7CiAgICAgICAgICAgICAgYXR0cnM6ZmFsc2UsCiAgICAgICAgICAgICAgaW50ZXJwb2xhdGU6dHJ1ZSwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgXSwKICAgICAgfSwKICAg</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">PCU9IHJlcXVpcmUoJ3JhdyEuL2hvbWUuaHRtbCcpJT4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">JHtyZXF1aXJlKCdyYXchLi9ob21lLmh0bWwnKX0K</text>
+        <text encoding="base64">ICAgICAgICB1c2U6IFsKICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/p1\.png/p1\.jpg/g</text>
