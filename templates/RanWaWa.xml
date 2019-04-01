@@ -5,7 +5,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="html-page-normal" value="&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;  &lt;!-- 公共头部 --&gt;&#10;  &lt;%=require('html-loader!./public/html/header.html')%&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;div id=&quot;app&quot;&gt;&#10;&#10;&lt;/div&gt;&#10;&lt;footer&gt;&lt;/footer&gt;&#10;&lt;!-- 公共尾部 --&gt;&#10;&lt;%=require('html-loader!./public/html/footer.html')%&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="html-page-normal" value="&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;  &lt;!-- 公共头部 --&gt;&#10;  &lt;%=require('html-loader!./public/html/header.html')%&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;div id=&quot;app&quot;&gt;&#10;&#10;&lt;/div&gt;&#10;&lt;footer&gt;&lt;/footer&gt;&#10;&lt;!-- 公共尾部 --&gt;&#10;&lt;%=require('html-loader!./public/html/footer.html')%&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
