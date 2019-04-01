@@ -54,14 +54,14 @@
         <mark key="." line="163" column="58" />
         <mark key="^" line="160" column="163" />
       </file>
-      <file name="E:/webpack/src/public.html" timestamp="1554111468144">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="7" />
+      <file name="E:/webpack/src/public.html" timestamp="1554113075632">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
       </file>
-      <file name="E:/webpack/package.json" timestamp="1554104144002">
-        <mark key="[" line="7" column="49" />
+      <file name="E:/webpack/package.json" timestamp="1554113110147">
+        <mark key="[" line="7" column="48" />
         <mark key="]" line="7" column="49" />
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="49" />
@@ -75,6 +75,12 @@
         <mark key="[" line="22" column="162" />
         <mark key="]" line="22" column="163" />
         <mark key="." line="22" column="163" />
+      </file>
+      <file name="E:/webpack/src/public/html/footer-dev.html" timestamp="1554112174447">
+        <mark key="'" line="2" column="19" />
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
       </file>
       <file name="E:/zmn-h5/tpl/110/index.html" timestamp="1553868978636">
         <mark key="[" line="265" column="52" />
@@ -92,6 +98,13 @@
         <mark key="[" line="50" column="17" />
         <mark key="]" line="50" column="17" />
         <mark key="." line="50" column="17" />
+      </file>
+      <file name="E:/webpack/src/public/html/header-dev.html" timestamp="1554112138280">
+        <mark key="'" line="9" column="52" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+        <mark key="^" line="6" column="5" />
       </file>
       <file name="E:/zmn-h5/tpl/112/config.json" timestamp="1553917526939">
         <mark key="[" line="26" column="160" />
@@ -121,6 +134,7 @@
       <file name="E:/webpack/dist/main.js" timestamp="1554106469477">
         <mark key="'" line="0" column="15" />
       </file>
+      <file name="E:/webpack/dist/index.html" timestamp="1554113086147" />
       <file name="E:/zmn-h5/README.md" timestamp="1554110210393">
         <mark key="'" line="71" column="5" />
         <mark key="[" line="14" column="11" />
@@ -198,11 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="14" filename="E:/zmn-h5/tpl/110/index.html" />
-      <jump line="4" column="24" filename="E:/zmn-h5/tpl/110/index.html" />
-      <jump line="5" column="46" filename="E:/zmn-h5/tpl/110/index.html" />
-      <jump line="81" column="4" filename="E:/zmn-h5/tpl/110/index.html" />
-      <jump line="90" column="8" filename="E:/zmn-h5/tpl/110/index.html" />
       <jump line="105" column="5" filename="E:/zmn-h5/tpl/110/index.html" />
       <jump line="108" column="4" filename="E:/zmn-h5/tpl/110/index.html" />
       <jump line="109" column="5" filename="E:/zmn-h5/tpl/110/index.html" />
@@ -298,39 +307,47 @@
       <jump line="123" column="160" filename="E:/zmn-h5/tpl/112/list.html" />
       <jump line="0" column="15" filename="E:/webpack/dist/main.js" />
       <jump line="71" column="5" filename="E:/zmn-h5/README.md" />
+      <jump line="5" column="21" filename="E:/webpack/src/public/html/header-dev.html" />
+      <jump line="1" column="0" filename="E:/webpack/src/public/html/header-dev.html" />
+      <jump line="4" column="57" filename="E:/webpack/src/public/html/header-dev.html" />
+      <jump line="9" column="52" filename="E:/webpack/src/public/html/header-dev.html" />
+      <jump line="2" column="19" filename="E:/webpack/src/public/html/footer-dev.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>header</text>
+        <text>&quot;build</text>
       </register>
       <register name="-" type="4">
-        <text>header</text>
+        <text>&quot;build</text>
       </register>
       <register name="/" type="4">
-        <text>page</text>
+        <text>th:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8JT1yZXF1aXJlKCdodG1sLWxvYWRlciEuL3B1YmxpYy9odG1sL2hlYWRlci5odG1sJyklPgo=</text>
+        <text encoding="base64">ICAgICJidWlsZCI6ICJ3ZWJwYWNrIC0tY29uZmlnIHdlYnBhY2suY29uZmlnLmpzIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLSC5q7myanO9xbG+IC0tPgo8c2NyaXB0IHRoOnNyYz0iQHske3N0YXRpY1BhdGh9ICsgJ2pzL2pxdWVyeS5taW4uanMnfSI+PC9zY3JpcHQ+CjxzY3JpcHQgdGg6c3JjPSJAeyR7c3RhdGljUGF0aH0gKyAnanMvYm9vdHN0cmFwLm1pbi5qcyd9Ij48L3NjcmlwdD4KPCEtLSDX1Lao0uW9xbG+IC0tPgo8c2NyaXB0IHRoOnNyYz0iQHske3N0YXRpY1BhdGh9ICsgJ2pzL2N1c3RvbS5qcyd9Ij48L3NjcmlwdD4K</text>
+        <text encoding="base64">PCEtLTwlPXJlcXVpcmUoJ2h0bWwtbG9hZGVyIS4vcHVibGljL2h0bWwvJyArIHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAncHJvZHVjdGlvbicgPyAnZm9vdGVyLXByby5odG1sJyA6ICdmb290ZXItZGV2Lmh0bWwnKSU+LS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCU9cmVxdWlyZSgnaHRtbC1sb2FkZXIhLi9wdWJsaWMvaHRtbC9oZWFkZXIuaHRtbCcpJT4K</text>
+        <text encoding="base64">PCEtLSC5q7myanO9xbG+IC0tPgo8c2NyaXB0IHRoOnNyYz0iQHske3N0YXRpY1BhdGh9ICsgJ2pzL2pxdWVyeS5taW4uanMnfSI+PC9zY3JpcHQ+CjxzY3JpcHQgdGg6c3JjPSJAeyR7c3RhdGljUGF0aH0gKyAnanMvYm9vdHN0cmFwLm1pbi5qcyd9Ij48L3NjcmlwdD4KPCEtLSDX1Lao0uW9xbG+IC0tPgo8c2NyaXB0IHRoOnNyYz0iQHske3N0YXRpY1BhdGh9ICsgJ2pzL2N1c3RvbS5qcyd9Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgdXNlci1zY2FsYWJsZT1ubywgaW5pdGlhbC1zY2FsZT0xLjAsIG1heGltdW0tc2NhbGU9MS4wLCBtaW5pbXVtLXNjYWxlPTEuMCI+CiAgPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJpZT1lZGdlIj4KICA8dGl0bGU+1eLKx7mrubKyv7fWPC90aXRsZT4K</text>
+        <text encoding="base64">PCU9cmVxdWlyZSgnaHRtbC1sb2FkZXIhLi9wdWJsaWMvaHRtbC9oZWFkZXIuaHRtbCcpJT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGhyZWY+PC9ocmVmPgo=</text>
+        <text encoding="base64">ICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgdXNlci1zY2FsYWJsZT1ubywgaW5pdGlhbC1zY2FsZT0xLjAsIG1heGltdW0tc2NhbGU9MS4wLCBtaW5pbXVtLXNjYWxlPTEuMCI+CiAgPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJpZT1lZGdlIj4KICA8dGl0bGU+1eLKx7mrubKyv7fWPC90aXRsZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGhlYWRlcj48L2hlYWRlcj4K</text>
+        <text encoding="base64">PGhyZWY+PC9ocmVmPgo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">PGhlYWRlcj48L2hlYWRlcj4K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>rules:[
       {
         test: /\.html$/,
@@ -338,30 +355,24 @@
       }
     ],</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ayAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1c2U6IFsKICAgICAgICAgIH0K</text>
-      </register>
       <register name=":" type="4">
-        <text>%s/p1\.png/p1\.jpg/g</text>
+        <text>%s/th://g</text>
       </register>
     </registers>
     <search>
-      <last-search>page</last-search>
+      <last-search>th:</last-search>
       <last-offset />
-      <last-pattern>page</last-pattern>
-      <last-replace>p1\.jpg</last-replace>
-      <last-substitute>~bootstrap\/</last-substitute>
+      <last-pattern>th:</last-pattern>
+      <last-replace />
+      <last-substitute>th:</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>production-title</entry>
-        <entry>producti-title</entry>
-        <entry>product-col</entry>
         <entry>product-title</entry>
         <entry>case-item</entry>
         <entry>index_case_list</entry>
@@ -379,6 +390,9 @@
         <entry>product-item-img-cover</entry>
         <entry>index_focus</entry>
         <entry>page</entry>
+        <entry>th</entry>
+        <entry>@</entry>
+        <entry>th:</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
@@ -386,6 +400,7 @@
         <entry>%s/####/#/g</entry>
         <entry>%s/p1\.png/p1\.jpg/g</entry>
         <entry>%s/~bootstrap\//g</entry>
+        <entry>%s/th://g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
