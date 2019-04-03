@@ -8,10 +8,22 @@
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
   </action>
   <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl a" />
   </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl o" />
+  </action>
+  <action id="CloseAllToTheLeft">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl l" />
+  </action>
+  <action id="CloseAllToTheRight">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl r" />
+  </action>
+  <action id="CloseAllUnmodifiedEditors">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
+  </action>
+  <action id="CloseAllUnpinnedEditors">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl p" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
