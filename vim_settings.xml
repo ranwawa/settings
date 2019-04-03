@@ -254,12 +254,12 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="E:/webpack/src/101/webpack.config.js" timestamp="1554284671237">
-        <mark key="'" line="68" column="3" />
-        <mark key="[" line="37" column="66" />
-        <mark key="]" line="37" column="67" />
-        <mark key="." line="37" column="66" />
-        <mark key="^" line="7" column="7" />
+      <file name="E:/webpack/src/101/webpack.config.js" timestamp="1554288268027">
+        <mark key="'" line="74" column="3" />
+        <mark key="[" line="61" column="28" />
+        <mark key="]" line="61" column="28" />
+        <mark key="." line="61" column="28" />
+        <mark key="^" line="61" column="28" />
       </file>
       <file name="E:/webpack/tpl/101/index.html" timestamp="1554285528689">
         <mark key="[" line="8" column="0" />
@@ -427,17 +427,20 @@
       <jump line="68" column="3" filename="E:/webpack/src/101/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJpY29uIiB0aDpocmVmPSJAeyR7aW1hZ2VQYXRofSArICR7Y29tbW9uX2ljb24uaW1nU3JjfX0iIHR5cGU9ImltYWdlL3gtaWNvbiIvPgo=</text>
+      <register name="&quot;" type="4">
+        <text>readme.md',</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>readme.md',</text>
       </register>
       <register name="/" type="4">
         <text>footer</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCB0aDpzcmM9IkB7JHtzdGF0aWNQYXRofSArICdqcy9jb21tb24uanMnfSI+PC9zY3JpcHQ+Cg==</text>
+      <register name="0" type="4">
+        <text>{
+          from: './src/config.json',
+          to: './config.json',
+        },</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PGxpbmsgcmVsPSJpY29uIiB0aDpocmVmPSJAeyR7aW1hZ2VQYXRofSArICR7Y29tbW9uX2ljb24uaW1nU3JjfX0iIHR5cGU9ImltYWdlL3gtaWNvbiIvPgo=</text>
