@@ -137,10 +137,12 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="E:/webpack/src/scss/custom.scss" timestamp="1554271843624">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="E:/webpack/src/scss/custom.scss" timestamp="1554272612534">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="/JavaScript Console" timestamp="1554204719283">
         <mark key="[" line="0" column="0" />
@@ -212,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="5" filename="E:/zmn-h5/README.md" />
       <jump line="5" column="21" filename="E:/webpack/src/public/html/header-dev.html" />
       <jump line="1" column="0" filename="E:/webpack/src/public/html/header-dev.html" />
       <jump line="4" column="57" filename="E:/webpack/src/public/html/header-dev.html" />
@@ -312,48 +313,50 @@
       <jump line="1094" column="7" filename="E:/webpack/node_modules/bootstrap/scss/_variables.scss" />
       <jump line="100" column="5" filename="E:/webpack/node_modules/bootstrap/scss/_variables.scss" />
       <jump line="101" column="5" filename="E:/webpack/node_modules/bootstrap/scss/_variables.scss" />
+      <jump line="9" column="0" filename="E:/webpack/src/scss/custom.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QG1peGluIGd1dHRlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>transform</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>text-center</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InRleHQtY2VudGVyIiB0aDp1dGV4dD0iJHtjb21tb25fZm9vdGVyLmNvbnRlbnQgKyAnICcgKyBzaXRlLmljcH0iPgogICAgICAgIGNvbnRlbnQKICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">QG1peGluIGd1dHRlcigpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ym9keSA+IGZvb3RlciB7CiAgaGVpZ2h0OiA1MHB4Owp9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYW5zaXN0Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRleHQtc2hhZG93OiBob2ZmIHZvZmYgYmx1ciAjMDAwOwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>a:hover {
-  text-decoration: none;
+      <register name="0" type="4">
+        <text>@mixin d-flex-row {
+  display: flex;
+  align-items: center;
 }</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">QGZ1bmN0aW9uIGQtZmxleCgpIHsKICByZXR1cm46IHJlZDsKfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QG1peGluIGQtZmxleC1yb3cgewogIGRpc3BsYXk6IGZsZXg7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsKfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBAbWl4aW4gZ3V0dGVyKCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">YTpob3ZlciB7Cg==</text>
+        <text encoding="base64">QG1peGluIGd1dHRlcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ym9keSA+IGZvb3RlciB7CiAgaGVpZ2h0OiA1MHB4Owp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zaXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHRtbCxib2R5IHsKICBtYXJnaW46IDA7CiAgcGFkZGluZzogMDsKfQo=</text>
+        <text encoding="base64">ICAgIHRleHQtc2hhZG93OiBob2ZmIHZvZmYgYmx1ciAjMDAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/th://g</text>
