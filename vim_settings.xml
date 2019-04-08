@@ -3,17 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/webpack/src/components/f-nav-1/index.html" timestamp="1554689719805">
+      <file name="E:/webpack/src/components/f-nav-1/index.html" timestamp="1554694602754">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="E:/webpack/src/public/css/common.css" timestamp="1554692632165">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
+      <file name="E:/webpack/src/public/css/common.css" timestamp="1554693864012">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="E:/webpack/src/home.html" timestamp="1554098738815">
         <mark key="[" line="0" column="0" />
@@ -44,6 +43,9 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
+      <file name="E:/webpack/src/public/scss/_border.scss" timestamp="1554695439680">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/zmn-h5/tpl/110/config.json" timestamp="1554281791774">
         <mark key="[" line="22" column="162" />
         <mark key="]" line="22" column="163" />
@@ -59,11 +61,10 @@
       <file name="E:/webpack/src/101/package.json" timestamp="1554687570385">
         <mark key="'" line="12" column="21" />
       </file>
-      <file name="E:/webpack/src/components/f-nav-1/f-nav-1.scss" timestamp="1554691182303">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="13" column="15" />
+      <file name="E:/webpack/src/components/f-nav-1/f-nav-1.scss" timestamp="1554695329047">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="E:/zmn-h5/tpl/112/config.json" timestamp="1553917526939">
         <mark key="[" line="26" column="160" />
@@ -200,10 +201,10 @@
         <mark key="^" line="3" column="46" />
         <mark key="." line="3" column="46" />
       </file>
-      <file name="E:/webpack/src/101/src/main.js" timestamp="1554688088416">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="30" />
-        <mark key="." line="5" column="32" />
+      <file name="E:/webpack/src/101/src/main.js" timestamp="1554695294033">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="24" />
       </file>
       <file name="E:/webpack/src/ts/common.ts" timestamp="1554122108804">
@@ -316,11 +317,11 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="E:/webpack/src/101/webpack.config.js" timestamp="1554689094054">
+      <file name="E:/webpack/src/101/webpack.config.js" timestamp="1554693994402">
         <mark key="'" line="35" column="17" />
-        <mark key="[" line="70" column="41" />
-        <mark key="]" line="70" column="43" />
-        <mark key="." line="70" column="43" />
+        <mark key="[" line="70" column="19" />
+        <mark key="]" line="70" column="19" />
+        <mark key="." line="70" column="19" />
         <mark key="^" line="70" column="43" />
       </file>
       <file name="E:/zmn-h5/docs/README.md" timestamp="1554378668281">
@@ -336,10 +337,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/webpack/src/public/scss/_variable.scss" timestamp="1554288866625">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="0" />
+      <file name="E:/webpack/src/public/scss/_variable.scss" timestamp="1554696223870">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
       </file>
       <file name="E:/zmn-h5/src/101/package.json" timestamp="1554687562307">
         <mark key="'" line="22" column="25" />
@@ -401,6 +403,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/webpack/src/components/f-nav-1/f-nav-2.scss" timestamp="1554695398364">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -506,46 +513,44 @@
       <jump line="7" column="11" filename="E:/webpack/src/public/scss/_spacing.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBQCg==</text>
+      <register name="&quot;" type="4">
+        <text>// 卡片/控件,按下背景色</text>
       </register>
       <register name="-" type="4">
-        <text>fff</text>
+        <text>// 卡片/控件,按下背景色</text>
       </register>
       <register name="/" type="4">
         <text>p</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIHB5KDIpOwo=</text>
+        <text encoding="base64">JGJnLWRhcms6ICNmNWY1ZjU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBQCg==</text>
+        <text encoding="base64">JGxpZ2h0OiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtaW4td2lkdGg6IAo=</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyLXJpZ2h0OiA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogJGFjdGl2ZS1jb2xvcjsK</text>
       </register>
-      <register name="4" type="4">
-        <text>@media  {
-  
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgQGluY2x1ZGUgcHkoZDsKICAgICAgQGluY2x1ZGUgcHgoMik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogJHRoZW1lLWNvbG9yOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb2xvcjogcmVkOwo=</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogJHRoZW1lLWNvbG9yOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICMwMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgQGluY2x1ZGUgcHkoMik7CiAgICAgIEBpbmNsdWRlIHB4KDQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwcHggMjBweDsK</text>
+        <text encoding="base64">QGluY2x1ZGUgbWIoMik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JGE6IDE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3BhZGRpbmcvbWFyZ2lu</text>
