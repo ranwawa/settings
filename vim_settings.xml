@@ -211,12 +211,11 @@
         <mark key="." line="1" column="99" />
         <mark key="^" line="1" column="99" />
       </file>
-      <file name="E:/zmn-h5/tpl/111/list.html" timestamp="1554972400614">
+      <file name="E:/zmn-h5/tpl/111/list.html" timestamp="1554985932191">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="96" column="82" />
-        <mark key="^" line="19" column="21" />
-        <mark key="." line="93" column="0" />
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="50" column="27" />
+        <mark key="." line="50" column="27" />
       </file>
       <file name="E:/webpack/src/components/f-new-1/index.html" timestamp="1554897613093">
         <mark key="[" line="12" column="14" />
@@ -236,12 +235,12 @@
         <mark key="." line="149" column="55" />
         <mark key="^" line="149" column="55" />
       </file>
-      <file name="E:/zmn-h5/tpl/111/detail.html" timestamp="1554972391639">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="86" column="82" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="57" column="23" />
+      <file name="E:/zmn-h5/tpl/111/detail.html" timestamp="1554985922949">
+        <mark key="'" line="26" column="70" />
+        <mark key="[" line="52" column="26" />
+        <mark key="]" line="52" column="27" />
+        <mark key="." line="52" column="27" />
+        <mark key="^" line="77" column="1" />
       </file>
       <file name="E:/webpack/src/public/scss/_spacing.scss" timestamp="1554691094909">
         <mark key="'" line="7" column="11" />
@@ -482,12 +481,12 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="83" />
       </file>
-      <file name="E:/zmn-h5/tpl/111/style/custom.css" timestamp="1554982842364">
-        <mark key="'" line="65" column="18" />
-        <mark key="[" line="207" column="20" />
-        <mark key="]" line="207" column="26" />
-        <mark key="." line="207" column="26" />
-        <mark key="^" line="207" column="26" />
+      <file name="E:/zmn-h5/tpl/111/style/custom.css" timestamp="1554986477848">
+        <mark key="'" line="210" column="2" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="213" column="3" />
+        <mark key="." line="211" column="0" />
+        <mark key="^" line="194" column="23" />
       </file>
       <file name="E:/webpack/dist/public.html" timestamp="1554203221973">
         <mark key="[" line="6" column="14" />
@@ -509,9 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="48" filename="E:/kuaiyixiu/gzdtwwx/pc/index.html" />
-      <jump line="12" column="13" filename="E:/kuaiyixiu/gzdtwwx/pc/index.html" />
-      <jump line="3" column="51" filename="E:/webpack/src/components/f-tab-1/index.html" />
       <jump line="31" column="6" filename="E:/webpack/src/components/f-nav-1/f-nav-1.scss" />
       <jump line="64" column="27" filename="E:/webpack/src/components/f-nav-1/f-nav-1.scss" />
       <jump line="9" column="11" filename="E:/webpack/src/public/css/common.css" />
@@ -609,63 +605,80 @@
       <jump line="37" column="0" filename="E:/zmn-h5/tpl/111/list-new.html" />
       <jump line="57" column="34" filename="E:/zmn-h5/tpl/111/about.html" />
       <jump line="13" column="0" filename="E:/zmn-h5/tpl/111/about.html" />
+      <jump line="47" column="12" filename="E:/zmn-h5/tpl/111/detail.html" />
+      <jump line="25" column="70" filename="E:/zmn-h5/tpl/111/detail.html" />
+      <jump line="210" column="2" filename="E:/zmn-h5/tpl/111/style/custom.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2FwcCB7CiAgbWluLWhlaWdodDogY2FsYygxMDB2aCAtIDE3NXB4KTsKfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaXplXD4=</text>
+        <text>blank</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LnRvb2xzLWl0ZW0sIC50b29scy1pdGVtIHNwYW4sIC50b29scy1pdGVtIGxhYmVsIHsKICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDI1NCwgMTYzLCAyMywgLjkpICFpbXBvcnRhbnQ7Cn0K</text>
+      <register name="0" type="4">
+        <text>#udesk_frame_dialog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8g09Ky4Ao=</text>
+        <text encoding="base64">I2FwcCB7CiAgbWluLWhlaWdodDogY2FsYygxMDB2aCAtIDE3NXB4KTsKfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>/* 右侧 */
+.tools-web {
+  top: 0;
+  bottom: 0 !important;
+  height: 200px !important;
+  margin: auto !important;
+}
+.tools-item, .tools-item span, .tools-item label {
+  background-color: rgba(254, 163, 23, .9) !important;
+}
+.tools-item:hover, .tools-item:hover span, .tools-item:hover label {
+  background-color: rgba(254, 163, 23, 1) !important;
+}
+#udesk_btn {
+  display: none;
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDEyMwo=</text>
+        <text encoding="base64">QG1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDEyMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHRoOnNyYz0iQHske3N0YXRpY1BhdGh9ICsgJ2pzL2pxdWVyeS9qcXVlcnkuanMnfSI+PC9zY3JpcHQ+CiAgPHNjcmlwdCB0aDpzcmM9IkB7JHtzdGF0aWNQYXRofSArICdqcy9ib290c3RyYXAuanMnfSI+PC9zY3JpcHQ+CiAgPHNjcmlwdCB0aDpzcmM9IkB7JHtzdGF0aWNQYXRofSArICdqcy9jb21tb24uanMnfSI+PC9zY3JpcHQ+CiAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLmJvb3Rjc3MuY29tL3BvcHBlci5qcy8xLjEyLjkvdW1kL3BvcHBlci5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHRoOnNyYz0iQHske3N0YXRpY1BhdGh9ICsgJ2pzL2pxdWVyeS9qcXVlcnkuanMnfSI+PC9zY3JpcHQ+CiAgPHNjcmlwdCB0aDpzcmM9IkB7JHtzdGF0aWNQYXRofSArICdqcy9ib290c3RyYXAuanMnfSI+PC9zY3JpcHQ+CiAgPHNjcmlwdCB0aDpzcmM9IkB7JHtzdGF0aWNQYXRofSArICdqcy9jb21tb24uanMnfSI+PC9zY3JpcHQ+CiAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLmJvb3Rjc3MuY29tL3BvcHBlci5qcy8xLjEyLjkvdW1kL3BvcHBlci5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHRoOnNyYz0iQHske3N0YXRpY1BhdGh9ICsgJ2pzL2pxdWVyeS9qcXVlcnkuanMnfSI+PC9zY3JpcHQ+CiAgPHNjcmlwdCB0aDpzcmM9IkB7JHtzdGF0aWNQYXRofSArICdqcy9ib290c3RyYXAuanMnfSI+PC9zY3JpcHQ+CiAgPHNjcmlwdCB0aDpzcmM9IkB7JHtzdGF0aWNQYXRofSArICdqcy9jb21tb24uanMnfSI+PC9zY3JpcHQ+CiAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLmJvb3Rjc3MuY29tL3BvcHBlci5qcy8xLjEyLjkvdW1kL3BvcHBlci5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdGg6c3JjPSJAeyR7c3RhdGljUGF0aH0gKyAnanMvanF1ZXJ5L2pxdWVyeS5qcyd9Ij48L3NjcmlwdD4KICAgIDxzY3JpcHQgdGg6c3JjPSJAeyR7c3RhdGljUGF0aH0gKyAnanMvYm9vdHN0cmFwLmpzJ30iPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0aDpzcmM9IkB7JHtzdGF0aWNQYXRofSArICdqcy9jb21tb24uanMnfSI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uYm9vdGNzcy5jb20vcG9wcGVyLmpzLzEuMTIuOS91bWQvcG9wcGVyLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICBtYXgtd2lkdGg6IDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdGg6c3JjPSJAeyR7c3RhdGljUGF0aH0gKyAnanMvanF1ZXJ5L2pxdWVyeS5qcyd9Ij48L3NjcmlwdD4KICAgIDxzY3JpcHQgdGg6c3JjPSJAeyR7c3RhdGljUGF0aH0gKyAnanMvYm9vdHN0cmFwLmpzJ30iPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0aDpzcmM9IkB7JHtzdGF0aWNQYXRofSArICdqcy9jb21tb24uanMnfSI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uYm9vdGNzcy5jb20vcG9wcGVyLmpzLzEuMTIuOS91bWQvcG9wcGVyLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuICFpbXBvcnRhbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/nav-/tab-/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaXplXD4=</last-search>
+      <last-search>blank</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaXplXD4=</last-pattern>
+      <last-pattern>blank</last-pattern>
       <last-replace>tab-</last-replace>
       <last-substitute>nav-</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>index_adv_1</entry>
         <entry>adv_1</entry>
         <entry>index_news_list</entry>
         <entry>updateTime</entry>
@@ -685,6 +698,7 @@
         <entry encoding="base64">XDxwXD4=</entry>
         <entry encoding="base64">XDw+XD4=</entry>
         <entry encoding="base64">XDxzaXplXD4=</entry>
+        <entry>blank</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
