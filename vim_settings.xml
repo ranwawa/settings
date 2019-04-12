@@ -35,12 +35,12 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
-      <file name="E:/zmn-h5/tpl/110/list.html" timestamp="1554901175090">
-        <mark key="'" line="230" column="53" />
-        <mark key="[" line="25" column="31" />
-        <mark key="]" line="27" column="31" />
-        <mark key="." line="27" column="31" />
-        <mark key="^" line="27" column="31" />
+      <file name="E:/zmn-h5/tpl/110/list.html" timestamp="1555035703100">
+        <mark key="'" line="229" column="53" />
+        <mark key="[" line="214" column="104" />
+        <mark key="]" line="214" column="123" />
+        <mark key="." line="214" column="123" />
+        <mark key="^" line="214" column="123" />
       </file>
       <file name="E:/webpack/src/public/scss/text_.scss" timestamp="1554706932286">
         <mark key="[" line="5" column="22" />
@@ -615,8 +615,8 @@
       <jump line="182" column="11" filename="E:/zmn-h5/tpl/110/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1tdXRlZCIgdGg6dGV4dD0iJHtpdGVtLnN1bW1hcnl9IiBzdHlsZT0iaGVpZ2h0OiA2NHB4OyBvdmVyZmxvdzogaGlkZGVuOyI+1eLKx9fTvenJ3Ht7IGNhdGUgfX08L3A+LS0+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -628,49 +628,34 @@
         <text>#udesk_frame_dialog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodDogMzZweDsK</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1tdXRlZCIgdGg6dGV4dD0iJHtpdGVtLnN1bW1hcnl9IiBzdHlsZT0iaGVpZ2h0OiA2NHB4OyBvdmVyZmxvdzogaGlkZGVuOyI+1eLKx9fTvenJ3Ht7IGNhdGUgfX08L3A+LS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBodG1sCg==</text>
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogMzZweDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb2xvcjogJHh0LWRhcms7Cg==</text>
+        <text encoding="base64">ICBodG1sCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBjb2xvcjogJHh0LWRhcms7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>// 字号
 @mixin fs-18 {
   
 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIK</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2FwcCB7CiAgbWluLWhlaWdodDogY2FsYygxMDB2aCAtIDE3NXB4KTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIK</text>
       </register>
-      <register name="9" type="4">
-        <text>/* 右侧 */
-.tools-web {
-  top: 0;
-  bottom: 0 !important;
-  height: 200px !important;
-  margin: auto !important;
-}
-.tools-item, .tools-item span, .tools-item label {
-  background-color: rgba(254, 163, 23, .9) !important;
-}
-.tools-item:hover, .tools-item:hover span, .tools-item:hover label {
-  background-color: rgba(254, 163, 23, 1) !important;
-}
-#udesk_btn {
-  display: none;
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">I2FwcCB7CiAgbWluLWhlaWdodDogY2FsYygxMDB2aCAtIDE3NXB4KTsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/nav-/tab-/g</text>
