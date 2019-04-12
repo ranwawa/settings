@@ -211,11 +211,11 @@
         <mark key="." line="1" column="99" />
         <mark key="^" line="1" column="99" />
       </file>
-      <file name="E:/zmn-h5/tpl/111/list.html" timestamp="1554985932191">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="50" column="26" />
-        <mark key="]" line="50" column="27" />
-        <mark key="." line="50" column="27" />
+      <file name="E:/zmn-h5/tpl/111/list.html" timestamp="1554987681970">
+        <mark key="'" line="69" column="82" />
+        <mark key="[" line="75" column="85" />
+        <mark key="]" line="75" column="85" />
+        <mark key="." line="75" column="85" />
       </file>
       <file name="E:/webpack/src/components/f-new-1/index.html" timestamp="1554897613093">
         <mark key="[" line="12" column="14" />
@@ -450,11 +450,11 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="E:/zmn-h5/tpl/111/list-new.html" timestamp="1554972416375">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="251" column="84" />
-        <mark key="." line="248" column="0" />
+      <file name="E:/zmn-h5/tpl/111/list-new.html" timestamp="1554987693597">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="E:/webpack/src/public/scss/wap.scss" timestamp="1554122226001">
         <mark key="[" line="0" column="0" />
@@ -508,10 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="6" filename="E:/webpack/src/components/f-nav-1/f-nav-1.scss" />
-      <jump line="64" column="27" filename="E:/webpack/src/components/f-nav-1/f-nav-1.scss" />
-      <jump line="9" column="11" filename="E:/webpack/src/public/css/common.css" />
-      <jump line="8" column="0" filename="E:/webpack/src/public/css/common.css" />
       <jump line="47" column="18" filename="E:/webpack/src/components/f-resource-1/f-resource-1.scss" />
       <jump line="3" column="9" filename="E:/webpack/src/components/f-service-1/f-service-1.scss" />
       <jump line="30" column="11" filename="E:/webpack/src/components/f-service-1/f-service-1.scss" />
@@ -608,13 +604,17 @@
       <jump line="47" column="12" filename="E:/zmn-h5/tpl/111/detail.html" />
       <jump line="25" column="70" filename="E:/zmn-h5/tpl/111/detail.html" />
       <jump line="210" column="2" filename="E:/zmn-h5/tpl/111/style/custom.css" />
+      <jump line="86" column="5" filename="E:/zmn-h5/tpl/111/list.html" />
+      <jump line="69" column="82" filename="E:/zmn-h5/tpl/111/list.html" />
+      <jump line="110" column="37" filename="E:/zmn-h5/tpl/111/list-new.html" />
+      <jump line="157" column="0" filename="E:/zmn-h5/tpl/111/list-new.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2FwcCB7CiAgbWluLWhlaWdodDogY2FsYygxMDB2aCAtIDE3NXB4KTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">dGFyZ2V0PSJfYmxhbmsiIA==</text>
       </register>
       <register name="/" type="4">
         <text>blank</text>
@@ -623,9 +623,15 @@
         <text>#udesk_frame_dialog</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">I2FwcCB7CiAgbWluLWhlaWdodDogY2FsYygxMDB2aCAtIDE3NXB4KTsKfQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>/* 右侧 */
 .tools-web {
   top: 0;
@@ -643,14 +649,8 @@
   display: none;
 }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">QG1lCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">QG1lCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -659,10 +659,10 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtYXgtd2lkdGg6IDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuICFpbXBvcnRhbnQ7Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/nav-/tab-/g</text>
