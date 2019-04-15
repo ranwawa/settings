@@ -279,7 +279,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/extracthtml/index.html" timestamp="1555301399516">
+      <file name="$USER_HOME$/Desktop/extracthtml/index.html" timestamp="1555322464584">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="27" />
         <mark key="^" line="6" column="27" />
@@ -291,7 +291,7 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/extracthtml/package.json" timestamp="1555298908202">
+      <file name="$USER_HOME$/Desktop/extracthtml/package.json" timestamp="1555322104056">
         <mark key="'" line="3" column="5" />
         <mark key="[" line="17" column="9" />
         <mark key="]" line="17" column="18" />
@@ -444,8 +444,8 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" timestamp="1555299772087">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" timestamp="1555322316563">
+        <mark key="'" line="26" column="18" />
       </file>
       <file name="E:/webpack/src/components/f-carousel-1/index.html" timestamp="1554890303271">
         <mark key="[" line="1" column="94" />
@@ -502,11 +502,11 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/extracthtml/webpack.config.js" timestamp="1555301376683">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="11" column="47" />
-        <mark key="^" line="2" column="11" />
+      <file name="$USER_HOME$/Desktop/extracthtml/webpack.config.js" timestamp="1555322658585">
+        <mark key="[" line="21" column="47" />
+        <mark key="]" line="21" column="47" />
+        <mark key="." line="21" column="47" />
+        <mark key="^" line="21" column="47" />
       </file>
       <file name="E:/zmn-h5/tpl/110/readme.md" timestamp="1553859842979">
         <mark key="[" line="3" column="6" />
@@ -516,12 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8396" column="25" filename="E:/zmn-h5/tpl/110/style/custom.css" />
-      <jump line="8433" column="1" filename="E:/zmn-h5/tpl/110/style/custom.css" />
-      <jump line="8437" column="1" filename="E:/zmn-h5/tpl/110/style/custom.css" />
-      <jump line="8446" column="1" filename="E:/zmn-h5/tpl/110/style/custom.css" />
-      <jump line="8430" column="15" filename="E:/zmn-h5/tpl/110/style/custom.css" />
-      <jump line="8497" column="14" filename="E:/zmn-h5/tpl/110/style/custom.css" />
       <jump line="6509" column="1" filename="E:/zmn-h5/tpl/110/style/custom.css" />
       <jump line="6500" column="1" filename="E:/zmn-h5/tpl/110/style/custom.css" />
       <jump line="182" column="11" filename="E:/zmn-h5/tpl/110/index.html" />
@@ -601,7 +595,6 @@
       <jump line="18" column="3" filename="$USER_HOME$/Desktop/extracthtml/package.json" />
       <jump line="3" column="5" filename="$USER_HOME$/Desktop/extracthtml/package.json" />
       <jump line="46" column="0" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
-      <jump line="8" column="543" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
       <jump line="12" column="543" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
       <jump line="23" column="20" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
       <jump line="34" column="16" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
@@ -616,6 +609,13 @@
       <jump line="37" column="26" filename="E:/webpack/src/101/src/order.html" />
       <jump line="19" column="42" filename="E:/webpack/src/101/src/order.html" />
       <jump line="13" column="0" filename="E:/webpack/src/101/src/order.html" />
+      <jump line="27" column="25" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="60" column="21" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="116" column="25" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="8" column="56" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="9" column="49" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="13" column="24" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="26" column="18" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -625,7 +625,7 @@
         <text>results</text>
       </register>
       <register name="/" type="4">
-        <text>gc</text>
+        <text>async</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxvcHRpb24gdmFsdWU9ImEiPmE8L29wdGlvbj4K</text>
@@ -662,9 +662,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gc</last-search>
+      <last-search>async</last-search>
       <last-offset />
-      <last-pattern>gc</last-pattern>
+      <last-pattern>async</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -672,7 +672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>style-loader</entry>
         <entry>style</entry>
         <entry>custom</entry>
         <entry>html-loader</entry>
@@ -692,6 +691,7 @@
         <entry>attrs</entry>
         <entry>l-map</entry>
         <entry>gc</entry>
+        <entry>async</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
