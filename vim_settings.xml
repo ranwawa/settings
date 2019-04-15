@@ -388,12 +388,12 @@
         <mark key="^" line="69" column="12" />
         <mark key="." line="69" column="12" />
       </file>
-      <file name="E:/webpack/src/101/webpack.config.js" timestamp="1555299916114">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="157" column="37" />
-        <mark key="." line="143" column="0" />
+      <file name="E:/webpack/src/101/webpack.config.js" timestamp="1555326737549">
+        <mark key="'" line="211" column="4" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="21" />
       </file>
       <file name="E:/zmn-h5/tpl/111/js/common.js" timestamp="1555048733324">
         <mark key="[" line="72" column="0" />
@@ -516,9 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6500" column="1" filename="E:/zmn-h5/tpl/110/style/custom.css" />
-      <jump line="182" column="11" filename="E:/zmn-h5/tpl/110/index.html" />
-      <jump line="36" column="8" filename="E:/webpack/src/101/webpack.config.js" />
       <jump line="47" column="18" filename="E:/webpack/src/101/webpack.config.js" />
       <jump line="3" column="35" filename="E:/webpack/src/101/webpack.config.js" />
       <jump line="27" column="27" filename="E:/webpack/src/101/webpack.config.js" />
@@ -616,55 +613,70 @@
       <jump line="13" column="24" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
       <jump line="26" column="18" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
       <jump line="127" column="0" filename="E:/webpack/src/101/src/order.html" />
+      <jump line="83" column="9" filename="E:/webpack/src/101/webpack.config.js" />
+      <jump line="117" column="6" filename="E:/webpack/src/101/webpack.config.js" />
+      <jump line="217" column="4" filename="E:/webpack/src/101/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>full_name || repo.text</text>
+        <text>{
+    assets: false,
+    children: false,
+    entrypoints: false,
+    version: false,
+    hash: false,
+  }</text>
       </register>
       <register name="-" type="4">
         <text>full_name || repo.text</text>
       </register>
       <register name="/" type="4">
-        <text>img</text>
+        <text>stats</text>
       </register>
       <register name="0" type="4">
         <text>repo.description</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXJrdXA7Cg==</text>
+      <register name="1" type="4">
+        <text>{
+    assets: false,
+    children: false,
+    entrypoints: false,
+    version: false,
+    hash: false,
+  }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXJrdXA7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHZhciBtYXJrdXAgPSBgPGRpdj5yZXBvLmRlc2NyaXB0aW9uPC9kaXY+YAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CgogICAgdmFyIG1hcmt1cCA9ICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5IGNsZWFyZml4Jz4iICsKICAgICAgIjxkaXYgY2xhc3M9J3NlbGVjdDItcmVzdWx0LXJlcG9zaXRvcnlfX2F2YXRhcic+PGltZyBzcmM9JyIgKyByZXBvLm93bmVyLmF2YXRhcl91cmwgKyAiJyAvPjwvZGl2PiIgKwogICAgICAiPGRpdiBjbGFzcz0nc2VsZWN0Mi1yZXN1bHQtcmVwb3NpdG9yeV9fbWV0YSc+IiArCiAgICAgICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5X190aXRsZSc+IiArIHJlcG8uZnVsbF9uYW1lICsgIjwvZGl2PiI7CgogICAgaWYgKHJlcG8uZGVzY3JpcHRpb24pIHsKICAgICAgbWFya3VwICs9ICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5X19kZXNjcmlwdGlvbic+IiArIHJlcG8uZGVzY3JpcHRpb24gKyAiPC9kaXY+IjsKICAgIH0KCiAgICBtYXJrdXAgKz0gIjxkaXYgY2xhc3M9J3NlbGVjdDItcmVzdWx0LXJlcG9zaXRvcnlfX3N0YXRpc3RpY3MnPiIgKwogICAgICAiPGRpdiBjbGFzcz0nc2VsZWN0Mi1yZXN1bHQtcmVwb3NpdG9yeV9fZm9ya3MnPjxpIGNsYXNzPSdmYSBmYS1mbGFzaCc+PC9pPiAiICsgcmVwby5mb3Jrc19jb3VudCArICIgRm9ya3M8L2Rpdj4iICsKICAgICAgIjxkaXYgY2xhc3M9J3NlbGVjdDItcmVzdWx0LXJlcG9zaXRvcnlfX3N0YXJnYXplcnMnPjxpIGNsYXNzPSdmYSBmYS1zdGFyJz48L2k+ICIgKyByZXBvLnN0YXJnYXplcnNfY291bnQgKyAiIFN0YXJzPC9kaXY+IiArCiAgICAgICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5X193YXRjaGVycyc+PGkgY2xhc3M9J2ZhIGZhLWV5ZSc+PC9pPiAiICsgcmVwby53YXRjaGVyc19jb3VudCArICIgV2F0Y2hlcnM8L2Rpdj4iICsKICAgICAgIjwvZGl2PiIgKwogICAgICAiPC9kaXY+PC9kaXY+Ijs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">dmFyIG1hcmt1cCA9ICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5IGNsZWFyZml4Jz4iICsKICAgICAgIjxkaXYgY2xhc3M9J3NlbGVjdDItcmVzdWx0LXJlcG9zaXRvcnlfX2F2YXRhcic+PGltZyBzcmM9JyIgKyByZXBvLm93bmVyLmF2YXRhcl91cmwgKyAiJyAvPjwvZGl2PiIgKwogICAgICAiPGRpdiBjbGFzcz0nc2VsZWN0Mi1yZXN1bHQtcmVwb3NpdG9yeV9fbWV0YSc+IiArCiAgICAgICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5X190aXRsZSc+IiArIHJlcG8uZnVsbF9uYW1lICsgIjwvZGl2PiI7CgogICAgaWYgKHJlcG8uZGVzY3JpcHRpb24pIHsKICAgICAgbWFya3VwICs9ICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5X19kZXNjcmlwdGlvbic+IiArIHJlcG8uZGVzY3JpcHRpb24gKyAiPC9kaXY+IjsKICAgIH0KCiAgICBtYXJrdXAgKz0gIjxkaXYgY2xhc3M9J3NlbGVjdDItcmVzdWx0LXJlcG9zaXRvcnlfX3N0YXRpc3RpY3MnPiIgKwogICAgICAiPGRpdiBjbGFzcz0nc2VsZWN0Mi1yZXN1bHQtcmVwb3NpdG9yeV9fZm9ya3MnPjxpIGNsYXNzPSdmYSBmYS1mbGFzaCc+PC9pPiAiICsgcmVwby5mb3Jrc19jb3VudCArICIgRm9ya3M8L2Rpdj4iICsKICAgICAgIjxkaXYgY2xhc3M9J3NlbGVjdDItcmVzdWx0LXJlcG9zaXRvcnlfX3N0YXJnYXplcnMnPjxpIGNsYXNzPSdmYSBmYS1zdGFyJz48L2k+ICIgKyByZXBvLnN0YXJnYXplcnNfY291bnQgKyAiIFN0YXJzPC9kaXY+IiArCiAgICAgICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5X193YXRjaGVycyc+PGkgY2xhc3M9J2ZhIGZhLWV5ZSc+PC9pPiAiICsgcmVwby53YXRjaGVyc19jb3VudCArICIgV2F0Y2hlcnM8L2Rpdj4iICsKICAgICAgIjwvZGl2PiIgKwogICAgICAiPC9kaXY+PC9kaXY+Ijs=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICdwYWdpbmF0aW9uJzogewogICAgICAnbW9yZSc6IHRydWUsCiAgICB9LAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxvcHRpb24gdmFsdWU9InsxfSI+MTwvb3B0aW9uPgogICAgPG9wdGlvbiB2YWx1ZT0iezJ9Ij4yPC9vcHRpb24+CiAgICA8b3B0aW9uIHZhbHVlPSJ7M30iPjM8L29wdGlvbj4KICAgIDxvcHRpb24gdmFsdWU9Ins0fSI+NDwvb3B0aW9uPgogICAgPG9wdGlvbiB2YWx1ZT0iezV9Ij41PC9vcHRpb24+Cg==</text>
+        <text encoding="base64">ICAgICdwYWdpbmF0aW9uJzogewogICAgICAnbW9yZSc6IHRydWUsCiAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>img</last-search>
+      <last-search>stats</last-search>
       <last-offset />
-      <last-pattern>img</last-pattern>
+      <last-pattern>stats</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -672,7 +684,6 @@
     </search>
     <history>
       <history-search>
-        <entry>custom</entry>
         <entry>html-loader</entry>
         <entry encoding="base64">XDxpbWFnZVBhdGhcPg==</entry>
         <entry>src</entry>
@@ -692,6 +703,7 @@
         <entry>gc</entry>
         <entry>async</entry>
         <entry>img</entry>
+        <entry>stats</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
