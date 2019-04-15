@@ -438,6 +438,9 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
+      <file name="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" timestamp="1555299772087">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="E:/webpack/src/components/f-carousel-1/index.html" timestamp="1554890303271">
         <mark key="[" line="1" column="94" />
         <mark key="]" line="1" column="104" />
@@ -507,15 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="27" filename="E:/zmn-h5/tpl/111/index.html" />
-      <jump line="50" column="0" filename="E:/zmn-h5/tpl/111/detail.html" />
-      <jump line="13" column="0" filename="E:/zmn-h5/tpl/111/detail.html" />
-      <jump line="58" column="37" filename="E:/zmn-h5/tpl/111/list.html" />
-      <jump line="13" column="0" filename="E:/zmn-h5/tpl/111/list.html" />
-      <jump line="48" column="27" filename="E:/zmn-h5/tpl/111/list-new.html" />
-      <jump line="37" column="0" filename="E:/zmn-h5/tpl/111/list-new.html" />
-      <jump line="57" column="34" filename="E:/zmn-h5/tpl/111/about.html" />
-      <jump line="13" column="0" filename="E:/zmn-h5/tpl/111/about.html" />
       <jump line="47" column="12" filename="E:/zmn-h5/tpl/111/detail.html" />
       <jump line="25" column="70" filename="E:/zmn-h5/tpl/111/detail.html" />
       <jump line="210" column="2" filename="E:/zmn-h5/tpl/111/style/custom.css" />
@@ -607,6 +601,15 @@
       <jump line="4" column="9" filename="$USER_HOME$/Desktop/extracthtml/package.json" />
       <jump line="18" column="3" filename="$USER_HOME$/Desktop/extracthtml/package.json" />
       <jump line="3" column="5" filename="$USER_HOME$/Desktop/extracthtml/package.json" />
+      <jump line="46" column="0" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="8" column="543" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="12" column="543" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="23" column="20" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="34" column="16" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="42" column="51" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="77" column="24" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -616,7 +619,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>script</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGF0dHJzOiBbJzpkYXRhLWhyZWYnXSwK</text>
@@ -653,9 +656,9 @@
       </register>
     </registers>
     <search>
-      <last-search>script</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>script</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -663,11 +666,6 @@
     </search>
     <history>
       <history-search>
-        <entry>file-loader</entry>
-        <entry>ali</entry>
-        <entry encoding="base64">PCU9IA==</entry>
-        <entry encoding="base64">JT4=</entry>
-        <entry>html-loader!@</entry>
         <entry encoding="base64">XDxhXD4=</entry>
         <entry>extract-loader</entry>
         <entry>style-loader</entry>
@@ -683,6 +681,11 @@
         <entry>div</entry>
         <entry>entry</entry>
         <entry>script</entry>
+        <entry>resourcePath</entry>
+        <entry>filename</entry>
+        <entry>rwar</entry>
+        <entry>is not a function</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
