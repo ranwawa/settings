@@ -388,12 +388,10 @@
         <mark key="^" line="69" column="12" />
         <mark key="." line="69" column="12" />
       </file>
-      <file name="E:/webpack/src/101/webpack.config.js" timestamp="1555326737549">
-        <mark key="'" line="211" column="4" />
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="21" />
-        <mark key="^" line="12" column="21" />
-        <mark key="." line="12" column="21" />
+      <file name="E:/webpack/src/101/webpack.config.js" timestamp="1555328203274">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="E:/zmn-h5/tpl/111/js/common.js" timestamp="1555048733324">
         <mark key="[" line="72" column="0" />
@@ -516,7 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="18" filename="E:/webpack/src/101/webpack.config.js" />
       <jump line="3" column="35" filename="E:/webpack/src/101/webpack.config.js" />
       <jump line="27" column="27" filename="E:/webpack/src/101/webpack.config.js" />
       <jump line="12" column="16" filename="E:/webpack/src/101/webpack.config.js" />
@@ -616,19 +613,24 @@
       <jump line="83" column="9" filename="E:/webpack/src/101/webpack.config.js" />
       <jump line="117" column="6" filename="E:/webpack/src/101/webpack.config.js" />
       <jump line="217" column="4" filename="E:/webpack/src/101/webpack.config.js" />
+      <jump line="14" column="3" filename="E:/webpack/src/101/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-    assets: false,
-    children: false,
-    entrypoints: false,
-    version: false,
-    hash: false,
-  }</text>
+        <text>const threadLoader = require('thread-loader');
+
+threadLoader.warmup({
+  // pool options, like passed to loader options
+  // must match loader options to boot the correct pool
+}, [
+  // modules to load
+  // can be any module, i. e.
+  'sass-loader',
+  'css-loader'
+]);</text>
       </register>
       <register name="-" type="4">
-        <text>full_name || repo.text</text>
+        <text>errors-only</text>
       </register>
       <register name="/" type="4">
         <text>stats</text>
@@ -637,37 +639,50 @@
         <text>repo.description</text>
       </register>
       <register name="1" type="4">
-        <text>{
-    assets: false,
-    children: false,
-    entrypoints: false,
-    version: false,
-    hash: false,
-  }</text>
+        <text>const threadLoader = require('thread-loader');
+
+threadLoader.warmup({
+  // pool options, like passed to loader options
+  // must match loader options to boot the correct pool
+}, [
+  // modules to load
+  // can be any module, i. e.
+  'sass-loader',
+  'css-loader'
+]);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXJrdXA7Cg==</text>
+        <text encoding="base64">ICAnaHRtbC1sb2FkZXInLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>const threadLoader = require('thread-loader');
+
+threadLoader.warmup({
+  // pool options, like passed to loader options
+  // must match loader options to boot the correct pool
+}, [
+  // modules to load
+  // can be any module, i. e.
+  'sass-loader',
+]);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBtYXJrdXAgPSBgPGRpdj5yZXBvLmRlc2NyaXB0aW9uPC9kaXY+YAo=</text>
+        <text encoding="base64">ICAnaHRtbC1sb2FkZXInLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgogICAgdmFyIG1hcmt1cCA9ICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5IGNsZWFyZml4Jz4iICsKICAgICAgIjxkaXYgY2xhc3M9J3NlbGVjdDItcmVzdWx0LXJlcG9zaXRvcnlfX2F2YXRhcic+PGltZyBzcmM9JyIgKyByZXBvLm93bmVyLmF2YXRhcl91cmwgKyAiJyAvPjwvZGl2PiIgKwogICAgICAiPGRpdiBjbGFzcz0nc2VsZWN0Mi1yZXN1bHQtcmVwb3NpdG9yeV9fbWV0YSc+IiArCiAgICAgICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5X190aXRsZSc+IiArIHJlcG8uZnVsbF9uYW1lICsgIjwvZGl2PiI7CgogICAgaWYgKHJlcG8uZGVzY3JpcHRpb24pIHsKICAgICAgbWFya3VwICs9ICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5X19kZXNjcmlwdGlvbic+IiArIHJlcG8uZGVzY3JpcHRpb24gKyAiPC9kaXY+IjsKICAgIH0KCiAgICBtYXJrdXAgKz0gIjxkaXYgY2xhc3M9J3NlbGVjdDItcmVzdWx0LXJlcG9zaXRvcnlfX3N0YXRpc3RpY3MnPiIgKwogICAgICAiPGRpdiBjbGFzcz0nc2VsZWN0Mi1yZXN1bHQtcmVwb3NpdG9yeV9fZm9ya3MnPjxpIGNsYXNzPSdmYSBmYS1mbGFzaCc+PC9pPiAiICsgcmVwby5mb3Jrc19jb3VudCArICIgRm9ya3M8L2Rpdj4iICsKICAgICAgIjxkaXYgY2xhc3M9J3NlbGVjdDItcmVzdWx0LXJlcG9zaXRvcnlfX3N0YXJnYXplcnMnPjxpIGNsYXNzPSdmYSBmYS1zdGFyJz48L2k+ICIgKyByZXBvLnN0YXJnYXplcnNfY291bnQgKyAiIFN0YXJzPC9kaXY+IiArCiAgICAgICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5X193YXRjaGVycyc+PGkgY2xhc3M9J2ZhIGZhLWV5ZSc+PC9pPiAiICsgcmVwby53YXRjaGVyc19jb3VudCArICIgV2F0Y2hlcnM8L2Rpdj4iICsKICAgICAgIjwvZGl2PiIgKwogICAgICAiPC9kaXY+PC9kaXY+Ijs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAnc3R5bGUtbG9hZGVyJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAnY3NzLWxvYWRlcicsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dmFyIG1hcmt1cCA9ICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5IGNsZWFyZml4Jz4iICsKICAgICAgIjxkaXYgY2xhc3M9J3NlbGVjdDItcmVzdWx0LXJlcG9zaXRvcnlfX2F2YXRhcic+PGltZyBzcmM9JyIgKyByZXBvLm93bmVyLmF2YXRhcl91cmwgKyAiJyAvPjwvZGl2PiIgKwogICAgICAiPGRpdiBjbGFzcz0nc2VsZWN0Mi1yZXN1bHQtcmVwb3NpdG9yeV9fbWV0YSc+IiArCiAgICAgICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5X190aXRsZSc+IiArIHJlcG8uZnVsbF9uYW1lICsgIjwvZGl2PiI7CgogICAgaWYgKHJlcG8uZGVzY3JpcHRpb24pIHsKICAgICAgbWFya3VwICs9ICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5X19kZXNjcmlwdGlvbic+IiArIHJlcG8uZGVzY3JpcHRpb24gKyAiPC9kaXY+IjsKICAgIH0KCiAgICBtYXJrdXAgKz0gIjxkaXYgY2xhc3M9J3NlbGVjdDItcmVzdWx0LXJlcG9zaXRvcnlfX3N0YXRpc3RpY3MnPiIgKwogICAgICAiPGRpdiBjbGFzcz0nc2VsZWN0Mi1yZXN1bHQtcmVwb3NpdG9yeV9fZm9ya3MnPjxpIGNsYXNzPSdmYSBmYS1mbGFzaCc+PC9pPiAiICsgcmVwby5mb3Jrc19jb3VudCArICIgRm9ya3M8L2Rpdj4iICsKICAgICAgIjxkaXYgY2xhc3M9J3NlbGVjdDItcmVzdWx0LXJlcG9zaXRvcnlfX3N0YXJnYXplcnMnPjxpIGNsYXNzPSdmYSBmYS1zdGFyJz48L2k+ICIgKyByZXBvLnN0YXJnYXplcnNfY291bnQgKyAiIFN0YXJzPC9kaXY+IiArCiAgICAgICI8ZGl2IGNsYXNzPSdzZWxlY3QyLXJlc3VsdC1yZXBvc2l0b3J5X193YXRjaGVycyc+PGkgY2xhc3M9J2ZhIGZhLWV5ZSc+PC9pPiAiICsgcmVwby53YXRjaGVyc19jb3VudCArICIgV2F0Y2hlcnM8L2Rpdj4iICsKICAgICAgIjwvZGl2PiIgKwogICAgICAiPC9kaXY+PC9kaXY+Ijs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAnYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlcicsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMpOwo=</text>
+        <text encoding="base64">ICAnZmlsZS1sb2FkZXInLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdwYWdpbmF0aW9uJzogewogICAgICAnbW9yZSc6IHRydWUsCiAgICB9LAo=</text>
+        <text encoding="base64">ICAnZXh0cmFjdC1sb2FkZXInLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
