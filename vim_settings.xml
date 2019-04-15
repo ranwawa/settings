@@ -333,11 +333,12 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="44" column="33" />
       </file>
-      <file name="E:/webpack/src/101/src/order.html" timestamp="1555313775633">
+      <file name="E:/webpack/src/101/src/order.html" timestamp="1555316513053">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="30" column="6" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="30" />
+        <mark key="^" line="32" column="30" />
+        <mark key="." line="32" column="30" />
       </file>
       <file name="E:/kuaiyixiu/gzdtwwx/pc/about.html" timestamp="1555035972166">
         <mark key="[" line="14" column="102" />
@@ -618,11 +619,11 @@
       <jump line="13" column="0" filename="E:/webpack/src/101/src/order.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>center</text>
       </register>
       <register name="-" type="4">
-        <text>, { enableHighAccuracy: true }</text>
+        <text>center</text>
       </register>
       <register name="/" type="4">
         <text>gc</text>
@@ -631,40 +632,31 @@
         <text encoding="base64">ICAgICAgZ2V0TG9jYXRpb24oeyB0eXBlOiAnaXAnIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB2YXIgcG9pbnQgPSBuZXcgQk1hcC5Qb2ludCgxMTYuMzMxMzk4LDM5Ljg5NzQ0NSk7CiAgbWFwLmNlbnRlckFuZFpvb20ocG9pbnQsMTgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJ2ZhaWxlZCcgKyB0aGlzLmdldFN0YXR1cygpKTsK</text>
+        <text encoding="base64">ICAvLyC4+b7d5K/AwMb3tqjOuwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHIpOwo=</text>
+        <text encoding="base64">ICB2YXIgZ2VvbG9jYXRpb24gPSBuZXcgQk1hcC5HZW9sb2NhdGlvbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJ8T6tcTOu9bDo7onICsgci5wb2ludC5sbmcgKyAnLCcgKyByLnBvaW50LmxhdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb2ludCA9IHJlc3VsdC5jZW50ZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygyKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>//关于状态码
-  //BMAP_STATUS_SUCCESS	检索成功。对应数值“0”。
-  //BMAP_STATUS_CITY_LIST	城市列表。对应数值“1”。
-  //BMAP_STATUS_UNKNOWN_LOCATION	位置结果未知。对应数值“2”。
-  //BMAP_STATUS_UNKNOWN_ROUTE	导航结果未知。对应数值“3”。
-  //BMAP_STATUS_INVALID_KEY	非法密钥。对应数值“4”。
-  //BMAP_STATUS_INVALID_REQUEST	非法请求。对应数值“5”。
-  //BMAP_STATUS_PERMISSION_DENIED	没有权限。对应数值“6”。(自 1.1 新增)
-  //BMAP_STATUS_SERVICE_UNAVAILABLE	服务不可用。对应数值“7”。(自 1.1 新增)
-  //BMAP_STATUS_TIMEOUT	超时。对应数值“8”。(自 1.1 新增)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgcG9pbnQgPSByOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGRvY3R5cGU+PC9kb2N0eXBlPgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
