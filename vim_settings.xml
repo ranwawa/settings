@@ -93,6 +93,12 @@
         <mark key="." line="26" column="160" />
         <mark key="^" line="26" column="160" />
       </file>
+      <file name="E:/webpack/src/pages/countdown/index.html" timestamp="1555380926994">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+      </file>
       <file name="E:/webpack/src/common/header.html" timestamp="1554108168924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="13" />
@@ -412,6 +418,11 @@
         <mark key="." line="188" column="0" />
         <mark key="^" line="188" column="0" />
       </file>
+      <file name="E:/webpack/tpl/101/index.html" timestamp="1555379215696">
+        <mark key="'" line="79" column="18" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="74" />
+      </file>
       <file name="E:/webpack/src/public/scss/common.scss" timestamp="1555056771549">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="36" />
@@ -518,7 +529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="21" filename="E:/webpack/src/public/js/common.js" />
       <jump line="21" column="13" filename="E:/webpack/src/components/f-page-detail-1/f-page-list-1.scss" />
       <jump line="11" column="0" filename="E:/webpack/src/components/f-resource-1/f-resource-1.scss" />
       <jump line="25" column="4" filename="E:/webpack/src/components/f-service-1/f-service-1.scss" />
@@ -618,65 +628,49 @@
       <jump line="82" column="17" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
       <jump line="97" column="79" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
       <jump line="98" column="20" filename="$USER_HOME$/Desktop/extracthtml/node_modules/extract-loader/lib/extractLoader.js" />
+      <jump line="79" column="18" filename="E:/webpack/tpl/101/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMjIyMjIyMjIyMjIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDI57n7tObU2sqxvOQs1PLBory0v6rKvLW5vMbKsQo=</text>
       </register>
       <register name="-" type="4">
-        <text>errors-only</text>
+        <text>监听点击事件</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
       </register>
-      <register name="0" type="4">
-        <text>repo.description</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJChvcHRpb25zLmlkKS50ZXh0KHRpbWUgKyAncycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMjIyMjIyMjIyMjIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDI57n7tObU2sqxvOQs1PLBory0v6rKvLW5vMbKsQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMTExMTExMTExMTExKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyCw87aoteO798rCvP4K</text>
       </register>
       <register name="3" type="4">
-        <text>const threadLoader = require('thread-loader');
-
-threadLoader.warmup({
-  // pool options, like passed to loader options
-  // must match loader options to boot the correct pool
-}, [
-  // modules to load
-  // can be any module, i. e.
-  'sass-loader',
-  'css-loader'
-]);</text>
+        <text>function (e) {
+          console.log(e);
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnaHRtbC1sb2FkZXInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gzO2807Xju/fKwrz+Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>const threadLoader = require('thread-loader');
-
-threadLoader.warmup({
-  // pool options, like passed to loader options
-  // must match loader options to boot the correct pool
-}, [
-  // modules to load
-  // can be any module, i. e.
-  'sass-loader',
-]);</text>
+        <text encoding="base64">ICAgICAvLyC84Mz9teO798rCvP4KICAgICAgJCh0aGlzKS5vbignY2xpY2snLCBmdW5jdGlvbiAoZSkgewogICAgICAgIGNvbnNvbGUubG9nKGUpOwogICAgICB9KTsKICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAnaHRtbC1sb2FkZXInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnc3R5bGUtbG9hZGVyJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAnY3NzLWxvYWRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xlYXJJbnRlcnZhbCh0aW1lcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAnYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
