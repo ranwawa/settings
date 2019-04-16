@@ -42,17 +42,23 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
+      <file name="E:/webpack/docs/README.md" timestamp="1555415061419">
+        <mark key="[" line="223" column="15" />
+        <mark key="]" line="224" column="0" />
+        <mark key="^" line="224" column="0" />
+        <mark key="." line="224" column="0" />
+      </file>
       <file name="E:/webpack/src/101/src/detail.html" timestamp="1555066672519">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="19" />
         <mark key="." line="11" column="19" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="E:/webpack/src/pages/countdown/index.html" timestamp="1555380926994">
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-        <mark key="^" line="20" column="18" />
+      <file name="E:/webpack/src/pages/countdown/index.html" timestamp="1555417088115">
+        <mark key="[" line="84" column="31" />
+        <mark key="]" line="85" column="14" />
+        <mark key="." line="85" column="14" />
+        <mark key="^" line="85" column="14" />
       </file>
       <file name="E:/webpack/src/public/scss/_flex.scss" timestamp="1555051456193">
         <mark key="[" line="2" column="22" />
@@ -670,58 +676,44 @@
       <jump line="350" column="4" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8c3R5bGUgdHlwZT0idGV4dC9jc3MiIHJlbD0ic3R5bGVzaGVldCI+CiAgICBpbWcgewogICAgICBtYXgtd2lkdGg6IDEwMCU7CiAgICB9CiAgPC9zdHlsZT4K</text>
+      <register name="&quot;" type="4">
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8c3R5bGUgdHlwZT0idGV4dC9jc3MiIHJlbD0ic3R5bGVzaGVldCI+CiAgICBpbWcgewogICAgICBtYXgtd2lkdGg6IDEwMCU7CiAgICB9CiAgPC9zdHlsZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxlLnRleHQodGltZSArICdzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYob3B0aW9ucy5pZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbWluLXdpZHRoOiA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdG9yYWdlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2RqcycsIHRpbWUsIG9wdGlvbnMuaWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyC/qsq8tbm8xsqxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjM0NTYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDSxrP2teO798rCvP4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkUHJvZHVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gzOa7u87E19YK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCh0aGlzKS50ZXh0KCfW2NDCu/HIoScpLnJlbW92ZUNsYXNzKCdjb3VudGRvd24tZGlzYWJsZScpLmFkZENsYXNzKCdjb3VudGRvd24tbm9ybWFsJyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>$.ajax({
-      dataType: 'json',
-      url: 'http://jk.zmnoa.com/Qiyu/submit.php',
-      cache: false,
-      data: data,
-      success: function (res) {
-        showModal('报修失败,不在服务区或者重复提交!');
-      },
-      error: function () {
-        showModal('十分钟内会有工程师联系您，请保持联系畅通!');
-        // setTimeout(function () {
-        //   window.location.reload();//刷新当前页面.
-        // }, 5000);
-      },
-    });</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xlYXJJbnRlcnZhbCh0aW1lcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
