@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/webpack/src/components/f-nav-1/index.html" timestamp="1555505098722">
+      <file name="E:/webpack/src/components/f-nav-1/index.html" timestamp="1555558166405">
         <mark key="'" line="25" column="4" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="26" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="109" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
@@ -53,7 +53,7 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="E:/webpack/src/components/f-nav-1/f-nav-1.scss" timestamp="1555551939848">
+      <file name="E:/webpack/src/components/f-nav-1/f-nav-1.scss" timestamp="1555558190406">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
@@ -127,6 +127,18 @@
         <mark key="." line="8" column="54" />
         <mark key="^" line="8" column="54" />
       </file>
+      <file name="E:/webpack/src/components/f-nav-2/f-nav-2.html" timestamp="1555558177538">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="93" />
+        <mark key="^" line="17" column="93" />
+        <mark key="." line="17" column="93" />
+      </file>
+      <file name="E:/webpack/src/components/f-nav-2/f-nav-2.scss" timestamp="1555558014804">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="18" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="E:/webpack/src/main.js" timestamp="1554259291897">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="46" />
@@ -139,10 +151,11 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="E:/webpack/src/101/src/main.js" timestamp="1555553591044">
-        <mark key="[" line="2" column="40" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
+      <file name="E:/webpack/src/101/src/main.js" timestamp="1555555940603">
+        <mark key="'" line="3" column="38" />
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="35" />
         <mark key="^" line="2" column="27" />
       </file>
       <file name="E:/webpack/src/ts/common.ts" timestamp="1554122108804">
@@ -508,11 +521,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="E:/webpack/src/101/src/index.html" timestamp="1555553600775">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="50" />
+      <file name="E:/webpack/src/101/src/index.html" timestamp="1555555928892">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="8" column="44" />
       </file>
       <file name="$USER_HOME$/Desktop/Qiyu/js/program.js" timestamp="1555411258875">
         <mark key="[" line="431" column="1" />
@@ -598,9 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="39" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
-      <jump line="278" column="32" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
-      <jump line="281" column="10" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
       <jump line="365" column="13" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
       <jump line="388" column="12" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
       <jump line="108" column="67" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
@@ -698,57 +708,58 @@
       <jump line="212" column="10" filename="E:/zmn-h5/old/gzdpwx_pc/conx.htm" />
       <jump line="223" column="54" filename="E:/zmn-h5/old/gzdpwx_pc/conx.htm" />
       <jump line="6" column="27" filename="E:/zmn-h5/old/gzdpwx_pc/conx.htm" />
+      <jump line="3" column="38" filename="E:/webpack/src/101/src/main.js" />
+      <jump line="4" column="2" filename="E:/webpack/src/components/f-nav-2/f-nav-2.scss" />
+      <jump line="10" column="0" filename="E:/webpack/src/components/f-nav-2/f-nav-2.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ibmF2LWJhY2tncm91bmQiIG9uY2xpY2s9IiQodGhpcykucmVtb3ZlQ2xhc3MoJ2FjdGl2ZScpLnByZXYoKS5yZW1vdmVDbGFzcygnYWN0aXZlJykiPjwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>#fff</text>
+        <text>absolute</text>
       </register>
       <register name="/" type="4">
-        <text>电通王</text>
+        <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb2xvcjogJGFjdGl2ZS10ZXh0LWNvbG9yOwo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ibmF2LWJhY2tncm91bmQiIG9uY2xpY2s9IiQodGhpcykucmVtb3ZlQ2xhc3MoJ2FjdGl2ZScpLnByZXYoKS5yZW1vdmVDbGFzcygnYWN0aXZlJykiPjwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgei1pbmRleDogOTk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiAxMDBweDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiAwICFpbXBvcnRhbnQ7CiAgbWFyZ2luLWJvdHRvbTogMCAhaW1wb3J0YW50Owo=</text>
+        <text encoding="base64">ICAgICAgQGluY2x1ZGUgcHkoMik7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.section {
-  
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgaW1newogICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAkYWN0aXZlLWNvbG9yOwo=</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiAxMDAlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Im5hdi1sb2dvIj4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>电通王</last-search>
+      <last-search>nav</last-search>
       <last-offset />
-      <last-pattern>电通王</last-pattern>
+      <last-pattern>nav</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -756,7 +767,6 @@
     </search>
     <history>
       <history-search>
-        <entry>x()</entry>
         <entry>form</entry>
         <entry>x</entry>
         <entry>console</entry>
@@ -776,6 +786,7 @@
         <entry>banner-</entry>
         <entry>bold</entry>
         <entry>电通王</entry>
+        <entry>nav</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
