@@ -139,7 +139,8 @@
         <mark key="." line="8" column="54" />
         <mark key="^" line="8" column="54" />
       </file>
-      <file name="E:/zmn-h5/old/Qiyu/index.html" timestamp="1555573175017">
+      <file name="E:/zmn-h5/old/Qiyu/index.html" timestamp="1555575203163">
+        <mark key="'" line="471" column="6" />
         <mark key="[" line="364" column="30" />
         <mark key="]" line="364" column="30" />
         <mark key="^" line="364" column="30" />
@@ -644,11 +645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="100" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
-      <jump line="101" column="82" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
-      <jump line="293" column="32" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
-      <jump line="296" column="10" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
-      <jump line="253" column="16" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
       <jump line="397" column="20" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
       <jump line="392" column="9" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
       <jump line="313" column="5" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
@@ -744,6 +740,11 @@
       <jump line="197" column="15" filename="E:/zmn-h5/old/gzdpwx_pc/index.htm" />
       <jump line="330" column="12" filename="E:/zmn-h5/old/gzdpwx_pc/index.htm" />
       <jump line="154" column="46" filename="E:/zmn-h5/old/gzdpwx_pc/guarantee.htm" />
+      <jump line="483" column="28" filename="E:/zmn-h5/old/Qiyu/index.html" />
+      <jump line="494" column="8" filename="E:/zmn-h5/old/Qiyu/index.html" />
+      <jump line="497" column="8" filename="E:/zmn-h5/old/Qiyu/index.html" />
+      <jump line="456" column="11" filename="E:/zmn-h5/old/Qiyu/index.html" />
+      <jump line="471" column="6" filename="E:/zmn-h5/old/Qiyu/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -753,7 +754,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>bzqy</text>
+        <text>showModal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHR4dEFycnkgPSBbJ9bQ0eu/1bX3JywgJ8nM08O5+MKvJywgJ8Dksti/4icsICe5pNK1udy1wCcsICe0orneJ107Cg==</text>
@@ -790,9 +791,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bzqy</last-search>
+      <last-search>showModal</last-search>
       <last-offset />
-      <last-pattern>bzqy</last-pattern>
+      <last-pattern>showModal</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -800,7 +801,6 @@
     </search>
     <history>
       <history-search>
-        <entry>往家</entry>
         <entry>type</entry>
         <entry>href=&quot;</entry>
         <entry>title</entry>
@@ -820,6 +820,7 @@
         <entry>bjzy</entry>
         <entry>gzqy</entry>
         <entry>bzqy</entry>
+        <entry>showModal</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
