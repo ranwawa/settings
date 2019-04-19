@@ -157,6 +157,13 @@
         <mark key="]" line="353" column="14" />
         <mark key="." line="353" column="14" />
       </file>
+      <file name="E:/zmn-h5/old/Qiyu/index.html" timestamp="1555664861714">
+        <mark key="'" line="297" column="12" />
+        <mark key="[" line="364" column="30" />
+        <mark key="]" line="364" column="30" />
+        <mark key="^" line="364" column="30" />
+        <mark key="." line="364" column="30" />
+      </file>
       <file name="E:/zmn-h5/old/gzdpwx_pc/a/JiaDian/zt/index.html" timestamp="1555500606119">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -691,9 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="4" filename="$USER_HOME$/Desktop/Qiyu/index.html" />
-      <jump line="30" column="19" filename="E:/webpack/src/101/stylelint.config.js" />
-      <jump line="331" column="21" filename="E:/webpack/src/101/stylelint.config.js" />
       <jump line="20" column="8" filename="E:/webpack/src/101/webpack.config.js" />
       <jump line="84" column="15" filename="E:/webpack/src/101/webpack.config.js" />
       <jump line="10" column="16" filename="E:/webpack/src/101/webpack.config.js" />
@@ -791,6 +795,9 @@
       <jump line="20" column="11" filename="E:/webpack/tpl/101/js/common.js" />
       <jump line="3" column="53" filename="E:/webpack/public/components/f-tab-1/f-tab-1.html" />
       <jump line="0" column="0" filename="E:/webpack/public/components/f-tab-1/f-tab-1.html" />
+      <jump line="460" column="6" filename="E:/zmn-h5/old/Qiyu/index.html" />
+      <jump line="316" column="12" filename="E:/zmn-h5/old/Qiyu/index.html" />
+      <jump line="297" column="12" filename="E:/zmn-h5/old/Qiyu/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -800,7 +807,7 @@
         <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>switchNav</text>
+        <text>bgc</text>
       </register>
       <register name="0" type="4">
         <text>$('.section-product-list')</text>
@@ -837,9 +844,9 @@
       </register>
     </registers>
     <search>
-      <last-search>switchNav</last-search>
+      <last-search>bgc</last-search>
       <last-offset />
-      <last-pattern>switchNav</last-pattern>
+      <last-pattern>bgc</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -847,8 +854,6 @@
     </search>
     <history>
       <history-search>
-        <entry>active</entry>
-        <entry>asd</entry>
         <entry>product</entry>
         <entry>bjzy</entry>
         <entry>gzqy</entry>
@@ -867,6 +872,8 @@
         <entry>label</entry>
         <entry>switchTab</entry>
         <entry>switchNav</entry>
+        <entry>gbc</entry>
+        <entry>bgc</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
