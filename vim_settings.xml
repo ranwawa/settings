@@ -157,12 +157,12 @@
         <mark key="]" line="353" column="14" />
         <mark key="." line="353" column="14" />
       </file>
-      <file name="E:/zmn-h5/old/Qiyu/index.html" timestamp="1555668227198">
-        <mark key="'" line="526" column="6" />
-        <mark key="[" line="528" column="77" />
-        <mark key="]" line="530" column="23" />
-        <mark key="." line="530" column="23" />
-        <mark key="^" line="530" column="23" />
+      <file name="E:/zmn-h5/old/Qiyu/index.html" timestamp="1555669744372">
+        <mark key="'" line="539" column="6" />
+        <mark key="[" line="174" column="28" />
+        <mark key="]" line="175" column="28" />
+        <mark key="." line="175" column="28" />
+        <mark key="^" line="175" column="28" />
       </file>
       <file name="E:/zmn-h5/old/gzdpwx_pc/a/JiaDian/zt/index.html" timestamp="1555500606119">
         <mark key="[" line="8" column="0" />
@@ -698,7 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="E:/webpack/src/components/f-nav-1/index.html" />
       <jump line="26" column="4" filename="E:/webpack/src/components/f-nav-1/index.html" />
       <jump line="10" column="0" filename="E:/webpack/src/components/f-service-1/index.html" />
       <jump line="3" column="0" filename="E:/webpack/src/components/f-service-1/index.html" />
@@ -798,55 +797,62 @@
       <jump line="294" column="5" filename="E:/zmn-h5/old/Qiyu/index.html" />
       <jump line="488" column="6" filename="E:/zmn-h5/old/Qiyu/index.html" />
       <jump line="506" column="6" filename="E:/zmn-h5/old/Qiyu/index.html" />
+      <jump line="522" column="6" filename="E:/zmn-h5/old/Qiyu/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>post</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>666</text>
       </register>
       <register name="/" type="4">
-        <text>ajax</text>
+        <text>联系地址</text>
       </register>
-      <register name="0" type="4">
-        <text>$('.section-product-list')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFkZC1zZWxlY3QtaXRlbSI+MTExPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdHB5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29sb3I6ICM5OTk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGF0YVR5cGU6ICdqc29uJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhZGQtc2VsZWN0Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFkZC1zZWxlY3QtaXRlbSI+MTExPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhZGQtc2VsZWN0LWl0ZW0iPjIyMjwvZGl2PgogICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGF0YVR5cGU6J2pzb25wJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iYWRkLXNlbGVjdCI+PC9zcGFuPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVsYXk6IDMwMCwK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMyk7Cg==</text>
+      <register name="6" type="4">
+        <text>{
+          'status': 200,
+          'statusCode': null,
+          'statusBool': true,
+          'message': '获取数据成功',
+          'data': null,
+          'items': };</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQodGhpcykuaW5kZXgoKSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICdidXNpbmVzcyc6ICcnLAogICAgICAgICAgICAgICdjaXR5JzogJ9L4tKjK0CcsCiAgICAgICAgICAgICAgJ2NpdHlJZCc6ICczNjAnLAogICAgICAgICAgICAgICdkaXN0cmljdCc6ICe62MC8z9gnLAogICAgICAgICAgICAgICdsb2NhdGlvbic6IHsKICAgICAgICAgICAgICAgICdsYXQnOiAnMzguNjY0MDA2JywKICAgICAgICAgICAgICAgICdsbmcnOiAnMTA2LjM5MTI3OCcsCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAnbmFtZSc6ICcxMDm5+rXAJywKICAgICAgICAgICAgICAncHJvdmluY2UnOiAnxP7PxLvY1+XX1NbOx/gnLAogICAgICAgICAgICAgICd1aWQnOiAnMDgzYTU1ZmFlNWM5ZDk3YTI0NmU5OGRjJywKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICdidXNpbmVzcyc6ICcnLAogICAgICAgICAgICAgICdjaXR5JzogJ7DX0vjK0CcsCiAgICAgICAgICAgICAgJ2NpdHlJZCc6ICczNScsCiAgICAgICAgICAgICAgJ2Rpc3RyaWN0JzogJ76wzKnP2CcsCiAgICAgICAgICAgICAgJ2xvY2F0aW9uJzogewogICAgICAgICAgICAgICAgJ2xhdCc6ICczNy4xOTY5NzQnLAogICAgICAgICAgICAgICAgJ2xuZyc6ICcxMDQuMDcyMTk0JywKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICduYW1lJzogJzG80zHNr9ewJywKICAgICAgICAgICAgICAncHJvdmluY2UnOiAnuMrL4MqhJywKICAgICAgICAgICAgICAndWlkJzogJ2M5MjViMjQxNWVlMWFiN2I0MjA3YzExYycsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAnYnVzaW5lc3MnOiAnJywKICAgICAgICAgICAgICAnY2l0eSc6ICfJz7qjytAnLAogICAgICAgICAgICAgICdjaXR5SWQnOiAnMjg5JywKICAgICAgICAgICAgICAnZGlzdHJpY3QnOiAnxta2q9DCx/gnLAogICAgICAgICAgICAgICdsb2NhdGlvbic6IHsKICAgICAgICAgICAgICAgICdsYXQnOiAnMzEuMTU2NTg0JywKICAgICAgICAgICAgICAgICdsbmcnOiAnMTIxLjgwOTY0NycsCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAnbmFtZSc6ICfJz7qjxta2q7n6vMq7+rOhLVQxur3VvsKlJywKICAgICAgICAgICAgICAncHJvdmluY2UnOiAnyc+6o8rQJywKICAgICAgICAgICAgICAndWlkJzogJ2I5ODYwY2U3ODZiYmIwYzY0ZDJmZGZkNycsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAnYnVzaW5lc3MnOiAnJywKICAgICAgICAgICAgICAnY2l0eSc6ICexsb6pytAnLAogICAgICAgICAgICAgICdjaXR5SWQnOiAnMTMxJywKICAgICAgICAgICAgICAnZGlzdHJpY3QnOiAns6/R9Mf4JywKICAgICAgICAgICAgICAnbG9jYXRpb24nOiB7CiAgICAgICAgICAgICAgICAnbGF0JzogJzQwLjA4Njc5MicsCiAgICAgICAgICAgICAgICAnbG5nJzogJzExNi41OTQ1NjYnLAogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgJ25hbWUnOiAnsbG+qcrXtry5+rzKu/qzoS1UMbq91b7CpScsCiAgICAgICAgICAgICAgJ3Byb3ZpbmNlJzogJ7GxvqnK0CcsCiAgICAgICAgICAgICAgJ3VpZCc6ICdhOTM3OTViYWVmNmI0MmZmYTZkYTM5YjAnLAogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgJ2J1c2luZXNzJzogJycsCiAgICAgICAgICAgICAgJ2NpdHknOiAnyc+6o8rQJywKICAgICAgICAgICAgICAnY2l0eUlkJzogJzI4OScsCiAgICAgICAgICAgICAgJ2Rpc3RyaWN0JzogJ7OkxP7H+CcsCiAgICAgICAgICAgICAgJ2xvY2F0aW9uJzogewogICAgICAgICAgICAgICAgJ2xhdCc6ICczMS4yMDA3NycsCiAgICAgICAgICAgICAgICAnbG5nJzogJzEyMS4zNTMxMDInLAogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgJ25hbWUnOiAnyc+6o7rnx8W7+rOhLVQxur3VvsKlJywKICAgICAgICAgICAgICAncHJvdmluY2UnOiAnyc+6o8rQJywKICAgICAgICAgICAgICAndWlkJzogJ2JlMWVhNWVmNTc5ZjNjYzIxNDk0OGUwYycsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAnYnVzaW5lc3MnOiAnJywKICAgICAgICAgICAgICAnY2l0eSc6ICezyba8ytAnLAogICAgICAgICAgICAgICdjaXR5SWQnOiAnNzUnLAogICAgICAgICAgICAgICdkaXN0cmljdCc6ICfLq8H3x/gnLAogICAgICAgICAgICAgICdsb2NhdGlvbic6IHsKICAgICAgICAgICAgICAgICdsYXQnOiAnMzAuNTg1MTU4JywKICAgICAgICAgICAgICAgICdsbmcnOiAnMTAzLjk2NTMwNScsCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAnbmFtZSc6ICezyba8y6vB97n6vMq7+rOhLVQxur3VvsKlJywKICAgICAgICAgICAgICAncHJvdmluY2UnOiAny8S0qMqhJywKICAgICAgICAgICAgICAndWlkJzogJzRiYjM3Y2UxNzI1M2UwNzI5OTAwNTA2ZCcsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAnYnVzaW5lc3MnOiAnJywKICAgICAgICAgICAgICAnY2l0eSc6ICfJz7qjytAnLAogICAgICAgICAgICAgICdjaXR5SWQnOiAnMjg5JywKICAgICAgICAgICAgICAnZGlzdHJpY3QnOiAnxtXN08f4JywKICAgICAgICAgICAgICAnbG9jYXRpb24nOiB7CiAgICAgICAgICAgICAgICAnbGF0JzogJzMxLjIzNjkwOScsCiAgICAgICAgICAgICAgICAnbG5nJzogJzEyMS4zODQ3MzcnLAogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgJ25hbWUnOiAnMTE4ueOzoScsCiAgICAgICAgICAgICAgJ3Byb3ZpbmNlJzogJ8nPuqPK0CcsCiAgICAgICAgICAgICAgJ3VpZCc6ICdkNWY5M2MwZWU5MzE1NjQ1ZWRkZmNhYzQnLAogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgJ2J1c2luZXNzJzogJycsCiAgICAgICAgICAgICAgJ2NpdHknOiAnwKXD98rQJywKICAgICAgICAgICAgICAnY2l0eUlkJzogJzEwNCcsCiAgICAgICAgICAgICAgJ2Rpc3RyaWN0JzogJ873yb3H+CcsCiAgICAgICAgICAgICAgJ2xvY2F0aW9uJzogewogICAgICAgICAgICAgICAgJ2xhdCc6ICcyNC45OTE3NjQnLAogICAgICAgICAgICAgICAgJ2xuZyc6ICcxMDIuNjgzMDg4JywKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICduYW1lJzogJ7mr1LAxOTAzJywKICAgICAgICAgICAgICAncHJvdmluY2UnOiAn1MbEz8qhJywKICAgICAgICAgICAgICAndWlkJzogJ2ZmMmNlZDU1YmNlMmNlNzYyY2IxN2U5MCcsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAnYnVzaW5lc3MnOiAnJywKICAgICAgICAgICAgICAnY2l0eSc6ICfO5Lq6ytAnLAogICAgICAgICAgICAgICdjaXR5SWQnOiAnMjE4JywKICAgICAgICAgICAgICAnZGlzdHJpY3QnOiAnzuSy/cf4JywKICAgICAgICAgICAgICAnbG9jYXRpb24nOiB7CiAgICAgICAgICAgICAgICAnbGF0JzogJzMwLjU1OTIwNicsCiAgICAgICAgICAgICAgICAnbG5nJzogJzExNC4zNDY0MjInLAogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgJ25hbWUnOiAnv621wjE4MTgnLAogICAgICAgICAgICAgICdwcm92aW5jZSc6ICe6/rGxyqEnLAogICAgICAgICAgICAgICd1aWQnOiAnYmNhZWJmZjhhMzc0ODAyYWM4ZTMzYzk2JywKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICdidXNpbmVzcyc6ICcnLAogICAgICAgICAgICAgICdjaXR5JzogJ8nPuqPK0CcsCiAgICAgICAgICAgICAgJ2NpdHlJZCc6ICcyODknLAogICAgICAgICAgICAgICdkaXN0cmljdCc6ICe657/ax/gnLAogICAgICAgICAgICAgICdsb2NhdGlvbic6IHsKICAgICAgICAgICAgICAgICdsYXQnOiAnMzEuMjYwMjI2JywKICAgICAgICAgICAgICAgICdsbmcnOiAnMTIxLjQ5ODgxNicsCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAnbmFtZSc6ICcxOTMzwM+zobe7JywKICAgICAgICAgICAgICAncHJvdmluY2UnOiAnyc+6o8rQJywKICAgICAgICAgICAgICAndWlkJzogJzA1ZGQ3ZDVmYzA3NTM3MThhZDA4MGY3OCcsCiAgICAgICAgICAgIH0sCiAgICAgICAgICBdLAogICAgICAg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlueCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygyMjIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>ajax</last-search>
+      <last-search>联系地址</last-search>
       <last-offset />
-      <last-pattern>ajax</last-pattern>
+      <last-pattern>联系地址</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -854,7 +860,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showModal</entry>
         <entry>@</entry>
         <entry>components</entry>
         <entry>inter</entry>
@@ -874,6 +879,7 @@
         <entry>program</entry>
         <entry>123</entry>
         <entry>ajax</entry>
+        <entry>联系地址</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
