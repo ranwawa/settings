@@ -157,12 +157,12 @@
         <mark key="]" line="353" column="14" />
         <mark key="." line="353" column="14" />
       </file>
-      <file name="E:/zmn-h5/old/Qiyu/index.html" timestamp="1555741308581">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="555" column="11" />
-        <mark key="]" line="556" column="24" />
-        <mark key="." line="556" column="24" />
-        <mark key="^" line="556" column="24" />
+      <file name="E:/zmn-h5/old/Qiyu/index.html" timestamp="1555742768352">
+        <mark key="'" line="549" column="12" />
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="538" column="35" />
       </file>
       <file name="E:/zmn-h5/old/gzdpwx_pc/a/JiaDian/zt/index.html" timestamp="1555500606119">
         <mark key="[" line="8" column="0" />
@@ -696,8 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="471" column="6" filename="E:/zmn-h5/old/Qiyu/index.html" />
-      <jump line="237" column="7" filename="E:/webpack/src/101/webpack.config.js" />
       <jump line="200" column="15" filename="E:/webpack/src/101/webpack.config.js" />
       <jump line="79" column="11" filename="E:/webpack/src/101/webpack.config.js" />
       <jump line="92" column="27" filename="E:/webpack/src/101/webpack.config.js" />
@@ -796,16 +794,18 @@
       <jump line="617" column="11" filename="E:/zmn-h5/old/Qiyu/index.html" />
       <jump line="562" column="35" filename="E:/zmn-h5/old/Qiyu/index.html" />
       <jump line="0" column="0" filename="E:/zmn-h5/old/Qiyu/index.html" />
+      <jump line="543" column="12" filename="E:/zmn-h5/old/Qiyu/index.html" />
+      <jump line="549" column="12" filename="E:/zmn-h5/old/Qiyu/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test-</text>
+        <text>http://jk.zmnoa.com/Qiyu</text>
       </register>
       <register name="-" type="4">
-        <text>test-</text>
+        <text>http://jk.zmnoa.com/Qiyu</text>
       </register>
       <register name="/" type="4">
-        <text>apiUrl</text>
+        <text>picker</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iYWRkLXNlbGVjdC1pdGVtIj7V/dTasunRr7XY1rcuLi48L2Rpdj4K</text>
@@ -846,9 +846,9 @@
       </register>
     </registers>
     <search>
-      <last-search>apiUrl</last-search>
+      <last-search>picker</last-search>
       <last-offset />
-      <last-pattern>apiUrl</last-pattern>
+      <last-pattern>picker</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -856,8 +856,6 @@
     </search>
     <history>
       <history-search>
-        <entry>123</entry>
-        <entry>联系地址</entry>
         <entry>add-selec</entry>
         <entry>toLower</entry>
         <entry>111</entry>
@@ -876,6 +874,8 @@
         <entry>script</entry>
         <entry>ajax</entry>
         <entry>apiUrl</entry>
+        <entry>data</entry>
+        <entry>picker</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
