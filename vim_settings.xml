@@ -157,11 +157,11 @@
         <mark key="]" line="353" column="14" />
         <mark key="." line="353" column="14" />
       </file>
-      <file name="E:/zmn-h5/old/Qiyu/index.html" timestamp="1555731535526">
-        <mark key="'" line="583" column="8" />
-        <mark key="[" line="618" column="21" />
-        <mark key="]" line="618" column="21" />
-        <mark key="." line="618" column="21" />
+      <file name="E:/zmn-h5/old/Qiyu/index.html" timestamp="1555732513895">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="386" column="47" />
+        <mark key="]" line="386" column="47" />
+        <mark key="." line="386" column="47" />
         <mark key="^" line="618" column="19" />
       </file>
       <file name="E:/zmn-h5/old/gzdpwx_pc/a/JiaDian/zt/index.html" timestamp="1555500606119">
@@ -752,7 +752,6 @@
       <jump line="64" column="16" filename="E:/zmn-h5/old/Qiyu/index.html" />
       <jump line="747" column="22" filename="E:/zmn-h5/old/Qiyu/index.html" />
       <jump line="576" column="16" filename="E:/zmn-h5/old/Qiyu/index.html" />
-      <jump line="0" column="0" filename="E:/zmn-h5/old/Qiyu/index.html" />
       <jump line="85" column="9" filename="E:/zmn-h5/old/Qiyu/index.html" />
       <jump line="86" column="4" filename="E:/zmn-h5/old/Qiyu/index.html" />
       <jump line="89" column="4" filename="E:/zmn-h5/old/Qiyu/index.html" />
@@ -793,19 +792,20 @@
       <jump line="386" column="49" filename="E:/zmn-h5/old/Qiyu/index.html" />
       <jump line="558" column="19" filename="E:/zmn-h5/old/Qiyu/index.html" />
       <jump line="582" column="23" filename="E:/zmn-h5/old/Qiyu/index.html" />
-      <jump line="617" column="11" filename="E:/zmn-h5/old/Qiyu/index.html" />
       <jump line="556" column="6" filename="E:/zmn-h5/old/Qiyu/index.html" />
       <jump line="583" column="8" filename="E:/zmn-h5/old/Qiyu/index.html" />
+      <jump line="617" column="11" filename="E:/zmn-h5/old/Qiyu/index.html" />
+      <jump line="0" column="0" filename="E:/zmn-h5/old/Qiyu/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://test-api-open.xiujiadian.com</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>https://test-api-open.xiujiadian.com</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>ajax</text>
+        <text>apiUrl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iYWRkLXNlbGVjdC1pdGVtIj7V/dTasunRr7XY1rcuLi48L2Rpdj4K</text>
@@ -846,9 +846,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ajax</last-search>
+      <last-search>apiUrl</last-search>
       <last-offset />
-      <last-pattern>ajax</last-pattern>
+      <last-pattern>apiUrl</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -856,7 +856,6 @@
     </search>
     <history>
       <history-search>
-        <entry>program</entry>
         <entry>123</entry>
         <entry>联系地址</entry>
         <entry>add-selec</entry>
@@ -876,6 +875,7 @@
         <entry>type</entry>
         <entry>script</entry>
         <entry>ajax</entry>
+        <entry>apiUrl</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
