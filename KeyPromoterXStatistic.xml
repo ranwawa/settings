@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'Ctrl+G, Ctrl+C'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -151,6 +159,14 @@
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>60</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to...">
