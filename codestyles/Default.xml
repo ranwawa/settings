@@ -21,6 +21,7 @@
     <option name="JSX_ATTRIBUTE_VALUE" value="Quotes" />
     <option name="OBJECT_LITERAL_WRAP" value="2" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="BLANK_LINES_AROUND_FUNCTION" value="0" />
   </JSCodeStyleSettings>
   <JSON>
@@ -31,6 +32,10 @@
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
   </SassCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <indentOptions>
