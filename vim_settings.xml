@@ -132,12 +132,12 @@
         <mark key="^" line="3" column="53" />
         <mark key="." line="3" column="53" />
       </file>
-      <file name="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" timestamp="1556013446005">
-        <mark key="'" line="174" column="33" />
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="24" />
+      <file name="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" timestamp="1556014547254">
+        <mark key="'" line="22" column="10" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+        <mark key="^" line="16" column="12" />
       </file>
       <file name="E:/webpack/src/101/src/scss/pc.scss" timestamp="1555297155097">
         <mark key="[" line="1" column="18" />
@@ -870,8 +870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="64" filename="E:/zmn-h5/c/src/assets/scss/sprite.scss" />
-      <jump line="31" column="15" filename="E:/zmn-h5/c/src/assets/scss/sprite.scss" />
       <jump line="32" column="68" filename="E:/zmn-h5/c/src/assets/scss/sprite.scss" />
       <jump line="42" column="17" filename="E:/zmn-h5/c/src/assets/scss/sprite.scss" />
       <jump line="43" column="60" filename="E:/zmn-h5/c/src/assets/scss/sprite.scss" />
@@ -970,16 +968,18 @@
       <jump line="171" column="22" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
       <jump line="173" column="25" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
       <jump line="163" column="33" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="75" column="16" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="22" column="10" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>select</text>
+        <text>mouseenter</text>
       </register>
       <register name="-" type="4">
-        <text>select</text>
+        <text>mouseenter</text>
       </register>
       <register name="/" type="4">
-        <text>upx</text>
+        <text>methods</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -990,40 +990,40 @@
 		},</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgdG9wOiA1MHB4Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgc2V0VAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleDsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zaG93Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYm90dG9tOiAwOwo=</text>
+        <text encoding="base64">ICAgICAgc2hvd0N1cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIEBtb3VzZWRvd249InMiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsK</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiCg==</text>
+        <text encoding="base64">ICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleDsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>upx</last-search>
+      <last-search>methods</last-search>
       <last-offset />
-      <last-pattern>upx</last-pattern>
+      <last-pattern>methods</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -1042,7 +1042,6 @@
         <entry>total</entry>
         <entry>log</entry>
         <entry>parent</entry>
-        <entry>methods</entry>
         <entry>data</entry>
         <entry>test</entry>
         <entry>props</entry>
@@ -1051,6 +1050,7 @@
         <entry>hot</entry>
         <entry>city-item</entry>
         <entry>upx</entry>
+        <entry>methods</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
