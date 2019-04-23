@@ -132,12 +132,12 @@
         <mark key="^" line="3" column="53" />
         <mark key="." line="3" column="53" />
       </file>
-      <file name="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" timestamp="1556014547254">
-        <mark key="'" line="22" column="10" />
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="11" />
-        <mark key="." line="16" column="11" />
-        <mark key="^" line="16" column="12" />
+      <file name="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" timestamp="1556021028008">
+        <mark key="'" line="152" column="3" />
+        <mark key="[" line="108" column="21" />
+        <mark key="]" line="108" column="21" />
+        <mark key="." line="108" column="21" />
+        <mark key="^" line="108" column="26" />
       </file>
       <file name="E:/webpack/src/101/src/scss/pc.scss" timestamp="1555297155097">
         <mark key="[" line="1" column="18" />
@@ -870,7 +870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="68" filename="E:/zmn-h5/c/src/assets/scss/sprite.scss" />
       <jump line="42" column="17" filename="E:/zmn-h5/c/src/assets/scss/sprite.scss" />
       <jump line="43" column="60" filename="E:/zmn-h5/c/src/assets/scss/sprite.scss" />
       <jump line="53" column="14" filename="E:/zmn-h5/c/src/assets/scss/sprite.scss" />
@@ -970,60 +969,56 @@
       <jump line="163" column="33" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
       <jump line="75" column="16" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
       <jump line="22" column="10" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="143" column="3" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mouseenter</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>mouseenter</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>methods</text>
+        <text>currentIndex</text>
       </register>
       <register name="0" type="4">
-        <text>{
-			&quot;path&quot;: &quot;pages/home/index&quot;,
-			&quot;style&quot;: {
-				&quot;navigationBarTitleText&quot;: &quot;首页&quot;
-			}
-		},</text>
+        <text>uniIcon</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdG9wOiA1MHB4Owo=</text>
+        <text encoding="base64">aW1wb3J0IHt1bmlCYWRnZX0gZnJvbSAnQGRjbG91ZGlvL3VuaS11aScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2V0VAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuPjwvc3Bhbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zaG93Owo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50SW5kZXggPSBlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2hvd0N1cgo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcG9pbnQgPSBlLnRvdWNoZXNbMF0ucGFnZVk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBtb3VzZWRvd249InMiCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocG9pbnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgcGludC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwb2ludCA9IGUudG91Y2hlc1swXS5wYWdlWTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZWxlLnRvcCwgZWxlLmJvdHRvbSwgcG9pbnQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>methods</last-search>
+      <last-search>currentIndex</last-search>
       <last-offset />
-      <last-pattern>methods</last-pattern>
+      <last-pattern>currentIndex</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -1031,7 +1026,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createAnimation</entry>
         <entry>forEach</entry>
         <entry>getSlide</entry>
         <entry>getSide</entry>
@@ -1051,6 +1045,7 @@
         <entry>city-item</entry>
         <entry>upx</entry>
         <entry>methods</entry>
+        <entry>currentIndex</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
