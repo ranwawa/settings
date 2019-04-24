@@ -52,8 +52,14 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt right" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt left" />
   </action>
   <action id="RemoteHostView.Rename">
     <keyboard-shortcut first-keystroke="f2" />
@@ -69,6 +75,18 @@
   </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt v" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt c" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt a" />
   </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
