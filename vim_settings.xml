@@ -76,12 +76,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="E:/zmn-h5/c/src/pages/reserve/index.vue" timestamp="1556354720624">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="109" column="39" />
-        <mark key="]" line="110" column="28" />
-        <mark key="." line="110" column="28" />
-        <mark key="^" line="110" column="28" />
+      <file name="E:/zmn-h5/c/src/pages/reserve/index.vue" timestamp="1556359420281">
+        <mark key="'" line="40" column="14" />
+        <mark key="[" line="80" column="24" />
+        <mark key="]" line="80" column="27" />
+        <mark key="." line="80" column="27" />
+        <mark key="^" line="80" column="27" />
       </file>
       <file name="E:/webpack/docs/README.md" timestamp="1555590984134">
         <mark key="[" line="410" column="0" />
@@ -94,11 +94,12 @@
         <mark key="." line="103" column="19" />
         <mark key="^" line="2" column="32" />
       </file>
-      <file name="E:/zmn-h5/c/src/App.vue" timestamp="1556185321767">
+      <file name="E:/zmn-h5/c/src/App.vue" timestamp="1556359405780">
         <mark key="'" line="7" column="3" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="22" column="1" />
       </file>
       <file name="E:/zmn-h5/c/src/pages/card/detail-card.vue" timestamp="1556279419277">
         <mark key="[" line="37" column="0" />
@@ -1006,10 +1007,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="23" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
-      <jump line="77" column="23" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
-      <jump line="139" column="17" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
-      <jump line="146" column="16" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
       <jump line="149" column="18" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
       <jump line="153" column="23" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
       <jump line="158" column="22" filename="E:/zmn-h5/c/src/components/ss-select-city/ss-select-city.vue" />
@@ -1100,61 +1097,72 @@
       <jump line="1107" column="19" filename="E:/zmn-h5/old/gzdtwwx/cellphone.html" />
       <jump line="38" column="33" filename="E:/zmn-h5/c/src/pages/feedback/index.vue" />
       <jump line="0" column="9" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
-      <jump line="39" column="17" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
       <jump line="107" column="43" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
       <jump line="51" column="0" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
       <jump line="54" column="20" filename="E:/zmn-h5/c/src/pages/feedback/index.vue" />
       <jump line="10" column="17" filename="E:/zmn-h5/c/src/pages/feedback/index.vue" />
       <jump line="43" column="9" filename="E:/zmn-h5/c/src/pages/feedback/index.vue" />
+      <jump line="36" column="8" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
+      <jump line="58" column="0" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
+      <jump line="37" column="11" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
+      <jump line="39" column="12" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
+      <jump line="40" column="14" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdG9wOiA4MCU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>详情内容</text>
       </register>
       <register name="-" type="4">
-        <text>picker</text>
+        <text>详情内容</text>
       </register>
       <register name="/" type="4">
-        <text>icon</text>
+        <text>div</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICd2YW4tcGlja2VyJzogUGlja2VyLAo=</text>
+      <register name="0" type="4">
+        <text>.remark {
+    .van-cell .van-field__control {
+      line-height: 24px !important;
+      border: 1px solid #000;
+    }
+  }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdG9wOiA4MCU7Cg==</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgIzAwMDsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGZhdWx0OiAnJywgLy8gucrVz9DFz6IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZT0iIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPC92YW4tcG9wdXA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGltZVtpbmRleF0pOwo=</text>
+      <register name="6" type="4">
+        <text>{
+      
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50aW1lTGlzdFsxXS52YWx1ZXMgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjogJGNvbGxhcHNlLXRpdGxlLXBkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdAo=</text>
+        <text encoding="base64">ICAgICAgQGluY2x1ZGUgcHgoMik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>icon</last-search>
+      <last-search>div</last-search>
       <last-offset />
-      <last-pattern>icon</last-pattern>
+      <last-pattern>div</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -1162,9 +1170,6 @@
     </search>
     <history>
       <history-search>
-        <entry>1\.js</entry>
-        <entry>-top</entry>
-        <entry>border</entry>
         <entry>url</entry>
         <entry>pinyin</entry>
         <entry>PinyinMatch</entry>
@@ -1182,6 +1187,9 @@
         <entry>van-icon</entry>
         <entry>light</entry>
         <entry>icon</entry>
+        <entry>va-card</entry>
+        <entry>van-card</entry>
+        <entry>div</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
