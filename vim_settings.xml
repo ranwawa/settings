@@ -76,12 +76,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="E:/zmn-h5/c/src/pages/reserve/index.vue" timestamp="1556504933875">
-        <mark key="'" line="51" column="19" />
-        <mark key="[" line="82" column="62" />
-        <mark key="]" line="82" column="20" />
-        <mark key="." line="82" column="20" />
-        <mark key="^" line="82" column="20" />
+      <file name="E:/zmn-h5/c/src/pages/reserve/index.vue" timestamp="1556506158096">
+        <mark key="'" line="29" column="19" />
+        <mark key="[" line="78" column="7" />
+        <mark key="]" line="78" column="7" />
+        <mark key="." line="78" column="7" />
+        <mark key="^" line="116" column="44" />
       </file>
       <file name="E:/webpack/docs/README.md" timestamp="1555590984134">
         <mark key="[" line="410" column="0" />
@@ -177,12 +177,12 @@
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="53" />
       </file>
-      <file name="E:/zmn-h5/c/src/pages/reserve/components/time-picker.vue" timestamp="1556504888759">
+      <file name="E:/zmn-h5/c/src/pages/reserve/components/time-picker.vue" timestamp="1556506528842">
         <mark key="'" line="0" column="9" />
-        <mark key="[" line="64" column="15" />
-        <mark key="]" line="66" column="20" />
-        <mark key="^" line="66" column="20" />
-        <mark key="." line="66" column="20" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="70" column="41" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="E:/webpack/src/components/login/index.html" timestamp="1555136630433">
         <mark key="[" line="52" column="14" />
@@ -1058,8 +1058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="379" column="18" filename="E:/zmn-h5/c/src/pages/coupon/index.vue" />
-      <jump line="409" column="22" filename="E:/zmn-h5/c/src/pages/coupon/index.vue" />
       <jump line="306" column="0" filename="E:/zmn-h5/c/src/pages/coupon/index.vue" />
       <jump line="435" column="28" filename="E:/zmn-h5/c/src/pages/coupon/index.vue" />
       <jump line="478" column="16" filename="E:/zmn-h5/c/src/pages/coupon/index.vue" />
@@ -1114,7 +1112,6 @@
       <jump line="39" column="12" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
       <jump line="40" column="14" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
       <jump line="203" column="0" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
-      <jump line="36" column="12" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
       <jump line="31" column="0" filename="E:/zmn-h5/c/src/components/product_lg.vue" />
       <jump line="29" column="0" filename="E:/zmn-h5/c/src/components/product_lg.vue" />
       <jump line="552" column="0" filename="E:/zmn-h5/c/src/pages/home/index.vue" />
@@ -1158,55 +1155,65 @@
       <jump line="129" column="19" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
       <jump line="82" column="61" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
       <jump line="51" column="19" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
+      <jump line="36" column="17" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
+      <jump line="100" column="0" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
+      <jump line="29" column="19" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFByb2R1Y3RXaWR0aCBmcm9tICcuLi8uLi9jb21wb25lbnRzL3Byb2R1Y3Rfd2lkdGgudnVlJzsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>, o</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>methods</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IFByb2R1Y3RXaWR0aCBmcm9tICcuLi8uLi9jb21wb25lbnRzL3Byb2R1Y3Rfd2lkdGgudnVlJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHNob3dQb3B1cDogZmFsc2UsIC8vIMrHt/HP1Mq+ta+/8go=</text>
+      <register name="2" type="4">
+        <text>props: {
+    popup: {
+      type: Boolean,
+      default: false,
+    }, // 是否显示弹框
+  },</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cgpjb25zdCB0aW1lID0gWwogIFsKICAgICcwNjowMCAtIDA3OjAwJywKICAgICcwNzowMCAtIDA4OjAwJywKICAgICcwODowMCAtIDA5OjAwJywKICAgICcwOTowMCAtIDEwOjAwJywKICAgICcxMDowMCAtIDExOjAwJywKICAgICcxMTowMCAtIDEyOjAwJywKICBdLAogIFsKICAgICcxMjowMCAtIDEzOjAwJywKICAgICcxMzowMCAtIDE0OjAwJywKICAgICcxNDowMCAtIDE1OjAwJywKICAgICcxNTowMCAtIDE2OjAwJywKICAgICcxNjowMCAtIDE3OjAwJywKICAgICcxNzowMCAtIDE4OjAwJywKICBdLAogIFsKICAgICcxODowMCAtIDE5OjAwJywKICAgICcxOTowMCAtIDIwOjAwJywKICAgICcyMDowMCAtIDIxOjAwJywKICAgICcyMTowMCAtIDIyOjAwJywKICAgICcyMjowMCAtIDIzOjAwJywKICAgICcyMzowMCAtIDI0OjAwJywKICBdLApdOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB3YXRjaDogewogICAgCiAgfSwK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBvbkwK</text>
+      <register name="4" type="4">
+        <text>popup(n) {
+      this.showPopup = n;
+    },</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBvbkxvYWQoKSB7CiAgICAvLyDF0LbPtbHHsMrHyc/O5yzPws7nu7nKx83tyc8KICAgIGNvbnN0IGhvdXIgPSBuZXcgRGF0ZSgpLmdldEhvdXJzKCk7CiAgICBsZXQgaW5kZXggPSAwOwogICAgLy8gyejWw7Wxx7DUpNS8yrG85LbOCiAgICBpbmRleCA9IGhvdXIgPiAxMiAmJiBob3VyIDwgMTkgPyAxIDogMjsKICAgIHRoaXMudGltZUxpc3RbMF0uZGVmYXVsdEluZGV4ID0gaW5kZXg7CiAgICB0aGlzLnRpbWVMaXN0WzFdLnZhbHVlcyA9IHRpbWVbaW5kZXhdOwogIH0sCiA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zaG93UG9wdXAgPSBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNob3dQb3B1cDogZmFsc2UsIC8vIMrHt/HP1Mq+ta+/8go=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobiwgbyk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMucG9wdXA7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICB0aW1lTGlzdDogWwogICAgICB7CiAgICAgICAgdmFsdWVzOiBbCiAgICAgICAgICAnyc/O5ycsCiAgICAgICAgICAnz8LO5ycsCiAgICAgICAgICAnze3JzycsCiAgICAgICAgXSwKICAgICAgfSwKICAgICAgewogICAgICAgIHZhbHVlczogdGltZVswXSwKICAgICAgfSwKICAgIF0sIC8vINSk1LzKsbzkCiAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHNob3dQb3B1cDogZmFsc2UsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>methods</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>methods</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -1214,8 +1221,6 @@
     </search>
     <history>
       <history-search>
-        <entry>icon</entry>
-        <entry>va-card</entry>
         <entry>van-card</entry>
         <entry>div</entry>
         <entry>mode</entry>
@@ -1234,6 +1239,8 @@
         <entry>0</entry>
         <entry>showP</entry>
         <entry>data</entry>
+        <entry>Popup</entry>
+        <entry>methods</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
