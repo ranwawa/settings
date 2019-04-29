@@ -37,6 +37,9 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" />
   </action>
+  <action id="ConvertToUnixLineSeparators">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="ctrl n" />
+  </action>
   <action id="DumpLookupElementWeights" />
   <action id="EditorSelectWord" />
   <action id="Git.Commit.And.Push.Executor">

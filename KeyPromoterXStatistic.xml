@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="LF - Unix and macOS (\n)">
+        <Item>
+          <IdeaActionID>ConvertToUnixLineSeparators</IdeaActionID>
+          <ShortCut>'Alt+E, Ctrl+N'</ShortCut>
+          <Description>LF - Unix and macOS (\n)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Remote Host">
         <Item>
           <IdeaActionID>ActivateRemoteHostToolWindow</IdeaActionID>
