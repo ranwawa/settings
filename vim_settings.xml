@@ -76,12 +76,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="E:/zmn-h5/c/src/pages/reserve/index.vue" timestamp="1556448539621">
-        <mark key="'" line="255" column="3" />
-        <mark key="[" line="90" column="61" />
-        <mark key="]" line="90" column="61" />
-        <mark key="." line="90" column="61" />
-        <mark key="^" line="90" column="61" />
+      <file name="E:/zmn-h5/c/src/pages/reserve/index.vue" timestamp="1556504933875">
+        <mark key="'" line="51" column="19" />
+        <mark key="[" line="82" column="62" />
+        <mark key="]" line="82" column="20" />
+        <mark key="." line="82" column="20" />
+        <mark key="^" line="82" column="20" />
       </file>
       <file name="E:/webpack/docs/README.md" timestamp="1555590984134">
         <mark key="[" line="410" column="0" />
@@ -176,6 +176,13 @@
         <mark key="]" line="23" column="46" />
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="53" />
+      </file>
+      <file name="E:/zmn-h5/c/src/pages/reserve/components/time-picker.vue" timestamp="1556504888759">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="64" column="15" />
+        <mark key="]" line="66" column="20" />
+        <mark key="^" line="66" column="20" />
+        <mark key="." line="66" column="20" />
       </file>
       <file name="E:/webpack/src/components/login/index.html" timestamp="1555136630433">
         <mark key="[" line="52" column="14" />
@@ -1051,9 +1058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="6" filename="E:/zmn-h5/c/src/pages/coupon/index.vue" />
-      <jump line="159" column="8" filename="E:/zmn-h5/c/src/pages/coupon/index.vue" />
-      <jump line="160" column="8" filename="E:/zmn-h5/c/src/pages/coupon/index.vue" />
       <jump line="379" column="18" filename="E:/zmn-h5/c/src/pages/coupon/index.vue" />
       <jump line="409" column="22" filename="E:/zmn-h5/c/src/pages/coupon/index.vue" />
       <jump line="306" column="0" filename="E:/zmn-h5/c/src/pages/coupon/index.vue" />
@@ -1102,7 +1106,6 @@
       <jump line="38" column="33" filename="E:/zmn-h5/c/src/pages/feedback/index.vue" />
       <jump line="0" column="9" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
       <jump line="107" column="43" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
-      <jump line="51" column="0" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
       <jump line="54" column="20" filename="E:/zmn-h5/c/src/pages/feedback/index.vue" />
       <jump line="10" column="17" filename="E:/zmn-h5/c/src/pages/feedback/index.vue" />
       <jump line="43" column="9" filename="E:/zmn-h5/c/src/pages/feedback/index.vue" />
@@ -1151,55 +1154,59 @@
       <jump line="174" column="23" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
       <jump line="255" column="3" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
       <jump line="149" column="18" filename="E:/zmn-h5/c/src/pages/order/detail.vue" />
+      <jump line="0" column="9" filename="E:/zmn-h5/c/src/pages/reserve/components/time-picker.vue" />
+      <jump line="129" column="19" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
+      <jump line="82" column="61" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
+      <jump line="51" column="19" filename="E:/zmn-h5/c/src/pages/reserve/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIGJ0Owo=</text>
+        <text encoding="base64">aW1wb3J0IFByb2R1Y3RXaWR0aCBmcm9tICcuLi8uLi9jb21wb25lbnRzL3Byb2R1Y3Rfd2lkdGgudnVlJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>取消订单</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>fault</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHZhbi1idXR0b24gc2l6ZT0ic21hbGwiPsihz/u2qbWlPC92YW4tYnV0dG9uPgo=</text>
+        <text encoding="base64">aW1wb3J0IFByb2R1Y3RXaWR0aCBmcm9tICcuLi8uLi9jb21wb25lbnRzL3Byb2R1Y3Rfd2lkdGgudnVlJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIGJ0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbXIxMGRkCg==</text>
+        <text encoding="base64">ICAgIHNob3dQb3B1cDogZmFsc2UsIC8vIMrHt/HP1Mq+ta+/8go=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoaXRlLXNwYWNlOiBwcmU7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Cgpjb25zdCB0aW1lID0gWwogIFsKICAgICcwNjowMCAtIDA3OjAwJywKICAgICcwNzowMCAtIDA4OjAwJywKICAgICcwODowMCAtIDA5OjAwJywKICAgICcwOTowMCAtIDEwOjAwJywKICAgICcxMDowMCAtIDExOjAwJywKICAgICcxMTowMCAtIDEyOjAwJywKICBdLAogIFsKICAgICcxMjowMCAtIDEzOjAwJywKICAgICcxMzowMCAtIDE0OjAwJywKICAgICcxNDowMCAtIDE1OjAwJywKICAgICcxNTowMCAtIDE2OjAwJywKICAgICcxNjowMCAtIDE3OjAwJywKICAgICcxNzowMCAtIDE4OjAwJywKICBdLAogIFsKICAgICcxODowMCAtIDE5OjAwJywKICAgICcxOTowMCAtIDIwOjAwJywKICAgICcyMDowMCAtIDIxOjAwJywKICAgICcyMTowMCAtIDIyOjAwJywKICAgICcyMjowMCAtIDIzOjAwJywKICAgICcyMzowMCAtIDI0OjAwJywKICBdLApdOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBvbkwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAvKiC4obavsLTFpSAqLwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBvbkxvYWQoKSB7CiAgICAvLyDF0LbPtbHHsMrHyc/O5yzPws7nu7nKx83tyc8KICAgIGNvbnN0IGhvdXIgPSBuZXcgRGF0ZSgpLmdldEhvdXJzKCk7CiAgICBsZXQgaW5kZXggPSAwOwogICAgLy8gyejWw7Wxx7DUpNS8yrG85LbOCiAgICBpbmRleCA9IGhvdXIgPiAxMiAmJiBob3VyIDwgMTkgPyAxIDogMjsKICAgIHRoaXMudGltZUxpc3RbMF0uZGVmYXVsdEluZGV4ID0gaW5kZXg7CiAgICB0aGlzLnRpbWVMaXN0WzFdLnZhbHVlcyA9IHRpbWVbaW5kZXhdOwogIH0sCiA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGRrb3YK</text>
+        <text encoding="base64">ICAgIHNob3dQb3B1cDogZmFsc2UsIC8vIMrHt/HP1Mq+ta+/8go=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRldGFpbC1mCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHJlZDsK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICB0aW1lTGlzdDogWwogICAgICB7CiAgICAgICAgdmFsdWVzOiBbCiAgICAgICAgICAnyc/O5ycsCiAgICAgICAgICAnz8LO5ycsCiAgICAgICAgICAnze3JzycsCiAgICAgICAgXSwKICAgICAgfSwKICAgICAgewogICAgICAgIHZhbHVlczogdGltZVswXSwKICAgICAgfSwKICAgIF0sIC8vINSk1LzKsbzkCiAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>fault</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>fault</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -1207,10 +1214,6 @@
     </search>
     <history>
       <history-search>
-        <entry>400000080000</entry>
-        <entry>4000080000</entry>
-        <entry>van-icon</entry>
-        <entry>light</entry>
         <entry>icon</entry>
         <entry>va-card</entry>
         <entry>van-card</entry>
@@ -1227,6 +1230,10 @@
         <entry>75</entry>
         <entry>$phone</entry>
         <entry>fault</entry>
+        <entry>ref</entry>
+        <entry>0</entry>
+        <entry>showP</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
