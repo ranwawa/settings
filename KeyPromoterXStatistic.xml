@@ -1,0 +1,46 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Key Promoter X">
+        <Item>
+          <IdeaActionID>ActivateKeyPromoterXToolWindow</IdeaActionID>
+          <ShortCut>'Alt+K'</ShortCut>
+          <Description>Key Promoter X</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="LF - Unix and macOS (\n)">
+        <Item>
+          <IdeaActionID>ConvertToUnixLineSeparators</IdeaActionID>
+          <ShortCut>'Alt+E, Ctrl+N'</ShortCut>
+          <Description>LF - Unix and macOS (\n)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remote Host">
+        <Item>
+          <IdeaActionID>ActivateRemoteHostToolWindow</IdeaActionID>
+          <ShortCut>'Alt+R'</ShortCut>
+          <Description>Remote Host</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
