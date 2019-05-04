@@ -872,6 +872,11 @@
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
       </file>
+      <file name="E:/project/spec/src/assets/scss/test.scss" timestamp="1556934952984">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="E:/webpack/src/101/src/scss/custom.scss" timestamp="1555486001851">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1127,10 +1132,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pakeage</text>
+        <text>$test: a;
+@mixin abc {
+  
+}</text>
       </register>
       <register name="-" type="4">
-        <text>pakeage</text>
+        <text>22</text>
       </register>
       <register name="/" type="4">
         <text>seller</text>
@@ -1138,13 +1146,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIKm4qaRzdG9yZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">qaYgIC5lc2xpbnRyYy5qcwqppiAgcGFja2FnZS5qc29uCg==</text>
+      <register name="1" type="4">
+        <text>$test: a;
+@mixin abc {
+  
+}</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">qaYgIC5lc2xpbnRyYy5qcwqppiAgcGFja2FnZS5qc29uCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>│
 ├─.idea
 │  │  misc.xml
@@ -1156,16 +1170,16 @@
 │          Project_Default.xml
 │</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>│      .nojekyll
 │      index.html
 │      README.md
 │</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>├─docs
 └─src
     ├─api
@@ -1176,14 +1190,11 @@
     └─store
     └─package.json</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyMjINSkwMAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">o62hodKqICAK</text>
+        <text encoding="base64">IyMjINSkwMAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
