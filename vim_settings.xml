@@ -913,12 +913,12 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="E:/zmn-h5/c/vue.config.js" timestamp="1557044679095">
+      <file name="E:/zmn-h5/c/vue.config.js" timestamp="1557047348926">
         <mark key="'" line="43" column="16" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="74" column="4" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="69" column="28" />
+        <mark key="[" line="68" column="7" />
+        <mark key="]" line="68" column="8" />
+        <mark key="." line="68" column="8" />
+        <mark key="^" line="68" column="22" />
       </file>
       <file name="E:/zmn-h5/c/src/pages/feedback/components/uploader.vue" timestamp="1556517134116">
         <mark key="[" line="28" column="28" />
@@ -1115,8 +1115,10 @@
       <jump line="68" column="147" filename="E:/zmn-h5/c/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>: {
+      source-map: true
+    }</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1127,35 +1129,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRldlNlcnZlcjogewogICAgICBkaXNhYmxlSG9zdENoZWNrOiB0cnVlLAogICAgfSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>: {
+      source-map: true
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpc2FibGVIb3N0Q2hlY2s6IHRydWUK</text>
+        <text encoding="base64">ICAgIGRldlNlcnZlcjogewogICAgICBkaXNhYmxlSG9zdENoZWNrOiB0cnVlLAogICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc2FibGVIb3N0Q2hlY2sK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZXZTZXJ2ZXI6IHsKICAgIGRpc2FibGVIb3N0Q2hlY2s6IHRydWUsCiAgfSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRpc2FibGVIb3N0Q2hlY2s6IHRydWUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRpc2FibGVIb3N0Q2hlY2sK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkZXZTZXJ2ZXI6IHsKICAgIGRpc2FibGVIb3N0Q2hlY2s6IHRydWUsCiAgfSwK</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-        SwitchCase: 1,
-        flatTernaryExpressions: true,
-      },</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgoK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
