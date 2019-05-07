@@ -221,6 +221,12 @@
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
+      <file name="E:/zmn-h5/c/src/api/card.js" timestamp="1557191204581">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+      </file>
       <file name="E:/webpack/src/ts/common.ts" timestamp="1554122108804">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="14" />
@@ -807,7 +813,6 @@
         <mark key="." line="431" column="1" />
         <mark key="^" line="431" column="1" />
       </file>
-      <file name="E:/koa/package.json" timestamp="1557138615913" />
       <file name="E:/webpack/src/components/f-footer-1/index-dev.html" timestamp="1554281512522">
         <mark key="[" line="1" column="49" />
         <mark key="]" line="1" column="60" />
@@ -891,6 +896,12 @@
         <mark key="]" line="1" column="12" />
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
+      </file>
+      <file name="E:/zmn-h5/c/src/pages/card/index.vue" timestamp="1557191381541">
+        <mark key="[" line="57" column="16" />
+        <mark key="]" line="58" column="10" />
+        <mark key="^" line="58" column="10" />
+        <mark key="." line="58" column="10" />
       </file>
       <file name="E:/webpack/src/ts/custom.ts" timestamp="1554173928608">
         <mark key="[" line="0" column="16" />
@@ -1008,11 +1019,11 @@
       <jump line="74" column="0" filename="E:/zmn-h5/tpl/111/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnL2dldCcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>product/search</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>product/search</text>
       </register>
       <register name="/" type="4">
         <text>查看更多</text>
@@ -1020,32 +1031,33 @@
       <register name="0" type="4">
         <text>[[${site.imCode}]]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnL2dldCcpCg==</text>
+      <register name="1" type="4">
+        <text>fault {
+  s</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgYXBwID0gbmV3IEtvYSgpOwo=</text>
+        <text encoding="base64">cm91dGVyLmdldCgnL2dldCcpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Y29uc3QgYXBwID0gbmV3IEtvYSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0cik7Cg==</text>
+        <text encoding="base64">Y29uc3QgYXBwID0gbmV3IEtvYSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vb3Blbi53ZWl4aW4ucXEuY29tL2Nvbm5lY3Qvb2F1dGgyL2F1dGhvcml6ZT9hcHBpZD13eGZmYzE3OTRmYWE1NWY1ZGQmcmVkaXJlY3RfdXJpPWh0dHAlM2ElMmYlMmYxOTIuMTY4Ljk5LjMxJTNhODA4MCZyZXNwb25zZV90eXBlPWNvZGUmc2NvcGU9c25zYXBpX2Jhc2Umc3RhdGU9MTk4NyN3ZWNoYXRfcmVkaXJlY3QK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0cik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vb3Blbi53ZWl4aW4ucXEuY29tL2Nvbm5lY3Qvb2F1dGgyL2F1dGhvcml6ZT9hcHBpZD13eGZmYzE3OTRmYWE1NWY1ZGQmcmVkaXJlY3RfdXJpPWh0dHAlM2ElMmYlMmYxOTIuMTY4Ljk5LjMxJTNhODA4MCZyZXNwb25zZV90eXBlPWNvZGUmc2NvcGU9c25zYXBpX2Jhc2Umc3RhdGU9MTk4NyYjd2VjaGF0X3JlZGlyZWN0Cg==</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vb3Blbi53ZWl4aW4ucXEuY29tL2Nvbm5lY3Qvb2F1dGgyL2F1dGhvcml6ZT9hcHBpZD13eGZmYzE3OTRmYWE1NWY1ZGQmcmVkaXJlY3RfdXJpPWh0dHAlM2ElMmYlMmYxOTIuMTY4Ljk5LjMxJTNhODA4MCZyZXNwb25zZV90eXBlPWNvZGUmc2NvcGU9c25zYXBpX2Jhc2Umc3RhdGU9MTk4NyN3ZWNoYXRfcmVkaXJlY3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyDX1rXkxcXQ8go=</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vb3Blbi53ZWl4aW4ucXEuY29tL2Nvbm5lY3Qvb2F1dGgyL2F1dGhvcml6ZT9hcHBpZD13eGZmYzE3OTRmYWE1NWY1ZGQmcmVkaXJlY3RfdXJpPWh0dHAlM2ElMmYlMmYxOTIuMTY4Ljk5LjMxJTNhODA4MCZyZXNwb25zZV90eXBlPWNvZGUmc2NvcGU9c25zYXBpX2Jhc2Umc3RhdGU9MTk4NyYjd2VjaGF0X3JlZGlyZWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+        <text encoding="base64">ICAvLyDX1rXkxcXQ8go=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXMK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
