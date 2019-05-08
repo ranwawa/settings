@@ -179,6 +179,7 @@
         <mark key="." line="8" column="54" />
         <mark key="^" line="8" column="54" />
       </file>
+      <file name="E:/h5/sp/src/service/store/modules/user.js" timestamp="1557297816251" />
       <file name="E:/h5/wechat/src/pages.json" timestamp="1557279160455">
         <mark key="'" line="8" column="4" />
         <mark key="[" line="68" column="0" />
@@ -250,6 +251,9 @@
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
+      </file>
+      <file name="E:/h5/sp/src/service/api/order.js" timestamp="1557296167446">
+        <mark key="'" line="309" column="20" />
       </file>
       <file name="E:/webpack/src/101/src/order.html" timestamp="1555325017540">
         <mark key="[" line="122" column="16" />
@@ -474,6 +478,7 @@
         <mark key="^" line="2" column="122" />
         <mark key="." line="2" column="122" />
       </file>
+      <file name="E:/h5/sp/src/views/login/index.vue" timestamp="1557297744075" />
       <file name="E:/webpack/src/components/f-tab-1/f-tab-1.scss" timestamp="1555062449167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -485,6 +490,13 @@
         <mark key="]" line="6" column="46" />
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
+      </file>
+      <file name="E:/h5/sp/src/plugins/api.js" timestamp="1557297780492">
+        <mark key="'" line="26" column="35" />
+        <mark key="[" line="54" column="27" />
+        <mark key="]" line="55" column="23" />
+        <mark key="^" line="55" column="23" />
+        <mark key="." line="55" column="23" />
       </file>
       <file name="E:/webpack/src/public/scss/_img.scss" timestamp="1554776741116">
         <mark key="[" line="4" column="19" />
@@ -649,6 +661,9 @@
         <mark key="]" line="4" column="6" />
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
+      </file>
+      <file name="E:/h5/sp/src/routes/common.js" timestamp="1557295516270">
+        <mark key="'" line="13" column="15" />
       </file>
       <file name="E:/webpack/dist/js/common.js" timestamp="1554118230344">
         <mark key="[" line="0" column="0" />
@@ -966,9 +981,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="29" filename="E:/zmn-h5/node_modules/vue-carousel-3d/dist/vue-carousel-3d.min.js" />
-      <jump line="839" column="55" filename="E:/zmn-h5/node_modules/vue-carousel-3d/dist/vue-carousel-3d.min.js" />
-      <jump line="840" column="69" filename="E:/zmn-h5/node_modules/vue-carousel-3d/dist/vue-carousel-3d.min.js" />
       <jump line="842" column="98" filename="E:/zmn-h5/node_modules/vue-carousel-3d/dist/vue-carousel-3d.min.js" />
       <jump line="168" column="23" filename="E:/zmn-h5/c/src/pages/home/index.vue" />
       <jump line="270" column="0" filename="E:/zmn-h5/c/src/pages/product/detail.vue" />
@@ -1066,6 +1078,9 @@
       <jump line="66" column="33" filename="E:/h5/sp/package.json" />
       <jump line="39" column="11" filename="E:/h5/sp/package.json" />
       <jump line="145" column="32" filename="E:/h5/wechat/src/pages/home/index.vue" />
+      <jump line="13" column="15" filename="E:/h5/sp/src/routes/common.js" />
+      <jump line="309" column="20" filename="E:/h5/sp/src/service/api/order.js" />
+      <jump line="26" column="35" filename="E:/h5/sp/src/plugins/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1075,7 +1090,7 @@
         <text>discount</text>
       </register>
       <register name="/" type="4">
-        <text>script</text>
+        <text>namespace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjYXNlIDI6CiAgICAgICAgICByZXR1cm4gJ2NvdXBvbi1sYWJlbF9kaXNjb3VudCc7Cg==</text>
@@ -1121,9 +1136,9 @@
       </register>
     </registers>
     <search>
-      <last-search>script</last-search>
+      <last-search>namespace</last-search>
       <last-offset />
-      <last-pattern>script</last-pattern>
+      <last-pattern>namespace</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -1131,8 +1146,6 @@
     </search>
     <history>
       <history-search>
-        <entry>item</entry>
-        <entry>message</entry>
         <entry>bg</entry>
         <entry>evalu</entry>
         <entry>putblic</entry>
@@ -1151,6 +1164,8 @@
         <entry>core</entry>
         <entry>staging</entry>
         <entry>script</entry>
+        <entry>login</entry>
+        <entry>namespace</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
