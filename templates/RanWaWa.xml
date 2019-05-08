@@ -26,4 +26,11 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="///" value="/*&#10;* $END$&#10;* 作者: 冉娃娃&#10;* 时间: $date$&#10;*/" description="页面说明" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
