@@ -296,12 +296,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="E:/h5/wechat/src/pages/product/detail.vue" timestamp="1557366377726">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="23" />
+      <file name="E:/h5/wechat/src/pages/product/detail.vue" timestamp="1557370255067">
+        <mark key="'" line="16" column="17" />
+        <mark key="[" line="458" column="22" />
+        <mark key="]" line="458" column="22" />
+        <mark key="." line="458" column="22" />
+        <mark key="^" line="458" column="22" />
       </file>
       <file name="E:/webpack/src/components/f-footer/index-dev.html" timestamp="1554259167009">
         <mark key="[" line="1" column="19" />
@@ -580,10 +580,11 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="E:/h5/wechat/src/App.vue" timestamp="1557366438399">
-        <mark key="[" line="76" column="14" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="E:/h5/wechat/src/App.vue" timestamp="1557369994629">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+        <mark key="^" line="91" column="1" />
       </file>
       <file name="E:/h5/sp/config/index.js" timestamp="1557301923353">
         <mark key="[" line="12" column="0" />
@@ -791,12 +792,12 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="E:/h5/wechat/src/components/product-price.vue" timestamp="1557316530783">
+      <file name="E:/h5/wechat/src/components/product-price.vue" timestamp="1557367788870">
         <mark key="'" line="7" column="18" />
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="36" column="5" />
-        <mark key="." line="36" column="5" />
-        <mark key="^" line="36" column="5" />
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="38" column="23" />
+        <mark key="." line="38" column="23" />
+        <mark key="^" line="38" column="23" />
       </file>
       <file name="E:/zmn-h5/c/src/pages/card/card-item.vue" timestamp="1556270540649">
         <mark key="[" line="45" column="19" />
@@ -1063,7 +1064,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="E:/zmn-h5/c/src/pages/product/detail.vue" />
       <jump line="131" column="23" filename="E:/zmn-h5/c/src/pages/product/detail.vue" />
       <jump line="61" column="12" filename="E:/zmn-h5/c/src/pages/product/detail.vue" />
       <jump line="62" column="17" filename="E:/zmn-h5/c/src/pages/product/detail.vue" />
@@ -1163,55 +1163,66 @@
       <jump line="0" column="0" filename="E:/h5/wechat/src/assets/scss/common.scss" />
       <jump line="206" column="0" filename="E:/h5/wechat/src/pages/product/detail.vue" />
       <jump line="0" column="0" filename="E:/h5/wechat/src/pages/product/detail.vue" />
+      <jump line="16" column="17" filename="E:/h5/wechat/src/pages/product/detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>product.</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
-        <text>box</text>
+        <text>item</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICd2YW4tcmF0ZSc6IFJhdGUsCg==</text>
+        <text encoding="base64">ICBAaW1wb3J0ICIuLi8uLi9hc3NldHMvc2Nzcy9zcHJpdGUiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICMwMDA7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDxpbWFnZQogICAgICAgICAgY2xhc3M9InRvcC1pbWciCiAgICAgICAgICA6c3JjPSJwcm9kdWN0LiIKICAgICAgICAgIG1vZGU9IndpZHRoRml4IgogICAgICAgIC8+</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgINXiwO+1xMO/uPbSs8Pmyse38dK71sI/Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICC827jxuau/qs24w/cgzbPSu8rVt9Gx6te8Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
+      <register name="6" type="4">
+        <text>.sp-price {
+      @include sprite($price);
+    }
+
+    .sp-master {
+      @include sprite($master);
+    }
+
+    .sp-card {
+      @include sprite($card);
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICB7CiAgICAgICAgcHJvZHVjdElkOiAxLAogICAgICAgIHByb2R1Y3ROYW1lOiAxMjM0NSwKICAgICAgICBzbWFsbFBpY1NyYzogJy9zdGF0aWMvbG9nby5wbmcnLAogICAgICAgIHByZWZlcmVudGlhbFR5cGVUYWc6ICfC+jEwMLz1MjAnLAogICAgICAgIHByaWNlOiAzMzMsCiAgICAgICAgcHJpY2VTdHI6IDQ0NCwKICAgICAgfSwKICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgJl90ZXh0IHsKICAgICAgICBAaW5jbHVkZSBtdCgyKTsKICAgICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>box</last-search>
+      <last-search>item</last-search>
       <last-offset />
-      <last-pattern>box</last-pattern>
+      <last-pattern>item</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -1219,7 +1230,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
         <entry>wx</entry>
         <entry>home</entry>
         <entry>console</entry>
@@ -1239,6 +1249,7 @@
         <entry>子标题</entry>
         <entry>img</entry>
         <entry>box</entry>
+        <entry>item</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
