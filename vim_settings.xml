@@ -471,12 +471,12 @@
         <mark key="." line="46" column="12" />
         <mark key="^" line="46" column="12" />
       </file>
-      <file name="E:/project/yuelao2/src/pages/account/real/index.vue" timestamp="1557661944561">
-        <mark key="'" line="58" column="15" />
+      <file name="E:/project/yuelao2/src/pages/account/real/index.vue" timestamp="1557664064239">
+        <mark key="'" line="38" column="27" />
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
-        <mark key="^" line="89" column="50" />
+        <mark key="^" line="87" column="26" />
       </file>
       <file name="E:/webpack/src/components/f-article-1/f-article-1.html" timestamp="1555296868615">
         <mark key="[" line="0" column="24" />
@@ -770,6 +770,13 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="20" column="20" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="E:/project/yuelao2/src/pages/share/home/index.vue" timestamp="1557663707681">
+        <mark key="'" line="36" column="5" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="15" column="14" />
       </file>
       <file name="E:/webpack/src/main.js" timestamp="1554259291897">
         <mark key="[" line="3" column="0" />
@@ -1261,12 +1268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="41" filename="E:/zmn-h5/c/package.json" />
-      <jump line="5" column="40" filename="E:/zmn-h5/c/package.json" />
-      <jump line="7" column="29" filename="E:/zmn-h5/c/package.json" />
-      <jump line="47" column="21" filename="E:/zmn-h5/c/package.json" />
-      <jump line="49" column="11" filename="E:/zmn-h5/c/package.json" />
-      <jump line="51" column="5" filename="E:/zmn-h5/c/package.json" />
       <jump line="52" column="5" filename="E:/zmn-h5/c/package.json" />
       <jump line="56" column="9" filename="E:/zmn-h5/c/package.json" />
       <jump line="305" column="18" filename="E:/zmn-h5/c/src/pages/home/index.vue" />
@@ -1349,7 +1350,6 @@
       <jump line="123" column="61" filename="E:/project/yuelao2/src/pages/tab/account/index.vue" />
       <jump line="202" column="13" filename="E:/project/yuelao2/src/pages/tab/recommendation/index.vue" />
       <jump line="0" column="0" filename="E:/project/yuelao2/src/pages/tab/recommendation/index.vue" />
-      <jump line="0" column="0" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
       <jump line="34" column="37" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
       <jump line="31" column="16" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
       <jump line="35" column="50" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
@@ -1359,57 +1359,64 @@
       <jump line="10" column="2" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
       <jump line="121" column="0" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
       <jump line="27" column="11" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
-      <jump line="38" column="27" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
       <jump line="58" column="15" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
+      <jump line="93" column="34" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
+      <jump line="0" column="0" filename="E:/project/yuelao2/src/pages/share/home/index.vue" />
+      <jump line="31" column="5" filename="E:/project/yuelao2/src/pages/share/home/index.vue" />
+      <jump line="92" column="36" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
+      <jump line="0" column="0" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
+      <jump line="82" column="4" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
+      <jump line="21" column="34" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
+      <jump line="38" column="27" filename="E:/project/yuelao2/src/pages/account/real/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbmZpZy50b2tlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>wx.getStorageSync('rww-role')</text>
+        <text>absolute</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>submit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHNldFRpbWVvdXQod3gubmF2aWdhdGVCYWNrT25lLCAxNjg4KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbmZpZy50b2tlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmltZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMTIzMTIzMTIzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygzMzMzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChyZXMpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3guc2V0U3RvcmFnZVN5bmMoJ3J3dy1yb2xlJywgaXRlbSk7Cg==</text>
+        <text encoding="base64">ICBAZXh0ZW5kIC5wb3NpdGlvbi1hYnNvbHV0ZSwgLnctMTAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3gubmF2aWdhdGVCYWNrT25lKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbmZpZy50b2tlbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4kc3RvcmUuY29tbWl0KCdTRVRfUk9MRScsIHJvbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmltZyk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LmNhdGNoKChlcnIpID0+IHsKICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgICAgfSk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuJHN0b3JlLnN0YXRlLnNoYXJlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygzMzMzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>submit</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>submit</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -1417,8 +1424,6 @@
     </search>
     <history>
       <history-search>
-        <entry>schoolName</entry>
-        <entry>学历认证</entry>
         <entry>我的认证</entry>
         <entry>已认证</entry>
         <entry>发布一条动态</entry>
@@ -1431,12 +1436,14 @@
         <entry>立即认证</entry>
         <entry>commit</entry>
         <entry>sotre</entry>
-        <entry>submit</entry>
         <entry>CONSOLE</entry>
         <entry>log</entry>
         <entry>real</entry>
         <entry>333</entry>
         <entry>console</entry>
+        <entry>立即</entry>
+        <entry>img</entry>
+        <entry>submit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
