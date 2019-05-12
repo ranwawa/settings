@@ -95,7 +95,6 @@
         <mark key="^" line="6" column="47" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/project/spec/src/assets/scss/_mixins.scss" timestamp="1556935355108" />
       <file name="$USER_HOME$/Desktop/extracthtml/index.html" timestamp="1555322464584">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="27" />
@@ -126,7 +125,6 @@
         <mark key="." line="8" column="54" />
         <mark key="^" line="8" column="54" />
       </file>
-      <file name="E:/project/kongbao2.0/server/router/user-public.js" timestamp="1557100359855" />
       <file name="E:/project/kongbao2.0/client/pages/user/forgot.vue" timestamp="1557270373742">
         <mark key="'" line="21" column="34" />
         <mark key="[" line="50" column="28" />
@@ -237,6 +235,13 @@
         <mark key="]" line="153" column="1" />
         <mark key="." line="153" column="1" />
         <mark key="^" line="153" column="1" />
+      </file>
+      <file name="E:/project/yuelao2/src/pages/account/baseInfo/index.vue" timestamp="1557646366983">
+        <mark key="'" line="114" column="17" />
+        <mark key="[" line="115" column="53" />
+        <mark key="]" line="115" column="57" />
+        <mark key="^" line="115" column="57" />
+        <mark key="." line="115" column="57" />
       </file>
       <file name="E:/project/spec/docs/README.md" timestamp="1556934312320">
         <mark key="'" line="25" column="10" />
@@ -1170,10 +1175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="23" filename="E:/zmn-h5/c/src/pages/feedback/index.vue" />
-      <jump line="46" column="6" filename="E:/zmn-h5/c/src/pages/feedback/index.vue" />
-      <jump line="51" column="6" filename="E:/zmn-h5/c/src/pages/feedback/index.vue" />
-      <jump line="31" column="4" filename="E:/zmn-h5/c/src/pages/feedback/index.vue" />
       <jump line="76" column="2" filename="E:/zmn-h5/c/src/pages/order/evaluate.vue" />
       <jump line="10" column="10" filename="E:/zmn-h5/c/src/pages/order/evaluate.vue" />
       <jump line="278" column="18" filename="E:/zmn-h5/c/src/pages/home/index.vue" />
@@ -1270,6 +1271,10 @@
       <jump line="17" column="13" filename="E:/project/kongbao2.0/client/utils/reg.js" />
       <jump line="87" column="5" filename="E:/project/kongbao2.0/client/pages/user/login.vue" />
       <jump line="75" column="2" filename="E:/project/yuelao2/src/pages/tab/account/index.vue" />
+      <jump line="27" column="13" filename="E:/project/yuelao2/src/pages/account/baseInfo/index.vue" />
+      <jump line="95" column="24" filename="E:/project/yuelao2/src/pages/account/baseInfo/index.vue" />
+      <jump line="115" column="43" filename="E:/project/yuelao2/src/pages/account/baseInfo/index.vue" />
+      <jump line="114" column="17" filename="E:/project/yuelao2/src/pages/account/baseInfo/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1279,7 +1284,7 @@
         <text>心</text>
       </register>
       <register name="/" type="4">
-        <text>联系客服</text>
+        <text>schoolName</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ibG9naW4tbGluayI+CiAgICAgICAgPG51eHQtbGluayB0bz0iLyI+zfy8x8Pcwus/PC9udXh0LWxpbms+CiAgICAgIDwvZGl2Pgo=</text>
@@ -1316,9 +1321,9 @@
       </register>
     </registers>
     <search>
-      <last-search>联系客服</last-search>
+      <last-search>schoolName</last-search>
       <last-offset />
-      <last-pattern>联系客服</last-pattern>
+      <last-pattern>schoolName</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -1326,7 +1331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>status</entry>
         <entry>ws</entry>
         <entry>sender</entry>
         <entry>seller</entry>
@@ -1346,6 +1350,7 @@
         <entry>Phone</entry>
         <entry>Update</entry>
         <entry>联系客服</entry>
+        <entry>schoolName</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
