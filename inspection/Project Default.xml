@@ -11,10 +11,12 @@
   <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="3">
+        <list size="5">
           <item index="0" class="java.lang.String" itemvalue="mode" />
           <item index="1" class="java.lang.String" itemvalue="src" />
           <item index="2" class="java.lang.String" itemvalue="open-type" />
+          <item index="3" class="java.lang.String" itemvalue="form-type" />
+          <item index="4" class="java.lang.String" itemvalue="report-submit" />
         </list>
       </value>
     </option>
@@ -23,7 +25,7 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="16">
+        <list size="17">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -40,6 +42,7 @@
           <item index="13" class="java.lang.String" itemvalue="van-button" />
           <item index="14" class="java.lang.String" itemvalue="van-cell-group" />
           <item index="15" class="java.lang.String" itemvalue="van-field" />
+          <item index="16" class="java.lang.String" itemvalue="van-popup" />
         </list>
       </value>
     </option>
