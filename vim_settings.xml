@@ -193,8 +193,8 @@
         <mark key="^" line="87" column="20" />
         <mark key="." line="87" column="20" />
       </file>
-      <file name="E:/h5/wechat/src/pages/home/index.vue" timestamp="1557734282873">
-        <mark key="'" line="204" column="12" />
+      <file name="E:/h5/wechat/src/pages/home/index.vue" timestamp="1557738904658">
+        <mark key="'" line="207" column="8" />
         <mark key="[" line="283" column="15" />
         <mark key="]" line="284" column="9" />
         <mark key="^" line="284" column="9" />
@@ -226,6 +226,13 @@
         <mark key="]" line="205" column="68" />
         <mark key="^" line="205" column="68" />
         <mark key="." line="205" column="68" />
+      </file>
+      <file name="E:/h5/wechat/src/pages/my/my.vue" timestamp="1557738883812">
+        <mark key="'" line="15" column="33" />
+        <mark key="[" line="150" column="17" />
+        <mark key="]" line="152" column="31" />
+        <mark key="^" line="152" column="31" />
+        <mark key="." line="152" column="31" />
       </file>
       <file name="E:/h5/wechat/src/pages/product/detail.vue" timestamp="1557734032580">
         <mark key="'" line="0" column="0" />
@@ -341,10 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="11" filename="E:/h5/wechat/src/pages/product/search.vue" />
-      <jump line="46" column="27" filename="E:/h5/wechat/src/pages/product/search.vue" />
-      <jump line="72" column="33" filename="E:/h5/wechat/src/pages/home/index.vue" />
-      <jump line="317" column="38" filename="E:/h5/wechat/src/pages/home/index.vue" />
       <jump line="271" column="65" filename="E:/h5/wechat/src/pages/home/index.vue" />
       <jump line="45" column="30" filename="E:/h5/wechat/src/pages.json" />
       <jump line="23" column="18" filename="E:/h5/wechat/src/pages/feedback/components/uploader.vue" />
@@ -441,6 +444,10 @@
       <jump line="297" column="29" filename="E:/h5/wechat/src/pages/home/index.vue" />
       <jump line="204" column="12" filename="E:/h5/wechat/src/pages/home/index.vue" />
       <jump line="117" column="34" filename="E:/h5/wechat/src/pages.json" />
+      <jump line="10" column="36" filename="E:/h5/wechat/src/pages/my/my.vue" />
+      <jump line="11" column="27" filename="E:/h5/wechat/src/pages/my/my.vue" />
+      <jump line="15" column="33" filename="E:/h5/wechat/src/pages/my/my.vue" />
+      <jump line="207" column="8" filename="E:/h5/wechat/src/pages/home/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -451,7 +458,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>bind</text>
+        <text>avatar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5nZXRUeHQgPSBgJHt0aW1lfXNgOwo=</text>
@@ -489,9 +496,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bind</last-search>
+      <last-search>avatar</last-search>
       <last-offset />
-      <last-pattern>bind</last-pattern>
+      <last-pattern>avatar</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -499,7 +506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>token</entry>
         <entry>submi</entry>
         <entry>reserve</entry>
         <entry>preferentialValue</entry>
@@ -519,6 +525,7 @@
         <entry>优惠活动</entry>
         <entry>import</entry>
         <entry>bind</entry>
+        <entry>avatar</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
