@@ -10,12 +10,12 @@
         <mark key="." line="343" column="18" />
         <mark key="^" line="343" column="18" />
       </file>
-      <file name="E:/h5/wechat/src/pages/order/detail.vue" timestamp="1557740045637">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="^" line="73" column="15" />
-        <mark key="." line="172" column="0" />
+      <file name="E:/h5/wechat/src/pages/order/detail.vue" timestamp="1557741831433">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="72" column="22" />
+        <mark key="]" line="72" column="29" />
+        <mark key="^" line="72" column="29" />
+        <mark key="." line="72" column="29" />
       </file>
       <file name="E:/h5/wechat/src/api/request.js" timestamp="1557735143372">
         <mark key="'" line="29" column="0" />
@@ -31,11 +31,11 @@
         <mark key="." line="58" column="26" />
         <mark key="^" line="58" column="26" />
       </file>
-      <file name="E:/h5/wechat/src/pages/my/login.vue" timestamp="1557720988400">
-        <mark key="[" line="25" column="64" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="26" column="28" />
+      <file name="E:/h5/wechat/src/pages/my/login.vue" timestamp="1557741787317">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="25" column="28" />
       </file>
       <file name="E:/h5/wechat/src/pages.json" timestamp="1557740565149">
         <mark key="'" line="51" column="28" />
@@ -78,12 +78,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/h5/wechat/src/pages/product/search.vue" timestamp="1557557905440">
-        <mark key="'" line="161" column="18" />
-        <mark key="[" line="140" column="37" />
-        <mark key="]" line="140" column="37" />
-        <mark key="." line="140" column="37" />
-        <mark key="^" line="153" column="26" />
+      <file name="E:/h5/wechat/src/pages/product/search.vue" timestamp="1557741846114">
+        <mark key="'" line="160" column="18" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="152" column="26" />
       </file>
       <file name="E:/h5/wechat/src/api/product.js" timestamp="1557726897339">
         <mark key="[" line="14" column="2" />
@@ -232,12 +232,12 @@
         <mark key="^" line="205" column="68" />
         <mark key="." line="205" column="68" />
       </file>
-      <file name="E:/h5/wechat/src/pages/my/my.vue" timestamp="1557739769421">
-        <mark key="'" line="137" column="21" />
-        <mark key="[" line="150" column="17" />
-        <mark key="]" line="152" column="31" />
-        <mark key="^" line="152" column="31" />
-        <mark key="." line="152" column="31" />
+      <file name="E:/h5/wechat/src/pages/my/my.vue" timestamp="1557741791850">
+        <mark key="'" line="136" column="21" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="151" column="31" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="E:/h5/wechat/src/pages/product/detail.vue" timestamp="1557734032580">
         <mark key="'" line="0" column="0" />
@@ -354,8 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="7" filename="E:/h5/wechat/src/pages/home/index.vue" />
-      <jump line="340" column="10" filename="E:/h5/wechat/src/pages/product/detail.vue" />
       <jump line="239" column="14" filename="E:/h5/wechat/src/pages/product/detail.vue" />
       <jump line="134" column="27" filename="E:/h5/wechat/src/pages/home/index.vue" />
       <jump line="121" column="16" filename="E:/h5/wechat/src/pages/home/index.vue" />
@@ -454,55 +452,57 @@
       <jump line="6" column="8" filename="E:/h5/wechat/src/api/order.js" />
       <jump line="51" column="28" filename="E:/h5/wechat/src/pages.json" />
       <jump line="54" column="44" filename="E:/h5/wechat/src/pages/order/remend.vue" />
+      <jump line="175" column="19" filename="E:/h5/wechat/src/pages/order/detail.vue" />
+      <jump line="50" column="0" filename="E:/h5/wechat/src/pages/order/detail.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICFpbXBvcnRhbnQ=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gdG9kbyBwcm9kdWN0L3NlYXJjaCDL0cv3wdCx7dDo0qq3tbvYz/rBvwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICFpbXBvcnRhbnQ=</text>
+        <text>completeTime</text>
       </register>
       <register name="/" type="4">
-        <text>methods</text>
+        <text>服务时间</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHRoaXMuJHN0b3JlLmNvbW1pdCgnc2V0U2VsZWN0ZWRPcmRlcicsIGl0ZW0pOwogICAgICB1bmkubmF2aWdhdGVUbyh7CiAgICAgICAgdXJsOiAnL3BhZ2VzL29yZGVyL2V2YWx1YXRlJywKICAgICAgfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6ZGlzYWJsZWQ9ImNvbnRlbnQubGVuZ3RoIgo=</text>
+        <text encoding="base64">ICAgICAgLy8gdG9kbyBwcm9kdWN0L3NlYXJjaCDL0cv3wdCx7dDo0qq3tbvYz/rBvwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRvZG8gt/7O8bXY1rfX1rbOCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gdG9kbyC2qbWlwdCx7dDo0qq3tbvYtdjWt7XEzerV+9DFz6Isu7nQ6NKqyczGt7zbuPHTw9Pat7XQ3go=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIHRvZG8gudjT2s7Sw8fDu9PQz+C52NKzw+YgLS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb3JkZXIucmVNYXJrKHsKICAgICAgICBvcmRlcgogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgLy8gLy8gdG9kbyDSqsm+s/11cmzA78PmtcRjb2RlLNKqsru688PmyN3S18jHwum3swo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdW5pLm5hdmlnYXRlVG8oeyB1cmw6ICcvcGFnZXMvcmVzZXJ2ZS9jb21taXQnIH0pOwo=</text>
+        <text encoding="base64">ICAvLyB0b2RvINaxvdO08r+q0OjSqsrayKi1xNKzw+Ysu/K5/cbauvPM+Neqtb3V4rj20rPD5rvhsahhcHBpZLvxyKHKp7DcLLWry6LQwtK7tM6689PWxNy1x8K9Pwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbS5wcm9kdWN0TGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA6ZGlzYWJsZWQ9ImNvbnRlbnQubGVuZ3RoIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuY29tbWl0KCdzZXRTZWxlY3RlZFByb2R1Y3QnLCBpdGVtLnByb2R1Y3RMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICB2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8g1KS4tr/uLLaovfAszrK/7tfWts4K</text>
+        <text encoding="base64">ICAgICAgLy8gdG9kbyC2qbWlwdCx7dDo0qq3tbvYtdjWt7XEzerV+9DFz6Isu7nQ6NKqyczGt7zbuPHTw9Pat7XQ3go=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1hZ2Ugdi1lbHNlIDpzcmM9ImF2YXRhciIgLz4K</text>
+        <text encoding="base64">ICAgICAgb3JkZXIucmVNYXJrKHsKICAgICAgICBvcmRlcgogICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>methods</last-search>
+      <last-search>服务时间</last-search>
       <last-offset />
-      <last-pattern>methods</last-pattern>
+      <last-pattern>服务时间</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -510,7 +510,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onSh</entry>
         <entry>onL</entry>
         <entry>onLo</entry>
         <entry>todo</entry>
@@ -530,6 +529,7 @@
         <entry>order</entry>
         <entry>data</entry>
         <entry>methods</entry>
+        <entry>服务时间</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
