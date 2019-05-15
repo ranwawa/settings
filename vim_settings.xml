@@ -354,12 +354,11 @@
         <mark key="]" line="13" column="48" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="E:/h5/offical/nuxt.config.js" timestamp="1557817465147">
-        <mark key="'" line="8" column="8" />
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="43" column="6" />
-        <mark key="^" line="40" column="29" />
-        <mark key="." line="43" column="6" />
+      <file name="E:/h5/offical/nuxt.config.js" timestamp="1557884214157">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="9" />
       </file>
       <file name="E:/h5/cms/tpl/110/index.html" timestamp="1557815296968">
         <mark key="'" line="84" column="12" />
@@ -399,6 +398,7 @@
         <mark key="." line="66" column="21" />
         <mark key="^" line="66" column="21" />
       </file>
+      <file name="E:/h5/wechat/vue.config.js" timestamp="1557884204190" />
       <file name="E:/h5/wechat/src/pages/product/category.vue" timestamp="1557710982073">
         <mark key="'" line="102" column="18" />
         <mark key="[" line="35" column="0" />
@@ -422,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="18" filename="E:/h5/wechat/src/pages/product/search.vue" />
       <jump line="228" column="15" filename="E:/h5/wechat/src/pages/product/detail.vue" />
       <jump line="78" column="8" filename="E:/h5/wechat/src/pages/product/detail.vue" />
       <jump line="85" column="31" filename="E:/h5/wechat/src/pages/product/detail.vue" />
@@ -522,55 +521,71 @@
       <jump line="42" column="28" filename="E:/h5/wechat/src/utils/index.js" />
       <jump line="26" column="29" filename="E:/h5/wechat/src/api/request.js" />
       <jump line="49" column="12" filename="E:/h5/wechat/src/utils/index.js" />
+      <jump line="54" column="13" filename="E:/h5/offical/nuxt.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIG5ldywK</text>
       </register>
       <register name="-" type="4">
-        <text>'http%3a%2f%2f192.168.99.31%3a8080%2f%23'</text>
+        <text>png</text>
       </register>
       <register name="/" type="4">
-        <text>code</text>
+        <text>vue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzZXRMb2NhdGlvbkNpdHkoc3RhdGUsIHZhbHVlKSB7CiAgICBzdGF0ZS5sb2NhdGlvbkNpdHkgPSB2YWx1ZTsKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZTogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJ2Fzc2V0cy9zcHJpdGVzL3Nwcml0ZS5wbmcnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIG5ldywK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzNDUpOwo=</text>
+      <register name="2" type="4">
+        <text>new SpritesPlugin({
+      src: {
+        cwd: path.resolve(__dirname, 'static/icon'),
+        glob: '*.png',
+      },
+      target: {
+        image: path.resolve(__dirname, 'assets/sprites/sprite.png'),
+        css: path.resolve(__dirname, 'assets/sprites/sprite.scss'),
+      },
+      apiOptions: {
+        cssImageRef: '~sprite.png',
+      },
+      spritesmithOptions: {
+        padding: 20,
+      },
+    }),</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">Y29uc3QgcGF0aCBmcm9tICdwYXRoJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">Y28K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMTExLCBhKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYS5sb2cK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHN0YXRlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coT2JqZWN0LmFzc2lnbih7fSwgcmVzLmRhdGEpKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzNDUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUuY29tbWl0KCdzZXRMb2NhdGlvbkNpdHlIZWFkZXInLCApOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBsb2NhdGlvbiA9IHN0b3JlLnN0YXRlLmxvY2F0aW9uQ2l0eS5tYXAoKGVsZSkgPT4gKHsKICAgIAogIH0pKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>code</last-search>
+      <last-search>vue</last-search>
       <last-offset />
-      <last-pattern>code</last-pattern>
+      <last-pattern>vue</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -578,7 +593,6 @@
     </search>
     <history>
       <history-search>
-        <entry>预付款</entry>
         <entry>order</entry>
         <entry>data</entry>
         <entry>服务时间</entry>
@@ -598,6 +612,7 @@
         <entry>getG</entry>
         <entry>En</entry>
         <entry>code</entry>
+        <entry>vue</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
