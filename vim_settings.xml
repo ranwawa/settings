@@ -354,11 +354,12 @@
         <mark key="]" line="13" column="48" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="E:/h5/offical/nuxt.config.js" timestamp="1557887671490">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="61" column="9" />
+      <file name="E:/h5/offical/nuxt.config.js" timestamp="1557888905330">
+        <mark key="'" line="62" column="12" />
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="27" />
+        <mark key="." line="64" column="27" />
+        <mark key="^" line="63" column="43" />
       </file>
       <file name="E:/h5/cms/tpl/110/index.html" timestamp="1557815296968">
         <mark key="'" line="84" column="12" />
@@ -422,7 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="15" filename="E:/h5/wechat/src/pages/product/detail.vue" />
       <jump line="78" column="8" filename="E:/h5/wechat/src/pages/product/detail.vue" />
       <jump line="85" column="31" filename="E:/h5/wechat/src/pages/product/detail.vue" />
       <jump line="335" column="32" filename="E:/h5/wechat/src/pages/product/detail.vue" />
@@ -522,13 +522,14 @@
       <jump line="26" column="29" filename="E:/h5/wechat/src/api/request.js" />
       <jump line="49" column="12" filename="E:/h5/wechat/src/utils/index.js" />
       <jump line="54" column="13" filename="E:/h5/offical/nuxt.config.js" />
+      <jump line="66" column="12" filename="E:/h5/offical/nuxt.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>res.data</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>res.data</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>vue</text>
@@ -536,10 +537,46 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbWFnZTogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJ2Fzc2V0cy9zcHJpdGVzL3Nwcml0ZS5wbmcnKSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5ldywK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBzcmM6IHsKICAgICAgICAgICAgICBjd2Q6IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICdzdGF0aWMvaWNvbicpLAogICAgICAgICAgICAgIGdsb2I6ICcqLnBuZycsCiAgICAgICAgICAgIH0sCiAgICAgICAgIA==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgIHRhcmdldDogewogICAgICAgICAgICAgIGltYWdlOiBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnYXNzZXRzL3Nwcml0ZXMvc3ByaXRlLnBuZycpLAogICAgICAgICAgICAgIGNzczogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJ2Fzc2V0cy9zcHJpdGVzL3Nwcml0ZS5zY3NzJyksCiAgICAgICAgICAgIH0sCiAgICAgICA=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGFwaU9wdGlvbnM6IHsKICAgICAgICAgICAgICBjc3NJbWFnZVJlZjogJ35zcHJpdGUucG5nJywKICAgICAgICAgICAgfSwKICAgICAgICA=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgc3ByaXRlc21pdGhPcHRpb25zOiB7CiAgICAgICAgICAgICAgcGFkZGluZzogMjAsCiAgICAgICAgICAgIH0s</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>new SpritesPlugin({
+            src: {
+              cwd: path.resolve(__dirname, 'static/icon'),
+              glob: '*.png',
+            },
+            target: {
+              image: path.resolve(__dirname, 'assets/sprites/sprite.png'),
+              css: path.resolve(__dirname, 'assets/sprites/sprite.scss'),
+            },
+            apiOptions: {
+              cssImageRef: '~sprite.png',
+            },
+            spritesmithOptions: {
+              padding: 20,
+            },
+          }),</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5ldywK</text>
+      </register>
+      <register name="9" type="4">
         <text>new SpritesPlugin({
       src: {
         cwd: path.resolve(__dirname, 'static/icon'),
@@ -556,27 +593,6 @@
         padding: 20,
       },
     }),</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCBmcm9tICdwYXRoJzsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y28K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHN0YXRlKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzNDUpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
