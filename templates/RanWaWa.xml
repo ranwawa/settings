@@ -18,7 +18,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="vuex-mutation" value="// $comment$&#10;set$mutationName$(state, value) {&#10;  state.$stateName$ = value;&#10;}," toReformat="false" toShortenFQNames="true">
+  <template name="vuex-mutation" value="// $comment$&#10;set$mutationName$(state, value) {&#10;  state.$stateName$ = value;&#10;}," description="" toReformat="false" toShortenFQNames="true">
     <variable name="comment" expression="" defaultValue="&quot;一定要写注释哦&quot;" alwaysStopAt="true" />
     <variable name="mutationName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="stateName" expression="camelCase(mutationName)" defaultValue="camelCase(mutationName)" alwaysStopAt="true" />
@@ -27,7 +27,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name=".t" value=".then((res) =&gt; {&#10;  console.log(res);&#10;})" toReformat="false" toShortenFQNames="true">
+  <template name=".t" value=".then((res) =&gt; {&#10;  console.log(res);&#10;})" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
