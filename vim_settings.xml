@@ -69,12 +69,15 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="79" column="21" />
       </file>
-      <file name="E:/h5/wechat/src/App.vue" timestamp="1557892515038">
+      <file name="E:/h5/wechat/src/App.vue" timestamp="1557900053822">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="18" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
+      <file name="E:/h5/offical/assets/sprites/sprite.scss" timestamp="1557899504984">
+        <mark key="'" line="130" column="23" />
       </file>
       <file name="E:/h5/wechat/src/pages/product/search.vue" timestamp="1557741846114">
         <mark key="'" line="160" column="18" />
@@ -96,12 +99,12 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="E:/h5/offical/layouts/default.vue" timestamp="1557893111160">
-        <mark key="'" line="48" column="19" />
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="36" column="11" />
-        <mark key="." line="36" column="11" />
-        <mark key="^" line="36" column="11" />
+      <file name="E:/h5/offical/layouts/default.vue" timestamp="1557899922039">
+        <mark key="'" line="34" column="19" />
+        <mark key="[" line="59" column="27" />
+        <mark key="]" line="60" column="26" />
+        <mark key="." line="60" column="26" />
+        <mark key="^" line="60" column="26" />
       </file>
       <file name="E:/h5/wechat/src/api/product.js" timestamp="1557726897339">
         <mark key="[" line="14" column="2" />
@@ -354,7 +357,8 @@
         <mark key="]" line="13" column="48" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="E:/h5/offical/nuxt.config.js" timestamp="1557893041335">
+      <file name="E:/h5/offical/nuxt.config.js" timestamp="1557899377167">
+        <mark key="'" line="3" column="13" />
         <mark key="[" line="74" column="28" />
         <mark key="]" line="74" column="42" />
         <mark key="^" line="74" column="42" />
@@ -384,12 +388,12 @@
         <mark key="." line="59" column="52" />
         <mark key="^" line="59" column="52" />
       </file>
-      <file name="E:/h5/wechat/src/pages/home/index.vue" timestamp="1557891874634">
-        <mark key="'" line="380" column="29" />
-        <mark key="[" line="291" column="14" />
-        <mark key="]" line="291" column="13" />
-        <mark key="." line="291" column="13" />
-        <mark key="^" line="291" column="13" />
+      <file name="E:/h5/wechat/src/pages/home/index.vue" timestamp="1557900422063">
+        <mark key="'" line="664" column="2" />
+        <mark key="[" line="50" column="31" />
+        <mark key="]" line="50" column="31" />
+        <mark key="." line="50" column="31" />
+        <mark key="^" line="50" column="31" />
       </file>
       <file name="E:/h5/wechat/src/pages/card/index.vue" timestamp="1557814076869">
         <mark key="'" line="65" column="17" />
@@ -422,9 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="E:/h5/wechat/src/api/request.js" />
-      <jump line="31" column="5" filename="E:/h5/wechat/src/store/mutations.js" />
-      <jump line="0" column="0" filename="E:/h5/wechat/src/store/mutations.js" />
       <jump line="91" column="38" filename="E:/h5/wechat/src/pages/my/my.vue" />
       <jump line="266" column="0" filename="E:/h5/wechat/src/pages/product/detail.vue" />
       <jump line="113" column="0" filename="E:/h5/wechat/src/pages/my/my.vue" />
@@ -509,7 +510,6 @@
       <jump line="35" column="19" filename="E:/h5/offical/layouts/default.vue" />
       <jump line="21" column="27" filename="E:/h5/offical/assets/sprites/sprite.scss" />
       <jump line="143" column="15" filename="E:/h5/offical/assets/sprites/sprite.scss" />
-      <jump line="144" column="1" filename="E:/h5/offical/assets/sprites/sprite.scss" />
       <jump line="145" column="1" filename="E:/h5/offical/assets/sprites/sprite.scss" />
       <jump line="146" column="1" filename="E:/h5/offical/assets/sprites/sprite.scss" />
       <jump line="147" column="1" filename="E:/h5/offical/assets/sprites/sprite.scss" />
@@ -522,61 +522,59 @@
       <jump line="154" column="1" filename="E:/h5/offical/assets/sprites/sprite.scss" />
       <jump line="291" column="14" filename="E:/h5/wechat/src/pages/home/index.vue" />
       <jump line="380" column="29" filename="E:/h5/wechat/src/pages/home/index.vue" />
+      <jump line="3" column="13" filename="E:/h5/offical/nuxt.config.js" />
+      <jump line="144" column="14" filename="E:/h5/offical/assets/sprites/sprite.scss" />
+      <jump line="130" column="23" filename="E:/h5/offical/assets/sprites/sprite.scss" />
+      <jump line="664" column="2" filename="E:/h5/wechat/src/pages/home/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>img</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>img</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>sprite</text>
+        <text>group</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAaW1wb3J0ICIuLi9hc3NldHMvc2Nzcy9fbWl4aW5zLnNjc3MiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAaW5jbHVkZQo=</text>
+        <text encoding="base64">ICAgIGJvcmRlci1zdHlsZTogOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBAaW1wb3J0ICIuLi9hc3NldHMvc2Nzcy9fbWl4aW5zLnNjc3MiOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBAaW1wb3J0ICIuLi9hc3NldHMvc2Nzcy9fbWl4aW5zLnNjc3MiOwogIEBpbXBvcnQgIi4uL2Fzc2V0cy9zcHJpdGVzL3Nwcml0ZS5zY3NzIjsKCiAgLyogtqWyv7W8ur0gKi8KICAubmF2IHsKICAgIEBpbmNsdWRlIGQtZmxleC1yb3c7CiAgICBAaW5jbHVkZSBweCg0KTsKICAgIEBpbmNsdWRlIHB5KDIpOwogICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuOwogICAgYm9yZGVyOiAxcHggc29saWQgIzAwMDsKICAgIC8vINfzsuBMb2dvCiAgICAmLWxlZnQgewogICAgICBAaW5jbHVkZSBkLWZsZXgtcm93OwogICAgICAmX2xvZ28gewogICAgICAgIEBpbmNsdWRlIHNwcml0ZSgkbG9nbyk7CiAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICAgIGhlaWdodDogMzhweDsKICAgICAgfQogICAgICAmX25hbWUgewogICAgICAgIEBpbmNsdWRlIGJsOwogICAgICAgIEBpbmNsdWRlIG1sKDMpOwogICAgICAgIEBpbmNsdWRlIHBsKDMpOwogICAgICAgIGNvbG9yOiAkdHh0LWxpZ2h0OwogICAgICB9CiAgICB9CgogICAgLyog09Ky4LC0xaUgKi8KICAgICYtYnRuIHsKICAgICAgQGluY2x1ZGUgc3ByaXRlKCRncm91cCk7CiAgICB9CiAgfQ==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IC5uYXYgewogICAgY29sb3I6ICR0eHQtZGFyazsKICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDsKICAgIC8vINfzsuBMb2dvCiAgICAmLWxvZ28gewogICAgICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwogICAgICBpbWcgewogICAgICAgIGhlaWdodDogMzhweDsKICAgICAgfQogICAgfQogIH0KICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nCiAgICAgICAgICBzcmM9Imh0dHBzOi8vZ2l0LnhpdWppYWRpYW4uY29tL3VwbG9hZHMvLS9zeXN0ZW0vZ3JvdXAvYXZhdGFyLzY5L2g1MjIuanBnP3dpZHRoPTM4IgogICAgICAgICAgYWx0PSLXxMS+xPFsb2dvIgogICAgICAgID4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgLmJ1dHRvbi0tZ3JlZW4gewogICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgYm9yZGVyLXJhZGl1czogNHB4OwogICAgYm9yZGVyOiAxcHggc29saWQgIzNiODA3MDsKICAgIGNvbG9yOiAjM2I4MDcwOwogICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgcGFkZGluZzogMTBweCAzMHB4OwogIH0KCiAgLmJ1dHRvbi0tZ3JlZW46aG92ZXIgewogICAgY29sb3I6ICNmZmY7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjM2I4MDcwOwogIH0KCiAgLmJ1dHRvbi0tZ3JleSB7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgICBib3JkZXItcmFkaXVzOiA0cHg7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjMzU0OTVlOwogICAgY29sb3I6ICMzNTQ5NWU7CiAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7CiAgICBwYWRkaW5nOiAxMHB4IDMwcHg7CiAgICBtYXJnaW4tbGVmdDogMTVweDsKICB9CgogIC5idXR0b24tLWdyZXk6aG92ZXIgewogICAgY29sb3I6ICNmZmY7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMzU0OTVlOwogIH0KCiAgLyogtqWyv7W8ur0gKi8=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>vue: {
-    config: {
-      configureWebpack: {
-        plugins: [],
-      },
-    },
-  },</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsKY29uc3QgU3ByaXRlc1BsdWdpbiA9IHJlcXVpcmUoJ3dlYnBhY2stc3ByaXRlc21pdGgnKTsK</text>
+        <text encoding="base64">ICAgICAgICBAaW5jbHVkZSAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBzcmM6IHsKICAgICAgICAgICAgICBjd2Q6IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICdzdGF0aWMvaWNvbicpLAogICAgICAgICAgICAgIGdsb2I6ICcqLnBuZycsCiAgICAgICAgICAgIH0sCiAgICAgICAgIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBAaW5jbHVkZSBibDsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHRhcmdldDogewogICAgICAgICAgICAgIGltYWdlOiBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnYXNzZXRzL3Nwcml0ZXMvc3ByaXRlLnBuZycpLAogICAgICAgICAgICAgIGNzczogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJ2Fzc2V0cy9zcHJpdGVzL3Nwcml0ZS5zY3NzJyksCiAgICAgICAgICAgIH0sCiAgICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>sprite</last-search>
+      <last-search>group</last-search>
       <last-offset />
-      <last-pattern>sprite</last-pattern>
+      <last-pattern>group</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -584,7 +582,6 @@
     </search>
     <history>
       <history-search>
-        <entry>export</entry>
         <entry>onLoad</entry>
         <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
         <entry>二级</entry>
@@ -604,6 +601,7 @@
         <entry>logo-x</entry>
         <entry>spites</entry>
         <entry>sprite</entry>
+        <entry>group</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
