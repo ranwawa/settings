@@ -224,8 +224,8 @@
         <mark key="]" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="E:/h5/wechat/src/pages.json" timestamp="1557740565149">
-        <mark key="'" line="51" column="28" />
+      <file name="E:/h5/wechat/src/pages.json" timestamp="1557902793735">
+        <mark key="'" line="73" column="5" />
         <mark key="[" line="95" column="35" />
         <mark key="]" line="95" column="36" />
         <mark key="." line="95" column="36" />
@@ -425,7 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="38" filename="E:/h5/wechat/src/pages/my/my.vue" />
       <jump line="266" column="0" filename="E:/h5/wechat/src/pages/product/detail.vue" />
       <jump line="113" column="0" filename="E:/h5/wechat/src/pages/my/my.vue" />
       <jump line="182" column="7" filename="E:/h5/wechat/src/pages/reserve/index.vue" />
@@ -525,6 +524,7 @@
       <jump line="144" column="14" filename="E:/h5/offical/assets/sprites/sprite.scss" />
       <jump line="130" column="23" filename="E:/h5/offical/assets/sprites/sprite.scss" />
       <jump line="664" column="2" filename="E:/h5/wechat/src/pages/home/index.vue" />
+      <jump line="73" column="5" filename="E:/h5/wechat/src/pages.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -535,7 +535,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text>evaluate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAaW1wb3J0ICIuLi9hc3NldHMvc2Nzcy9fbWl4aW5zLnNjc3MiOwo=</text>
@@ -573,9 +573,9 @@
       </register>
     </registers>
     <search>
-      <last-search>group</last-search>
+      <last-search>evaluate</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern>evaluate</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -583,8 +583,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onLoad</entry>
-        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
         <entry>二级</entry>
         <entry>img</entry>
         <entry>image</entry>
@@ -603,6 +601,8 @@
         <entry>spites</entry>
         <entry>sprite</entry>
         <entry>group</entry>
+        <entry>onL</entry>
+        <entry>evaluate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
