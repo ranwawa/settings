@@ -265,12 +265,12 @@
         <mark key="." line="192" column="38" />
         <mark key="^" line="192" column="38" />
       </file>
-      <file name="E:/h5/wechat/src/pages/product/detail.vue" timestamp="1557734032580">
+      <file name="E:/h5/wechat/src/pages/product/detail.vue" timestamp="1558005649777">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="32" />
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="38" />
       </file>
       <file name="E:/h5/wechat/src/pages/product/discount.vue" timestamp="1557733308716">
         <mark key="'" line="0" column="0" />
@@ -300,7 +300,7 @@
         <mark key="." line="46" column="39" />
         <mark key="^" line="46" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557989561583">
+      <file name="/Dummy.txt" timestamp="1558004993050">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/zmn-h5/c/src/pages/my/bind-phone.vue" timestamp="1557221742620">
@@ -345,13 +345,13 @@
         <mark key="." line="80" column="41" />
         <mark key="^" line="80" column="41" />
       </file>
-      <file name="E:/h5/wechat/src/manifest.json" timestamp="1557998785245">
-        <mark key="[" line="82" column="21" />
-        <mark key="]" line="82" column="22" />
-        <mark key="^" line="82" column="20" />
-        <mark key="." line="82" column="22" />
+      <file name="E:/h5/wechat/src/manifest.json" timestamp="1558005272993">
+        <mark key="[" line="95" column="58" />
+        <mark key="]" line="95" column="58" />
+        <mark key="^" line="95" column="56" />
+        <mark key="." line="95" column="58" />
       </file>
-      <file name="E:/h5/wechat/src/utils/index.js" timestamp="1558004171239">
+      <file name="E:/h5/wechat/src/utils/index.js" timestamp="1558004915192">
         <mark key="'" line="27" column="13" />
         <mark key="[" line="12" column="44" />
         <mark key="]" line="12" column="74" />
@@ -365,7 +365,7 @@
         <mark key="." line="383" column="33" />
         <mark key="^" line="383" column="33" />
       </file>
-      <file name="E:/h5/wechat/src/api/config.js" timestamp="1558000135393">
+      <file name="E:/h5/wechat/src/api/config.js" timestamp="1558005255192">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="1" column="44" />
         <mark key="." line="1" column="44" />
@@ -406,8 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="0" filename="E:/h5/wechat/src/pages/order/detail.vue" />
-      <jump line="0" column="0" filename="E:/h5/wechat/src/pages/order/detail.vue" />
       <jump line="6" column="8" filename="E:/h5/wechat/src/api/order.js" />
       <jump line="51" column="28" filename="E:/h5/wechat/src/pages.json" />
       <jump line="54" column="44" filename="E:/h5/wechat/src/pages/order/remend.vue" />
@@ -506,55 +504,60 @@
       <jump line="175" column="19" filename="E:/h5/offical/pages/index.vue" />
       <jump line="202" column="0" filename="E:/h5/offical/pages/index.vue" />
       <jump line="124" column="18" filename="E:/h5/offical/layouts/default.vue" />
+      <jump line="328" column="36" filename="E:/h5/wechat/src/pages/product/detail.vue" />
+      <jump line="0" column="0" filename="E:/h5/wechat/src/pages/product/detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e2c4748158.qicp.vip/#</text>
+        <text>static</text>
       </register>
       <register name="-" type="4">
-        <text>e2c4748158.qicp.vip/#</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
-        <text>server</text>
+        <text>logo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZHJlbjogWwogICAgICAgICAge25hbWU6ICezp8nMyOvXpCcsIHVybDogJy8nfSwKICAgICAgICAgIHtuYW1lOiAnzqzQ3s34teO808PLJywgdXJsOiAnLyd9LAogICAgICAgIF0K</text>
+      <register name="0" type="4">
+        <text>&quot;/api&quot;: {
+          &quot;target&quot;: &quot;http://api-wct.xiujiadian.com:10643&quot;,
+          &quot;pathRewrite&quot;: {&quot;^/api&quot;: &quot;&quot;}
+        },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJwYXRoUmV3cml0ZSI6IHsiXi9hcGkiOiAiIn0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2hpbGRyZW46IFsKICAgICAgICAKICAgICAgXX0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpY1BhdGg6ICcuLycsCg==</text>
+        <text encoding="base64">ICAgICAgY2hpbGRyZW46IFsKICAgICAgICAKICAgICAgXX0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGV4dC1hbGlnbi1sYXN0OiByaWdodDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpY1BhdGg6ICcuLycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICYtdGl0bGUgewogICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdGV4dC1hbGlnbi1sYXN0OiByaWdodDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogJHRoZW1lLWNvbG9yOwo=</text>
+        <text encoding="base64">ICAgICYtdGl0bGUgewogICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxMnB4Owo=</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogJHRoZW1lLWNvbG9yOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQGluY2x1ZGUgbWIoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxMnB4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>server</last-search>
+      <last-search>logo</last-search>
       <last-offset />
-      <last-pattern>server</last-pattern>
+      <last-pattern>logo</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -562,7 +565,6 @@
     </search>
     <history>
       <history-search>
-        <entry>92474</entry>
         <entry>vue</entry>
         <entry>css</entry>
         <entry>hotProduct</entry>
@@ -572,7 +574,6 @@
         <entry>goE</entry>
         <entry>关于我们</entry>
         <entry>onLoad</entry>
-        <entry>methods</entry>
         <entry>state</entry>
         <entry>userInfo</entry>
         <entry>dd</entry>
@@ -582,6 +583,8 @@
         <entry>20</entry>
         <entry>data</entry>
         <entry>server</entry>
+        <entry>methods</entry>
+        <entry>logo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
