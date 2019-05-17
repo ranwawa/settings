@@ -352,12 +352,12 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="605" column="30" />
       </file>
-      <file name="E:/h5/wechat/src/api/config.js" timestamp="1558067343188">
+      <file name="E:/h5/wechat/src/api/config.js" timestamp="1558094872219">
         <mark key="'" line="6" column="46" />
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="E:/h5/wechat/src/pages/card/index.vue" timestamp="1558094084426">
         <mark key="'" line="37" column="15" />
@@ -497,7 +497,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getCurrentPages</text>
+        <text>const product = {
+  apiUrl: 'https://test-api-crm.xiujiadian.com/',
+  redirectUrl: 'https://test-h5.xiujiadian.com/wxuser/#',
+  appId: 'wxa0cd9baf2f153ec2',
+};</text>
       </register>
       <register name="-" type="4">
         <text>getCurrentPages</text>
@@ -505,8 +509,12 @@
       <register name="/" type="4">
         <text>config</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdnZXRDdXJyZW50UGFnZXMnOiB0cnVlLAo=</text>
+      <register name="0" type="4">
+        <text>const product = {
+  apiUrl: 'https://test-api-crm.xiujiadian.com/',
+  redirectUrl: 'https://test-h5.xiujiadian.com/wxuser/#',
+  appId: 'wxa0cd9baf2f153ec2',
+};</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">PHZhbi1idXR0b24KICAgICAgICAgICAgcm91bmQKICAgICAgICAgICAgc2l6ZT0ic21hbGwiCiAgICAgICAgICAgIEBjbGljay5zdG9wPSJyZU1lbmQoaXRlbSkiCiAgICAgICAgICA+CiAgICAgICAgICAgILe10N4KICAgICAgICAgIDwvdmFuLWJ1dHRvbj4=</text>
