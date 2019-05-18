@@ -365,12 +365,12 @@
         <mark key="." line="73" column="175" />
         <mark key="^" line="73" column="175" />
       </file>
-      <file name="E:/h5/wechat/src/pages/address/edit.vue" timestamp="1558112599090">
-        <mark key="'" line="62" column="23" />
-        <mark key="[" line="210" column="18" />
-        <mark key="]" line="210" column="18" />
-        <mark key="." line="210" column="18" />
-        <mark key="^" line="210" column="18" />
+      <file name="E:/h5/wechat/src/pages/address/edit.vue" timestamp="1558156096352">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="107" column="12" />
+        <mark key="]" line="108" column="11" />
+        <mark key="." line="108" column="11" />
+        <mark key="^" line="108" column="11" />
       </file>
       <file name="E:/h5/cms/docs/directory-uni-app.md" timestamp="1557577987511">
         <mark key="'" line="8" column="5" />
@@ -381,8 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="3" filename="E:/h5/wechat/src/pages/order/detail.vue" />
-      <jump line="196" column="0" filename="E:/h5/wechat/src/pages/order/detail.vue" />
       <jump line="0" column="0" filename="E:/h5/wechat/src/pages/order/detail.vue" />
       <jump line="63" column="14" filename="E:/h5/wechat/src/pages/order/detail.vue" />
       <jump line="349" column="21" filename="E:/h5/wechat/src/pages/order/detail.vue" />
@@ -481,6 +479,8 @@
       <jump line="77" column="23" filename="E:/h5/wechat/src/components/ss-select-city/ss-select-city.vue" />
       <jump line="95" column="57" filename="E:/h5/wechat/src/components/ss-select-city/ss-select-city.vue" />
       <jump line="117" column="48" filename="E:/h5/wechat/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="72" column="15" filename="E:/h5/wechat/src/pages/address/edit.vue" />
+      <jump line="69" column="0" filename="E:/h5/wechat/src/pages/address/edit.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -490,7 +490,7 @@
         <text>city</text>
       </register>
       <register name="/" type="4">
-        <text>current</text>
+        <text>methods</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEBjbGljaz0ib25TZWxlY3QyKGNpdHkpIgo=</text>
@@ -527,9 +527,9 @@
       </register>
     </registers>
     <search>
-      <last-search>current</last-search>
+      <last-search>methods</last-search>
       <last-offset />
-      <last-pattern>current</last-pattern>
+      <last-pattern>methods</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -537,8 +537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>methods</entry>
-        <entry>sumibt</entry>
         <entry>edit</entry>
         <entry>onEdit</entry>
         <entry>submit</entry>
@@ -557,6 +555,8 @@
         <entry>location</entry>
         <entry>setSelect</entry>
         <entry>current</entry>
+        <entry>medhots</entry>
+        <entry>methods</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
