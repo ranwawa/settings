@@ -310,6 +310,12 @@
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="41" />
       </file>
+      <file name="E:/h5/wechat/src/pages/order/components/order_btn.vue" timestamp="1558322029624">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="30" column="58" />
+        <mark key="." line="30" column="58" />
+        <mark key="^" line="30" column="58" />
+      </file>
       <file name="E:/h5/wechat/src/store/state.js" timestamp="1558154811200">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="10" column="16" />
@@ -338,11 +344,11 @@
         <mark key="." line="110" column="12" />
         <mark key="^" line="115" column="18" />
       </file>
-      <file name="E:/h5/wechat/src/pages/address/components/address_picker_2.vue" timestamp="1558320782135">
-        <mark key="[" line="43" column="53" />
-        <mark key="]" line="43" column="54" />
-        <mark key="." line="43" column="54" />
-        <mark key="^" line="43" column="56" />
+      <file name="E:/h5/wechat/src/pages/address/components/address_picker_2.vue" timestamp="1558321606946">
+        <mark key="[" line="44" column="53" />
+        <mark key="]" line="44" column="55" />
+        <mark key="^" line="44" column="55" />
+        <mark key="." line="44" column="55" />
       </file>
       <file name="E:/h5/offical/components/partner.vue" timestamp="1558271999291">
         <mark key="'" line="21" column="7" />
@@ -377,7 +383,7 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="33" />
       </file>
-      <file name="E:/h5/wechat/src/pages/order/list.vue" timestamp="1558146927611">
+      <file name="E:/h5/wechat/src/pages/order/list.vue" timestamp="1558322013317">
         <mark key="'" line="63" column="18" />
         <mark key="[" line="46" column="44" />
         <mark key="]" line="46" column="44" />
@@ -548,44 +554,48 @@
       <jump line="4598" column="4" filename="E:/h5/wechat/src/pages/address/components/area.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>arrList[firstIndex].nextLevelAreaList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdi1pZj0iaXRlbS5zdGF0dXMgIT09IDgxIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>arrList[firstIndex].nextLevelAreaList</text>
+        <text>ee</text>
       </register>
       <register name="/" type="4">
         <text>up</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5pc0ZpeGVkID0gdHJ1ZTsK</text>
+      <register name="0" type="4">
+        <text>this.getSecondColumnValue(firstIndex).length</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qLwo=</text>
+        <text encoding="base64">ICAgICAgdi1pZj0iaXRlbS5zdGF0dXMgIT09IDgxIgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KgogICAgKiC78cihtdoywdDK/b7dCiAgICAqIAogICAgKiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHNyYy5sZW5ndGgpIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vILvxyKG12jLB0Na1wdCx7Qo=</text>
+      <register name="3" type="4">
+        <text>{
+        return src[secondIndex];
+      } else {
+        return [];
+      }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldFNlbgo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuZ2V0QXJlYSh0aGlzLmdldFNlY29uZENvbHVtblZhbHVlKGZpcnN0SW5kZXgpLmxlbmd0aCApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGlzdFswXS52YWx1ZXMgPTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2UgPSBhcnJMaXN0W2ZpcnN0SW5kZXhdLm5leHRMZXZlbEFyZWFMaXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgaWYgKCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgY29uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlKTsK</text>
+        <text encoding="base64">ICBlbGUubmV4dExldmVsQXJlYUxpc3QgPSBlbGUubWFwKGVsID0+IHsKICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
