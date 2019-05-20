@@ -38,8 +38,8 @@
         <mark key="^" line="95" column="25" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="E:/h5/wechat/src/pages/address/list.vue" timestamp="1558152872787">
-        <mark key="'" line="29" column="13" />
+      <file name="E:/h5/wechat/src/pages/address/list.vue" timestamp="1558319702470">
+        <mark key="'" line="94" column="17" />
         <mark key="[" line="86" column="41" />
         <mark key="]" line="86" column="41" />
         <mark key="." line="86" column="41" />
@@ -80,12 +80,12 @@
         <mark key="." line="66" column="28" />
         <mark key="^" line="97" column="29" />
       </file>
-      <file name="E:/h5/wechat/src/pages/feedback/index.vue" timestamp="1558187968767">
-        <mark key="'" line="53" column="15" />
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="32" column="32" />
-        <mark key="^" line="32" column="32" />
-        <mark key="." line="32" column="32" />
+      <file name="E:/h5/wechat/src/pages/feedback/index.vue" timestamp="1558319291290">
+        <mark key="'" line="82" column="15" />
+        <mark key="[" line="97" column="13" />
+        <mark key="]" line="98" column="16" />
+        <mark key="." line="98" column="16" />
+        <mark key="^" line="98" column="16" />
       </file>
       <file name="E:/h5/offical/layouts/default.vue" timestamp="1558269481479">
         <mark key="'" line="134" column="29" />
@@ -287,12 +287,14 @@
         <mark key="." line="203" column="0" />
         <mark key="^" line="209" column="13" />
       </file>
-      <file name="E:/h5/wechat/src/pages/product/detail.vue" timestamp="1558151236855">
+      <file name="E:/h5/wechat/src/pages/address/components/area.js" timestamp="1558320186189">
+        <mark key="'" line="4598" column="4" />
+      </file>
+      <file name="E:/h5/wechat/src/pages/product/detail.vue" timestamp="1558318837182">
         <mark key="'" line="364" column="39" />
-        <mark key="[" line="353" column="21" />
-        <mark key="]" line="353" column="26" />
-        <mark key="." line="353" column="26" />
-        <mark key="^" line="353" column="26" />
+        <mark key="[" line="571" column="0" />
+        <mark key="]" line="571" column="0" />
+        <mark key="." line="571" column="0" />
       </file>
       <file name="E:/h5/wechat/src/pages/product/discount.vue" timestamp="1557733308716">
         <mark key="'" line="0" column="0" />
@@ -335,6 +337,12 @@
         <mark key="]" line="110" column="12" />
         <mark key="." line="110" column="12" />
         <mark key="^" line="115" column="18" />
+      </file>
+      <file name="E:/h5/wechat/src/pages/address/components/address_picker_2.vue" timestamp="1558320782135">
+        <mark key="[" line="43" column="53" />
+        <mark key="]" line="43" column="54" />
+        <mark key="." line="43" column="54" />
+        <mark key="^" line="43" column="56" />
       </file>
       <file name="E:/h5/offical/components/partner.vue" timestamp="1558271999291">
         <mark key="'" line="21" column="7" />
@@ -396,9 +404,6 @@
         <mark key="^" line="530" column="18" />
         <mark key="." line="525" column="17" />
       </file>
-      <file name="E:/h5/offical/components/qc_code.vue" timestamp="1558252571889">
-        <mark key="]" line="38" column="3" />
-      </file>
       <file name="E:/h5/offical/pages/new/detail.vue" timestamp="1558275913458">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -441,11 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="16" filename="E:/h5/wechat/src/pages/address/edit.vue" />
-      <jump line="11" column="16" filename="E:/h5/wechat/src/pages/address/edit.vue" />
-      <jump line="111" column="13" filename="E:/h5/wechat/src/pages/address/edit.vue" />
-      <jump line="108" column="0" filename="E:/h5/wechat/src/pages/address/edit.vue" />
-      <jump line="42" column="21" filename="E:/h5/wechat/src/pages/address/edit.vue" />
       <jump line="129" column="11" filename="E:/h5/wechat/src/pages/reserve/commit.vue" />
       <jump line="278" column="5" filename="E:/h5/wechat/src/pages/reserve/commit.vue" />
       <jump line="125" column="21" filename="E:/h5/wechat/src/pages/reserve/commit.vue" />
@@ -541,55 +541,60 @@
       <jump line="58" column="35" filename="E:/h5/wechat/src/pages/reserve/commit.vue" />
       <jump line="50" column="21" filename="E:/h5/wechat/src/pages/reserve/commit.vue" />
       <jump line="52" column="30" filename="E:/h5/wechat/src/pages/reserve/commit.vue" />
+      <jump line="33" column="28" filename="E:/h5/wechat/src/pages/feedback/index.vue" />
+      <jump line="56" column="20" filename="E:/h5/wechat/src/pages/feedback/index.vue" />
+      <jump line="82" column="15" filename="E:/h5/wechat/src/pages/feedback/index.vue" />
+      <jump line="94" column="17" filename="E:/h5/wechat/src/pages/address/list.vue" />
+      <jump line="4598" column="4" filename="E:/h5/wechat/src/pages/address/components/area.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zZWxlY3RlZFByb2R1Y3QpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>arrList[firstIndex].nextLevelAreaList</text>
       </register>
       <register name="-" type="4">
-        <text>$event</text>
+        <text>arrList[firstIndex].nextLevelAreaList</text>
       </register>
       <register name="/" type="4">
-        <text>methods</text>
+        <text>up</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5pc0ZpeGVkID0gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zZWxlY3RlZFByb2R1Y3QpOwo=</text>
+        <text encoding="base64">ICAgIC8qLwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">KgogICAgKiC78cihtdoywdDK/b7dCiAgICAqIAogICAgKiA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgMTIzCg==</text>
+        <text encoding="base64">ICAgIC8vILvxyKG12jLB0Na1wdCx7Qo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICR0eHQtbGlnaHRlcjsK</text>
+        <text encoding="base64">ICAgIGdldFNlbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGV4dC1hbGlnbjogcmlnaHQ7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubGlzdFswXS52YWx1ZXMgPTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGluZS1oZWlnaHQ6IDEycHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGluZS1oZWlnaHQ6IDEycHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWxpZ24taXRlbXM6IGZsZXgtZW5kOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvcwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>methods</last-search>
+      <last-search>up</last-search>
       <last-offset />
-      <last-pattern>methods</last-pattern>
+      <last-pattern>up</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -597,7 +602,6 @@
     </search>
     <history>
       <history-search>
-        <entry>area</entry>
         <entry>getArea</entry>
         <entry>mounted</entry>
         <entry>data</entry>
@@ -617,6 +621,7 @@
         <entry>小计</entry>
         <entry>aggregate</entry>
         <entry>methods</entry>
+        <entry>up</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
