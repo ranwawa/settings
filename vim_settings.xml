@@ -133,11 +133,12 @@
         <mark key="^" line="28" column="37" />
         <mark key="." line="28" column="37" />
       </file>
-      <file name="E:/h5/wechat/src/pages/card/components/receipt-item.vue" timestamp="1558344311326">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="13" />
+      <file name="E:/h5/wechat/src/pages/card/components/receipt-item.vue" timestamp="1558412066195">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="86" column="6" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="91" column="7" />
       </file>
       <file name="E:/h5/offical/components/tab_list.vue" timestamp="1558195532650">
         <mark key="'" line="21" column="0" />
@@ -237,12 +238,11 @@
         <mark key="." line="37" column="20" />
         <mark key="^" line="36" column="34" />
       </file>
-      <file name="E:/h5/wechat/src/pages/card/detail.vue" timestamp="1558407975191">
-        <mark key="'" line="14" column="33" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="70" column="7" />
+      <file name="E:/h5/wechat/src/pages/card/detail.vue" timestamp="1558412157157">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="67" column="12" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="E:/h5/wechat/src/pages.json" timestamp="1558110053083">
         <mark key="'" line="71" column="40" />
@@ -279,12 +279,12 @@
         <mark key="." line="26" column="27" />
         <mark key="^" line="26" column="27" />
       </file>
-      <file name="E:/h5/wechat/src/pages/card/components/card-item.vue" timestamp="1558351167077">
+      <file name="E:/h5/wechat/src/pages/card/components/card-item.vue" timestamp="1558412070151">
         <mark key="'" line="6" column="26" />
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="48" />
-        <mark key="." line="7" column="48" />
-        <mark key="^" line="7" column="48" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="50" column="6" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="52" column="1" />
       </file>
       <file name="E:/h5/wechat/src/components/product-width.vue" timestamp="1558403235268">
         <mark key="'" line="81" column="1" />
@@ -455,12 +455,12 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="E:/h5/wechat/src/pages/card/index.vue" timestamp="1558408277935">
-        <mark key="'" line="37" column="15" />
-        <mark key="[" line="57" column="12" />
-        <mark key="]" line="58" column="22" />
-        <mark key="." line="58" column="22" />
-        <mark key="^" line="58" column="22" />
+      <file name="E:/h5/wechat/src/pages/card/index.vue" timestamp="1558412125376">
+        <mark key="'" line="43" column="15" />
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="50" />
+        <mark key="." line="26" column="42" />
+        <mark key="^" line="30" column="46" />
       </file>
       <file name="E:/h5/wechat/src/pages/product/category.vue" timestamp="1558109903189">
         <mark key="'" line="39" column="0" />
@@ -485,9 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="425" column="4" filename="E:/h5/wechat/src/pages/home/index.vue" />
-      <jump line="0" column="0" filename="E:/h5/wechat/src/pages/my/my.vue" />
-      <jump line="10" column="18" filename="E:/h5/wechat/src/pages/my/my.vue" />
       <jump line="11" column="18" filename="E:/h5/wechat/src/pages/my/my.vue" />
       <jump line="21" column="15" filename="E:/h5/wechat/src/pages/my/my.vue" />
       <jump line="53" column="15" filename="E:/h5/wechat/src/pages/feedback/index.vue" />
@@ -585,55 +582,58 @@
       <jump line="83" column="19" filename="E:/h5/wechat/src/pages/my/bindPhone.vue" />
       <jump line="63" column="18" filename="E:/h5/wechat/src/pages/my/my.vue" />
       <jump line="364" column="0" filename="E:/h5/wechat/src/pages/product/detail.vue" />
+      <jump line="73" column="33" filename="E:/h5/wechat/src/pages/card/detail.vue" />
+      <jump line="9" column="27" filename="E:/h5/wechat/src/pages/card/components/receipt-item.vue" />
+      <jump line="7" column="0" filename="E:/h5/wechat/src/pages/card/components/receipt-item.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getCode,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLml0ZW0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>getCode,</text>
+        <text encoding="base64">IGlzLWxpc3Q=</text>
       </register>
       <register name="/" type="4">
-        <text>goCard</text>
+        <text>props</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y2FyZC5nZXRMaXN0KHsKICAgICAgICBjb2RlOiBjb2RlWzFdLAogICAgICB9KS50aGVuKHJlcyA9PiB7CiAgICAgICAgdGhpcy5jYXJkTGlzdCA9IHJlcy5pdGVtcy5maWx0ZXIoZWxlID0+IGVsZS50eXBlID09PSAnMicpOwogICAgICAgIHRoaXMucmVjZWlwdExpc3QgPSByZXMuaXRlbXMuZmlsdGVyKGVsZSA9PiBlbGUudHlwZSA9PT0gJzEnKTsKICAgICAgfSk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlzTGlzdDogewogICAgICB0eXBlOiBCb29sZWFuLAogICAgICBkZWZhdWx0OiBmYWxzZSwKICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBjbGljaz0iZ29DYXJkIgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLml0ZW0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlOiBjb2RlWzFdLAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLml0ZW0udHlwZSA9ICcxJzsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y29uc3QgY29kZSA9IGxvY2F0aW9uLnNlYXJjaC5tYXRjaCgvXD9jb2RlPSguKikoPz0mKS8pOwogICAgaWYgKCFjb2RlKSByZXR1cm4gdW5pLm5hdmlnYXRlQmFjaygpOwogICAgY2FyZC5nZXRMaXN0KHsKICAgICAgY29kZTogY29kZVsxXSwKICAgIH0pLnRoZW4ocmVzID0+IHsKICAgICAgdGhpcy5jYXJkTGlzdCA9IHJlcy5pdGVtcy5maWx0ZXIoZWxlID0+IGVsZS50eXBlID09PSAnMicpOwogICAgICB0aGlzLnJlY2VpcHRMaXN0ID0gcmVzLml0ZW1zLmZpbHRlcihlbGUgPT4gZWxlLnR5cGUgPT09ICcxJyk7CiAgICB9KTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLml0ZW0udHlwZSA9ICcxJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtZXRob2RzOiB7fSwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLml0ZW0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMuZGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzKTsK</text>
+        <text encoding="base64">ICAgIHVybDogYC9wYWdlcy9jYXJkL2RldGFpbD9pZD0ke2l0ZW0ub3JkZXJJZH1gLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHRoaXMuJHN0b3JlLmNvbW1pdCgnc2V0VG9rZW4nLCByZXMuZGF0YSB8fCB7fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHN0b3JlLmNvbW1pdCgnc2V0VG9rZW4nLCByZXMuZGF0YSB8fCB7fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgOnVybD0iJy9wYWdlcy9jYXJkL2RldGFpbD9pZD0nICsgaXRlbS5vcmRlcklkIgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>goCard</last-search>
+      <last-search>props</last-search>
       <last-offset />
-      <last-pattern>goCard</last-pattern>
+      <last-pattern>props</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -641,10 +641,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getStreet</entry>
-        <entry>longitude</entry>
-        <entry>net</entry>
-        <entry>setOrder</entry>
         <entry>setO</entry>
         <entry>ude</entry>
         <entry>order</entry>
@@ -658,9 +654,13 @@
         <entry>goMy</entry>
         <entry>getGPS</entry>
         <entry>咨询</entry>
-        <entry>methods</entry>
         <entry>set</entry>
         <entry>goCard</entry>
+        <entry>click</entry>
+        <entry>v-if</entry>
+        <entry>methods</entry>
+        <entry>data</entry>
+        <entry>props</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
