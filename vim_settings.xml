@@ -313,8 +313,8 @@
         <mark key="." line="203" column="0" />
         <mark key="^" line="209" column="13" />
       </file>
-      <file name="E:/h5/wechat/src/pages/product/detail.vue" timestamp="1558408396860">
-        <mark key="'" line="378" column="0" />
+      <file name="E:/h5/wechat/src/pages/product/detail.vue" timestamp="1558420721983">
+        <mark key="'" line="168" column="20" />
         <mark key="[" line="378" column="0" />
         <mark key="]" line="378" column="0" />
         <mark key="." line="378" column="0" />
@@ -461,8 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="18" filename="E:/h5/wechat/src/pages/my/my.vue" />
-      <jump line="21" column="15" filename="E:/h5/wechat/src/pages/my/my.vue" />
       <jump line="53" column="15" filename="E:/h5/wechat/src/pages/feedback/index.vue" />
       <jump line="6" column="45" filename="E:/h5/wechat/src/pages/feedback/index.vue" />
       <jump line="712" column="0" filename="E:/h5/wechat/src/pages/product/detail.vue" />
@@ -561,6 +559,8 @@
       <jump line="73" column="33" filename="E:/h5/wechat/src/pages/card/detail.vue" />
       <jump line="9" column="27" filename="E:/h5/wechat/src/pages/card/components/receipt-item.vue" />
       <jump line="7" column="0" filename="E:/h5/wechat/src/pages/card/components/receipt-item.vue" />
+      <jump line="146" column="50" filename="E:/h5/wechat/src/pages/product/detail.vue" />
+      <jump line="168" column="20" filename="E:/h5/wechat/src/pages/product/detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -570,7 +570,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>props</text>
+        <text>客服</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlzTGlzdDogewogICAgICB0eXBlOiBCb29sZWFuLAogICAgICBkZWZhdWx0OiBmYWxzZSwKICAgIH0sCg==</text>
@@ -607,9 +607,9 @@
       </register>
     </registers>
     <search>
-      <last-search>props</last-search>
+      <last-search>客服</last-search>
       <last-offset />
-      <last-pattern>props</last-pattern>
+      <last-pattern>客服</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -617,7 +617,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setO</entry>
         <entry>ude</entry>
         <entry>order</entry>
         <entry>reMend</entry>
@@ -637,6 +636,7 @@
         <entry>methods</entry>
         <entry>data</entry>
         <entry>props</entry>
+        <entry>客服</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
