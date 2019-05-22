@@ -45,12 +45,12 @@
         <mark key="^" line="26" column="57" />
         <mark key="." line="26" column="57" />
       </file>
-      <file name="E:/h5/wechat/src/pages/address/list.vue" timestamp="1558498158990">
+      <file name="E:/h5/wechat/src/pages/address/list.vue" timestamp="1558501916344">
         <mark key="'" line="43" column="11" />
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
+        <mark key="[" line="58" column="34" />
+        <mark key="]" line="58" column="34" />
+        <mark key="." line="58" column="34" />
+        <mark key="^" line="58" column="71" />
       </file>
       <file name="E:/h5/sp/src/plugins/api.js" timestamp="1557299899193">
         <mark key="'" line="26" column="35" />
@@ -464,12 +464,12 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="177" column="27" />
       </file>
-      <file name="E:/h5/wechat/src/pages/address/edit.vue" timestamp="1558498198557">
-        <mark key="'" line="140" column="5" />
-        <mark key="[" line="129" column="13" />
-        <mark key="]" line="129" column="49" />
-        <mark key="." line="129" column="49" />
-        <mark key="^" line="129" column="49" />
+      <file name="E:/h5/wechat/src/pages/address/edit.vue" timestamp="1558502500970">
+        <mark key="'" line="34" column="16" />
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="E:/h5/cms/docs/directory-uni-app.md" timestamp="1557577987511">
         <mark key="'" line="8" column="5" />
@@ -480,10 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="E:/h5/wechat/src/App.vue" />
-      <jump line="16" column="0" filename="E:/h5/wechat/src/App.vue" />
-      <jump line="62" column="19" filename="E:/h5/wechat/src/pages/product/components/product-lg.vue" />
-      <jump line="1" column="11" filename="E:/h5/wechat/src/pages/product/components/product-lg.vue" />
       <jump line="64" column="3" filename="E:/h5/wechat/src/pages/order/evaluate.vue" />
       <jump line="134" column="6" filename="E:/h5/wechat/src/pages/address/edit.vue" />
       <jump line="95" column="6" filename="E:/h5/wechat/src/pages/order/remend.vue" />
@@ -580,55 +576,66 @@
       <jump line="78" column="14" filename="E:/h5/wechat/src/pages/address/edit.vue" />
       <jump line="43" column="11" filename="E:/h5/wechat/src/pages/address/list.vue" />
       <jump line="140" column="5" filename="E:/h5/wechat/src/pages/address/edit.vue" />
+      <jump line="136" column="13" filename="E:/h5/wechat/src/pages/address/edit.vue" />
+      <jump line="159" column="24" filename="E:/h5/wechat/src/pages/address/edit.vue" />
+      <jump line="257" column="4" filename="E:/h5/wechat/src/pages/address/edit.vue" />
+      <jump line="34" column="16" filename="E:/h5/wechat/src/pages/address/edit.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>crea</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBvblNob3coKSB7CiAgICAvLyDI57n71tjQwtGh1PHBy7XY1rcs1PIKICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>crea</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>selectedAddress</text>
+        <text>goArea</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRDaXR5KCkgewogICAgICByZXR1cm4gdGhpcy4kc3RvcmUuc3RhdGUuc2VsZWN0ZWRDaXR5IHx8IHRoaXMuJHN0b3JlLnN0YXRlLmxvY2F0aW9uQ2l0eTsKICAgIH0sCg==</text>
+      <register name="0" type="4">
+        <text>provinceName: '',
+        provinceId: '', // 省id
+        cityName: '',
+        cityId: '', // 市id
+        countryName: '',
+        countryId: '',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvblNob3coKSB7CiAgICAvLyDI57n71tjQwtGh1PHBy7XY1rcs1PIKICB9LAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjdXJyZW50Q2l0eSgpIHsKICAgIHJldHVybiB0aGlzLiRzdG9yZS5zdGF0ZS5zZWxlY3RlZENpdHkgfHwgdGhpcy4kc3RvcmUuc3RhdGUubG9jYXRpb25DaXR5OwogIH0sCg==</text>
+      <register name="2" type="4">
+        <text>: {
+    
+  },</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLmFyZWFOYW1lID0gJyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgOmZvcm09ImZvcm0iCg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLiRzdG9yZS5zdGF0ZS5zZWxlY3RlZEFkZHJlc3MuYWRkcklkICYmIGUudHlwZSA9PT0gJ2VkaXQnKSB7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29tcG9uZW50czogewogIEJhbm5lcjsKfQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtID0gdGhpcy4kc3RvcmUuc3RhdGUuc2VsZWN0ZWRBZGRyZXNzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5pc1Nob3dQb3AgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuY29tbWl0KCdzZXRTZWxlY3RlZEFkZHJlc3MnLCBvcmlnaW4pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsb2xvcjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjdXJyZW50Q2l0eSgpIHsKICAgIHJldHVybiB0aGlzLiRzdG9yZS5zdGF0ZS5zZWxlY3RlZENpdHkgfHwgdGhpcy4kc3RvcmUuc3RhdGUubG9jYXRpb25DaXR5OwogIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>selectedAddress</last-search>
+      <last-search>goArea</last-search>
       <last-offset />
-      <last-pattern>selectedAddress</last-pattern>
+      <last-pattern>goArea</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -636,9 +643,6 @@
     </search>
     <history>
       <history-search>
-        <entry>right</entry>
-        <entry>nextLevelAreaList</entry>
-        <entry>computed</entry>
         <entry>4008</entry>
         <entry>400</entry>
         <entry>没有</entry>
@@ -656,6 +660,9 @@
         <entry>submit</entry>
         <entry>onEdit</entry>
         <entry>selectedAddress</entry>
+        <entry>onLoad</entry>
+        <entry>computed</entry>
+        <entry>goArea</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
