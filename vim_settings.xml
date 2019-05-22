@@ -443,12 +443,12 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="E:/h5/wechat/src/pages/home/index.vue" timestamp="1558513534845">
+      <file name="E:/h5/wechat/src/pages/home/index.vue" timestamp="1558518878353">
         <mark key="'" line="364" column="7" />
-        <mark key="[" line="247" column="40" />
-        <mark key="]" line="247" column="70" />
+        <mark key="[" line="301" column="15" />
+        <mark key="]" line="301" column="15" />
         <mark key="^" line="247" column="70" />
-        <mark key="." line="247" column="70" />
+        <mark key="." line="301" column="15" />
       </file>
       <file name="E:/h5/offical/pages/new/detail.vue" timestamp="1558494330409">
         <mark key="'" line="5" column="29" />
@@ -596,11 +596,11 @@
       <jump line="24" column="37" filename="E:/h5/wechat/src/pages.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCe78cihs8fK0CcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>增</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>地址</text>
@@ -609,36 +609,37 @@
         <text encoding="base64">ICAgIDwhLS0gyb6z/bXY1rcgIC0tPgogICAgPGRpdgogICAgICB2LWlmPSJmb3JtLmFkZHJJZCIKICAgICAgY2xhc3M9ImFkZHJlc3MtZGVsZXRlIgogICAgICBAY2xpY2s9ImRlbEFkZHJlc3MiCiAgICA+CiAgICAgIMm+s/212Na3CiAgICA8L2Rpdj4KIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCe78cihs8fK0CcpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ7+qyry2qM67Jyk7Cg==</text>
+      <register name="2" type="4">
+        <text>// 如果没有绑定手机号码,则绑定手机页面
+      // 否则跳微信页面获取code,再redirect回来
+      const userInfo = getUserInfo();
+      if (userInfo.mobile) {
+      } else {
+        getCode('/pages/my/bindPhone', '/pages/my/my');
+      }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCe78cihss7K/ScpOwo=</text>
+        <text encoding="base64">ICAgICAgICB1bmkubmF2aWdhdGVUbyh7CiAgICAgICAgICB1cmw6ICcvcGFnZXMvbXkvbXknLAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="4">
-        <text>{
-      &quot;path&quot;: &quot;pages/address/edit&quot;,
-      &quot;style&quot;: {
-        &quot;navigationBarTitleText&quot;: &quot;编辑地址&quot;
-      }
-    },</text>
+        <text encoding="base64">Ly8g0rvAtL7N0qq1x8K9xbYKICAgIGdldFRva2VuKCkudGhlbigoKSA9PiB7CiAgICAgIHRoaXMudXNlckluZm8gPSBnZXRVc2VySW5mbygpOwogICAgfSk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Ly8g0rvAtL7N0qq1x8K9xbYKICAgIGdldFRva2VuKCkudGhlbigoKSA9PiB7CiAgICAgIHRoaXMudXNlckluZm8gPSBnZXRVc2VySW5mbygpOwogICAgfSk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCe78cihs8fK0CcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdCgnstnX97PJuaYnKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ7+qyry2qM67Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
