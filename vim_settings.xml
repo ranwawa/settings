@@ -45,8 +45,8 @@
         <mark key="^" line="26" column="57" />
         <mark key="." line="26" column="57" />
       </file>
-      <file name="E:/h5/wechat/src/pages/address/list.vue" timestamp="1558345536582">
-        <mark key="'" line="12" column="28" />
+      <file name="E:/h5/wechat/src/pages/address/list.vue" timestamp="1558498158990">
+        <mark key="'" line="43" column="11" />
         <mark key="[" line="5" column="18" />
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
@@ -79,12 +79,6 @@
         <mark key="]" line="41" column="8" />
         <mark key="." line="41" column="8" />
         <mark key="^" line="41" column="8" />
-      </file>
-      <file name="E:/h5/wechat/src/pages/order/remend.vue" timestamp="1558449599265">
-        <mark key="'" line="0" column="9" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="E:/h5/offical/components/advantage.vue" timestamp="1558273816327">
         <mark key="'" line="35" column="0" />
@@ -353,12 +347,6 @@
         <mark key="." line="22" column="6" />
         <mark key="^" line="22" column="17" />
       </file>
-      <file name="E:/h5/wechat/src/pages/order/components/order_btn.vue" timestamp="1558449312448">
-        <mark key="'" line="29" column="14" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="63" column="9" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="E:/h5/wechat/src/store/state.js" timestamp="1558455019767">
         <mark key="'" line="8" column="6" />
         <mark key="[" line="9" column="10" />
@@ -441,10 +429,10 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="E:/h5/wechat/src/pages/home/index.vue" timestamp="1558455033004">
+      <file name="E:/h5/wechat/src/pages/home/index.vue" timestamp="1558497821784">
         <mark key="'" line="101" column="9" />
-        <mark key="[" line="284" column="15" />
-        <mark key="]" line="284" column="19" />
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="349" column="6" />
         <mark key="^" line="284" column="19" />
         <mark key="." line="284" column="19" />
       </file>
@@ -476,11 +464,12 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="177" column="27" />
       </file>
-      <file name="E:/h5/wechat/src/pages/address/edit.vue" timestamp="1558496288602">
-        <mark key="'" line="135" column="6" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="18" />
-        <mark key="." line="78" column="0" />
+      <file name="E:/h5/wechat/src/pages/address/edit.vue" timestamp="1558498198557">
+        <mark key="'" line="140" column="5" />
+        <mark key="[" line="129" column="13" />
+        <mark key="]" line="129" column="49" />
+        <mark key="." line="129" column="49" />
+        <mark key="^" line="129" column="49" />
       </file>
       <file name="E:/h5/cms/docs/directory-uni-app.md" timestamp="1557577987511">
         <mark key="'" line="8" column="5" />
@@ -491,11 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="17" filename="E:/h5/wechat/src/utils/index.js" />
-      <jump line="132" column="0" filename="E:/h5/wechat/src/utils/index.js" />
-      <jump line="380" column="17" filename="E:/h5/wechat/src/pages/home/index.vue" />
-      <jump line="28" column="33" filename="E:/h5/wechat/src/pages/address/edit.vue" />
-      <jump line="109" column="23" filename="E:/h5/wechat/src/pages/card/detail.vue" />
       <jump line="52" column="0" filename="E:/h5/wechat/src/App.vue" />
       <jump line="16" column="0" filename="E:/h5/wechat/src/App.vue" />
       <jump line="62" column="19" filename="E:/h5/wechat/src/pages/product/components/product-lg.vue" />
@@ -591,60 +575,60 @@
       <jump line="8" column="14" filename="E:/h5/offical/pages/index.vue" />
       <jump line="136" column="0" filename="E:/h5/offical/components/range_item.vue" />
       <jump line="15" column="35" filename="E:/h5/wechat/src/pages/address/components/address_picker_2.vue" />
+      <jump line="106" column="20" filename="E:/h5/wechat/src/pages/address/edit.vue" />
+      <jump line="238" column="18" filename="E:/h5/wechat/src/pages/address/edit.vue" />
+      <jump line="78" column="14" filename="E:/h5/wechat/src/pages/address/edit.vue" />
+      <jump line="43" column="11" filename="E:/h5/wechat/src/pages/address/list.vue" />
+      <jump line="140" column="5" filename="E:/h5/wechat/src/pages/address/edit.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>crea</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>crea</text>
       </register>
       <register name="/" type="4">
-        <text>了解更多</text>
+        <text>selectedAddress</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-            icon: 'iconzu14',
-            text: '专业工程师',
-            size: '20px',
-            color: '#EE8247',
-          },</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGN1cnJlbnRDaXR5KCkgewogICAgICByZXR1cm4gdGhpcy4kc3RvcmUuc3RhdGUuc2VsZWN0ZWRDaXR5IHx8IHRoaXMuJHN0b3JlLnN0YXRlLmxvY2F0aW9uQ2l0eTsKICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgOmZvcm09ImZvcm0iCg==</text>
+        <text encoding="base64">ICBjdXJyZW50Q2l0eSgpIHsKICAgIHJldHVybiB0aGlzLiRzdG9yZS5zdGF0ZS5zZWxlY3RlZENpdHkgfHwgdGhpcy4kc3RvcmUuc3RhdGUubG9jYXRpb25DaXR5OwogIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29tcG9uZW50czogewogIEJhbm5lcjsKfQo=</text>
+        <text encoding="base64">ICAgICAgOmZvcm09ImZvcm0iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5pc1Nob3dQb3AgPSBmYWxzZTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsb2xvcjoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29tcG9uZW50czogewogIEJhbm5lcjsKfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5pc1Nob3dQb3AgPSBmYWxzZTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHRhYi1pdGVtCiAgICAgICAgdi1iaW5kPSJtb3JlIgogICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIGNsb2xvcjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2LWJpbmQ9Im1vcmUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>了解更多</last-search>
+      <last-search>selectedAddress</last-search>
       <last-offset />
-      <last-pattern>了解更多</last-pattern>
+      <last-pattern>selectedAddress</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -652,11 +636,6 @@
     </search>
     <history>
       <history-search>
-        <entry>500</entry>
-        <entry>remend</entry>
-        <entry>reMend</entry>
-        <entry>0</entry>
-        <entry>areaName</entry>
         <entry>right</entry>
         <entry>nextLevelAreaList</entry>
         <entry>computed</entry>
@@ -664,7 +643,6 @@
         <entry>400</entry>
         <entry>没有</entry>
         <entry>没</entry>
-        <entry>methods</entry>
         <entry>area</entry>
         <entry>List</entry>
         <entry>nex</entry>
@@ -672,6 +650,12 @@
         <entry>i</entry>
         <entry>l</entry>
         <entry>了解更多</entry>
+        <entry>v-bind</entry>
+        <entry>bind</entry>
+        <entry>methods</entry>
+        <entry>submit</entry>
+        <entry>onEdit</entry>
+        <entry>selectedAddress</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
