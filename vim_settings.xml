@@ -407,8 +407,8 @@
         <mark key="." line="49" column="16" />
         <mark key="^" line="49" column="16" />
       </file>
-      <file name="E:/h5/wechat/src/pages/order/list.vue" timestamp="1558580195773">
-        <mark key="'" line="110" column="11" />
+      <file name="E:/h5/wechat/src/pages/order/list.vue" timestamp="1558596422309">
+        <mark key="'" line="131" column="19" />
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
@@ -478,7 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="42" filename="E:/h5/wechat/src/utils/index.js" />
       <jump line="126" column="9" filename="E:/h5/wechat/src/utils/index.js" />
       <jump line="35" column="18" filename="E:/h5/wechat/src/api/request.js" />
       <jump line="49" column="17" filename="E:/h5/wechat/src/api/request.js" />
@@ -578,6 +577,7 @@
       <jump line="127" column="23" filename="E:/h5/wechat/src/pages/my/bindPhone.vue" />
       <jump line="48" column="36" filename="E:/h5/wechat/src/pages.json" />
       <jump line="16" column="14" filename="E:/h5/wechat/src/pages/reserve/result.vue" />
+      <jump line="131" column="19" filename="E:/h5/wechat/src/pages/order/list.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -587,7 +587,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>分类</text>
+        <text>onShow</text>
       </register>
       <register name="0" type="4">
         <text>tabs</text>
@@ -624,9 +624,9 @@
       </register>
     </registers>
     <search>
-      <last-search>分类</last-search>
+      <last-search>onShow</last-search>
       <last-offset />
-      <last-pattern>分类</last-pattern>
+      <last-pattern>onShow</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -640,10 +640,8 @@
         <entry>首页</entry>
         <entry>订单</entry>
         <entry>保修</entry>
-        <entry>onShow</entry>
         <entry>getHome</entry>
         <entry>getList</entry>
-        <entry>onLoad</entry>
         <entry>style</entry>
         <entry>switchT</entry>
         <entry>tab</entry>
@@ -654,6 +652,8 @@
         <entry>why</entry>
         <entry>login</entry>
         <entry>分类</entry>
+        <entry>onLoad</entry>
+        <entry>onShow</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
