@@ -435,12 +435,12 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="E:/h5/offical/nuxt.config.js" timestamp="1558611675687">
+      <file name="E:/h5/offical/nuxt.config.js" timestamp="1558621968859">
         <mark key="'" line="34" column="3" />
-        <mark key="[" line="29" column="62" />
-        <mark key="]" line="29" column="62" />
-        <mark key="." line="29" column="62" />
-        <mark key="^" line="29" column="63" />
+        <mark key="[" line="103" column="23" />
+        <mark key="]" line="103" column="23" />
+        <mark key="." line="103" column="23" />
+        <mark key="^" line="103" column="23" />
       </file>
       <file name="E:/h5/wechat/src/api/address.js" timestamp="1558609479727">
         <mark key="[" line="16" column="55" />
@@ -637,33 +637,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>branch_bg</text>
+        <text>[
+    require('postcss-pxtorem')({
+      replace: true,
+    }),
+  ],</text>
       </register>
       <register name="-" type="4">
         <text>branch_bg</text>
       </register>
       <register name="/" type="4">
-        <text>_1</text>
+        <text>post</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjcmVhdGVkKCkgewogICAgdGhpcy4kc3RvcmUuY29tbWl0KCdjb21tb24vc2V0UGFnZU5hbWUnLCAns6fJzMjr16QnKTsKICB9LAo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>[
+    require('postcss-pxtorem')({
+      replace: true,
+    }),
+  ],</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGltZyB7CiAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIH0K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRlbnQiPgogICAgICA8cD4KICAgICAgICDW2Mfs18TEvsTxzfjC57/GvLzT0M/euavLvqOsyry0tNPaMTk5NcTqo6y5q8u+19yyv86709qhsMm9s8ehsdbYx+yjrLKi1Nqxsb6poaLJz7qjoaLJ7tvaoaK549bdtcizx8rQyejT0DIzvNLWsdOqt9a5q8u+o6zIq7n6uLK4x738zuWw2bj2z9i8ttLUyc+zx8rQo6y5q8u+0rXO8biyuMdDtsuhokK2y6GiRrbLyP249re9z/KjrM6qufrE2rnjtPO+08PxoaLG88rC0rW1pc67oaK498DgtefG97zSvtPJ+rL6s6e80szhuam498DgzqzQ3qGisaPR+LXIyKu5+sGsy/jWsdOqt/7O8aGjCiAgICAgIDwvcD4KICAgICAgPGltZyBzcmM9Ii9pbWcvYWJvdXRfY29tcGFueV8yLnBuZyI+CiAgICAgIDxwPgogICAgICAgIL6tuf0yMLbgxOq359PqwPqzzKOs18TEvsTx0rvWsbH8s9DS1NPDu6fQ6Mfzzqq6y9DEo6zM4bmpvKvWwrXEt/7O8czl0emjrMS/x7DS0b6tt/7O8cirufrK/bDZzfK80s2loaLG89K108O7p7ywuPfA4LOnvNKjrM2syrHSstOutcPBy7/Nu6e1xNDFwLW6zbrDxsCjrMr3waLBy6GwvNLQ3s6ssaOjrL7N0aHXxMS+xPGhsbXEwby6w7/asa6jrDIwMTTE6rmry76z4tfKyv3Hp83yo6y9qMGiyKu5+s2z0ru69L3Q1tDQxKGitqm1pbncwO3W0NDEoaLN+LXj1MvTqtbQ0MShormks8zKprncwO3W0NDEo6yyorfWsfDU2rGxvqmhotbYx+zJ6MGivLzK9dHQt6LW0NDEtO69qLv509rSxravu6XBqs34serXvLuvt/7O8bXEwffXqszlz7WhowogICAgICA8L3A+CiAgICAgIDxkaXYgY2xhc3M9ImltZyI+CiAgICAgICAgPGltZyBzcmM9Ii9pbWcvYWJvdXRfY29tcGFueV8zLnBuZyI+CiAgICAgICAgPGltZyBzcmM9Ii9pbWcvYWJvdXRfY29tcGFueV8xLnBuZyI+CiAgICAgIDwvZGl2PgogICAgICA8cD4KICAgICAgICAyMLbgxOrS1MC0o6y5q8u+z8i687G71f64rrj3vLbWsMTcsr/Dxcra0+ihsNbYx+zK0LXn19PJzM7xyr63tsbz0rWhsaGwuN/Qwry8yvXG89K1obGhsNbQufq80rXnzqzQ3tCtu+HA7crCtaXOu6Giu+GzpLWlzruhsaGwyefH+MnM0rXKvre2wfrNt8bz0rWhsbXIyNnT/rPGusWjrLKizai5/bzStefOrNDeR0IKICAgICAgICAvVDE5MDAxLTIwMTa3/s7x1srBv7ncwO3M5c+1yM/WpKGjz8i687vxtcPVxsnPzai5ybfdoaI1OM2ss8ehotChw9e/xry8oaLLs86q18qxvrXItuDC1tW9wtTNttfKo6yyotPrufrE2s3iuPe087ulwarN+Ma9zKihorXn0MXUy9Oqycyhore/tdiy+qGizu/StaGitefG97OnvNK1yLn6xNq499DQ0rXWqsP7xvPStb2owaLBy7q7yrW1xNK1zvG6z9f3udjPtaGjCiAgICAgIDwvcD4KICAgIDwvZGl2Pgog</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IG9udGVudCB7CiAgICBAaW5jbHVkZSBweCg0KTsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKCiAgICA+IGltZyB7CiAgICAgIHdpZHRoOiAxMDAlOwogICAgfQoKICAgIC5pbWcgewogICAgICA+IGltZyB7CiAgICAgICAgd2lkdGg6IDQ4JTsKICAgICAgfQogICAgfQogIH0KICA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>p {
     @include my(4);
     font-size: 12px;
@@ -674,23 +685,20 @@
 
   .c</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFBhZ2VUaXRsZSwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFRhYkl0ZW1JbWcsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFkdmFudGFnZSwK</text>
+        <text encoding="base64">ICAgIFRhYkl0ZW1JbWcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>_1</last-search>
+      <last-search>post</last-search>
       <last-offset />
-      <last-pattern>_1</last-pattern>
+      <last-pattern>post</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -698,7 +706,6 @@
     </search>
     <history>
       <history-search>
-        <entry>href</entry>
         <entry>url</entry>
         <entry>onLo</entry>
         <entry encoding="base64">XDxsYW5nXD4=</entry>
@@ -718,6 +725,7 @@
         <entry>branch_bg</entry>
         <entry>condition</entry>
         <entry>_1</entry>
+        <entry>post</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
