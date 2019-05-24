@@ -87,12 +87,12 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="17" />
       </file>
-      <file name="E:/h5/offical/pages/index.vue" timestamp="1558719637967">
-        <mark key="'" line="60" column="29" />
-        <mark key="[" line="77" column="7" />
-        <mark key="]" line="77" column="15" />
-        <mark key="." line="77" column="15" />
-        <mark key="^" line="77" column="15" />
+      <file name="E:/h5/offical/pages/index.vue" timestamp="1558721714457">
+        <mark key="'" line="8" column="14" />
+        <mark key="[" line="77" column="17" />
+        <mark key="]" line="77" column="18" />
+        <mark key="." line="77" column="18" />
+        <mark key="^" line="77" column="18" />
       </file>
       <file name="E:/h5/wechat/src/pages/product/search.vue" timestamp="1558401724629">
         <mark key="'" line="149" column="12" />
@@ -115,7 +115,7 @@
         <mark key="." line="328" column="49" />
         <mark key="^" line="328" column="49" />
       </file>
-      <file name="E:/h5/offical/layouts/default.vue" timestamp="1558720506773">
+      <file name="E:/h5/offical/layouts/default.vue" timestamp="1558721525021">
         <mark key="'" line="204" column="4" />
         <mark key="[" line="225" column="6" />
         <mark key="]" line="225" column="10" />
@@ -423,6 +423,9 @@
         <mark key="." line="61" column="20" />
         <mark key="^" line="61" column="50" />
       </file>
+      <file name="/Dummy.txt" timestamp="1558721100457">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/zmn-h5/c/src/pages/my/bind-phone.vue" timestamp="1557221742620">
         <mark key="'" line="23" column="24" />
         <mark key="[" line="62" column="0" />
@@ -551,7 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="23" filename="E:/h5/offical/pages/new/list.vue" />
       <jump line="55" column="23" filename="E:/h5/offical/pages/new/list.vue" />
       <jump line="61" column="23" filename="E:/h5/offical/pages/new/list.vue" />
       <jump line="65" column="23" filename="E:/h5/offical/pages/new/list.vue" />
@@ -651,16 +653,17 @@
       <jump line="70" column="8" filename="E:/h5/offical/pages/about/contact.vue" />
       <jump line="59" column="2" filename="E:/h5/offical/components/row_text.vue" />
       <jump line="60" column="29" filename="E:/h5/offical/pages/index.vue" />
+      <jump line="8" column="14" filename="E:/h5/offical/pages/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>href</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>href</text>
       </register>
       <register name="/" type="4">
-        <text>rout</text>
+        <text>nuxt-link</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgWyfJ7bfd0enWpCcsICexs76wtfey6ScsICe42sewxeDRtSddLAo=</text>
@@ -697,9 +700,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rout</last-search>
+      <last-search>nuxt-link</last-search>
       <last-offset />
-      <last-pattern>rout</last-pattern>
+      <last-pattern>nuxt-link</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -707,7 +710,6 @@
     </search>
     <history>
       <history-search>
-        <entry>家电</entry>
         <entry>维修</entry>
         <entry>created</entry>
         <entry>offical</entry>
@@ -727,6 +729,7 @@
         <entry>了解更多</entry>
         <entry>router</entry>
         <entry>rout</entry>
+        <entry>nuxt-link</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
