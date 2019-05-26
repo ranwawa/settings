@@ -22,12 +22,13 @@
         <mark key="." line="181" column="0" />
         <mark key="^" line="170" column="26" />
       </file>
-      <file name="E:/h5/yeyx-sp/src/config/index.js" timestamp="1558868960661">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="E:/h5/yeyx-sp/src/config/index.js" timestamp="1558871885064">
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="47" column="12" />
+        <mark key="." line="47" column="12" />
+        <mark key="^" line="47" column="12" />
       </file>
-      <file name="E:/h5/yeyx-sp/src/service/api/index.js" timestamp="1558868113643">
+      <file name="E:/h5/yeyx-sp/src/service/api/index.js" timestamp="1558870870171">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -38,17 +39,28 @@
         <mark key="." line="108" column="0" />
       </file>
       <file name="E:/h5/yeyx-sp/build/webpack.base.conf.js" timestamp="1558865461930" />
-      <file name="E:/h5/yeyx-sp/src/plugins/api.js" timestamp="1558868988353">
+      <file name="E:/h5/yeyx-sp/src/plugins/api.js" timestamp="1558872229265">
         <mark key="'" line="5" column="8" />
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="15" column="23" />
-        <mark key="." line="15" column="23" />
-        <mark key="^" line="15" column="23" />
+        <mark key="[" line="65" column="6" />
+        <mark key="]" line="65" column="23" />
+        <mark key="^" line="65" column="23" />
+        <mark key="." line="65" column="23" />
       </file>
       <file name="E:/h5/yeyx-sp/src/views/operator/Operator.vue" timestamp="1558865118616">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
+      </file>
+      <file name="E:/h5/yeyx-sp/src/utils/tools.js" timestamp="1558869677768">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="E:/h5/yeyx-sp/src/service/api_new/user.js" timestamp="1558870816510">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/h5/zmn-official-site-pc/.gitignore" timestamp="1558791489630">
         <mark key="[" line="3" column="0" />
@@ -62,9 +74,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="E:/h5/yeyx-sp/src/service/api_new/test.js" timestamp="1558870973747">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/h5/wechat/src/pages/home/index.vue" />
       <jump line="73" column="32" filename="E:/h5/wechat/src/pages/home/index.vue" />
       <jump line="168" column="48" filename="E:/h5/wechat/src/pages/home/index.vue" />
       <jump line="59" column="15" filename="E:/h5/wechat/src/pages/product/category.vue" />
@@ -164,13 +178,14 @@
       <jump line="32" column="16" filename="E:/h5/yeyx-sp/src/views/notices/todolist/components/dialog/components/Detail.vue" />
       <jump line="7" column="16" filename="E:/h5/yeyx-sp/src/views/notices/todolist/components/dialog/components/Warranty.vue" />
       <jump line="5" column="8" filename="E:/h5/yeyx-sp/src/plugins/api.js" />
+      <jump line="13" column="2" filename="E:/h5/yeyx-sp/src/service/api_new/user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG91dGVyUGFyYW1zLCBvdXRlck9wdGlvbnMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>置</text>
+        <text>const a =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -179,37 +194,31 @@
         <text encoding="base64">ICAgICAgICA6Y2xhc3M9Inthcm91bmQ6IGlzQXJvdW5kLCBidG46IGNvcHlUZXh0fSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG91dGVyUGFyYW1zLCBvdXRlck9wdGlvbnMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBhOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>// API 默认配置
-export const API_DEFAULT_CONFIG = {
-  mockBaseURL: '/api',
-  mock: isDevEnv,
-  debug: true,
-  sep: '/' // separator 分隔符
-};</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobW9jaywgMTExMTExMTEsIG1vY2tCYXNlVVJMLCBiYXNlVVJMKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobW9jaywgMTExMTExMTEsIG1vY2tCYXNlVVJMKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYmFzZVVSTCwgMTExMTExMTEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">LyoqCiAqIAogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcGkudXNlckwK</text>
+        <text encoding="base64">ICAgIFwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
