@@ -84,12 +84,12 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="17" />
       </file>
-      <file name="E:/h5/offical/pages/index.vue" timestamp="1558786929204">
-        <mark key="'" line="61" column="16" />
-        <mark key="[" line="394" column="22" />
-        <mark key="]" line="396" column="18" />
-        <mark key="." line="396" column="18" />
-        <mark key="^" line="396" column="18" />
+      <file name="E:/h5/offical/pages/index.vue" timestamp="1558795578621">
+        <mark key="'" line="77" column="7" />
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="75" column="8" />
+        <mark key="." line="75" column="8" />
+        <mark key="^" line="75" column="8" />
       </file>
       <file name="E:/h5/wechat/src/pages/product/search.vue" timestamp="1558401724629">
         <mark key="'" line="149" column="12" />
@@ -112,8 +112,8 @@
         <mark key="." line="330" column="58" />
         <mark key="^" line="330" column="58" />
       </file>
-      <file name="E:/h5/offical/layouts/default.vue" timestamp="1558794247509">
-        <mark key="'" line="247" column="11" />
+      <file name="E:/h5/offical/layouts/default.vue" timestamp="1558794912677">
+        <mark key="'" line="442" column="0" />
         <mark key="[" line="323" column="17" />
         <mark key="]" line="323" column="18" />
         <mark key="." line="323" column="18" />
@@ -168,8 +168,8 @@
         <mark key="^" line="153" column="20" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="E:/h5/offical/components/tab_list.vue" timestamp="1558793836826">
-        <mark key="'" line="20" column="9" />
+      <file name="E:/h5/offical/components/tab_list.vue" timestamp="1558794863836">
+        <mark key="'" line="43" column="0" />
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
@@ -534,13 +534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="51" filename="E:/h5/wechat/src/pages/home/index.vue" />
-      <jump line="167" column="55" filename="E:/h5/wechat/src/pages/home/index.vue" />
-      <jump line="198" column="34" filename="E:/h5/wechat/src/pages/home/index.vue" />
-      <jump line="463" column="31" filename="E:/h5/wechat/src/pages/home/index.vue" />
-      <jump line="470" column="31" filename="E:/h5/wechat/src/pages/home/index.vue" />
-      <jump line="473" column="56" filename="E:/h5/wechat/src/pages/home/index.vue" />
-      <jump line="477" column="54" filename="E:/h5/wechat/src/pages/home/index.vue" />
       <jump line="481" column="62" filename="E:/h5/wechat/src/pages/home/index.vue" />
       <jump line="485" column="31" filename="E:/h5/wechat/src/pages/home/index.vue" />
       <jump line="457" column="31" filename="E:/h5/wechat/src/pages/home/index.vue" />
@@ -634,6 +627,13 @@
       <jump line="3" column="20" filename="E:/h5/offical/layouts/default.vue" />
       <jump line="43" column="14" filename="E:/h5/offical/nuxt.config.js" />
       <jump line="247" column="11" filename="E:/h5/offical/layouts/default.vue" />
+      <jump line="10" column="38" filename="E:/h5/offical/components/tab_list.vue" />
+      <jump line="43" column="0" filename="E:/h5/offical/components/tab_list.vue" />
+      <jump line="442" column="0" filename="E:/h5/offical/layouts/default.vue" />
+      <jump line="383" column="2" filename="E:/h5/offical/pages/index.vue" />
+      <jump line="0" column="0" filename="E:/h5/offical/pages/index.vue" />
+      <jump line="81" column="8" filename="E:/h5/offical/pages/index.vue" />
+      <jump line="77" column="7" filename="E:/h5/offical/pages/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -643,7 +643,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>nav</text>
+        <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6Y2xhc3M9Inthcm91bmQ6IGlzQXJvdW5kLCBidG46IGNvcHlUZXh0fSIK</text>
@@ -680,9 +680,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nav</last-search>
+      <last-search encoding="base64">PGE=</last-search>
       <last-offset />
-      <last-pattern>nav</last-pattern>
+      <last-pattern encoding="base64">PGE=</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -690,8 +690,6 @@
     </search>
     <history>
       <history-search>
-        <entry>全覆盖</entry>
-        <entry>2019</entry>
         <entry>data</entry>
         <entry>cultureList</entry>
         <entry>item</entry>
@@ -710,6 +708,8 @@
         <entry>created</entry>
         <entry>creatd</entry>
         <entry>nav</entry>
+        <entry>nuxt-link</entry>
+        <entry encoding="base64">PGE=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
