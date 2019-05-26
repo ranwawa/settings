@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/h5/yeyx-sp/src/config/api_default_config.js" timestamp="1558868955797">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1558866470141">
         <mark key="[" line="0" column="0" />
       </file>
@@ -17,18 +22,28 @@
         <mark key="." line="181" column="0" />
         <mark key="^" line="170" column="26" />
       </file>
+      <file name="E:/h5/yeyx-sp/src/config/index.js" timestamp="1558868960661">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="E:/h5/yeyx-sp/src/service/api/index.js" timestamp="1558868113643">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="E:/h5/yeyx-sp/src/views/notices/todolist/components/dialog/Dialog.vue" timestamp="1558865089280">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
       <file name="E:/h5/yeyx-sp/build/webpack.base.conf.js" timestamp="1558865461930" />
-      <file name="E:/h5/yeyx-sp/src/plugins/api.js" timestamp="1558867130873">
+      <file name="E:/h5/yeyx-sp/src/plugins/api.js" timestamp="1558868988353">
         <mark key="'" line="5" column="8" />
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="45" column="31" />
-        <mark key="." line="45" column="31" />
-        <mark key="^" line="45" column="31" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="23" />
       </file>
       <file name="E:/h5/yeyx-sp/src/views/operator/Operator.vue" timestamp="1558865118616">
         <mark key="[" line="4" column="9" />
@@ -42,7 +57,7 @@
       </file>
       <file name="E:/h5/yeyx-sp/src/views/notices/todolist/components/dialog/components/Cancel.vue" timestamp="1558864858030" />
       <file name="E:/h5/yeyx-sp/src/views/layout/components/header/Index.vue" timestamp="1558864836563" />
-      <file name="E:/h5/yeyx-sp/src/service/store/modules/user.js" timestamp="1558866673345">
+      <file name="E:/h5/yeyx-sp/src/service/store/modules/user.js" timestamp="1558868000507">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -152,10 +167,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcGkudXNlckwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>置</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGE=</text>
@@ -164,31 +179,37 @@
         <text encoding="base64">ICAgICAgICA6Y2xhc3M9Inthcm91bmQ6IGlzQXJvdW5kLCBidG46IGNvcHlUZXh0fSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcGkudXNlckwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICoK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>// API 默认配置
+export const API_DEFAULT_CONFIG = {
+  mockBaseURL: '/api',
+  mock: isDevEnv,
+  debug: true,
+  sep: '/' // separator 分隔符
+};</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodmFsaWQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtb3VudGVkKCkgewogIH0sCg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnbG9iYWxzOiB7CiAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBhcGkudXNlckwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
