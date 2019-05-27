@@ -79,11 +79,11 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="E:/h5/yeyx-sp/src/service/api/user.js" timestamp="1558921366077">
-        <mark key="[" line="3" column="56" />
-        <mark key="]" line="3" column="61" />
-        <mark key="." line="3" column="61" />
-        <mark key="^" line="3" column="61" />
+      <file name="E:/h5/yeyx-sp/src/service/api/user.js" timestamp="1558924031493">
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="2" column="67" />
+        <mark key="." line="2" column="67" />
+        <mark key="^" line="2" column="67" />
       </file>
       <file name="E:/h5/wechat/src/main.js" timestamp="1558769013399">
         <mark key="[" line="26" column="20" />
@@ -91,7 +91,14 @@
         <mark key="." line="26" column="20" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="E:/h5/yeyx-sp/src/plugins/router.js" timestamp="1558921781886" />
+      <file name="E:/h5/yeyx-sp/src/service/api/master.js" timestamp="1558923949903">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+      </file>
+      <file name="E:/h5/yeyx-sp/src/plugins/router.js" timestamp="1558923637140" />
       <file name="E:/h5/yeyx-sp/src/service/api/serv.js" timestamp="1558882388703">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="20" />
@@ -110,7 +117,7 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="E:/h5/yeyx-sp/src/config/interceptors/router/permission.js" timestamp="1558921865113">
+      <file name="E:/h5/yeyx-sp/src/config/interceptors/router/permission.js" timestamp="1558923571727">
         <mark key="[" line="19" column="58" />
         <mark key="]" line="19" column="63" />
         <mark key="^" line="19" column="63" />
@@ -172,7 +179,7 @@
         <mark key="^" line="401" column="22" />
         <mark key="." line="406" column="0" />
       </file>
-      <file name="E:/h5/yeyx-sp/config/index.js" timestamp="1558920480158">
+      <file name="E:/h5/yeyx-sp/config/index.js" timestamp="1558924080870">
         <mark key="[" line="11" column="49" />
         <mark key="]" line="11" column="54" />
         <mark key="." line="11" column="54" />
@@ -180,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="28" filename="E:/h5/offical/components/tab_item_img.vue" />
-      <jump line="8" column="9" filename="E:/h5/offical/components/tab_item_img.vue" />
       <jump line="39" column="10" filename="E:/h5/offical/components/tab_item_img.vue" />
       <jump line="34" column="19" filename="E:/h5/offical/pages/yeyx/supplier.vue" />
       <jump line="0" column="9" filename="E:/h5/offical/pages/service/company.vue" />
@@ -280,19 +285,21 @@
       <jump line="0" column="0" filename="E:/h5/yeyx-sp/src/service/api/product.js" />
       <jump line="397" column="6" filename="E:/h5/yeyx-sp/src/routes/async_routes.js" />
       <jump line="144" column="56" filename="E:/h5/yeyx-sp/src/views/user/login.vue" />
+      <jump line="4" column="36" filename="E:/h5/yeyx-sp/src/service/api/master.js" />
+      <jump line="0" column="0" filename="E:/h5/yeyx-sp/src/service/api/master.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>reset_password</text>
+        <text>存</text>
       </register>
       <register name="-" type="4">
-        <text>reset_password</text>
+        <text>存</text>
       </register>
       <register name="/" type="4">
         <text>忘记</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsgbmFtZTogJ2xvZ2luJywgbWV0aG9kOiAnUE9TVCcsIGRlc2M6ICe1x8K9JywgcGF0aDogJ2xvZ2luJyB9LAo=</text>
+        <text encoding="base64">ICAgIHsgbmFtZTogJ3NraWxsU2F2ZScsIG1ldGhvZDogJ1BPU1QnLCBkZXNjOiAnsaO05sqmuLW8vMTcJywgcGF0aDogJ21hc3Rlci9tYXN0ZXIvc2tpbGxTYXZlJyB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHsgbmFtZTogJ2VkaXQnLCBtZXRob2Q6ICdQT1NUJywgZGVzYzogJ9DC1Pa12Na3JywgcGF0aDogJ2luZm8vYWRkci9lZGl0JyB9LAogICAgeyBuYW1lOiAnZGVsJywgbWV0aG9kOiAnUE9TVCcsIGRlc2M6ICfQwtT2tdjWtycsIHBhdGg6ICdpbmZvL2FkZHIvZGVsJyB9LAogICAgeyBuYW1lOiAnbGlzdCcsIG1ldGhvZDogJ0dFVCcsIGRlc2M6ICfQwtT2tdjWtycsIHBhdGg6ICdpbmZvL2FkZHIvbGlzdCcgfSwKICAgIHsgbmFtZTogJ2RldGFpbCcsIG1ldGhvZDogJ0dFVCcsIGRlc2M6ICfQwtT2tdjWtycsIHBhdGg6ICdpbmZvL2FkZHIvZGV0YWlsJyB9LAogICAgeyBuYW1lOiAnZGVmYXVsdCcsIG1ldGhvZDogJ1BPU1QnLCBkZXNjOiAn0MLU9rXY1rcnLCBwYXRoOiAnaW5mby9hZGRyL3NldERlZmF1bHRBZGRyJyB9LAo=</text>
