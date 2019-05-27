@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/h5/yeyx-sp/src/views/settings/Address.vue" timestamp="1558948498588">
-        <mark key="[" line="181" column="22" />
-        <mark key="]" line="181" column="22" />
-        <mark key="." line="181" column="22" />
-        <mark key="^" line="181" column="22" />
+      <file name="E:/h5/yeyx-sp/src/views/settings/Address.vue" timestamp="1558951528767">
+        <mark key="'" line="43" column="13" />
+        <mark key="[" line="164" column="6" />
+        <mark key="]" line="162" column="13" />
+        <mark key="." line="162" column="13" />
+        <mark key="^" line="162" column="13" />
       </file>
       <file name="E:/h5/yeyx-sp/src/service/api/index.js" timestamp="1558935831678">
         <mark key="[" line="15" column="5" />
@@ -220,6 +221,12 @@
         <mark key="." line="7" column="46" />
         <mark key="^" line="7" column="46" />
       </file>
+      <file name="E:/h5/yeyx-sp/src/components/form/selects/region/components/BaseSelect.vue" timestamp="1558949621291">
+        <mark key="'" line="86" column="11" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="E:/h5/yeyx-sp/src/service/api/invoice.js" timestamp="1558881748578">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="41" />
@@ -240,14 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="23" filename="E:/h5/offical/pages/index.vue" />
-      <jump line="228" column="4" filename="E:/h5/offical/pages/index.vue" />
-      <jump line="229" column="4" filename="E:/h5/offical/pages/index.vue" />
-      <jump line="64" column="26" filename="E:/h5/offical/pages/index.vue" />
-      <jump line="65" column="14" filename="E:/h5/offical/pages/index.vue" />
-      <jump line="395" column="0" filename="E:/h5/offical/pages/index.vue" />
-      <jump line="68" column="20" filename="E:/h5/offical/pages/index.vue" />
-      <jump line="232" column="4" filename="E:/h5/offical/pages/index.vue" />
       <jump line="386" column="3" filename="E:/h5/offical/pages/index.vue" />
       <jump line="63" column="15" filename="E:/h5/offical/pages/index.vue" />
       <jump line="61" column="16" filename="E:/h5/offical/pages/index.vue" />
@@ -340,55 +339,63 @@
       <jump line="159" column="8" filename="E:/h5/yeyx-sp/src/views/settings/Basics.vue" />
       <jump line="186" column="14" filename="E:/h5/yeyx-sp/src/views/settings/Basics.vue" />
       <jump line="38" column="16" filename="E:/h5/yeyx-sp/src/config/index.js" />
+      <jump line="61" column="4" filename="E:/h5/yeyx-sp/src/components/form/selects/region/components/BaseSelect.vue" />
+      <jump line="87" column="11" filename="E:/h5/yeyx-sp/src/components/form/selects/region/components/BaseSelect.vue" />
+      <jump line="130" column="0" filename="E:/h5/yeyx-sp/src/views/settings/Address.vue" />
+      <jump line="159" column="29" filename="E:/h5/yeyx-sp/src/views/settings/Address.vue" />
+      <jump line="127" column="34" filename="E:/h5/yeyx-sp/src/views/settings/Address.vue" />
+      <jump line="125" column="42" filename="E:/h5/yeyx-sp/src/views/settings/Address.vue" />
+      <jump line="63" column="27" filename="E:/h5/yeyx-sp/src/views/settings/Address.vue" />
+      <jump line="43" column="13" filename="E:/h5/yeyx-sp/src/views/settings/Address.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoZGF0YSkgPT4gZGF0YSwgKCkgPT4gW10pCg==</text>
+      <register name="&quot;" type="4">
+        <text>v-model</text>
       </register>
       <register name="-" type="4">
-        <text>'原始密码错误'</text>
+        <text>v-model</text>
       </register>
       <register name="/" type="4">
-        <text>CONSOLE_</text>
+        <text>methods</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5uYW1lRXJyb3JNZXNzYWdlID0gZS5tZXNzYWdlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoZGF0YSkgPT4gZGF0YSwgKCkgPT4gW10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2LW1vZGVsPSJhZGRyZXNzRm9ybS5hZGRyZXNzIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEJhc2VTZWxlY3QsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZS5tc2cgPT09ICfD3MLrtO3O8ycpIHsK</text>
+        <text encoding="base64">aW1wb3J0IEJhc2VTZWxlY3QgZnJvbSAnQC9jb21wb25lbnRzL2Zvcm0vc2VsZWN0cy9yZWdpb24vY29tcG9uZW50cy9CYXNlU2VsZWN0JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDpydWxlcz0icnVsZXMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZS5tc2cgPT09ICfD3MLrtO3O8ycpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygyMjIyMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZWwtZm9ybS1pdGVtPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYW5rQWNjb3VudDogJycsCiAgICAgICAgYmFua0FjY291bnROYW1lOiAnJywKICAgICAgICBiYW5rQWNjb3VudEluZm86ICcnLAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICA8ZWwtZm9ybS1pdGVtCiAgICAgICAgICAgIGNsYXNzPSJncm91cCIKICAgICAgICAgICAgbGFiZWw9IrPHytCjuiIKICAgICAgICAgICAgcHJvcD0iY2l0eUlkIgogICAgICAgICAgPgogICAgICAgICAgICA8IS0tIMqht93PwsCtv/IgLS0+CiAgICAgICAgICAgIDxCYXNlU2VsZWN0CiAgICAgICAgICAgICAgdi1tb2RlbD0icHJvdmluY2VJZCIKICAgICAgICAgICAgICA6bGV2ZWw9IjIiCiAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDwhLS0gs8fK0M/CwK2/8iAtLT4KICAgICAgICAgICAgPEJhc2VTZWxlY3QKICAgICAgICAgICAgICB2LW1vZGVsPSJhZGRyZXNzRm9ybS5jaXR5SWQiCiAgICAgICAgICAgICAgOmxldmVsPSIzIgogICAgICAgICAgICAgIDpwaWQ9InByb3ZpbmNlSWQiCiAgICAgICAgICAgICAgY2FzY2FkZWQKICAgICAgICAgICAgLz4KICAgICAgICAgIDwvZWwtZm9ybS1pdGVtPgogICAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYW5rQWNjb3VudDogJycsCiAgICAgICAgYmFua0FjY291bnROYW1lOiAnJywKICAgICAgICBiYW5rQWNjb3VudEluZm86ICcnLAogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIHByb3ZpbmNlQW5kQ2l0eURhdGEsCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICA8ZWwtZm9ybS1pdGVtCiAgICAgICAgICAgIGNsYXNzPSJncm91cCIKICAgICAgICAgICAgbGFiZWw9IrPHytCjuiIKICAgICAgICAgICAgcHJvcD0iY2l0eUlkIgogICAgICAgICAgPgogICAgICAgICAgICA8IS0tIMqht93PwsCtv/IgLS0+CiAgICAgICAgICAgIDxCYXNlU2VsZWN0CiAgICAgICAgICAgICAgdi1tb2RlbD0icHJvdmluY2VJZCIKICAgICAgICAgICAgICA6bGV2ZWw9IjIiCiAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDwhLS0gs8fK0M/CwK2/8iAtLT4KICAgICAgICAgICAgPEJhc2VTZWxlY3QKICAgICAgICAgICAgICB2LW1vZGVsPSJhZGRyZXNzRm9ybS5jaXR5SWQiCiAgICAgICAgICAgICAgOmxldmVsPSIzIgogICAgICAgICAgICAgIDpwaWQ9InByb3ZpbmNlSWQiCiAgICAgICAgICAgICAgY2FzY2FkZWQKICAgICAgICAgICAgLz4KICAgICAgICAgIDwvZWwtZm9ybS1pdGVtPgogICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>CONSOLE_</last-search>
+      <last-search>methods</last-search>
       <last-offset />
-      <last-pattern>CONSOLE_</last-pattern>
+      <last-pattern>methods</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -396,10 +403,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nav</entry>
-        <entry>nuxt-link</entry>
-        <entry encoding="base64">PGE=</entry>
-        <entry>aaa</entry>
         <entry>验证码</entry>
         <entry>proxy</entry>
         <entry>username</entry>
@@ -416,6 +419,10 @@
         <entry>areaId</entry>
         <entry>名称</entry>
         <entry>CONSOLE_</entry>
+        <entry>requestFunc</entry>
+        <entry>城市</entry>
+        <entry>length</entry>
+        <entry>methods</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
