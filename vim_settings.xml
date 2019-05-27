@@ -10,11 +10,18 @@
         <mark key="^" line="7" column="6" />
       </file>
       <file name="/login.vue" timestamp="1558921435484" />
+      <file name="E:/h5/yeyx-sp/src/components/Captcha.vue" timestamp="1558926897646" />
       <file name="E:/h5/offical/components/marquee.vue" timestamp="1558765464702">
         <mark key="[" line="31" column="18" />
         <mark key="]" line="31" column="19" />
         <mark key="." line="31" column="19" />
         <mark key="^" line="34" column="43" />
+      </file>
+      <file name="E:/h5/yeyx-sp/src/service/api/sertting.js" timestamp="1558928569708">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
       </file>
       <file name="E:/h5/yeyx-sp/src/service/api_new/index.js" timestamp="1558874698507">
         <mark key="[" line="3" column="2" />
@@ -22,12 +29,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="E:/h5/yeyx-sp/src/views/user/login.vue" timestamp="1558920512967">
-        <mark key="'" line="144" column="56" />
-        <mark key="[" line="59" column="34" />
-        <mark key="]" line="59" column="44" />
-        <mark key="^" line="59" column="44" />
-        <mark key="." line="59" column="44" />
+      <file name="E:/h5/yeyx-sp/src/views/user/login.vue" timestamp="1558927175037">
+        <mark key="'" line="168" column="56" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="E:/h5/yeyx-sp/src/service/api/branch.js" timestamp="1558880733162">
         <mark key="[" line="7" column="54" />
@@ -79,12 +85,10 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="E:/h5/yeyx-sp/src/service/api/user.js" timestamp="1558925107708">
-        <mark key="'" line="2" column="73" />
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="32" />
-        <mark key="^" line="2" column="32" />
+      <file name="E:/h5/yeyx-sp/src/service/store/modules/user.js" timestamp="1558927639821">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="E:/h5/wechat/src/main.js" timestamp="1558769013399">
         <mark key="[" line="26" column="20" />
@@ -92,12 +96,12 @@
         <mark key="." line="26" column="20" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="E:/h5/yeyx-sp/src/service/api/master.js" timestamp="1558923949903">
+      <file name="E:/h5/yeyx-sp/src/service/api/master.js" timestamp="1558928286254">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="49" />
-        <mark key="]" line="5" column="50" />
-        <mark key="." line="5" column="50" />
-        <mark key="^" line="5" column="50" />
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="21" column="92" />
       </file>
       <file name="E:/h5/yeyx-sp/src/plugins/router.js" timestamp="1558923637140" />
       <file name="E:/h5/yeyx-sp/src/service/api/serv.js" timestamp="1558882388703">
@@ -106,11 +110,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="E:/h5/yeyx-sp/src/service/api/order.js" timestamp="1558883090257">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="22" />
+      <file name="E:/h5/yeyx-sp/src/service/api/order.js" timestamp="1558929354374">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+        <mark key="^" line="18" column="42" />
       </file>
       <file name="E:/h5/offical/store/common.js" timestamp="1558789359788">
         <mark key="[" line="2" column="15" />
@@ -179,6 +183,12 @@
         <mark key="]" line="406" column="0" />
         <mark key="^" line="401" column="22" />
         <mark key="." line="406" column="0" />
+      </file>
+      <file name="E:/h5/yeyx-sp/src/service/api/price.js" timestamp="1558928665232">
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="3" column="55" />
+        <mark key="." line="3" column="55" />
+        <mark key="^" line="3" column="55" />
       </file>
       <file name="E:/h5/yeyx-sp/config/index.js" timestamp="1558924080870">
         <mark key="[" line="11" column="49" />
@@ -291,56 +301,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eGETST</text>
+        <text>GET</text>
       </register>
       <register name="-" type="4">
-        <text>eGETST</text>
+        <text>GET</text>
       </register>
       <register name="/" type="4">
-        <text>忘记</text>
+        <text>发送</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsgbmFtZTogJ3NraWxsU2F2ZScsIG1ldGhvZDogJ1BPU1QnLCBkZXNjOiAnsaO05sqmuLW8vMTcJywgcGF0aDogJ21hc3Rlci9tYXN0ZXIvc2tpbGxTYXZlJyB9LAo=</text>
+        <text encoding="base64">ICAgIHsgbmFtZTogJ3JlY2VpdmVMaXN0JywgbWV0aG9kOiAnR0VUJywgZGVzYzogJ73TtaUtsunRr73Tv9onLCBwYXRoOiAnd29yay9yZWNlaXZlL2xpc3QnIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsgbmFtZTogJ2VkaXQnLCBtZXRob2Q6ICdQT1NUJywgZGVzYzogJ9DC1Pa12Na3JywgcGF0aDogJ2luZm8vYWRkci9lZGl0JyB9LAogICAgeyBuYW1lOiAnZGVsJywgbWV0aG9kOiAnUE9TVCcsIGRlc2M6ICfQwtT2tdjWtycsIHBhdGg6ICdpbmZvL2FkZHIvZGVsJyB9LAogICAgeyBuYW1lOiAnbGlzdCcsIG1ldGhvZDogJ0dFVCcsIGRlc2M6ICfQwtT2tdjWtycsIHBhdGg6ICdpbmZvL2FkZHIvbGlzdCcgfSwKICAgIHsgbmFtZTogJ2RldGFpbCcsIG1ldGhvZDogJ0dFVCcsIGRlc2M6ICfQwtT2tdjWtycsIHBhdGg6ICdpbmZvL2FkZHIvZGV0YWlsJyB9LAogICAgeyBuYW1lOiAnZGVmYXVsdCcsIG1ldGhvZDogJ1BPU1QnLCBkZXNjOiAn0MLU9rXY1rcnLCBwYXRoOiAnaW5mby9hZGRyL3NldERlZmF1bHRBZGRyJyB9LAo=</text>
+        <text encoding="base64">ICAgIHsgbmFtZTogJ2Rpc3RyaWJ1dGVMaXN0JywgbWV0aG9kOiAnR0VUJywgZGVzYzogJ8XJtaXB0LHtJywgcGF0aDogJ3dvcmsvZGlzdHJpYnV0ZScgfSwK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAuLi5jb21tb24sCiAgLi4ub3JkZXIsCiAgLi4uY29tcGxhaW50LAogIC4uLnNldHRpbmdzLAogIC4uLnNlcnZpY2VtYW4sCiAgLi4ucGFydHMsCiAgbm90aWNlOiBbCiAgICB7CiAgICAgIG5hbWU6ICd0b2RvbGlzdCcsCiAgICAgIG1ldGhvZDogJ0dFVCcsCiAgICAgIGRlc2M6ICe0+rDszajWqicsCiAgICAgIHBhdGg6ICcvbm90aWNlL3RvZG9saXN0JywKICAgICAgbW9ja1BhdGg6ICcvbm90aWNlL3RvZG9saXN0JywKICAgICAgcGFyYW1zOiB7CiAgICAgICAgbGltaXQ6IG51bGwsCiAgICAgICAgb2Zmc2V0OiBudWxsCiAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgIG5hbWU6ICdzeXNsaXN0JywKICAgICAgbWV0aG9kOiAnR0VUJywKICAgICAgZGVzYzogJ8+1zbO5q7jmJywKICAgICAgcGF0aDogJy9ub3RpY2Uvc3lzbGlzdCcsCiAgICAgIG1vY2tQYXRoOiAnL25vdGljZS9zeXNsaXN0JywKICAgICAgcGFyYW1zOiB7CiAgICAgICAgbGltaXQ6IG51bGwsCiAgICAgICAgb2Zmc2V0OiBudWxsCiAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgIG5hbWU6ICdkZXRhaWwnLAogICAgICBtZXRob2Q6ICdHRVQnLAogICAgICBkZXNjOiAnz7XNs7mruObP6sfpJywKICAgICAgcGF0aDogJy9ub3RpY2UvY29udGVudCcsCiAgICAgIG1vY2tQYXRoOiAnL25vdGljZS9jb250ZW50JywKICAgICAgcGFyYW1zOiB7CiAgICAgICAgaWQ6IG51bGwKICAgICAgfQogICAgfSwKICAgIHsKICAgICAgbmFtZTogJ2ZpbmROZXdOb3RpY2UnLAogICAgICBtZXRob2Q6ICdHRVQnLAogICAgICBkZXNjOiAnz7XNs82o1qonLAogICAgICBwYXRoOiAnL25vdGljZS9maW5kTmV3Tm90aWNlJywKICAgICAgbW9ja1BhdGg6ICcvODA4OS9ub3RpY2UvZmluZE5ld05vdGljZScsCiAgICAgIHBhcmFtczogewogICAgICAgIHVzZXJJZDogbnVsbCwKICAgICAgICBhdXRoOiBudWxsLAogICAgICAgIHR5cGU6IG51bGwKICAgICAgfQogICAgfQogIF0sCiAgZmluOiBbCiAgICB7CiAgICAgIG5hbWU6ICdpbmNvbWVJbmZvJywKICAgICAgbWV0aG9kOiAnR0VUJywKICAgICAgZGVzYzogJ87StcTK1cjrwdCx7ScsCiAgICAgIHBhdGg6ICcvZmluL2luY29tZS9saXN0JywKICAgICAgbW9ja1BhdGg6ICcvZmluL2luY29tZS9saXN0JywKICAgICAgcGFyYW1zOiB7CiAgICAgICAgcGFnZTogbnVsbCwKICAgICAgICBsaW1pdDogMzAsCiAgICAgICAgeWVhcjogbnVsbAogICAgICB9CiAgICB9LAogICAgewogICAgICBuYW1lOiAnaW5jb21lRXhwb3J0JywKICAgICAgbWV0aG9kOiAnR0VUJywKICAgICAgZGVzYzogJ7W8s/bK1cjrw/fPuCcsCiAgICAgIHBhdGg6ICcvZmluL2luY29tZS9leHBvcnQnLAogICAgICBtb2NrUGF0aDogJy9maW4vaW5jb21lL2V4cG9ydCcsCiAgICAgIHBhcmFtczogewogICAgICAgIG1vbnRoOiBudWxsCiAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgIG5hbWU6ICdzZXJ2aWNlbWFuU2FsYXJ5TGlzdCcsCiAgICAgIG1ldGhvZDogJ0dFVCcsCiAgICAgIGRlc2M6ICfK1cjrwdCx7ScsCiAgICAgIHBhdGg6ICcvZmluL3NlcnZpY2VtYW5zYWxhcnkvbGlzdCcsCiAgICAgIG1vY2tQYXRoOiAnL2Zpbi9zZXJ2aWNlbWFuc2FsYXJ5L2xpc3QnLAogICAgICBwYXJhbXM6IHsKICAgICAgICBwYWdlOiBudWxsLAogICAgICAgIGxpbWl0OiAzMCwKICAgICAgICBzdGFydE1vbnRoOiBudWxsLAogICAgICAgIGVuZE1vbnRoOiBudWxsCiAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgIG5hbWU6ICdzZXJ2aWNlbWFuU2FsYXJ5RXhwb3J0JywKICAgICAgbWV0aG9kOiAnR0VUJywKICAgICAgZGVzYzogJ87StcTK1cjrtbyz9icsCiAgICAgIHBhdGg6ICcvZmluL3NlcnZpY2VtYW5zYWxhcnkvZXhwb3J0JywKICAgICAgbW9ja1BhdGg6ICcvZmluL3NlcnZpY2VtYW5zYWxhcnkvZXhwb3J0JywKICAgICAgcGFyYW1zOiB7CiAgICAgICAgc3RhcnRNb250aDogbnVsbCwKICAgICAgICBlbmRNb250aDogbnVsbCwKICAgICAgICBzZXJ2aWNlbWFuSWQ6IG51bGwKICAgICAgfQogICAgfQogIF0sCiAgc3lzOiBbCiAgICB7CiAgICAgIG5hbWU6ICdmaW5kUGFzc3dvcmQnLAogICAgICBtZXRob2Q6ICdHRVQnLAogICAgICBkZXNjOiAn1dK72MPcwustz8LSu7K9JywKICAgICAgcGF0aDogJy9zeXMvZmluZC9wYXNzd29yZCcsCiAgICAgIG1vY2tQYXRoOiAnL3N5cy9maW5kL3Bhc3N3b3JkJywKICAgICAgcGFyYW1zOiB7CiAgICAgICAgdXNlcm5hbWU6IG51bGwsCiAgICAgICAgY2FwdGNoYTogbnVsbAogICAgICB9CiAgICB9LAogICAgewogICAgICBuYW1lOiAnbWVzc2FnZUF1dGhDb2RlJywKICAgICAgbWV0aG9kOiAnR0VUJywKICAgICAgZGVzYzogJ7eiy83K1rv60enWpMLrJywKICAgICAgcGF0aDogJy9zeXMvZmluZC9waG9uZS9jYXB0Y2hhJywKICAgICAgbW9ja1BhdGg6ICcvc3lzL2ZpbmQvcGhvbmUvY2FwdGNoYScsCiAgICAgIHBhcmFtczogewogICAgICAgIHBob25lOiBudWxsCiAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgIG5hbWU6ICdzZXROZXdQYXNzd29yZCcsCiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICBkZXNjOiAn1dK72MPcwustzOG9u9DeuMTD3MLrJywKICAgICAgcGF0aDogJy9zeXMvZmluZC9lZGl0cGFzc3dvcmQnLAogICAgICBtb2NrUGF0aDogJy9zeXMvZmluZC9lZGl0cGFzc3dvcmQnLAogICAgICBwYXJhbXM6IHsKICAgICAgICBwaG9uZTogbnVsbCwKICAgICAgICBwaG9uZUNhcHRjaGE6IG51bGwsCiAgICAgICAgbmV3UGFzc3dvcmQ6IG51bGwKICAgICAgfQogICAgfSwKICAgIHsKICAgICAgbmFtZTogJ2FkZEZlZWRiYWNrJywKICAgICAgbWV0aG9kOiAnUE9TVCcsCiAgICAgIGRlc2M6ICfV0rvYw9zC6y3M4b270N64xMPcwusnLAogICAgICBwYXRoOiAnL3N5cy9mZWVkYmFjay9hZGQnLAogICAgICBtb2NrUGF0aDogJy9zeXMvZmVlZGJhY2svYWRkJywKICAgICAgcGFyYW1zOiB7CiAgICAgICAgY29udGVudDogbnVsbAogICAgICB9CiAgICB9CiAgXQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHsgbmFtZTogJ2xvZ291dCcsIG1ldGhvZDogJ0dFVCcsIGRlc2M6ICfNy7P2JywgcGF0aDogJ2xvZ291dCcgfSwK</text>
       </register>
-      <register name="3" type="4">
-        <text>import common from './common';
-import order from './order';
-import complaint from './complaint';
-import settings from './settings';
-import serviceman from './serviceman';</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHsgbmFtZTogJ2xvZ291dCcsIG1ldGhvZDogJ0dFVCcsIGRlc2M6ICfNy7P2JywgcGF0aDogJ2xvZ291dCcgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHsgbmFtZTogJ2xvZ291dCcsIG1ldGhvZDogJ0dFVCcsIGRlc2M6ICfNy7P2JywgcGF0aDogJ2xvZ291dCcgfSwK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8gY2hpbGRyZW46IFsKICAgIC8vICAgewogICAgLy8gICAgIHBhdGg6ICdpbnB1dF9hY2NvdW50JywKICAgIC8vICAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnQC92aWV3cy9yZXNldFBhc3N3b3JkL2NvbXBvbmVudHMvSW5wdXRBY2NvdW50JyksCiAgICAvLyAgICAgbWV0YTogewogICAgLy8gICAgICAgdGl0bGU6ICfK5Mjr1cu6xScKICAgIC8vICAgICB9CiAgICAvLyAgIH0sCiAgICAvLyAgIHsKICAgIC8vICAgICBwYXRoOiAnaW5wdXRfbmV3X3B3ZCcsCiAgICAvLyAgICAgY29tcG9uZW50OiAoKSA9PiBpbXBvcnQoJ0Avdmlld3MvcmVzZXRQYXNzd29yZC9jb21wb25lbnRzL0lucHV0TmV3UGFzc3dvcmQnKSwKICAgIC8vICAgICBtZXRhOiB7CiAgICAvLyAgICAgICB0aXRsZTogJ8no1sPQwsPcwusnCiAgICAvLyAgICAgfQogICAgLy8gICB9LAogICAgLy8gICB7CiAgICAvLyAgICAgcGF0aDogJ3N1Y2Nlc3MnLAogICAgLy8gICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdAL3ZpZXdzL3Jlc2V0UGFzc3dvcmQvY29tcG9uZW50cy9TdWNjZXNzJyksCiAgICAvLyAgICAgbWV0YTogewogICAgLy8gICAgICAgdGl0bGU6ICfN6rPJJwogICAgLy8gICAgIH0KICAgIC8vICAgfQogICAgLy8gXQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICcuL3NlcnZpY2UuanMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsgbmFtZTogJ2FqYWxsJywgbWV0aG9kOiAnUE9TVCcsIGRlc2M6ICezt7vYJywgcGF0aDogJ3dvcmsvcGFydC9yZWNhbGwnIH0sCg==</text>
+        <text encoding="base64">ICAgIHsgbmFtZTogJ2VkaXQnLCBtZXRob2Q6ICdQT1NUJywgZGVzYzogJ9DC1Pa12Na3JywgcGF0aDogJ2luZm8vYWRkci9lZGl0JyB9LAogICAgeyBuYW1lOiAnZGVsJywgbWV0aG9kOiAnUE9TVCcsIGRlc2M6ICfQwtT2tdjWtycsIHBhdGg6ICdpbmZvL2FkZHIvZGVsJyB9LAogICAgeyBuYW1lOiAnbGlzdCcsIG1ldGhvZDogJ0dFVCcsIGRlc2M6ICfQwtT2tdjWtycsIHBhdGg6ICdpbmZvL2FkZHIvbGlzdCcgfSwKICAgIHsgbmFtZTogJ2RldGFpbCcsIG1ldGhvZDogJ0dFVCcsIGRlc2M6ICfQwtT2tdjWtycsIHBhdGg6ICdpbmZvL2FkZHIvZGV0YWlsJyB9LAogICAgeyBuYW1lOiAnZGVmYXVsdCcsIG1ldGhvZDogJ1BPU1QnLCBkZXNjOiAn0MLU9rXY1rcnLCBwYXRoOiAnaW5mby9hZGRyL3NldERlZmF1bHRBZGRyJyB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>忘记</last-search>
+      <last-search>发送</last-search>
       <last-offset />
-      <last-pattern>忘记</last-pattern>
+      <last-pattern>发送</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -348,7 +354,6 @@ import serviceman from './serviceman';</text>
     </search>
     <history>
       <history-search>
-        <entry>currentNav</entry>
         <entry>pageName</entry>
         <entry>craeted</entry>
         <entry>commit</entry>
@@ -368,6 +373,7 @@ import serviceman from './serviceman';</text>
         <entry>logoSmall</entry>
         <entry>reset_pass</entry>
         <entry>忘记</entry>
+        <entry>发送</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
