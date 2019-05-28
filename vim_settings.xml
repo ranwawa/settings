@@ -221,10 +221,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559027545308">
+      <file name="/Dummy.txt" timestamp="1559033376372">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/api/config.js" timestamp="1559029881952">
+      <file name="E:/h5/zmn-official-wechat/src/api/config.js" timestamp="1559033149960">
         <mark key="^" line="1" column="42" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/api/request.js" timestamp="1559022429973">
@@ -301,6 +303,11 @@
         <mark key="]" line="3" column="55" />
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
+      </file>
+      <file name="E:/h5/zmn-official-wechat/src/pages/card/index.vue" timestamp="1559033357894">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -406,11 +413,11 @@
       <jump line="265" column="37" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA6c2Nyb2xsLXdpdGgtYW5pbWF0aW9uPSJ0cnVlIgo=</text>
+      <register name="&quot;" type="4">
+        <text>城市选择启用右侧字母下拉</text>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>城市选择启用右侧字母下拉</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
@@ -419,31 +426,41 @@
         <text>required('请选择城市')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6c2Nyb2xsLXdpdGgtYW5pbWF0aW9uPSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L3ZpZXc+Cg==</text>
+      <register name="2" type="4">
+        <text>// eslint-disable-next-line no-param-reassign
+        res = {
+          'data': null, 'items': [
+            {
+              'code': '196WT36', 'createTime': '2019-05-27 16:11:38', 'effectived': true,
+              'expiredTime': '2019-08-26 23:59:59', 'orderId': '339727753123209216',
+              'productName': '挂机空调维修', 'type': '2', 'typeName': '保单',
+              'visitTime': '2019-05-27 14:45:22',
+            },
+          ], 'message': '', 'status': 200, 'statusBool': true, 'statusCode': '',
+        };</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8dmlldyBjbGFzcz0iY29udGVudCI+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L3ZpZXc+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dmlldyBjbGFzcz0iY29udGVudCI+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6c3R5bGU9IntoZWlnaHQ6d2luZG93SGVpZ2h0fSIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA6c2Nyb2xsLXdpdGgtYW5pbWF0aW9uPSJ0cnVlIgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8L3ZpZXc+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8dmlldyBjbGFzcz0iY29udGVudCI+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBoZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8L3ZpZXc+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8dmlldyBjbGFzcz0iY29udGVudCI+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAdG91Y2htb3ZlPSJzaG93SW5kZXgiCg==</text>
+        <text encoding="base64">ICAgICAgICA6c3R5bGU9IntoZWlnaHQ6d2luZG93SGVpZ2h0fSIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
