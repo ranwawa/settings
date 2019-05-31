@@ -124,6 +124,11 @@
         <mark key="." line="65" column="36" />
         <mark key="^" line="65" column="28" />
       </file>
+      <file name="E:/h5/zmn-official-wechat/src/main.js" timestamp="1559293555335">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="E:/h5/yeyx-sp/src/components/searchBar/components/FilterBar.vue" timestamp="1559048480271">
         <mark key="'" line="34" column="4" />
         <mark key="[" line="16" column="21" />
@@ -187,6 +192,11 @@
         <mark key="]" line="2" column="41" />
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
+      </file>
+      <file name="E:/h5/zmn-official-wechat/index.html" timestamp="1559293912213">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/utils/index.js" timestamp="1559283227522">
         <mark key="'" line="88" column="31" />
@@ -342,12 +352,12 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="E:/h5/xiujiadian/pcPortal/js/app/joinus.js" timestamp="1559292780340">
+      <file name="E:/h5/xiujiadian/pcPortal/js/app/joinus.js" timestamp="1559294529616">
         <mark key="'" line="193" column="1" />
-        <mark key="[" line="369" column="25" />
-        <mark key="]" line="369" column="29" />
-        <mark key="." line="369" column="29" />
-        <mark key="^" line="369" column="29" />
+        <mark key="[" line="369" column="50" />
+        <mark key="]" line="369" column="53" />
+        <mark key="." line="369" column="53" />
+        <mark key="^" line="369" column="53" />
       </file>
       <file name="E:/h5/yeyx-sp-back/config/request.config.js" timestamp="1559069340387">
         <mark key="[" line="2" column="2" />
@@ -385,12 +395,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="E:/h5/xiujiadian/pcPortal/pages/joinUs.html" timestamp="1559290201507">
+      <file name="E:/h5/xiujiadian/pcPortal/pages/joinUs.html" timestamp="1559294472195">
         <mark key="'" line="289" column="3" />
-        <mark key="[" line="430" column="31" />
-        <mark key="]" line="430" column="31" />
-        <mark key="." line="430" column="31" />
-        <mark key="^" line="430" column="31" />
+        <mark key="[" line="429" column="0" />
+        <mark key="]" line="429" column="0" />
+        <mark key="." line="429" column="0" />
+        <mark key="^" line="429" column="43" />
       </file>
       <file name="E:/h5/yeyx-sp/src/service/api/service.js" timestamp="1558881740846">
         <mark key="[" line="2" column="46" />
@@ -534,10 +544,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>otherName</text>
+        <text>phone</text>
       </register>
       <register name="-" type="4">
-        <text>otherName</text>
+        <text>phone</text>
       </register>
       <register name="/" type="4">
         <text>立即注册</text>
@@ -545,24 +555,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICQoJyNjaXR5JykudmFsKCfH69Gh1PG3/s7xt7bOp8f40/I6yqEvytAvx/gnKS5jc3MoJ2NvbG9yJywgJ3JnYigxNzcsIDE3NywgMTc3KScpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>function () {
-    ;
-  }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpOzsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY2xlYXJEYXRhKTsK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGNsZWFyRGF0YSA9IHRoaXMuY2xlYXJEYXRhOwo=</text>
+      <register name="4" type="4">
+        <text>function () {
+    ;
+  }</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coY2xlYXJEYXRhKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGNsZWFyRGF0YSA9IHRoaXMuY2xlYXJEYXRhOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>// 清空数据
   clearData() {
     formData = {
@@ -572,15 +591,6 @@
     $('#msg').text('');
     $('#name').val('');
   },</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICQoJycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
