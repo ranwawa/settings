@@ -53,6 +53,13 @@
         <mark key="^" line="49" column="20" />
         <mark key="." line="49" column="20" />
       </file>
+      <file name="E:/h5/xiujiadian/pcPortal/pages/merchant.html" timestamp="1559292596665">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="52" column="85" />
+        <mark key="]" line="52" column="99" />
+        <mark key="^" line="52" column="99" />
+        <mark key="." line="52" column="99" />
+      </file>
       <file name="E:/h5/yeyx-sp/src/components/modes/SearchAndShowDataListAndSummary.vue" timestamp="1559048574926">
         <mark key="[" line="62" column="24" />
         <mark key="]" line="62" column="33" />
@@ -335,12 +342,12 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="E:/h5/xiujiadian/pcPortal/js/app/joinus.js" timestamp="1559290122837">
+      <file name="E:/h5/xiujiadian/pcPortal/js/app/joinus.js" timestamp="1559292780340">
         <mark key="'" line="193" column="1" />
-        <mark key="[" line="385" column="8" />
-        <mark key="]" line="385" column="19" />
-        <mark key="." line="385" column="19" />
-        <mark key="^" line="385" column="19" />
+        <mark key="[" line="369" column="25" />
+        <mark key="]" line="369" column="29" />
+        <mark key="." line="369" column="29" />
+        <mark key="^" line="369" column="29" />
       </file>
       <file name="E:/h5/yeyx-sp-back/config/request.config.js" timestamp="1559069340387">
         <mark key="[" line="2" column="2" />
@@ -424,7 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="27" filename="E:/h5/yeyx-sp/src/views/order/orderList/OrderList.vue" />
       <jump line="46" column="0" filename="E:/h5/yeyx-sp/src/components/searchBar/components/FilterBar.vue" />
       <jump line="0" column="0" filename="E:/h5/yeyx-sp/src/components/searchBar/components/FilterBar.vue" />
       <jump line="19" column="15" filename="E:/h5/yeyx-sp/src/components/searchBar/components/FilterBar.vue" />
@@ -524,18 +530,17 @@
       <jump line="15" column="42" filename="E:/h5/xiujiadian/pcPortal/js/app/joinus.js" />
       <jump line="289" column="3" filename="E:/h5/xiujiadian/pcPortal/pages/joinUs.html" />
       <jump line="193" column="1" filename="E:/h5/xiujiadian/pcPortal/js/app/joinus.js" />
+      <jump line="45" column="0" filename="E:/h5/xiujiadian/pcPortal/pages/merchant.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>function () {
-    ;
-  }</text>
+        <text>otherName</text>
       </register>
       <register name="-" type="4">
-        <text>val</text>
+        <text>otherName</text>
       </register>
       <register name="/" type="4">
-        <text>CANCEL</text>
+        <text>立即注册</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICQoJyNjaXR5JykudmFsKCfH69Gh1PG3/s7xt7bOp8f40/I6yqEvytAvx/gnKS5jc3MoJ2NvbG9yJywgJ3JnYigxNzcsIDE3NywgMTc3KScpOwo=</text>
@@ -582,9 +587,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CANCEL</last-search>
+      <last-search>立即注册</last-search>
       <last-offset />
-      <last-pattern>CANCEL</last-pattern>
+      <last-pattern>立即注册</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -592,7 +597,6 @@
     </search>
     <history>
       <history-search>
-        <entry>city</entry>
         <entry>Pop</entry>
         <entry>ui-content</entry>
         <entry>Popy</entry>
@@ -612,6 +616,7 @@
         <entry>script</entry>
         <entry>clear</entry>
         <entry>CANCEL</entry>
+        <entry>立即注册</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
