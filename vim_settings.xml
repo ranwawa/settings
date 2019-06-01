@@ -100,12 +100,12 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages.json" timestamp="1559379078077">
+      <file name="E:/h5/zmn-official-wechat/src/pages.json" timestamp="1559382269408">
         <mark key="'" line="12" column="9" />
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="13" column="36" />
-        <mark key="." line="13" column="36" />
+        <mark key="[" line="102" column="31" />
+        <mark key="]" line="102" column="35" />
+        <mark key="^" line="102" column="35" />
+        <mark key="." line="102" column="35" />
       </file>
       <file name="E:/h5/yeyx-sp-back/api/axios_export.js" timestamp="1559071589631">
         <mark key="[" line="10" column="20" />
@@ -336,12 +336,12 @@
         <mark key="^" line="65" column="49" />
         <mark key="." line="65" column="49" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages/product/category.vue" timestamp="1559356885684">
-        <mark key="'" line="127" column="31" />
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="25" />
+      <file name="E:/h5/zmn-official-wechat/src/pages/product/category.vue" timestamp="1559382215792">
+        <mark key="'" line="16" column="7" />
+        <mark key="[" line="165" column="18" />
+        <mark key="]" line="165" column="18" />
+        <mark key="." line="165" column="18" />
+        <mark key="^" line="165" column="18" />
       </file>
       <file name="E:/h5/yeyx-sp/src/service/api/address.js" timestamp="1559043408608">
         <mark key="[" line="9" column="74" />
@@ -560,8 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="26" filename="E:/h5/xiujiadian/pcPortal/pages/joinUs.html" />
-      <jump line="298" column="26" filename="E:/h5/xiujiadian/pcPortal/pages/joinUs.html" />
       <jump line="406" column="28" filename="E:/h5/xiujiadian/pcPortal/pages/joinUs.html" />
       <jump line="115" column="13" filename="E:/h5/zmn-official-wechat/src/pages/my/my.vue" />
       <jump line="236" column="58" filename="E:/h5/zmn-official-wechat/src/pages/my/my.vue" />
@@ -660,16 +658,18 @@
       <jump line="246" column="8" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
       <jump line="379" column="18" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
       <jump line="534" column="0" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
+      <jump line="0" column="9" filename="E:/h5/zmn-official-wechat/src/pages/product/category.vue" />
+      <jump line="16" column="7" filename="E:/h5/zmn-official-wechat/src/pages/product/category.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>black</text>
       </register>
       <register name="-" type="4">
-        <text>image</text>
+        <text>black</text>
       </register>
       <register name="/" type="4">
-        <text>float</text>
+        <text>ul</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAibmF2aWdhdGlvbkJhclRpdGxlVGV4dCI6ICLK19KzIgo=</text>
@@ -678,40 +678,40 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>view {
       border-radius: 25px;
       box-shadow: -3px 5px 5px rgba(136, 200, 254, .4);
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgYm9yZGVyLXJhZGl1czogMjVweDsKICAgICAgYm94LXNoYWRvdzogLTNweCA1cHggNXB4IHJnYmEoMTM2LCAyMDAsIDI1NCwgLjQpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA6aHJlZj0icGhvbmUiCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICA6aHJlZj0idWRlc2siCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG1heC1sZW4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2Nyb2xsVG9wID0gd2luZG93LnBhZ2VZT2Zmc2V0IHx8IGRvY3VtZW50LmRvY3VtZW50RWxlbWVudC5zY3JvbGxUb3AgfHwgZG9jdW1lbnQuYm9keS5zY3JvbGxUb3A7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG1heC1sZW4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>float</last-search>
+      <last-search>ul</last-search>
       <last-offset />
-      <last-pattern>float</last-pattern>
+      <last-pattern>ul</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -719,7 +719,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jWeiXin</entry>
         <entry>uini</entry>
         <entry>uni-ui</entry>
         <entry>goCard</entry>
@@ -739,6 +738,7 @@
         <entry encoding="base64">XDxuYXZpZ2F0aW9uU3R5bGVcPg==</entry>
         <entry>在线咨询</entry>
         <entry>float</entry>
+        <entry>ul</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
