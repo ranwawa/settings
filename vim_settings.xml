@@ -23,7 +23,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages/reserve/components/time-picker.vue" timestamp="1559641717534">
+      <file name="E:/h5/zmn-official-wechat/src/pages/reserve/components/time-picker.vue" timestamp="1559651437538">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -36,12 +36,12 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" timestamp="1559649215707">
-        <mark key="'" line="47" column="19" />
-        <mark key="[" line="169" column="17" />
-        <mark key="]" line="169" column="26" />
-        <mark key="." line="169" column="26" />
-        <mark key="^" line="169" column="26" />
+      <file name="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" timestamp="1559652028686">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="273" column="88" />
+        <mark key="]" line="273" column="89" />
+        <mark key="." line="273" column="89" />
+        <mark key="^" line="273" column="89" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/api/address.js" timestamp="1559637772932" />
       <file name="E:/h5/yeyx-sp-back/layouts/default.vue" timestamp="1559550995438">
@@ -252,10 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="23" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
-      <jump line="115" column="42" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
-      <jump line="4" column="26" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
-      <jump line="29" column="0" filename="E:/h5/zmn-official-wechat/src/App.vue" />
       <jump line="31" column="4" filename="E:/h5/zmn-official-wechat/src/App.vue" />
       <jump line="35" column="2" filename="E:/h5/zmn-official-wechat/src/App.vue" />
       <jump line="38" column="5" filename="E:/h5/zmn-official-wechat/src/App.vue" />
@@ -329,8 +325,6 @@
       <jump line="76" column="23" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
       <jump line="208" column="27" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
       <jump line="31" column="25" filename="E:/h5/zmn-official-wechat/src/components/uni-field.vue" />
-      <jump line="45" column="25" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
-      <jump line="0" column="0" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
       <jump line="171" column="14" filename="E:/h5/zmn-official-wechat/src/pages/reserve/components/time_picker_2.vue" />
       <jump line="187" column="17" filename="E:/h5/zmn-official-wechat/src/pages/reserve/components/time_picker_2.vue" />
       <jump line="192" column="17" filename="E:/h5/zmn-official-wechat/src/pages/reserve/components/time_picker_2.vue" />
@@ -352,55 +346,61 @@
       <jump line="137" column="32" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
       <jump line="1" column="0" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
       <jump line="47" column="19" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
+      <jump line="167" column="13" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
+      <jump line="314" column="7" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
+      <jump line="108" column="7" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
+      <jump line="45" column="13" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
+      <jump line="52" column="30" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
+      <jump line="0" column="9" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>data</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgewogICAgICAicm9vdCI6ICJwYWdlcy9hZGRyZXNzIiwKICAgICAgInBhZ2VzIjogWwogICAgICAgIHsKICAgICAgICAgICJwYXRoIjogImNyZWF0ZSIsCiAgICAgICAgICAic3R5bGUiOiB7CiAgICAgICAgICAgICJuYXZpZ2F0aW9uQmFyVGl0bGVUZXh0IjogIrHgvK212Na3IgogICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInBhdGgiOiAibGlzdCIsCiAgICAgICAgICAic3R5bGUiOiB7CiAgICAgICAgICAgICJuYXZpZ2F0aW9uQmFyVGl0bGVUZXh0IjogIrHgvK253MDtIgogICAgICAgICAgfQogICAgICAgIH0KICAgICAgXQogICAgfQogIA==</text>
+        <text>(24 / segments.length) * (i + 1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdG9kYXkgPSBEYXRlLm5vdygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmZyb20oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAucHJvZHVjdC1kZXRhaWw6bnRoLWNoaWxkKDEpIHsKICAgIGJvcmRlcjogMCAhaW1wb3J0YW50OwogIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC5wcm9kdWN0LWRldGFpbDpsYXN0LWNoaWxkIHsKICAgICAgYm9yZGVyOiAwICFpbXBvcnRhbnQ7CiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgOnBpY2tlci12YWx1ZS1kZWZhdWx0PSJwaWNrZXJWYWx1ZURlZmF1bHQiCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFVuaUxpc3RJdGVtIGZyb20gJ0AvY29tcG9uZW50cy91bmkvdW5pLWxpc3QtaXRlbS52dWUnOwo=</text>
+        <text encoding="base64">ICAgICAgOnBpY2tlci12YWx1ZS1hcnJheT0icGlja2VyVmFsdWVBcnJheSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFVuaUxpc3RJdGVtLAo=</text>
+        <text encoding="base64">ICAgIHBpY2tlclZhbHVlRGVmYXVsdDogWzEsIDEsIDFdLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6a2V5PSJpdGVtLnByb2R1Y3RJZCIK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IFsKICAgICAgewogICAgICAgIGxhYmVsOiAn16HL3rfRJywKICAgICAgICB2YWx1ZTogMSwKICAgICAgfSwKICAgICAgewogICAgICAgIGxhYmVsOiAnu+62r7fRJywKICAgICAgICB2YWx1ZTogMiwKICAgICAgfSwKICAgICAgewogICAgICAgIGxhYmVsOiAnzajRtrfRJywKICAgICAgICB2YWx1ZTogMywKICAgICAgfSwKICAgICAgewogICAgICAgIGxhYmVsOiAnsrnW+icsCiAgICAgICAgdmFsdWU6IDQsCiAgICAgIH0sCiAgICBd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcz0ibnVtYmVyIgo=</text>
+        <text encoding="base64">ICAgIG1vZGU6ICdzZWxlY3RvcicsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -408,9 +408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>area</entry>
-        <entry>edit</entry>
-        <entry>onConfirm</entry>
         <entry>goArea</entry>
         <entry>submit</entry>
         <entry>新增</entry>
@@ -422,12 +419,15 @@
         <entry>van</entry>
         <entry>remark</entry>
         <entry>props</entry>
-        <entry>预约时间</entry>
         <entry>text</entry>
         <entry>id</entry>
         <entry>submit-bar</entry>
         <entry>优惠</entry>
         <entry>onLoad</entry>
+        <entry>预约时间</entry>
+        <entry>uni-icon</entry>
+        <entry>预约</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
