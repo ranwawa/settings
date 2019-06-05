@@ -302,12 +302,11 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/utils/getToken.js" timestamp="1559738604096">
-        <mark key="'" line="2" column="29" />
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="8" />
-        <mark key="." line="37" column="8" />
-        <mark key="^" line="37" column="8" />
+      <file name="E:/h5/zmn-official-wechat/src/utils/getToken.js" timestamp="1559739626828">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="E:/h5/yeyx-sp-back/api/master.js" timestamp="1559485167230">
         <mark key="[" line="8" column="58" />
@@ -369,9 +368,9 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/api/request.js" timestamp="1559701032271">
-        <mark key="[" line="78" column="21" />
-        <mark key="]" line="78" column="27" />
+      <file name="E:/h5/zmn-official-wechat/src/api/request.js" timestamp="1559739589487">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="57" column="15" />
         <mark key="." line="78" column="27" />
         <mark key="^" line="78" column="27" />
       </file>
@@ -538,7 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="0" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
       <jump line="85" column="0" filename="E:/h5/zmn-official-wechat/src/App.vue" />
       <jump line="59" column="1" filename="E:/h5/zmn-official-wechat/src/App.vue" />
       <jump line="21" column="0" filename="E:/h5/zmn-official-wechat/src/App.vue" />
@@ -638,10 +636,11 @@
       <jump line="194" column="29" filename="E:/h5/zmn-official-wechat/src/components/uni/uni-list-item.vue" />
       <jump line="51" column="28" filename="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" />
       <jump line="6" column="2" filename="E:/h5/zmn-official-wechat/src/components/uni/uni-list-item.vue" />
+      <jump line="46" column="4" filename="E:/h5/zmn-official-wechat/src/utils/getToken.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return getGPSWithAP();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHVzZXIgZnJvbSAnQC9hcGkvdXNlcic7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>return getGPSWithAP();</text>
@@ -650,34 +649,34 @@
         <text>slot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB1c2VyQWdlbnQgPSBuYXZpZ2F0b3IudXNlckFnZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5pLm5hdmlnYXRlVG8oewogICAgICAgICAgICAgIHVybDogJy9wYWdlcy9teS9sb2dpbl9tcCcKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZiAoKSByZXR1cm4gZ2V0R1BTV2l0aFdlaVhpbigpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHVzZXIgZnJvbSAnQC9hcGkvdXNlcic7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICgpIHJldHVybiBnZXRHUFNXaXRoV2VpWGluKCk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHJldHVybiB1bmkubG9naW4oewogICAgICBzY29wZXM6ICdhdXRoX2Jhc2UnLAogICAgfSkudGhlbigoW2VyciwgcmVzXSkgPT4gewogICAgICBpZiAoZXJyKSByZXR1cm4gcmVzb2x2ZShlcnIpOwogICAgICB1c2VyLmxvZ2luQnlBbGlwYXkoewogICAgICAgIGNvZGU6IHJlcy5jb2RlLAogICAgICB9KS50aGVuKCh7IGRhdGEgfSkgPT4gewogICAgICAgIHVuaS5zZXRTdG9yYWdlU3luYygndXNlckluZm8nLCBkYXRhIHx8IHt9KTsKICAgICAgICBzdG9yZS5jb21taXQoJ3NldFVzZXJJbmZvJywgZGF0YSB8fCB7fSk7CiAgICAgIH0pOwogICAgfSkuY2F0Y2goKGVycikgPT4gewogICAgICB1bmkuc2hvd01vZGFsKHsKICAgICAgICB0aXRsZTogJ8zhyr4nLAogICAgICAgIGNvbnRlbnQ6ICe78cihytrIqMqnsNwnLAogICAgICB9KTsKICAgICAgcmVqZWN0KGVycik7CiAgICB9KTsKICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0YXRlID0gbG9jYXRpb24uaGFzaC5zdWJzdHIoMSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXNlckFnZW50ID0gbmF2aWdhdG9yLnVzZXJBZ2VudDsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpZiAoKSByZXR1cm4gZ2V0R1BTV2l0aFdlaVhpbigpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmICgpIHJldHVybiBnZXRHUFNXaXRoV2VpWGluKCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldENvZGUocmVkaXJlY3QsIHN0YXRlKTsKICAgIGNvbnN0IHVzZXJBZ2VudCA9IG5hdmlnYXRvci51c2VyQWdlbnQ7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0YXRlID0gbG9jYXRpb24uaGFzaC5zdWJzdHIoMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdldENvZGUsIHN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXNlckFnZW50ID0gbmF2aWdhdG9yLnVzZXJBZ2VudDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJJbmZvKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC91bmktbGlzdC1pdGVtPgo=</text>
+        <text encoding="base64">ICAgIGdldENvZGUocmVkaXJlY3QsIHN0YXRlKTsKICAgIGNvbnN0IHVzZXJBZ2VudCA9IG5hdmlnYXRvci51c2VyQWdlbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
