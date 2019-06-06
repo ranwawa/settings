@@ -60,12 +60,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="106" column="7" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages/product/category.vue" timestamp="1559817727021">
+      <file name="E:/h5/zmn-official-wechat/src/pages/product/category.vue" timestamp="1559821516761">
         <mark key="'" line="0" column="9" />
-        <mark key="[" line="114" column="22" />
-        <mark key="]" line="114" column="25" />
-        <mark key="." line="114" column="25" />
-        <mark key="^" line="114" column="25" />
+        <mark key="[" line="112" column="16" />
+        <mark key="]" line="112" column="16" />
+        <mark key="^" line="112" column="16" />
+        <mark key="." line="112" column="16" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" timestamp="1559815564431">
         <mark key="'" line="186" column="4" />
@@ -482,10 +482,18 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>// 先获取定位
+    await getGPS();
+    // 如果一级分类没有数据,则获取一级分类
+    if (!this.arr.length) await this.getFirstList();
+    // 如果重新选择了城市,则重新请求一级分类
+    if (this.$store.state.refreshCate) {
+      await this.getFirstList();
+      this.$store.commit('setRefreshCate', false);
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
@@ -494,31 +502,39 @@
         <text encoding="base64">dW5pLmxvZ2luKHsKICAgICAgICBzY29wZXM6ICdhdXRoX3VzZXInLAogICAgICB9KS50aGVuKChbZXJyLCByZXNdKSA9PiB7CiAgICAgICAgaWYgKGVycikgcmV0dXJuIHRoaXMuZ29Ib21lKCk7CiAgICAgICAgdXNlci5sb2dpbkJ5QWxpcGF5KHsgY29kZTogcmVzLmNvZGUgfSkudGhlbigoeyBkYXRhIH0pID0+IHsKICAgICAgICAgIGlmIChkYXRhLnN0YXR1cyA9PT0gMjAwKSB7CiAgICAgICAgICAgIHRoaXMuc2V0VXNlckluZm8oKTsKICAgICAgICAgICAgdW5pLm5hdmlnYXRlQmFjaygpOwogICAgICAgICAgfSBlbHNlIGlmIChkYXRhLnN0YXR1cyA9PT0gNDEwMDIpIHsKICAgICAgICAgICAgdXNlci5yZWdpc3RlckJ5QWxpcGF5KCk7CiAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICAgIH0pLmNhdGNoKCgpID0+IHsKICAgICAgICB0aGlzLmdvSG9tZSgpOwogICAgICB9KTs=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIHsKICAgICAgICAgICJwYXRoIjogImNpdHkiLAogICAgICAgICAgInN0eWxlIjogewogICAgICAgICAgICAibmF2aWdhdGlvbkJhclRpdGxlVGV4dCI6ICLRodTxs8fK0CIKICAgICAgICAgIH0KICAgICAgICB9</text>
+        <text>// 先获取定位
+    await getGPS();
+    // 如果一级分类没有数据,则获取一级分类
+    if (!this.arr.length) await this.getFirstList();
+    // 如果重新选择了城市,则重新请求一级分类
+    if (this.$store.state.refreshCate) {
+      await this.getFirstList();
+      this.$store.commit('setRefreshCate', false);
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlci5yZWdpc3RlckJ5QWxpcGF5KCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyC4+b7dwODQzcXQts/Kx7XHwr27ucrH16Ky4Qo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDXorLhCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHsKICAgICAgICAgICJwYXRoIjogImNpdHkiLAogICAgICAgICAgInN0eWxlIjogewogICAgICAgICAgICAibmF2aWdhdGlvbkJhclRpdGxlVGV4dCI6ICLRodTxs8fK0CIKICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBtZXRob2QgPSBlLnR5cGUgPT09ICdsb2dpbicgPyAnbG9naW5CeUFsaXBheScgOiAncmVnaXN0ZXJCeUFsaXBheSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlci5yZWdpc3RlckJ5QWxpcGF5KCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dW5pLmxvZ2luKHsKICAgICAgc2NvcGVzOiAnYXV0aF91c2VyJywKICAgIH0pLnRoZW4oKFtlcnIsIHJlc10pID0+IHsKICAgICAgaWYgKGVycikgcmV0dXJuIHRoaXMuZ29Ib21lKCk7CiAgICAgIC8vINeisuEKICAgICAgLy8guPm+3cDg0M3F0LbPyse1x8K9u7nKx9eisuEKICAgICAgY29uc3QgbWV0aG9kID0gZS50eXBlID09PSAnbG9naW4nID8gJ2xvZ2luQnlBbGlwYXknIDogJ3JlZ2lzdGVyQnlBbGlwYXknOwogICAgICB1c2VyLmxvZ2luQnlBbGlwYXkoeyBjb2RlOiByZXMuY29kZSB9KS50aGVuKCh7IGRhdGEgfSkgPT4gewogICAgICAgIGlmIChkYXRhLnN0YXR1cyA9PT0gMjAwKSB7CiAgICAgICAgICB0aGlzLnNldFVzZXJJbmZvKCk7CiAgICAgICAgICB1bmkubmF2aWdhdGVCYWNrKCk7CiAgICAgICAgfSBlbHNlIGlmIChkYXRhLnN0YXR1cyA9PT0gNDEwMDIpIHsKICAgICAgICAgIHVzZXIucmVnaXN0ZXJCeUFsaXBheSgpCiAgICAgICAgfQogICAgICB9KTsKICAgIH0pLmNhdGNoKCgpID0+IHsKICAgICAgdGhpcy5nb0hvbWUoKTsKICAgIH0pOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyC4+b7dwODQzcXQts/Kx7XHwr27ucrH16Ky4Qo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gu7q05tPDu6fQxc+iCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDXorLhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGRkago=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBtZXRob2QgPSBlLnR5cGUgPT09ICdsb2dpbicgPyAnbG9naW5CeUFsaXBheScgOiAncmVnaXN0ZXJCeUFsaXBheSc7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWV0aG9kID0gZS50eXBlID09PSAnbG9naW4nID8gJ2xvZ2luQnlBbGlwYXknIDogJ3JlZ2lzdGVyQnlBbGlwYXknOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">dW5pLmxvZ2luKHsKICAgICAgc2NvcGVzOiAnYXV0aF91c2VyJywKICAgIH0pLnRoZW4oKFtlcnIsIHJlc10pID0+IHsKICAgICAgaWYgKGVycikgcmV0dXJuIHRoaXMuZ29Ib21lKCk7CiAgICAgIC8vINeisuEKICAgICAgLy8guPm+3cDg0M3F0LbPyse1x8K9u7nKx9eisuEKICAgICAgY29uc3QgbWV0aG9kID0gZS50eXBlID09PSAnbG9naW4nID8gJ2xvZ2luQnlBbGlwYXknIDogJ3JlZ2lzdGVyQnlBbGlwYXknOwogICAgICB1c2VyLmxvZ2luQnlBbGlwYXkoeyBjb2RlOiByZXMuY29kZSB9KS50aGVuKCh7IGRhdGEgfSkgPT4gewogICAgICAgIGlmIChkYXRhLnN0YXR1cyA9PT0gMjAwKSB7CiAgICAgICAgICB0aGlzLnNldFVzZXJJbmZvKCk7CiAgICAgICAgICB1bmkubmF2aWdhdGVCYWNrKCk7CiAgICAgICAgfSBlbHNlIGlmIChkYXRhLnN0YXR1cyA9PT0gNDEwMDIpIHsKICAgICAgICAgIHVzZXIucmVnaXN0ZXJCeUFsaXBheSgpCiAgICAgICAgfQogICAgICB9KTsKICAgIH0pLmNhdGNoKCgpID0+IHsKICAgICAgdGhpcy5nb0hvbWUoKTsKICAgIH0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
