@@ -130,12 +130,12 @@
         <mark key="." line="37" column="18" />
         <mark key="^" line="37" column="18" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages/order/evaluate.vue" timestamp="1559720602456">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="7" />
-        <mark key="]" line="40" column="9" />
-        <mark key="^" line="40" column="9" />
-        <mark key="." line="40" column="9" />
+      <file name="E:/h5/zmn-official-wechat/src/pages/order/evaluate.vue" timestamp="1559799848815">
+        <mark key="'" line="25" column="24" />
+        <mark key="[" line="81" column="6" />
+        <mark key="]" line="81" column="20" />
+        <mark key="^" line="81" column="20" />
+        <mark key="." line="81" column="20" />
       </file>
       <file name="E:/h5/yeyx-sp-back/nuxt.config.js" timestamp="1559739966339">
         <mark key="'" line="0" column="0" />
@@ -330,7 +330,7 @@
         <mark key="." line="27" column="21" />
         <mark key="^" line="27" column="21" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/api/config.js" timestamp="1559793147242">
+      <file name="E:/h5/zmn-official-wechat/src/api/config.js" timestamp="1559800095762">
         <mark key="'" line="2" column="28" />
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="15" />
@@ -496,8 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="10" filename="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" />
-      <jump line="257" column="8" filename="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" />
       <jump line="637" column="0" filename="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" />
       <jump line="632" column="8" filename="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" />
       <jump line="10" column="9" filename="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" />
@@ -596,6 +594,8 @@
       <jump line="105" column="29" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
       <jump line="7" column="15" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
       <jump line="2" column="28" filename="E:/h5/zmn-official-wechat/src/api/config.js" />
+      <jump line="69" column="16" filename="E:/h5/zmn-official-wechat/src/pages/order/evaluate.vue" />
+      <jump line="25" column="24" filename="E:/h5/zmn-official-wechat/src/pages/order/evaluate.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -605,7 +605,7 @@
         <text>https://test-api-crm.xiujiadian.com/</text>
       </register>
       <register name="/" type="4">
-        <text>城市</text>
+        <text>methods</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHVzZXJBZ2VudCA9IG5hdmlnYXRvci51c2VyQWdlbnQ7Cg==</text>
@@ -642,9 +642,9 @@
       </register>
     </registers>
     <search>
-      <last-search>城市</last-search>
+      <last-search>methods</last-search>
       <last-offset />
-      <last-pattern>城市</last-pattern>
+      <last-pattern>methods</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -668,10 +668,10 @@
         <entry>师傅</entry>
         <entry>masterList</entry>
         <entry>import</entry>
-        <entry>methods</entry>
         <entry>data</entry>
         <entry>log</entry>
         <entry>城市</entry>
+        <entry>methods</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
