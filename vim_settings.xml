@@ -286,12 +286,11 @@
         <mark key="^" line="36" column="11" />
         <mark key="." line="36" column="11" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/utils/getToken.js" timestamp="1559808190325">
+      <file name="E:/h5/zmn-official-wechat/src/utils/getToken.js" timestamp="1559808901870">
         <mark key="'" line="54" column="4" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="48" column="22" />
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="4" />
+        <mark key="." line="47" column="4" />
       </file>
       <file name="E:/h5/yeyx-sp-back/api/master.js" timestamp="1559485167230">
         <mark key="[" line="8" column="58" />
@@ -447,12 +446,12 @@
         <mark key="." line="1" column="37" />
         <mark key="^" line="1" column="57" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/utils/getGPS.js" timestamp="1559808045596">
+      <file name="E:/h5/zmn-official-wechat/src/utils/getGPS.js" timestamp="1559809601644">
         <mark key="'" line="88" column="14" />
-        <mark key="[" line="95" column="22" />
-        <mark key="]" line="95" column="22" />
-        <mark key="." line="95" column="22" />
-        <mark key="^" line="95" column="22" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="133" column="23" />
       </file>
       <file name="E:/h5/yeyx-sp-back/components/form_address.vue" timestamp="1559532487838">
         <mark key="'" line="30" column="18" />
@@ -606,7 +605,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0sIDEwMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzLCAxMTExMTExMSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>获取参数</text>
@@ -618,31 +617,37 @@
         <text encoding="base64">ICAgIGFsZXJ0KCe78cihss7K/ScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sIDEwMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzLCAxMTExMTExMSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
+        <text encoding="base64">ICAvLyAjaWZkZWYgTVAKICByZXR1cm4gZ2V0R1BTV2l0aEFsaXBheSgpOwogIC8vICNlbmRpZgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>// #ifdef MP
+    alert('不应该到这里来才对');
+    // 支付宝小程序获取code
+    uni.navigateTo({
+      url: '/pages/my/login_mp',
+    });
+    // #endif</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vINanuLaxptChs8zQ8rvxyKFjb2RlCg==</text>
+        <text encoding="base64">ICAgIH0sIDEwMDAwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCe94s72dXJsss7K/ScpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KGFwLnBhcnNlUXVlcnlTdHJpbmcpOwo=</text>
+        <text encoding="base64">ICAgIC8vINanuLaxptChs8zQ8rvxyKFjb2RlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KGAke2NvbmZpZy5yZWRpcmVjdFVyaX0ke3N0YXRlfWApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0Q29kZSB9IGZyb20gJy4vZ2V0Q29kZSc7Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KCe94s72dXJsss7K/ScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
