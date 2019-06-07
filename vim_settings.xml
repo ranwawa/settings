@@ -17,12 +17,12 @@
         <mark key="^" line="144" column="24" />
         <mark key="." line="144" column="24" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" timestamp="1559730737628">
-        <mark key="'" line="55" column="28" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="27" />
-        <mark key="^" line="29" column="6" />
-        <mark key="." line="29" column="0" />
+      <file name="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" timestamp="1559875439205">
+        <mark key="'" line="49" column="20" />
+        <mark key="[" line="206" column="24" />
+        <mark key="]" line="207" column="34" />
+        <mark key="." line="207" column="34" />
+        <mark key="^" line="207" column="34" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/order/my.vue" timestamp="1559748282904">
         <mark key="'" line="7" column="15" />
@@ -38,8 +38,8 @@
         <mark key="^" line="174" column="15" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/components/uni/uni-list-item.vue" timestamp="1559730794369">
-        <mark key="'" line="6" column="2" />
+      <file name="E:/h5/zmn-official-wechat/src/components/uni/uni-list-item.vue" timestamp="1559875218299">
+        <mark key="'" line="39" column="35" />
         <mark key="[" line="36" column="12" />
         <mark key="]" line="36" column="18" />
         <mark key="." line="36" column="18" />
@@ -339,11 +339,6 @@
         <mark key="." line="1" column="37" />
         <mark key="^" line="1" column="57" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages/home/index.vue" timestamp="1559815931117">
-        <mark key="'" line="339" column="7" />
-        <mark key="[" line="412" column="2" />
-        <mark key="]" line="418" column="3" />
-      </file>
       <file name="E:/h5/zmn-official-wechat/src/utils/getCode.js" timestamp="1559824125694">
         <mark key="[" line="8" column="2" />
         <mark key="^" line="8" column="1" />
@@ -386,8 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="12" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
-      <jump line="67" column="7" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
       <jump line="107" column="2" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
       <jump line="24" column="18" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
       <jump line="30" column="11" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
@@ -486,55 +479,57 @@
       <jump line="162" column="17" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
       <jump line="11" column="12" filename="E:/h5/zmn-official-wechat/src/pages/address/list.vue" />
       <jump line="0" column="9" filename="E:/h5/zmn-official-wechat/src/pages/product/category.vue" />
+      <jump line="39" column="35" filename="E:/h5/zmn-official-wechat/src/components/uni/uni-list-item.vue" />
+      <jump line="49" column="20" filename="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBvblVubG9hZCgpIHsKICB9LAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>uni-list</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>style</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY3VycmVudENhdGUsIDIyMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvblVubG9hZCgpIHsKICB9LAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIMflv9W12Na3u7q05izS1LfAz8K0ztbY0MLRodTxs8fK0Lrzu7nP1Mq+tbHHsLXY1rcKICAgIHRoaXMuJHN0b3JlLmNvbW1pdCgnc2V0U2VsZWN0ZWRBZGRyZXNzJywge30pOwo=</text>
+        <text encoding="base64">ICAgIEBpbmNsdWRlIHB5KDIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvblVubG9hZCgpIHsKICAgIC8vIMflv9W12Na3u7q05izS1LfAz8K0ztbY0MLRodTxs8fK0Lrzu7nP1Mq+tbHHsLXY1rcKICAgIHRoaXMuJHN0b3JlLmNvbW1pdCgnc2V0U2VsZWN0ZWRBZGRyZXNzJywge30pOwogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMyk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PHVuaS1saXN0LWl0ZW0KICAgICAgICB0aXRsZT0itqm1pbHgusUiCiAgICAgICAgOnNob3ctYXJyb3c9ImZhbHNlIgogICAgICAgIEBjbGljaz0iY29weUlkIgogICAgICA8L3VuaS1saXN0LWl0ZW0+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIMflv9W12Na3u7q05izS1LfAz8K0ztbY0MLRodTxs8fK0Lrzu7nP1Mq+tbHHsLXY1rcKICAgICAgICAgIHRoaXMuJHN0b3JlLmNvbW1pdCgnc2V0QWRkcmVzc0NpdHknLCB7fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3RlbXBsYXRlPgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGU+Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnVuaS1idXR0b246Zmlyc3QtY2hpbGQgewogICAgICAgIEBpbmNsdWRlIG1yKDUpOwogICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">e3sgb3JkZXIub3JkZXJJZCB9fQogICAgICAgICAgPHRleHQgY2xhc3M9ImNvcHktdGV4dCI+CiAgICAgICAgICAgILi01sYKICAgICAgICAgIDwvdGV4dD4=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>style</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -542,8 +537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>评价</entry>
-        <entry>MP</entry>
         <entry>store</entry>
         <entry>alert</entry>
         <entry>mobile</entry>
@@ -562,6 +555,8 @@
         <entry>submit</entry>
         <entry>onSelect</entry>
         <entry>onLoad</entry>
+        <entry>slot</entry>
+        <entry>style</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
