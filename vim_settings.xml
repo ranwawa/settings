@@ -66,8 +66,8 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="106" column="7" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages/product/category.vue" timestamp="1559878578211">
-        <mark key="'" line="135" column="6" />
+      <file name="E:/h5/zmn-official-wechat/src/pages/product/category.vue" timestamp="1559888776431">
+        <mark key="'" line="51" column="0" />
         <mark key="[" line="131" column="43" />
         <mark key="]" line="132" column="31" />
         <mark key="." line="132" column="31" />
@@ -363,6 +363,9 @@
         <mark key="^" line="77" column="24" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="E:/h5/zmn-official-wechat/src/utils/getGPS.js" timestamp="1559888793580">
+        <mark key="'" line="85" column="17" />
+      </file>
       <file name="E:/h5/yeyx-sp-back/components/search_tab_list.vue" timestamp="1559742546172">
         <mark key="'" line="20" column="56" />
         <mark key="[" line="6" column="31" />
@@ -393,9 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="854" column="13" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
-      <jump line="505" column="23" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
-      <jump line="662" column="4" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
       <jump line="699" column="6" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
       <jump line="766" column="19" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
       <jump line="784" column="8" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
@@ -493,6 +493,9 @@
       <jump line="12" column="53" filename="E:/h5/zmn-official-wechat/src/api/order.js" />
       <jump line="21" column="53" filename="E:/h5/zmn-official-wechat/src/pages/my/my.vue" />
       <jump line="58" column="20" filename="E:/h5/zmn-official-wechat/src/pages/my/my.vue" />
+      <jump line="125" column="28" filename="E:/h5/zmn-official-wechat/src/pages/product/category.vue" />
+      <jump line="51" column="0" filename="E:/h5/zmn-official-wechat/src/pages/product/category.vue" />
+      <jump line="85" column="17" filename="E:/h5/zmn-official-wechat/src/utils/getGPS.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -502,7 +505,7 @@
         <text>order/comment</text>
       </register>
       <register name="/" type="4">
-        <text>goCard</text>
+        <text>getGPS</text>
       </register>
       <register name="0" type="4">
         <text>uni.showToast({
@@ -543,9 +546,9 @@
       </register>
     </registers>
     <search>
-      <last-search>goCard</last-search>
+      <last-search>getGPS</last-search>
       <last-offset />
-      <last-pattern>goCard</last-pattern>
+      <last-pattern>getGPS</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -553,7 +556,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getCode</entry>
         <entry>my</entry>
         <entry>bindPhone</entry>
         <entry>bind</entry>
@@ -573,6 +575,7 @@
         <entry>submit</entry>
         <entry>comment</entry>
         <entry>goCard</entry>
+        <entry>getGPS</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
