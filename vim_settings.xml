@@ -59,12 +59,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="106" column="7" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages/product/category.vue" timestamp="1559872521040">
-        <mark key="'" line="0" column="9" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="120" column="18" />
+      <file name="E:/h5/zmn-official-wechat/src/pages/product/category.vue" timestamp="1559878578211">
+        <mark key="'" line="135" column="6" />
+        <mark key="[" line="131" column="43" />
+        <mark key="]" line="132" column="31" />
+        <mark key="." line="132" column="31" />
+        <mark key="^" line="132" column="31" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" timestamp="1559874540873">
         <mark key="'" line="164" column="17" />
@@ -381,7 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="4" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
       <jump line="169" column="15" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
       <jump line="252" column="17" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
       <jump line="332" column="18" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
@@ -481,16 +480,17 @@
       <jump line="6" column="7" filename="E:/h5/zmn-official-wechat/src/components/rww-button.vue" />
       <jump line="14" column="16" filename="E:/h5/zmn-official-wechat/src/components/rww-button.vue" />
       <jump line="29" column="30" filename="E:/h5/zmn-official-wechat/src/components/rww-button.vue" />
+      <jump line="133" column="6" filename="E:/h5/zmn-official-wechat/src/pages/product/category.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>small</text>
+        <text>222</text>
       </register>
       <register name="0" type="4">
         <text>uni.showToast({
@@ -530,9 +530,9 @@
       </register>
     </registers>
     <search>
-      <last-search>small</last-search>
+      <last-search>222</last-search>
       <last-offset />
-      <last-pattern>small</last-pattern>
+      <last-pattern>222</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -540,7 +540,6 @@
     </search>
     <history>
       <history-search>
-        <entry>children</entry>
         <entry>set</entry>
         <entry>home</entry>
         <entry>getCode</entry>
@@ -560,6 +559,7 @@
         <entry>订单编号</entry>
         <entry>copy</entry>
         <entry>small</entry>
+        <entry>222</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
