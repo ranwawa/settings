@@ -195,12 +195,11 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="68" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages/my/my.vue" timestamp="1559823163018">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="53" />
+      <file name="E:/h5/zmn-official-wechat/src/pages/my/my.vue" timestamp="1559888188215">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
         <mark key="^" line="21" column="53" />
-        <mark key="." line="21" column="53" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="E:/h5/yeyx-sp/src/views/user/login.vue" timestamp="1559391538343">
         <mark key="'" line="125" column="15" />
@@ -244,6 +243,12 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="33" />
       </file>
+      <file name="E:/h5/zmn-official-wechat/src/pages/card/components/receipt-item.vue" timestamp="1559887632955">
+        <mark key="[" line="56" column="18" />
+        <mark key="]" line="56" column="24" />
+        <mark key="." line="56" column="24" />
+        <mark key="^" line="56" column="24" />
+      </file>
       <file name="E:/h5/zmn-official-wechat/src/components/ss-select-city/ss-select-city.vue" timestamp="1559378874430">
         <mark key="'" line="186" column="12" />
         <mark key="[" line="214" column="56" />
@@ -251,10 +256,10 @@
         <mark key="^" line="148" column="5" />
         <mark key="." line="214" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559877779658">
+      <file name="/Dummy.txt" timestamp="1559887791891">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/components/product-width.vue" timestamp="1559825457223">
         <mark key="'" line="90" column="13" />
@@ -388,8 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="21" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
-      <jump line="18" column="4" filename="E:/h5/yeyx-sp-back/components/form_select_master.vue" />
       <jump line="854" column="13" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
       <jump line="505" column="23" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
       <jump line="662" column="4" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
@@ -488,16 +491,18 @@
       <jump line="87" column="4" filename="E:/h5/zmn-official-wechat/src/pages/order/evaluate.vue" />
       <jump line="46" column="16" filename="E:/h5/zmn-official-wechat/src/pages/order/evaluate.vue" />
       <jump line="12" column="53" filename="E:/h5/zmn-official-wechat/src/api/order.js" />
+      <jump line="21" column="53" filename="E:/h5/zmn-official-wechat/src/pages/my/my.vue" />
+      <jump line="58" column="20" filename="E:/h5/zmn-official-wechat/src/pages/my/my.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>order/comment</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQGNsaWNrPSJnb0NhcmQiCg==</text>
       </register>
       <register name="-" type="4">
         <text>order/comment</text>
       </register>
       <register name="/" type="4">
-        <text>comment</text>
+        <text>goCard</text>
       </register>
       <register name="0" type="4">
         <text>uni.showToast({
@@ -506,40 +511,41 @@
         });</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctYm90dG9tOiAzcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGNsaWNrPSJnb0NhcmQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctdG9wOiAycHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdW5pLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFVuaUxpc3RJdGVtIGZyb20gJ0AvY29tcG9uZW50cy91bmkvdW5pLWxpc3QtaXRlbS52dWUnOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIHB5KDIpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PHVuaS1saXN0LWl0ZW0KICAgICAgICB0aXRsZT0itqm1pbHgusUiCiAgICAgICAgOnNob3ctYXJyb3c9ImZhbHNlIgogICAgICAgIEBjbGljaz0iY29weUlkIgogICAgICA8L3VuaS1saXN0LWl0ZW0+</text>
+      <register name="4" type="4">
+        <text>单详情显示订单编号
+小程序端隐藏微信登陆界面</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmctYm90dG9tOiAzcHg7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmctdG9wOiAycHg7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdW5pLgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IFVuaUxpc3RJdGVtIGZyb20gJ0AvY29tcG9uZW50cy91bmkvdW5pLWxpc3QtaXRlbS52dWUnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>comment</last-search>
+      <last-search>goCard</last-search>
       <last-offset />
-      <last-pattern>comment</last-pattern>
+      <last-pattern>goCard</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -547,7 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>home</entry>
         <entry>getCode</entry>
         <entry>my</entry>
         <entry>bindPhone</entry>
@@ -567,6 +572,7 @@
         <entry>222</entry>
         <entry>submit</entry>
         <entry>comment</entry>
+        <entry>goCard</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
