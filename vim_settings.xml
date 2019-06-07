@@ -17,12 +17,12 @@
         <mark key="^" line="144" column="24" />
         <mark key="." line="144" column="24" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" timestamp="1559875439205">
-        <mark key="'" line="49" column="20" />
-        <mark key="[" line="206" column="24" />
-        <mark key="]" line="207" column="34" />
-        <mark key="." line="207" column="34" />
-        <mark key="^" line="207" column="34" />
+      <file name="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" timestamp="1559875528723">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="7" />
+        <mark key="]" line="49" column="7" />
+        <mark key="." line="49" column="7" />
+        <mark key="^" line="49" column="41" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/order/my.vue" timestamp="1559748282904">
         <mark key="'" line="7" column="15" />
@@ -381,12 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="2" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
-      <jump line="24" column="18" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
-      <jump line="30" column="11" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
-      <jump line="26" column="33" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
-      <jump line="644" column="15" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
-      <jump line="185" column="21" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
       <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
       <jump line="768" column="14" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
       <jump line="232" column="32" filename="E:/h5/yeyx-sp-back/pages/order/my.vue" />
@@ -481,55 +475,61 @@
       <jump line="0" column="9" filename="E:/h5/zmn-official-wechat/src/pages/product/category.vue" />
       <jump line="39" column="35" filename="E:/h5/zmn-official-wechat/src/components/uni/uni-list-item.vue" />
       <jump line="49" column="20" filename="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" />
+      <jump line="198" column="18" filename="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" />
+      <jump line="124" column="7" filename="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" />
+      <jump line="187" column="4" filename="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" />
+      <jump line="129" column="0" filename="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" />
+      <jump line="193" column="4" filename="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" />
+      <jump line="0" column="0" filename="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>div</text>
       </register>
       <register name="-" type="4">
-        <text>uni-list</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
-        <text>style</text>
+        <text>订单编号</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY3VycmVudENhdGUsIDIyMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IFVuaUxpc3RJdGVtIGZyb20gJ0AvY29tcG9uZW50cy91bmkvdW5pLWxpc3QtaXRlbS52dWUnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIHB5KDIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIEBpbmNsdWRlIHB5KDIpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PHVuaS1saXN0LWl0ZW0KICAgICAgICB0aXRsZT0itqm1pbHgusUiCiAgICAgICAgOnNob3ctYXJyb3c9ImZhbHNlIgogICAgICAgIEBjbGljaz0iY29weUlkIgogICAgICA8L3VuaS1saXN0LWl0ZW0+</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICA8L3RlbXBsYXRlPgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICA8dGVtcGxhdGU+Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">e3sgb3JkZXIub3JkZXJJZCB9fQogICAgICAgICAgPHRleHQgY2xhc3M9ImNvcHktdGV4dCI+CiAgICAgICAgICAgILi01sYKICAgICAgICAgIDwvdGV4dD4=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>style</last-search>
+      <last-search>订单编号</last-search>
       <last-offset />
-      <last-pattern>style</last-pattern>
+      <last-pattern>订单编号</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -537,9 +537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>store</entry>
-        <entry>alert</entry>
-        <entry>mobile</entry>
         <entry>立即提交</entry>
         <entry>onShow</entry>
         <entry>children</entry>
@@ -557,6 +554,9 @@
         <entry>onLoad</entry>
         <entry>slot</entry>
         <entry>style</entry>
+        <entry>methods</entry>
+        <entry>copyId</entry>
+        <entry>订单编号</entry>
       </history-search>
       <history-cmd>
         <entry>%s/href=&quot;#&quot;/href=&quot;####&quot;/g</entry>
