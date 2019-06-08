@@ -360,11 +360,11 @@
         <mark key="." line="1" column="37" />
         <mark key="^" line="1" column="57" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages/home/index.vue" timestamp="1559973568295">
-        <mark key="'" line="415" column="2" />
-        <mark key="[" line="410" column="0" />
-        <mark key="]" line="410" column="0" />
-        <mark key="." line="410" column="0" />
+      <file name="E:/h5/zmn-official-wechat/src/pages/home/index.vue" timestamp="1559986484944">
+        <mark key="[" line="410" column="19" />
+        <mark key="]" line="410" column="18" />
+        <mark key="." line="410" column="18" />
+        <mark key="^" line="410" column="18" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/utils/setTokenByAlipay.js" timestamp="1559973273662">
         <mark key="[" line="6" column="0" />
@@ -379,12 +379,12 @@
         <mark key="^" line="77" column="24" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/utils/getGPS.js" timestamp="1559978213265">
-        <mark key="'" line="141" column="16" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="69" column="8" />
-        <mark key="." line="143" column="0" />
+      <file name="E:/h5/zmn-official-wechat/src/utils/getGPS.js" timestamp="1559986519396">
+        <mark key="'" line="114" column="23" />
+        <mark key="[" line="139" column="21" />
+        <mark key="]" line="139" column="22" />
+        <mark key="^" line="146" column="8" />
+        <mark key="." line="139" column="22" />
       </file>
       <file name="E:/h5/yeyx-sp-back/components/search_tab_list.vue" timestamp="1559742546172">
         <mark key="'" line="20" column="56" />
@@ -416,17 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="E:/h5/zmn-official-wechat/src/pages/my/login_mp.vue" />
-      <jump line="46" column="12" filename="E:/h5/zmn-official-wechat/src/pages/my/login_mp.vue" />
-      <jump line="5" column="33" filename="E:/h5/zmn-official-wechat/src/pages/my/login_mp.vue" />
-      <jump line="25" column="24" filename="E:/h5/zmn-official-wechat/src/pages/my/login_mp.vue" />
-      <jump line="26" column="12" filename="E:/h5/zmn-official-wechat/src/pages/my/login_mp.vue" />
-      <jump line="91" column="16" filename="E:/h5/zmn-official-wechat/src/pages.json" />
-      <jump line="74" column="7" filename="E:/h5/zmn-official-wechat/src/pages/my/my.vue" />
-      <jump line="312" column="0" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
-      <jump line="109" column="0" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
-      <jump line="123" column="0" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
-      <jump line="0" column="0" filename="E:/h5/zmn-official-wechat/src/pages/address/detail.vue" />
       <jump line="112" column="70" filename="E:/h5/zmn-official-wechat/src/pages/address/detail.vue" />
       <jump line="127" column="18" filename="E:/h5/zmn-official-wechat/src/pages/address/detail.vue" />
       <jump line="272" column="15" filename="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" />
@@ -516,55 +505,66 @@
       <jump line="94" column="13" filename="E:/h5/zmn-official-wechat/src/pages/order/list.vue" />
       <jump line="8" column="29" filename="E:/h5/zmn-official-wechat/src/api/config.js" />
       <jump line="5" column="28" filename="E:/h5/zmn-official-wechat/src/store/state.js" />
+      <jump line="39" column="19" filename="E:/h5/zmn-official-wechat/src/utils/getGPS.js" />
+      <jump line="58" column="6" filename="E:/h5/zmn-official-wechat/src/utils/getGPS.js" />
+      <jump line="90" column="6" filename="E:/h5/zmn-official-wechat/src/utils/getGPS.js" />
+      <jump line="411" column="20" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
+      <jump line="118" column="29" filename="E:/h5/zmn-official-wechat/src/utils/getGPS.js" />
+      <jump line="31" column="11" filename="E:/h5/zmn-official-wechat/src/utils/getGPS.js" />
+      <jump line="26" column="2" filename="E:/h5/zmn-official-wechat/src/utils/getGPS.js" />
+      <jump line="59" column="4" filename="E:/h5/zmn-official-wechat/src/utils/getGPS.js" />
+      <jump line="75" column="6" filename="E:/h5/zmn-official-wechat/src/utils/getGPS.js" />
+      <jump line="139" column="2" filename="E:/h5/zmn-official-wechat/src/utils/getGPS.js" />
+      <jump line="114" column="23" filename="E:/h5/zmn-official-wechat/src/utils/getGPS.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBaZmJYY3hVRGVzazogJ2h0dHBzOi8vdGVzdC1hcGktY3JtLnhpdWppYWRpYW4uY29tL3VkZXNrL3pmYj9ncm91cElkPTY0NDA4JywK</text>
+      <register name="&quot;" type="4">
+        <text>res</text>
       </register>
       <register name="-" type="4">
-        <text>utils</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
-        <text>tabList</text>
+        <text>cityId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBaZmJYY3hVRGVzazogJ2h0dHBzOi8vdGVzdC1hcGktY3JtLnhpdWppYWRpYW4uY29tL3VkZXNrL3pmYj9ncm91cElkPTY0NDA4JywK</text>
+        <text encoding="base64">ICAgICAgICAgIGdldENpdHlJbmZvKHJlc29sdmUsIHJlamVjdCwgYW8ubG9uZ2l0dWRlLCBhby5sYXRpdHVkZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuc3RhdGUudWRlc2spOwo=</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoSlNPTi5zdHJpbmdpZnkocmVzKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMTIzKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaWYodGhpcy4kc3RvcmUuKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRhYkxpc3QgPSB0aGlzLnRhYkxpc3QuY29uY2F0KHJlcy5pdGVtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuY29tbWl0KCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y29tbW9uLmdldEN1cnJlbnRBcmVhKHsKICAgICAgICBsbmc6IHJlcy5sb25naXR1ZGUsCiAgICAgICAgbGF0OiByZXMubGF0aXR1ZGUsCiAgICAgIH0pLnRoZW4ocmVzMiA9PiB7CiAgICAgICAgc2V0QWRkcmVzcyhyZXMyLmRhdGEpOwogICAgICAgIHJlc29sdmUocmVzMi5kYXRhKTsKICAgICAgfSkuY2F0Y2goKGVycikgPT4gewogICAgICAgIHJlamVjdChlcnIpOwogICAgICB9KTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBjbGljaz0ibG9nb3V0Igo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMzMzMTExMSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZmF1bHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3M9ImludHJvZHVjZS1pdGVtIgo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nZXRIb21lKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>tabList</last-search>
+      <last-search>cityId</last-search>
       <last-offset />
-      <last-pattern>tabList</last-pattern>
+      <last-pattern>cityId</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -572,18 +572,12 @@
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
-        <entry>userInfo</entry>
-        <entry>没有更多啦</entry>
-        <entry>agent</entry>
-        <entry>location</entry>
         <entry>getToken</entry>
         <entry>getEvn</entry>
         <entry>submit</entry>
         <entry>data</entry>
         <entry>log</entry>
         <entry>onLoad</entry>
-        <entry>alert</entry>
         <entry>服务详情</entry>
         <entry>维修</entry>
         <entry>alipay</entry>
@@ -592,6 +586,12 @@
         <entry>methods</entry>
         <entry>uni-tabs</entry>
         <entry>tabList</entry>
+        <entry>getGPS</entry>
+        <entry>computed</entry>
+        <entry>console</entry>
+        <entry>homt</entry>
+        <entry>alert</entry>
+        <entry>cityId</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFwvYWE+LzxcYT4vZw==</entry>
