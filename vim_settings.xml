@@ -34,6 +34,11 @@
         <mark key="." line="194" column="40" />
         <mark key="^" line="194" column="40" />
       </file>
+      <file name="E:/h5/yeyx-sp-back/.gitignore" timestamp="1560218143612">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="E:/h5/zmn-official-wechat/package.json" timestamp="1560162428765">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="10" />
@@ -270,9 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="8" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
-      <jump line="104" column="19" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
-      <jump line="63" column="0" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
       <jump line="141" column="25" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
       <jump line="106" column="86" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
       <jump line="80" column="2" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
@@ -370,55 +372,58 @@
       <jump line="49" column="46" filename="E:/h5/yeyx-sp-back/components/search.vue" />
       <jump line="28" column="10" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="53" column="16" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
+      <jump line="24" column="3" filename="E:/h5/yeyx-sp-back/.gitignore" />
+      <jump line="70" column="0" filename="E:/h5/yeyx-sp-back/.gitignore" />
+      <jump line="71" column="0" filename="E:/h5/yeyx-sp-back/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGlzdAo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>logout</text>
+        <text>dist</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxlbC1kaXZpZGVyIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudGltZXIpOwo=</text>
+        <text encoding="base64">ZGlzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudGltZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaWUudGltZXIubG9nCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZXN0cm95ZWQoKSB7CiAgICBjbGVhclRpbWVvdXQodGhpcy50aW1lcik7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHRoaWUudGltZXIubG9nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXN0cm95ZWQoKSB7CiAgICBjbGVhclRpbWVvdXQodGhpcy50aW1lcik7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctcmlnaHQ6IDIwcHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICMwMDA7Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctcmlnaHQ6IDIwcHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIGJjCg==</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICMwMDA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIG10KDApOwo=</text>
+        <text encoding="base64">ICAgIEBpbmNsdWRlIGJjCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>logout</last-search>
+      <last-search>dist</last-search>
       <last-offset />
-      <last-pattern>logout</last-pattern>
+      <last-pattern>dist</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -426,7 +431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
         <entry>size</entry>
         <entry>btnList</entry>
         <entry>me</entry>
@@ -446,6 +450,7 @@
         <entry>320</entry>
         <entry>logoout</entry>
         <entry>logout</entry>
+        <entry>dist</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFwvYWE+LzxcYT4vZw==</entry>
