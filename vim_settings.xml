@@ -275,12 +275,11 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" timestamp="1560261702269">
-        <mark key="'" line="37" column="19" />
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="41" />
-        <mark key="^" line="40" column="41" />
-        <mark key="." line="40" column="41" />
+      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" timestamp="1560264591401">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="41" column="49" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="E:/h5/yeyx-sp-back/components/form_address.vue" timestamp="1560250490667" />
       <file name="E:/h5/yeyx-sp-back/assets/scss/_border.scss" timestamp="1560066812509">
@@ -393,44 +392,58 @@
       <jump line="37" column="19" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>师傅</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>师傅</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>el-form-item</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGVsLWRpdmlkZXIgLz4K</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbWFwID0gbmV3IEJNYXAuTWFwKCdhbGxtYXAnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVmPSJhZGRNYXN0ZXJGb3JtIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVmPSJhZGRNYXN0ZXJGb3JtIgo=</text>
+      <register name="2" type="4">
+        <text>initMap() {
+      const map = new BMap.Map('allmap');
+      map.centerAndZoom(new BMap.Point(116.404, 39.915), 15);
+      map.enableScrollWheelZoom();
+      this.polygon = new BMap.Polygon([
+        new BMap.Point(116.387112, 39.920977),
+        new BMap.Point(116.385243, 39.913063),
+        new BMap.Point(116.394226, 39.917988),
+        new BMap.Point(116.401772, 39.921364),
+        new BMap.Point(116.41248, 39.927893),
+      ], { strokeColor: 'blue', strokeWeight: 2, strokeOpacity: 0.5 });  // 创建多边形
+      map.addOverlay(this.polygon);   // 增加多边形
+      this.polygon.enableEditing();
+      console.log(this.polygon.getPath());
+    },</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVmPSJhZGRNYXN0ZXJGb3JtIgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">aW5pdE1hcCgpIHsKICAgICAgY29uc3QgbWFwID0gbmV3IEJNYXAuTWFwKCdhbGxtYXAnKTsKICAgICAgbWFwLmNlbnRlckFuZFpvb20obmV3IEJNYXAuUG9pbnQoMTE2LjQwNCwgMzkuOTE1KSwgMTUpOwogICAgICBtYXAuZW5hYmxlU2Nyb2xsV2hlZWxab29tKCk7CiAgICAgIHRoaXMucG9seWdvbiA9IG5ldyBCTWFwLlBvbHlnb24oWwogICAgICAgIG5ldyBCTWFwLlBvaW50KDExNi4zODcxMTIsIDM5LjkyMDk3NyksCiAgICAgICAgbmV3IEJNYXAuUG9pbnQoMTE2LjM4NTI0MywgMzkuOTEzMDYzKSwKICAgICAgICBuZXcgQk1hcC5Qb2ludCgxMTYuMzk0MjI2LCAzOS45MTc5ODgpLAogICAgICAgIG5ldyBCTWFwLlBvaW50KDExNi40MDE3NzIsIDM5LjkyMTM2NCksCiAgICAgICAg</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PGVsLWJ1dHRvbgogICAgICB0eXBlPSJwcmltYXJ5IgogICAgICBAY2xpY2s9InN1Ym1pdCIKICAgID4KICAgICAgsaO05gogICAgPC9lbC1idXR0b24+</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gu/HIobWxx7Czx8rQCiAgICAgIC8vILLp0a+1scews8fK0NDO17S14wogICAgICAvLyDM7bzTtuCx39DOCiAgICAgIC8vIMjDtuCx39DOv8nNz7avCiAgICAgIC8vIMno1sPK09KwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxlbC1idXR0b24K</text>
+        <text encoding="base64">ICAgICAgICAvLyBjaXR5LnNwbGl0KCc7JykuZmlsdGVyKGVsZSA9PikubWFwKGVsZSA9PiBuZXcgbWFwLlBvaW50KC4uLmVsZS5zcGxpdCgnLCcpKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRpdGxlPSLWpMrpMyIK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwb2ludHMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbD0i1qTK6TMiCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbD0i1qTK6TIiCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGxldCBpID0gMDsgaSA8IGNvdW50OyBpICs9IDEpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbD0iye233daksbPD5iIK</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
