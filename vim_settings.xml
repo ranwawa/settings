@@ -20,6 +20,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="E:/h5/yeyx-sp-back/pages/user/login.vue" timestamp="1560232910718">
+        <mark key="'" line="110" column="20" />
+        <mark key="[" line="181" column="25" />
+        <mark key="]" line="181" column="62" />
+        <mark key="." line="181" column="62" />
+        <mark key="^" line="181" column="62" />
+      </file>
       <file name="E:/h5/yeyx-sp-back/pages/order/my.vue" timestamp="1560059323355">
         <mark key="[" line="711" column="0" />
         <mark key="]" line="711" column="0" />
@@ -230,7 +237,7 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/config/request.config.js" timestamp="1560225612601">
+      <file name="E:/h5/yeyx-sp-back/config/request.config.js" timestamp="1560232892466">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="32" />
         <mark key="^" line="9" column="65" />
@@ -296,13 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="535" column="26" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="549" column="11" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="807" column="11" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="657" column="11" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="661" column="13" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="665" column="22" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="666" column="15" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="531" column="28" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="532" column="30" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="537" column="26" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
@@ -396,6 +396,13 @@
       <jump line="310" column="7" filename="E:/h5/yeyx-sp-back/pages/master/index.vue" />
       <jump line="339" column="6" filename="E:/h5/yeyx-sp-back/pages/master/index.vue" />
       <jump line="114" column="8" filename="E:/h5/yeyx-sp-back/layouts/default.vue" />
+      <jump line="221" column="5" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
+      <jump line="1" column="0" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
+      <jump line="51" column="12" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
+      <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
+      <jump line="12" column="14" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
+      <jump line="68" column="19" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
+      <jump line="110" column="20" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -405,7 +412,7 @@
         <text>build</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>src</text>
       </register>
       <register name="0" type="4">
         <text>process.env.NODE_ENV</text>
@@ -442,9 +449,9 @@
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>src</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>src</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -452,7 +459,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onL</entry>
         <entry>route</entry>
         <entry>dev</entry>
         <entry>onLoad</entry>
@@ -472,6 +478,7 @@
         <entry>options</entry>
         <entry>work</entry>
         <entry>data</entry>
+        <entry>src</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFwvYWE+LzxcYT4vZw==</entry>
