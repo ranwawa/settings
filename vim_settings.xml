@@ -113,6 +113,13 @@
         <mark key="^" line="60" column="38" />
         <mark key="." line="60" column="45" />
       </file>
+      <file name="E:/h5/yeyx-sp-back/pages/order/index.vue" timestamp="1560342282269">
+        <mark key="'" line="394" column="4" />
+        <mark key="[" line="543" column="0" />
+        <mark key="]" line="546" column="3" />
+        <mark key="^" line="534" column="23" />
+        <mark key="." line="550" column="17" />
+      </file>
       <file name="E:/h5/zmn-official-wechat/src/utils/getToken.js" timestamp="1560338556445">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -185,6 +192,9 @@
         <mark key="." line="261" column="46" />
         <mark key="^" line="261" column="46" />
       </file>
+      <file name="E:/h5/yeyx-sp-back/components/model_order.vue" timestamp="1560342268062">
+        <mark key="'" line="22" column="35" />
+      </file>
       <file name="E:/h5/yeyx-sp-back/api/axios_request.js" timestamp="1560323755519">
         <mark key="'" line="24" column="13" />
         <mark key="[" line="17" column="0" />
@@ -206,13 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="1" filename="E:/h5/yeyx-sp-back/pages/master/components/master_work.vue" />
-      <jump line="310" column="7" filename="E:/h5/yeyx-sp-back/pages/master/index.vue" />
-      <jump line="339" column="6" filename="E:/h5/yeyx-sp-back/pages/master/index.vue" />
-      <jump line="114" column="8" filename="E:/h5/yeyx-sp-back/layouts/default.vue" />
-      <jump line="221" column="5" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
-      <jump line="1" column="0" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
-      <jump line="51" column="12" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
       <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
       <jump line="12" column="14" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
       <jump line="68" column="19" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
@@ -306,6 +309,13 @@
       <jump line="15" column="9" filename="E:/h5/zmn-official-wechat/src/api/config.js" />
       <jump line="188" column="0" filename="E:/h5/zmn-official-wechat/src/pages/product/category.vue" />
       <jump line="0" column="0" filename="E:/h5/zmn-official-wechat/src/pages/product/category.vue" />
+      <jump line="524" column="0" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="25" column="22" filename="E:/h5/yeyx-sp-back/components/model_order.vue" />
+      <jump line="22" column="35" filename="E:/h5/yeyx-sp-back/components/model_order.vue" />
+      <jump line="516" column="25" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="282" column="43" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="423" column="13" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="394" column="4" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -315,7 +325,7 @@
         <text>http://dev-sp-pop.xiujiadian.com:12213</text>
       </register>
       <register name="/" type="4">
-        <text>?</text>
+        <text>btnList</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dGhpcy5ldm4gPT09ICfOotDFuavW2rrFJyAmJiAhcmVzLmRhdGEudXNlck1vYmlsZQ==</text>
@@ -352,9 +362,9 @@
       </register>
     </registers>
     <search>
-      <last-search>?</last-search>
+      <last-search>btnList</last-search>
       <last-offset />
-      <last-pattern>?</last-pattern>
+      <last-pattern>btnList</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -362,9 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>map</entry>
-        <entry>第一步</entry>
-        <entry>spri</entry>
         <entry>left</entry>
         <entry>console</entry>
         <entry>确定</entry>
@@ -382,6 +389,9 @@
         <entry>submit</entry>
         <entry>evn</entry>
         <entry>?</entry>
+        <entry>handleComm</entry>
+        <entry>handlec</entry>
+        <entry>btnList</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFwvYWE+LzxcYT4vZw==</entry>
