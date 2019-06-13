@@ -366,11 +366,11 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" timestamp="1560354845286">
+      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" timestamp="1560399126023">
         <mark key="'" line="83" column="13" />
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="23" column="5" />
-        <mark key="." line="85" column="91" />
+        <mark key="[" line="85" column="60" />
+        <mark key="]" line="85" column="60" />
+        <mark key="." line="85" column="60" />
         <mark key="^" line="85" column="91" />
       </file>
       <file name="E:/h5/yeyx-sp-back/assets/scss/_border.scss" timestamp="1560066812509">
@@ -490,10 +490,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/api/v1</text>
+        <text>.replace('[', '').replace(']', '')</text>
       </register>
       <register name="-" type="4">
-        <text>/api/v1</text>
+        <text>.replace('[', '').replace(']', '')</text>
       </register>
       <register name="/" type="4">
         <text>large</text>
