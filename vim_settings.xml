@@ -133,11 +133,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" timestamp="1560415735080">
+      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" timestamp="1560418946737">
+        <mark key="'" line="59" column="46" />
         <mark key="[" line="60" column="8" />
-        <mark key="]" line="59" column="19" />
-        <mark key="^" line="59" column="19" />
-        <mark key="." line="59" column="19" />
+        <mark key="]" line="45" column="6" />
+        <mark key="^" line="45" column="6" />
+        <mark key="." line="45" column="6" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" timestamp="1560355388081">
         <mark key="'" line="69" column="16" />
@@ -330,8 +331,8 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="37" column="11" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/master/index.vue" timestamp="1560359656087">
-        <mark key="'" line="309" column="0" />
+      <file name="E:/h5/yeyx-sp-back/pages/master/index.vue" timestamp="1560418963166">
+        <mark key="'" line="289" column="25" />
         <mark key="[" line="3" column="12" />
         <mark key="]" line="4" column="37" />
         <mark key="^" line="4" column="37" />
@@ -403,12 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="9" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
-      <jump line="195" column="43" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
-      <jump line="57" column="3" filename="E:/h5/yeyx-sp-back/nuxt.config.js" />
-      <jump line="45" column="21" filename="E:/h5/yeyx-sp-back/api/axios_request.js" />
-      <jump line="24" column="13" filename="E:/h5/yeyx-sp-back/api/axios_request.js" />
-      <jump line="10" column="11" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
       <jump line="149" column="28" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
       <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
       <jump line="7" column="32" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
@@ -503,6 +498,12 @@
       <jump line="76" column="41" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
       <jump line="53" column="31" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
       <jump line="508" column="46" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
+      <jump line="45" column="6" filename="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" />
+      <jump line="1" column="0" filename="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" />
+      <jump line="59" column="46" filename="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" />
+      <jump line="4" column="37" filename="E:/h5/yeyx-sp-back/pages/master/index.vue" />
+      <jump line="288" column="26" filename="E:/h5/yeyx-sp-back/pages/master/index.vue" />
+      <jump line="289" column="25" filename="E:/h5/yeyx-sp-back/pages/master/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -512,7 +513,7 @@
         <text encoding="base64">IDogJy8n</text>
       </register>
       <register name="/" type="4">
-        <text>Outer</text>
+        <text>data\.data</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PG5hdmlnYXRvcgogICAgICAgICAgICB2LWVsc2UtaWY9ImV2biA9PT0gJ9anuLaxptChs8zQ8iciCiAgICAgICAgICAgIDp1cmw9IicvcGFnZXMvaG9tZS93ZWJ2aWV3P2xpbms9JyArIGl0ZW0ubGluayIKICAgICAgICAgICAgY2xhc3M9ImJhbm5lci1pdGVtX2ltZyIKICAgICAgICAgID4KICAgICAgICAgICAgPGltYWdlCiAgICAgICAgICAgICAgOnNyYz0iaXRlbSAmJiAoaXRlbS5waWNTcmMpIgogICAgICAgICAgICAgIG1vZGU9ImFzcGVjdEZpbGwiCiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L25hdmlnYXRvcj4=</text>
@@ -549,9 +550,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Outer</last-search>
+      <last-search>data\.data</last-search>
       <last-offset />
-      <last-pattern>Outer</last-pattern>
+      <last-pattern>data\.data</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -559,7 +560,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inject</entry>
         <entry>style</entry>
         <entry>师傅</entry>
         <entry>value2</entry>
@@ -579,6 +579,7 @@
         <entry>bannerList</entry>
         <entry>evn</entry>
         <entry>Outer</entry>
+        <entry>data\.data</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFwvYWE+LzxcYT4vZw==</entry>
