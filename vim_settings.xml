@@ -77,12 +77,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="E:/h5/yeyx-official-site-wap/components/form_input.vue" timestamp="1560480905646">
-        <mark key="'" line="33" column="7" />
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="33" column="12" />
-        <mark key="." line="33" column="12" />
-        <mark key="^" line="33" column="12" />
+      <file name="E:/h5/yeyx-official-site-wap/components/form_input.vue" timestamp="1560483953526">
+        <mark key="'" line="36" column="7" />
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="26" column="26" />
       </file>
       <file name="E:/h5/yeyx-sp-back/store/common.js" timestamp="1560081275098">
         <mark key="[" line="6" column="10" />
@@ -369,12 +369,12 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="37" />
       </file>
-      <file name="E:/h5/yeyx-official-site-wap/components/register_phone.vue" timestamp="1560480836623">
-        <mark key="'" line="58" column="6" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="111" column="33" />
-        <mark key="." line="111" column="33" />
+      <file name="E:/h5/yeyx-official-site-wap/components/register_phone.vue" timestamp="1560484422751">
+        <mark key="'" line="23" column="24" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="95" column="29" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/master/add.vue" timestamp="1560415056393">
         <mark key="'" line="1" column="0" />
@@ -443,10 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="421" column="4" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="268" column="38" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="321" column="22" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="437" column="0" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="2" column="10" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="1" column="29" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
       <jump line="313" column="12" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
@@ -536,62 +532,66 @@
       <jump line="0" column="15" filename="E:/h5/yeyx-official-site-wap/nuxt.config.js" />
       <jump line="19" column="27" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
       <jump line="13" column="5" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
-      <jump line="0" column="0" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
       <jump line="8" column="31" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
       <jump line="60" column="2" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
       <jump line="40" column="40" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
       <jump line="44" column="6" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
       <jump line="0" column="0" filename="E:/h5/yeyx-official-site-wap/components/form_input.vue" />
       <jump line="33" column="7" filename="E:/h5/yeyx-official-site-wap/components/form_input.vue" />
+      <jump line="41" column="18" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
+      <jump line="58" column="22" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
+      <jump line="70" column="0" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
+      <jump line="0" column="23" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
+      <jump line="23" column="24" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>field</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>field</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>发送</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIDx2YW4tZmllbGQKICAgICAgdi1tb2RlbD0iZm9ybS5waG9uZS52YWx1ZSIKICAgICAgOmVycm9yLW1lc3NhZ2U9ImZvcm0ucGhvbmUuZXJyb3JNZXNzYWdlIgogICAgICBwbGFjZWhvbGRlcj0ix+vK5MjrxPq1xMrWu/q6xcLrIgogICAgICBzaXplPSJsYXJnZSIKICAgICAgY2xlYXJhYmxlCiAgICAgIEBpbnB1dD0iY2hlY2tQaG9uZSIKICAgICAgQGNsZWFyPSJmb3JtLnBob25lLmVycm9yTWVzc2FnZSA9ICcnOyBmb3JtLnBob25lLmlzUGFzc2VkID0gZmFsc2U7IgogICAgPgogICAgICA8dGVtcGxhdGUgc2xvdD0icmlnaHQtaWNvbiI+CiAgICAgICAgPHZhbi1pY29uCiAgICAgICAgICBuYW1lPSJjbG9zZSIKICAgICAgICAgIGNvbG9yPSJyZWQiCiAgICAgICAgICB2LWlmPSJmb3JtLnBob25lLmVycm9yTWVzc2FnZSIKICAgICAgICAvPgogICAgICAgIDx2YW4taWNvbgogICAgICAgICAgbmFtZT0icGFzc2VkIgogICAgICAgICAgY29sb3I9ImdyZWVuIgogICAgICAgICAgdi1lbHNlLWlmPSJmb3JtLnBob25lLmlzUGFzc2VkIgogICAgICAgIC8+CiAgICAgIDwvdGVtcGxhdGU+CiAgICA8L3Zhbi1maWVsZD4KIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuY29kZVRleHQgPSBgKCR7dGltZX1zKWA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5jb2RlTG9hZGluZyA9IHRydWU7CiAgICAgIHRoaXMuY29kZURpc2FibGVkID0gdHJ1ZTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29tcC1jb250YWluZXIiPgogICAgICAKICAgIDwvZGl2Pg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5jb2RlRGlzYWJsZWQgPSB0cnVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jb2RlTG9hZGluZyA9IHRydWU7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PGRpdj4K</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIDx2YW4tZmllbGQKICAgICAgdi1tb2RlbD0iZm9ybS5zbXMudmFsdWUiCiAgICAgIDplcnJvci1tZXNzYWdlPSJmb3JtLnNtcy5lcnJvck1lc3NhZ2UiCiAgICAgIHBsYWNlaG9sZGVyPSLH68rkyOvR6dakwusiCiAgICAgIHNpemU9ImxhcmdlIgogICAgICBjbGVhcmFibGUKICAgICAgQGlucHV0Lm51bWJlcj0iY2hlY2tTbXMiCiAgICA+CiAgICAgIDx2YW4tYnV0dG9uCiAgICAgICAgc2xvdD0iYnV0dG9uIgogICAgICAgIHNpemU9InNtYWxsIgogICAgICAgIDpkaXNhYmxlZD0iY29kZURpc2FibGVkIgogICAgICAgIDpsb2FkaW5nPSJjb2RlTG9hZGluZyIKICAgICAgICBsb2FkaW5nLXRleHQ9ItX91Nq3osvNIgogICAgICAgIGxvYWRpbmctdHlwZT0iY2lyY3VsYXIiCiAgICAgID63osvN0enWpMLrCiAgICAgIDwvdmFuLWJ1dHRvbj4KICAgIDwvdmFuLWZpZWxkPgog</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLnBob25lLmlzUGFzc2VkID0gOwo=</text>
+        <text encoding="base64">ICAgIDxzbG90IG5hbWU9ImJ1dHRvbiI+PC9zbG90Pgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHsKICAgICAgICA7CiAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxzbG90IG5hbWU9ImJ1dHRvbiI+PC9zbG90Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>发送</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>发送</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -599,8 +599,6 @@
     </search>
     <history>
       <history-search>
-        <entry>large</entry>
-        <entry>citylist</entry>
         <entry>cityList</entry>
         <entry>queryResource =</entry>
         <entry>城市</entry>
@@ -619,6 +617,8 @@
         <entry>build</entry>
         <entry>bgn</entry>
         <entry>data</entry>
+        <entry>methods</entry>
+        <entry>发送</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFwvYWE+LzxcYT4vZw==</entry>
