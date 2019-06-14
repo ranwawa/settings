@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/h5/yeyx-sp-back/components/search.vue" timestamp="1560360074967">
-        <mark key="'" line="49" column="46" />
-        <mark key="[" line="38" column="3" />
-        <mark key="]" line="38" column="3" />
-        <mark key="." line="38" column="3" />
-        <mark key="^" line="38" column="3" />
+      <file name="E:/h5/yeyx-sp-back/components/search.vue" timestamp="1560523868512">
+        <mark key="'" line="27" column="34" />
+        <mark key="[" line="77" column="23" />
+        <mark key="]" line="78" column="19" />
+        <mark key="." line="78" column="19" />
+        <mark key="^" line="78" column="19" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/order/evaluate.vue" timestamp="1560506007785">
         <mark key="'" line="194" column="20" />
@@ -268,8 +268,8 @@
         <mark key="." line="38" column="55" />
         <mark key="^" line="38" column="55" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/order/index.vue" timestamp="1560522851842">
-        <mark key="'" line="308" column="15" />
+      <file name="E:/h5/yeyx-sp-back/pages/order/index.vue" timestamp="1560523842499">
+        <mark key="'" line="516" column="7" />
         <mark key="[" line="269" column="0" />
         <mark key="]" line="269" column="25" />
         <mark key="." line="269" column="0" />
@@ -437,10 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
-      <jump line="333" column="7" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
-      <jump line="52" column="17" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
-      <jump line="366" column="8" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
       <jump line="469" column="21" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
       <jump line="468" column="17" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
       <jump line="43" column="13" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
@@ -537,55 +533,59 @@
       <jump line="341" column="15" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="236" column="21" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="307" column="15" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="3" column="29" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="516" column="7" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="40" column="4" filename="E:/h5/yeyx-sp-back/components/search.vue" />
+      <jump line="27" column="34" filename="E:/h5/yeyx-sp-back/components/search.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWZmZWN0PSJkYXJrIgo=</text>
+        <text encoding="base64">ICAgICAgICBAaW5jbHVkZSB0ZXh0LXN1YjsK</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>switch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAge25hbWU6ICcnLCBjb2xvcjogJyd9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWZmZWN0PSJkYXJrIgo=</text>
+        <text encoding="base64">ICAgICAgICBAaW5jbHVkZSB0ZXh0LXN1YjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGFiLm5hbWUgPT09IGVsZS5zdGF0dXNOYW1lKSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWZmZWN0PSJkYXJrIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVsZS5zdGF0dXNDb2xvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGFiLm5hbWUgPT09IGVsZS5zdGF0dXNOYW1lKSA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDM7bzTstnX97C0xaUK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVsZS5zdGF0dXNDb2xvcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDKtrHw17TMrNHVyasK</text>
+        <text encoding="base64">ICAgICAgICAvLyDM7bzTstnX97C0xaUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDKtrHw17TMrNHVyasK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHR5cGVDb2xvckxpc3Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHR5cGVDb2xvckxpc3Q6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7IHNjb3BlLnJvdy5zdGF0dXNOYW1lIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>switch</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>switch</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -593,9 +593,7 @@
     </search>
     <history>
       <history-search>
-        <entry>mthods</entry>
         <entry encoding="base64">XDwnXD4=</entry>
-        <entry>switch</entry>
         <entry>order</entry>
         <entry>setCircle</entry>
         <entry>地图</entry>
@@ -613,6 +611,8 @@
         <entry>submit</entry>
         <entry>状态</entry>
         <entry>data</entry>
+        <entry>精确查询</entry>
+        <entry>switch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFwvYWE+LzxcYT4vZw==</entry>
