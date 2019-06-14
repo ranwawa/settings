@@ -412,11 +412,12 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" timestamp="1560495016159">
-        <mark key="'" line="49" column="6" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" timestamp="1560497716125">
+        <mark key="'" line="78" column="11" />
+        <mark key="[" line="80" column="77" />
+        <mark key="]" line="80" column="78" />
+        <mark key="^" line="80" column="76" />
+        <mark key="." line="80" column="77" />
       </file>
       <file name="E:/h5/yeyx-sp-back/assets/scss/_border.scss" timestamp="1560066812509">
         <mark key="[" line="34" column="10" />
@@ -439,10 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="1" filename="E:/h5/yeyx-sp-back/components/form_button_group.vue" />
-      <jump line="19" column="1" filename="E:/h5/yeyx-sp-back/components/form_button_group.vue" />
-      <jump line="18" column="11" filename="E:/h5/yeyx-sp-back/components/form_button_group.vue" />
-      <jump line="12" column="16" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
       <jump line="34" column="20" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
       <jump line="6" column="14" filename="E:/h5/yeyx-sp-back/components/form_radio_group.vue" />
       <jump line="85" column="9" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
@@ -539,55 +536,59 @@
       <jump line="119" column="10" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
       <jump line="37" column="11" filename="E:/h5/yeyx-sp-back/components/form_radio_group.vue" />
       <jump line="89" column="7" filename="E:/h5/yeyx-sp-back/pages/order/evaluate.vue" />
+      <jump line="174" column="12" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
+      <jump line="141" column="21" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
+      <jump line="26" column="30" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
+      <jump line="78" column="11" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0UmFuZ2UoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>e.point.lng, e.point.lat</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>完成时间</text>
+        <text>data</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucG9pbnQgPSBuZXcgQk1hcC5Qb2ludChlLnBvaW50LmxuZywgZS5wb2ludC5sYXQpOwo=</text>
+      <register name="0" type="4">
+        <text>this.points</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0UmFuZ2UoKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExLCB0aGlzLnBvaW50cyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKDExMTExMTExKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZ3V0dGVyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMzMzMzMzMzMzKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wb2ludHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5tYXApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuZm9ybSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDWu7GjwfQxMLj2teMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuZm9ybSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucG9pbnQgPSBuZXcgQk1hcC5Qb2ludCh0aGkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDWu7GjwfQxMLj2teMKICAgICAgICB0aGlzLnBvaW50cyA9IGNpdHkuZmlsdGVyKChlbGUsIGluZGV4KSA9PiBpbmRleCAlIGd1dHRlciA9PT0gMCkKICAgICAgICAgIC5tYXAoZWxlID0+IG5ldyBCTWFwLlBvaW50KC4uLmVsZS5zcGxpdCgnLCcpKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBvaW50cyA9IGNpdHkuZmlsdGVyKChlbGUsIGluZGV4KSA9PiBpbmRleCAlIGd1dHRlciA9PT0gMCkKICAgICAgICAgIC5tYXAoZWxlID0+IG5ldyBCTWFwLlBvaW50KC4uLmVsZS5zcGxpdCgnLCcpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBndXR0ZXIgPSBNYXRoLmZsb29yKGNpdHkubGVuZ3RoIC8gMTApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>完成时间</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>完成时间</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -595,8 +596,6 @@
     </search>
     <history>
       <history-search>
-        <entry>form</entry>
-        <entry>bannerList</entry>
         <entry>evn</entry>
         <entry>Outer</entry>
         <entry>data\.data</entry>
@@ -609,12 +608,14 @@
         <entry>sha</entry>
         <entry>build</entry>
         <entry>bgn</entry>
-        <entry>data</entry>
         <entry>methods</entry>
         <entry>发送</entry>
         <entry>orderDetail</entry>
         <entry>mounted</entry>
         <entry>完成时间</entry>
+        <entry>getBoun</entry>
+        <entry>mthods</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFwvYWE+LzxcYT4vZw==</entry>
