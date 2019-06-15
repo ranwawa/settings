@@ -160,12 +160,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" timestamp="1560586384185">
+      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" timestamp="1560587425421">
         <mark key="'" line="69" column="14" />
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-        <mark key="." line="23" column="26" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="97" column="34" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" timestamp="1560570992395">
         <mark key="'" line="255" column="29" />
@@ -408,12 +408,12 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" timestamp="1560569127669">
-        <mark key="'" line="58" column="7" />
-        <mark key="[" line="123" column="2" />
-        <mark key="]" line="138" column="2" />
-        <mark key="." line="171" column="25" />
-        <mark key="^" line="171" column="25" />
+      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" timestamp="1560587997744">
+        <mark key="'" line="65" column="14" />
+        <mark key="[" line="141" column="30" />
+        <mark key="]" line="141" column="31" />
+        <mark key="." line="141" column="31" />
+        <mark key="^" line="141" column="31" />
       </file>
       <file name="E:/h5/yeyx-sp-back/assets/scss/_border.scss" timestamp="1560066812509">
         <mark key="[" line="34" column="10" />
@@ -442,7 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="5" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
       <jump line="8" column="31" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
       <jump line="60" column="2" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
       <jump line="40" column="40" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
@@ -542,48 +541,49 @@
       <jump line="252" column="13" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="70" column="12" filename="E:/h5/yeyx-sp-back/components/search.vue" />
       <jump line="582" column="5" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="64" column="14" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'allmap'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'allmap'</text>
       </register>
       <register name="/" type="4">
         <text>全部</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLmxhdGl0dWRlID0gdGhpcy5hZGRyZXNzLnBvaW50LmxhdDsK</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGp1c3RpZnk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2F0ZUxpc3QpOwo=</text>
+        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2VsZWN0ZWRDYXRlLmNvbmNhdChmaXJzdC5zZWNvbmRDbGFzc2lmeUxpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zZWxlY3RlZENhdGUpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2F0ZUxpc3QpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2VsZWN0ZWRDYXRlLmNvbmNhdChmaXJzdC5zZWNvbmRDbGFzc2lmeUxpc3QpOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmlyc3QpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
           
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zZWxlY3RlZENhdGUpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgY29uc3Qgc2tpbGxzID0gdGhpcy5zZWxlY3RlZENhdGUubWFwKGVsZSA9KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2tpbGxzID0gdGhpcy5zZWxlY3RlZENhdGUuZmlsdGVyKGVsZSA9PiB0eXBlb2YgZWxlID09PSAnb2JqZWN0Jyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExLCB0aGlzLnNraWxsTGlzdCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2tpbGxzID0gdGhpcy5zZWxlY3RlZENhdGUuZmlsdGVyKGVsZSA9PiB0eXBlb2YgZWxlID09PSAnb2JqZWN0Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
