@@ -86,6 +86,12 @@
         <mark key="." line="93" column="69" />
         <mark key="^" line="93" column="69" />
       </file>
+      <file name="E:/h5/yeyx-sp-back/components/form_button_group.vue" timestamp="1560614602172">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+      </file>
       <file name="E:/h5/yeyx-sp-back/layouts/default.vue" timestamp="1560530375753">
         <mark key="'" line="62" column="4" />
         <mark key="[" line="47" column="19" />
@@ -306,12 +312,12 @@
         <mark key="^" line="9" column="53" />
         <mark key="." line="9" column="53" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_post.vue" timestamp="1560612565045">
-        <mark key="'" line="136" column="47" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="131" column="86" />
-        <mark key="." line="22" column="0" />
+      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_post.vue" timestamp="1560614932844">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="92" column="23" />
+        <mark key="]" line="92" column="36" />
+        <mark key="." line="92" column="36" />
+        <mark key="^" line="92" column="36" />
       </file>
       <file name="E:/h5/yeyx-official-site-wap/components/register_title.vue" timestamp="1560438272719">
         <mark key="'" line="104" column="0" />
@@ -322,10 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="45" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
-      <jump line="70" column="31" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
-      <jump line="209" column="29" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
-      <jump line="210" column="29" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
       <jump line="191" column="14" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
       <jump line="111" column="15" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
       <jump line="120" column="15" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
@@ -422,55 +424,59 @@
       <jump line="59" column="21" filename="E:/h5/yeyx-sp-back/utils/elementUIRules.js" />
       <jump line="236" column="17" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
       <jump line="140" column="47" filename="E:/h5/yeyx-sp-back/pages/order/components/order_post.vue" />
+      <jump line="56" column="10" filename="E:/h5/yeyx-sp-back/pages/order/components/order_post.vue" />
+      <jump line="129" column="21" filename="E:/h5/yeyx-sp-back/pages/order/components/order_post.vue" />
+      <jump line="111" column="26" filename="E:/h5/yeyx-sp-back/pages/order/components/order_post.vue" />
+      <jump line="10" column="17" filename="E:/h5/yeyx-sp-back/pages/order/components/order_post.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplPSJsYXJnZSIK</text>
+      <register name="&quot;" type="4">
+        <text>this.getOrderId()</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text>disabled</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wPSJhZGRyZXNzIgo=</text>
+      <register name="0" type="4">
+        <text>this.getOrderId()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplPSJsYXJnZSIK</text>
+        <text encoding="base64">ICAgICAgICB3b3JrSWQ6ICczMzgwMjg0MzQ4OTcxMjEyODAnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplPSJsYXJnZSIK</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcklkOiAnMzM4MDI4NDM0ODk3MTIxMjgwJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplPSJsYXJnZSIK</text>
+        <text encoding="base64">ICAgIHt7IGlzRGlzYWJsZWQgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplPSJsYXJnZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXJhbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLmRhdGEuZm9yRWFjaCgoZWxlKSA9PiB7CiAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgb3JkZXIuc2F2ZUVkaXRPcmRlcihfLm9taXQodGhpcy5mb3JtLCBbJ29yZGVyUHJvZHVjdExpc3QnXSkpLnRoZW4oKHsgZGF0YSB9KSA9PiB7CiAgICAgICAgaWYgKCFkYXRhLnN0YXR1c0Jvb2wpIHJldHVybiB0aGlzLiRhbGVydChkYXRhLm1lc3NhZ2UpOwogICAgICAgIHRoaXMuJG1lc3NhZ2UoJ9DeuMSzybmmJyk7CiAgICAgICAgdGhpcy5jbG9zZU1vZGFsKCk7CiAgICAgICAgLy8g0N64xLaptaXB0LHtyv2+3QogICAgICAgIGNvbnN0IHBhcmFtID0gXy5waWNrKHRoaXMuZm9ybSwgWydkdXR5VGltZScsICdzdHJlZXQnLCAnYWRkcmVzcycsICdjb250YWN0TmFtZSddKTsKICAgICAgICBwYXJhbS5jb250YWN0UGhvbmUgPSBbdGhpcy5mb3JtLnRlbGVwaG9uZSwgdGhpcy5mb3JtLnRlbGVwaG9uZTIsIHRoaXMuZm9ybS50ZWxlcGhvbmUzXQogICAgICAgICAgLmZpbHRlcihlbGUgPT4gZWxlKTsKICAgICAgICBwYXJhbS5kdXR5VGltZSA9IG1vbWVudChwYXJhbS5kdXR5VGltZSkuZm9ybWF0KCdZWVlZLU1NLUREIEhIOm1tOnNzJyk7CiAgICAgICAgY29uc29sZS5sb2cocGFyYW0pOwogICAgICAgIHRoaXMuc2V0Q3VycmVudE9yZGVyKHBhcmFtKTsKICAgICAgfSkuY2F0Y2goZXJyID0+IHRoaXMuJGFsZXJ0KGVyci5tZXNzYWdlKSk7CiA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW5saW5lCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVsZS5pc1Bvc3RlZCA9ICEhZWxlLmV4cHJlc3NDb2RlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGVsZXBob25lMzogJycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOmRpc2FibGVkPSJpdGVtLmV4cHJlc3NDb2RlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgOnByb3A9InByb3AiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOmRpc2FibGVkPSJpdGVtLmV4cHJlc3NDb21wYW55Igo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>submit</last-search>
+      <last-search>disabled</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern>disabled</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -478,7 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>搜索</entry>
         <entry>城市</entry>
         <entry>type</entry>
         <entry>methods</entry>
@@ -498,6 +503,7 @@
         <entry>setCurrentOrder</entry>
         <entry>textarea</entry>
         <entry>submit</entry>
+        <entry>disabled</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
