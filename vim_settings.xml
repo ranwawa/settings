@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/h5/yeyx-sp-back/components/search.vue" timestamp="1560523868512">
-        <mark key="'" line="27" column="34" />
+      <file name="E:/h5/yeyx-sp-back/components/search.vue" timestamp="1560580626560">
+        <mark key="'" line="70" column="12" />
         <mark key="[" line="77" column="23" />
         <mark key="]" line="78" column="19" />
         <mark key="." line="78" column="19" />
@@ -270,9 +270,10 @@
         <mark key="." line="38" column="55" />
         <mark key="^" line="38" column="55" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/order/index.vue" timestamp="1560579706157">
-        <mark key="'" line="547" column="5" />
+      <file name="E:/h5/yeyx-sp-back/pages/order/index.vue" timestamp="1560580645239">
+        <mark key="'" line="582" column="5" />
         <mark key="[" line="251" column="50" />
+        <mark key="l" line="582" column="5" />
         <mark key="]" line="251" column="50" />
         <mark key="." line="251" column="50" />
         <mark key="^" line="251" column="91" />
@@ -289,12 +290,6 @@
         <mark key="]" line="50" column="51" />
         <mark key="." line="50" column="51" />
         <mark key="^" line="50" column="51" />
-      </file>
-      <file name="E:/h5/yeyx-official-site-wap/layouts/default.vue" timestamp="1560477922416">
-        <mark key="'" line="262" column="14" />
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/store/state.js" timestamp="1560131192787">
         <mark key="[" line="16" column="57" />
@@ -426,6 +421,12 @@
         <mark key="^" line="34" column="10" />
         <mark key="." line="34" column="10" />
       </file>
+      <file name="E:/h5/yeyx-sp-back/components/search_tab_list.vue" timestamp="1560580699007">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="53" />
+        <mark key="^" line="9" column="53" />
+        <mark key="." line="9" column="53" />
+      </file>
       <file name="E:/h5/yeyx-sp-back/pages/order/components/order_post.vue" timestamp="1560533684480">
         <mark key="[" line="135" column="70" />
         <mark key="]" line="135" column="86" />
@@ -441,9 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="16" filename="E:/h5/yeyx-official-site-wap/pages/factory/register.vue" />
-      <jump line="0" column="15" filename="E:/h5/yeyx-official-site-wap/nuxt.config.js" />
-      <jump line="19" column="27" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
       <jump line="13" column="5" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
       <jump line="8" column="31" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
       <jump line="60" column="2" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
@@ -541,6 +539,9 @@
       <jump line="114" column="33" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
       <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
       <jump line="547" column="5" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="252" column="13" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="70" column="12" filename="E:/h5/yeyx-sp-back/components/search.vue" />
+      <jump line="582" column="5" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -550,7 +551,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>street</text>
+        <text>全部</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5mb3JtLmxhdGl0dWRlID0gdGhpcy5hZGRyZXNzLnBvaW50LmxhdDsK</text>
@@ -587,9 +588,9 @@
       </register>
     </registers>
     <search>
-      <last-search>street</last-search>
+      <last-search>全部</last-search>
       <last-offset />
-      <last-pattern>street</last-pattern>
+      <last-pattern>全部</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -597,7 +598,6 @@
     </search>
     <history>
       <history-search>
-        <entry>备注</entry>
         <entry>cut</entry>
         <entry>30</entry>
         <entry>reworkOriginalMaster</entry>
@@ -617,6 +617,7 @@
         <entry>5000</entry>
         <entry>确定</entry>
         <entry>street</entry>
+        <entry>全部</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFwvYWE+LzxcYT4vZw==</entry>
