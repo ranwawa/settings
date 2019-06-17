@@ -129,12 +129,12 @@
         <mark key="." line="61" column="5" />
         <mark key="^" line="61" column="5" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" timestamp="1560587425421">
-        <mark key="'" line="69" column="14" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="97" column="34" />
-        <mark key="." line="102" column="0" />
+      <file name="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" timestamp="1560738912241">
+        <mark key="'" line="44" column="18" />
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="35" />
+        <mark key="^" line="107" column="73" />
+        <mark key="." line="36" column="35" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" timestamp="1560612194502">
         <mark key="'" line="236" column="17" />
@@ -408,11 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="34" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="264" column="12" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="229" column="26" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="568" column="25" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="4" column="18" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="187" column="46" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="454" column="9" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="150" column="0" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
@@ -508,33 +503,41 @@
       <jump line="63" column="19" filename="E:/h5/zmn-official-wechat/src/components/product-lg.vue" />
       <jump line="91" column="8" filename="E:/h5/zmn-official-wechat/src/components/product-lg.vue" />
       <jump line="10" column="24" filename="E:/h5/zmn-official-wechat/src/components/product-lg.vue" />
+      <jump line="60" column="29" filename="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" />
+      <jump line="106" column="9" filename="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" />
+      <jump line="92" column="7" filename="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" />
+      <jump line="23" column="10" filename="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" />
+      <jump line="44" column="18" filename="E:/h5/yeyx-sp-back/pages/master/components/master_skill.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5kZXgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHt7IHNlY29uZENhdGUudmFsdWUgfX0=</text>
       </register>
       <register name="-" type="4">
-        <text>123</text>
+        <text encoding="base64">IHt7IHNlY29uZENhdGUudmFsdWUgfX0=</text>
       </register>
       <register name="/" type="4">
-        <text>img</text>
+        <text>submit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbS5pbWcsIDExMTEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVUaW1lOiBtb21lbnQoKS5mb3JtYXQoJ1lZWVktTU0tREQnKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gICBpdGVtLmltZyA9IGltZzsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5kZXgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgKGl0ZW0uaW1nKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gICBpdGVtLmltZyA9IGltZzsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gaWYgKGl0ZW0uaW1nKSByZXR1cm47Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coaXRlbS5pbWcsIDExMTEpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>.test {
           position: absolute;
           top: 0;
@@ -544,26 +547,23 @@
           background-color: #000;
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzcwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgPC9pbWFnZT4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idGVzdCI+PC9zcGFuPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idGVzdCI+PC9zcGFuPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>img</last-search>
+      <last-search>submit</last-search>
       <last-offset />
-      <last-pattern>img</last-pattern>
+      <last-pattern>submit</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -571,8 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>44</entry>
-        <entry>热门城市</entry>
         <entry>hotCites</entry>
         <entry>成都</entry>
         <entry>广州</entry>
@@ -591,6 +589,8 @@
         <entry>methods</entry>
         <entry>image</entry>
         <entry>img</entry>
+        <entry>全选</entry>
+        <entry>submit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
