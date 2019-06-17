@@ -225,6 +225,12 @@
         <mark key="]" line="46" column="113" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="E:/h5/yeyx-sp-back/pages/order/index.vue" timestamp="1560741439809">
+        <mark key="[" line="450" column="15" />
+        <mark key="]" line="450" column="16" />
+        <mark key="." line="450" column="16" />
+        <mark key="^" line="450" column="16" />
+      </file>
       <file name="E:/h5/yeyx-sp-back/api/master.js" timestamp="1560327489261">
         <mark key="'" line="47" column="9" />
         <mark key="[" line="50" column="29" />
@@ -511,33 +517,36 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHt7IHNlY29uZENhdGUudmFsdWUgfX0=</text>
+        <text>算帐</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHt7IHNlY29uZENhdGUudmFsdWUgfX0=</text>
+        <text>算帐</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text>btnList\</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbS5pbWcsIDExMTEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVUaW1lOiBtb21lbnQoKS5mb3JtYXQoJ1lZWVktTU0tREQnKSwK</text>
+        <text encoding="base64">ICAgIC8vIHRvZG8gyKHP+73Tv9rDu7+0tb0s0tS8sLaptaXIqM/ewO/D5tKyw7u3tbvYyKHP+wo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVUaW1lOiBtb21lbnQoKS5mb3JtYXQoJ1lZWVktTU0tREQnKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gICBpdGVtLmltZyA9IGltZzsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5kZXgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgKGl0ZW0uaW1nKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gICBpdGVtLmltZyA9IGltZzsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLy8gaWYgKGl0ZW0uaW1nKSByZXR1cm47Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coaXRlbS5pbWcsIDExMTEpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.test {
           position: absolute;
           top: 0;
@@ -547,23 +556,20 @@
           background-color: #000;
         }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzcwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9pbWFnZT4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idGVzdCI+PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgPC9pbWFnZT4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>submit</last-search>
+      <last-search>btnList\</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern>btnList\</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -571,8 +577,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hotCites</entry>
-        <entry>成都</entry>
         <entry>广州</entry>
         <entry>深圳</entry>
         <entry>保修卡</entry>
@@ -591,6 +595,8 @@
         <entry>img</entry>
         <entry>全选</entry>
         <entry>submit</entry>
+        <entry>算账</entry>
+        <entry>btnList\</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
