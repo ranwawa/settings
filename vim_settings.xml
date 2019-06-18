@@ -47,12 +47,12 @@
         <mark key="." line="25" column="12" />
         <mark key="^" line="29" column="19" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" timestamp="1560855304008">
+      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" timestamp="1560859079406">
         <mark key="'" line="155" column="7" />
-        <mark key="[" line="217" column="48" />
-        <mark key="]" line="217" column="57" />
-        <mark key="^" line="217" column="57" />
-        <mark key="." line="217" column="57" />
+        <mark key="[" line="226" column="25" />
+        <mark key="]" line="226" column="35" />
+        <mark key="^" line="226" column="35" />
+        <mark key="." line="226" column="35" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/product/list.vue" timestamp="1560696548442">
         <mark key="'" line="12" column="0" />
@@ -68,15 +68,15 @@
       </file>
       <file name="E:/h5/zmn-ofiicial-site-wap/nuxt.config.js" timestamp="1560848791502" />
       <file name="E:/h5/zmn-official-wechat/src/pages/address/components/area.js" timestamp="1560838866594" />
-      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" timestamp="1560857643455">
+      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" timestamp="1560858712448">
         <mark key="a" line="54" column="57" />
-        <mark key="'" line="155" column="58" />
-        <mark key="[" line="256" column="19" />
-        <mark key="]" line="257" column="29" />
-        <mark key="." line="257" column="29" />
-        <mark key="^" line="257" column="29" />
+        <mark key="'" line="155" column="82" />
+        <mark key="[" line="105" column="37" />
+        <mark key="]" line="105" column="50" />
+        <mark key="." line="105" column="50" />
+        <mark key="^" line="105" column="50" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/api/order.js" timestamp="1560857075494">
+      <file name="E:/h5/yeyx-sp-back/api/order.js" timestamp="1560858771105">
         <mark key="'" line="33" column="12" />
         <mark key="[" line="42" column="70" />
         <mark key="]" line="42" column="73" />
@@ -169,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="6" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
-      <jump line="27" column="22" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
       <jump line="29" column="39" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
       <jump line="31" column="28" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
       <jump line="36" column="28" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
@@ -267,15 +265,17 @@
       <jump line="249" column="17" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
       <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
       <jump line="257" column="29" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
+      <jump line="253" column="24" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
       <jump line="105" column="52" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
-      <jump line="155" column="58" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
+      <jump line="146" column="6" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
+      <jump line="155" column="82" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>orderDetail.contactVO.telephoneList</text>
+        <text>不在服务范围内</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>不在服务范围内</text>
       </register>
       <register name="/" type="4">
         <text>join</text>
@@ -284,31 +284,31 @@
         <text>orderDetail.contactVO.telephoneList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMuZGF0YSA9IGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMuZGF0YSA9IGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZvcm0ubGF0aXR1ZGUgPSBlLmxvY2F0aW9uLmxhdDsKICAgICAgICB0aGlzLmZvcm0ubG9uZ2l0dWRlID0gZS5sb2NhdGlvbi5sbmc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMucGFyYW1zID0gZGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLmxvbmd0aXR1ZGUgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21tZW50RGV0YWlsTGlzdDogW10sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLmxhdGl0dWRlID0gOwo=</text>
+        <text encoding="base64">ICAgIG9wdGlvbnMuZGF0YSA9IGRhdGE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLmxhdGl0dWRlID0gZS5sb2NhdGlvbi5sYXQ7CiAgICAgIHRoaXMuZm9ybS5sb25naXR1ZGUgPSBlLmxvY2F0aW9uLmxuZzsK</text>
+        <text encoding="base64">ICAgIG9wdGlvbnMuZGF0YSA9IGRhdGE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBjaGFuZ2U9Im9uQ2hhbmdlIgo=</text>
+        <text encoding="base64">ICAgIG9wdGlvbnMucGFyYW1zID0gZGF0YTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
