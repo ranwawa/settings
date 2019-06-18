@@ -68,20 +68,20 @@
       </file>
       <file name="E:/h5/zmn-ofiicial-site-wap/nuxt.config.js" timestamp="1560848791502" />
       <file name="E:/h5/zmn-official-wechat/src/pages/address/components/area.js" timestamp="1560838866594" />
-      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" timestamp="1560852935658">
+      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" timestamp="1560857643455">
         <mark key="a" line="54" column="57" />
-        <mark key="'" line="102" column="18" />
-        <mark key="[" line="84" column="125" />
-        <mark key="]" line="84" column="126" />
-        <mark key="." line="84" column="126" />
-        <mark key="^" line="84" column="126" />
+        <mark key="'" line="155" column="58" />
+        <mark key="[" line="256" column="19" />
+        <mark key="]" line="257" column="29" />
+        <mark key="." line="257" column="29" />
+        <mark key="^" line="257" column="29" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/api/order.js" timestamp="1560854816467">
+      <file name="E:/h5/yeyx-sp-back/api/order.js" timestamp="1560857075494">
         <mark key="'" line="33" column="12" />
         <mark key="[" line="42" column="70" />
-        <mark key="]" line="42" column="72" />
-        <mark key="^" line="42" column="72" />
-        <mark key="." line="42" column="72" />
+        <mark key="]" line="42" column="73" />
+        <mark key="^" line="42" column="73" />
+        <mark key="." line="42" column="73" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/order/index.vue" timestamp="1560854064713">
         <mark key="'" line="0" column="0" />
@@ -143,6 +143,12 @@
         <mark key="^" line="100" column="10" />
         <mark key="." line="100" column="10" />
       </file>
+      <file name="E:/h5/yeyx-sp-back/api/axios_request.js" timestamp="1560857429320">
+        <mark key="'" line="37" column="20" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/home/index.vue" timestamp="1560699503612">
         <mark key="'" line="416" column="23" />
         <mark key="[" line="6" column="0" />
@@ -163,11 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="36" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
-      <jump line="3" column="23" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
-      <jump line="600" column="0" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="90" column="31" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="87" column="31" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="145" column="6" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
       <jump line="27" column="22" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
       <jump line="29" column="39" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
@@ -246,7 +247,6 @@
       <jump line="61" column="0" filename="E:/h5/yeyx-official-site-wap/nuxt.config.js" />
       <jump line="19" column="2" filename="E:/h5/yeyx-official-site-wap/assets/js/amfe_flexible.js" />
       <jump line="95" column="13" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
-      <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
       <jump line="107" column="18" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
       <jump line="248" column="30" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
       <jump line="103" column="18" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
@@ -263,55 +263,61 @@
       <jump line="14" column="19" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
       <jump line="155" column="7" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
       <jump line="33" column="12" filename="E:/h5/yeyx-sp-back/api/order.js" />
+      <jump line="71" column="19" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
+      <jump line="249" column="17" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
+      <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
+      <jump line="257" column="29" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
+      <jump line="105" column="52" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
+      <jump line="155" column="58" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>provinceId</text>
+        <text>orderDetail.contactVO.telephoneList</text>
       </register>
       <register name="-" type="4">
-        <text>provinceId</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
-        <text>methods</text>
+        <text>join</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAvKiCxo7Tm0N64xLaptaUgKi8KICBzYXZlRWRpdE9yZGVyOiBwYXJhbSA9PiBheGlvcygnd29yay9zYXZlL3VwZGF0ZScsIHBhcmFtLCAncG9zdCcsIHRydWUpLAo=</text>
+      <register name="0" type="4">
+        <text>orderDetail.contactVO.telephoneList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLmxvbmd0aXR1ZGUgPSA7Cg==</text>
+        <text encoding="base64">ICAgIG9wdGlvbnMuZGF0YSA9IGRhdGE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLmxhdGl0dWRlID0gOwo=</text>
+        <text encoding="base64">ICAgIG9wdGlvbnMuZGF0YSA9IGRhdGE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLmxhdGl0dWRlID0gZS5sb2NhdGlvbi5sYXQ7CiAgICAgIHRoaXMuZm9ybS5sb25naXR1ZGUgPSBlLmxvY2F0aW9uLmxuZzsK</text>
+        <text encoding="base64">ICAgIG9wdGlvbnMucGFyYW1zID0gZGF0YTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBjaGFuZ2U9Im9uQ2hhbmdlIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLmxvbmd0aXR1ZGUgPSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLmxhdGl0dWRlID0gOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsZSA9PiBlbGUuZXh0MS5pbmNsdWRlcyhlKSB8fCBlbGUudGV4dC5pbmNsdWRlcyhlKSwK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLmxhdGl0dWRlID0gZS5sb2NhdGlvbi5sYXQ7CiAgICAgIHRoaXMuZm9ybS5sb25naXR1ZGUgPSBlLmxvY2F0aW9uLmxuZzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgUGlueWluTWF0Y2ggPSByZXF1aXJlKCdwaW55aW4tbWF0Y2gnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIEBjaGFuZ2U9Im9uQ2hhbmdlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>methods</last-search>
+      <last-search>join</last-search>
       <last-offset />
-      <last-pattern>methods</last-pattern>
+      <last-pattern>join</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -319,9 +325,6 @@
     </search>
     <history>
       <history-search>
-        <entry>des</entry>
-        <entry>八大服务</entry>
-        <entry>productInfo</entry>
         <entry>build</entry>
         <entry>drp</entry>
         <entry>dpr</entry>
@@ -339,6 +342,9 @@
         <entry>cutString</entry>
         <entry>onChange</entry>
         <entry>methods</entry>
+        <entry>contactV0</entry>
+        <entry>join\</entry>
+        <entry>join</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
