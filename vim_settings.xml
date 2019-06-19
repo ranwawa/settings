@@ -31,6 +31,12 @@
         <mark key="]" line="284" column="34" />
         <mark key="." line="284" column="34" />
       </file>
+      <file name="E:/h5/yeyx-sp-back/pages/user/login.vue" timestamp="1560948630377">
+        <mark key="[" line="145" column="19" />
+        <mark key="]" line="145" column="18" />
+        <mark key="." line="145" column="18" />
+        <mark key="^" line="145" column="18" />
+      </file>
       <file name="E:/h5/yeyx-official-site-wap/components/form_uploader.vue" timestamp="1560917859261">
         <mark key="'" line="30" column="5" />
         <mark key="[" line="65" column="0" />
@@ -45,14 +51,12 @@
         <mark key="." line="176" column="20" />
         <mark key="^" line="176" column="20" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/api/user.js" timestamp="1560939879077" />
       <file name="E:/h5/yeyx-official-site-wap/components/form_uploader_outer.vue" timestamp="1560910432244">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="11" column="15" />
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/config/evn_dev.js" timestamp="1560934780676" />
       <file name="E:/h5/yeyx-sp-back/api/order.js" timestamp="1560861364341">
         <mark key="'" line="33" column="12" />
         <mark key="[" line="44" column="2" />
@@ -157,11 +161,11 @@
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="31" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/api/axios_request.js" timestamp="1560936926171">
+      <file name="E:/h5/yeyx-sp-back/api/axios_request.js" timestamp="1560948671485">
         <mark key="'" line="37" column="20" />
-        <mark key="[" line="43" column="78" />
-        <mark key="]" line="43" column="79" />
-        <mark key="." line="43" column="79" />
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="59" />
+        <mark key="." line="43" column="28" />
         <mark key="^" line="43" column="33" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/App.vue" timestamp="1560942596765">
@@ -302,17 +306,17 @@
       <jump line="38" column="17" filename="E:/h5/zmn-official-wechat/src/api/request.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>'https://test-sp-51yeyx.xiujiadian.com/user/login/'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'https://test-sp-51yeyx.xiujiadian.com/user/login/'</text>
       </register>
       <register name="/" type="4">
         <text>41007</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAjaWZkZWYgTVAtQUxJUEFZCiAgICAgICAgIm5hdmlnYXRpb25CYXJUaXRsZVRleHQiOiAiztK1xCIKICAgICAgICAvLyAjZW5kaWYK</text>
+      <register name="0" type="4">
+        <text>`${location.origin}/user/login`</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
