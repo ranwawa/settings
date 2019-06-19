@@ -172,12 +172,12 @@
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="31" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/api/axios_request.js" timestamp="1560935589961">
+      <file name="E:/h5/yeyx-sp-back/api/axios_request.js" timestamp="1560936926171">
         <mark key="'" line="37" column="20" />
-        <mark key="[" line="42" column="31" />
-        <mark key="]" line="42" column="45" />
-        <mark key="." line="42" column="45" />
-        <mark key="^" line="42" column="45" />
+        <mark key="[" line="43" column="78" />
+        <mark key="]" line="43" column="79" />
+        <mark key="." line="43" column="79" />
+        <mark key="^" line="43" column="33" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" timestamp="1560854306455">
         <mark key="[" line="12" column="0" />
@@ -317,16 +317,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>:8081</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>:8081</text>
       </register>
       <register name="/" type="4">
         <text>concat</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5pc1Nob3dEZXRhaWwgPSBmYWxzZTsK</text>
+      <register name="0" type="4">
+        <text>`${location.origin}/user/login`</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
