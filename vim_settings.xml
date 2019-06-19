@@ -57,7 +57,13 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/api/order.js" timestamp="1560861364341">
+      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" timestamp="1560954744207">
+        <mark key="'" line="71" column="14" />
+        <mark key="[" line="84" column="15" />
+        <mark key="]" line="84" column="15" />
+        <mark key="." line="84" column="15" />
+      </file>
+      <file name="E:/h5/yeyx-sp-back/api/order.js" timestamp="1560950878281">
         <mark key="'" line="33" column="12" />
         <mark key="[" line="44" column="2" />
         <mark key="]" line="44" column="19" />
@@ -133,10 +139,23 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="21" column="31" />
       </file>
+      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_account.vue" timestamp="1560954465604">
+        <mark key="'" line="109" column="4" />
+        <mark key="[" line="118" column="26" />
+        <mark key="]" line="119" column="29" />
+        <mark key="." line="119" column="29" />
+        <mark key="^" line="119" column="29" />
+      </file>
       <file name="E:/h5/yeyx-sp-back/components/form_radio_group.vue" timestamp="1560949445351">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="11" column="23" />
         <mark key="." line="11" column="23" />
+      </file>
+      <file name="E:/h5/yeyx-sp-back/components/detail_item.vue" timestamp="1560954819276">
+        <mark key="[" line="55" column="20" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+        <mark key="^" line="55" column="23" />
       </file>
       <file name="E:/h5/yeyx-official-site-wap/components/form_select_city.vue" timestamp="1560929888712">
         <mark key="'" line="6" column="9" />
@@ -166,12 +185,11 @@
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="31" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/api/axios_request.js" timestamp="1560948671485">
-        <mark key="'" line="37" column="20" />
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="59" />
-        <mark key="." line="43" column="28" />
-        <mark key="^" line="43" column="33" />
+      <file name="E:/h5/yeyx-sp-back/api/axios_request.js" timestamp="1560952176939">
+        <mark key="'" line="35" column="20" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/App.vue" timestamp="1560942596765">
         <mark key="[" line="16" column="38" />
@@ -209,14 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="25" filename="E:/h5/yeyx-sp-back/api/order.js" />
-      <jump line="116" column="16" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
-      <jump line="14" column="19" filename="E:/h5/yeyx-sp-back/pages/master/components/master_service.vue" />
-      <jump line="155" column="7" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
-      <jump line="33" column="12" filename="E:/h5/yeyx-sp-back/api/order.js" />
-      <jump line="71" column="19" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
-      <jump line="249" column="17" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
-      <jump line="257" column="29" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
       <jump line="253" column="24" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
       <jump line="146" column="6" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
       <jump line="155" column="82" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
@@ -309,55 +319,63 @@
       <jump line="545" column="44" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="265" column="13" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="266" column="19" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="28" column="17" filename="E:/h5/yeyx-sp-back/pages/order/components/order_account.vue" />
+      <jump line="321" column="18" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
+      <jump line="125" column="64" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
+      <jump line="100" column="12" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
+      <jump line="105" column="4" filename="E:/h5/yeyx-sp-back/pages/order/components/order_account.vue" />
+      <jump line="153" column="13" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
+      <jump line="277" column="29" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
+      <jump line="71" column="14" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>000000</text>
+        <text>right</text>
       </register>
       <register name="-" type="4">
-        <text>000000</text>
+        <text>right</text>
       </register>
       <register name="/" type="4">
-        <text>color</text>
+        <text>金额</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgeyBuYW1lOiAn0tHL49XKJywgY29sb3I6ICcjMDAwMDAwJyB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgeyBuYW1lOiAn0tG907WlJywgY29sb3I6ICcjNjZjYzMzJyB9LAo=</text>
+        <text encoding="base64">ICAgICAgICB2LWlmPSJmYWxzZSIK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgeyBuYW1lOiAn0tG907WlJywgY29sb3I6ICcjZmY5OTAwJyB9LAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICB0aGlzLmFsZXJ0VGV4dCA9ICfV/dTay+PVyiwgx+vJ1LrzJzsKICAgICAgbGV0IHRpbWUgPSAzOwogICAgICBjb25zdCB0aW1lciA9IHNldEludGVydmFsKCgpID0+IHsKICAgICAgICB0aGlzLmFsZXJ0VGV4dCArPSAnLic7CiAgICAgICAgdGltZSAtPSAxOwogICAgICAgIGlmICh0aW1lID09PSAxKSB7CiAgICAgICAgICB0aGlzLmlzU2hvd0FjY291bnQgPSB0cnVlOwogICAgICAgICAgY2xlYXJJbnRlcnZhbCh0aW1lcik7CiAgICAgICAgfQogICAgICB9LCAxMDAwKTsKICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgeyBuYW1lOiAn0tHJz8PFJywgY29sb3I6ICcjMDA4MDAwJyB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgeyBuYW1lOiAn0tHFybWlJywgY29sb3I6ICcjYzVjYzM2JyB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKDExMTExMTExMTExKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGFnZUluZGV4ID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFsZXJ0VGV4dCA9ICfV/dTay+PVyiwgx+vJ1LrzJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYCR7bG9jYXRpb24ub3JpZ2lufS91c2VyL2xvZ2luYCwgMTExMTExMTExKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAjaWZkZWYgTVAtQUxJUEFZCiAgICAgICAgIm5hdmlnYXRpb25CYXJUaXRsZVRleHQiOiAiytfSsyIKICAgICAgICAvLyAjZW5kaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLXJlc3RyaWN0ZWQtZ2xvYmFscwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAxNzVlNTI1MmY5YjdlMmFiYWU3OGI1ZDEzZGM4ZDdjYTFlZjE2OTgyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAxNzVlNTI1MmY5YjdlMmFiYWU3OGI1ZDEzZGM4ZDdjYTFlZjE2OTgyCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>color</last-search>
+      <last-search>金额</last-search>
       <last-offset />
-      <last-pattern>color</last-pattern>
+      <last-pattern>金额</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -365,8 +383,6 @@
     </search>
     <history>
       <history-search>
-        <entry>v-model</entry>
-        <entry>uploader</entry>
         <entry>van-theme</entry>
         <entry>data</entry>
         <entry>icon-svg</entry>
@@ -376,7 +392,6 @@
         <entry>Picker</entry>
         <entry>pageIndex</entry>
         <entry>empty</entry>
-        <entry>methods</entry>
         <entry>操作</entry>
         <entry>concat</entry>
         <entry>setToken</entry>
@@ -385,6 +400,9 @@
         <entry>41007</entry>
         <entry>性别</entry>
         <entry>color</entry>
+        <entry>methods</entry>
+        <entry>保修</entry>
+        <entry>金额</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
