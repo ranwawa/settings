@@ -58,12 +58,6 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" timestamp="1560957849182">
-        <mark key="'" line="2" column="27" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-      </file>
       <file name="E:/h5/yeyx-official-site-wap/pages/fc/register.vue" timestamp="1561019011807">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="35" />
@@ -83,6 +77,13 @@
         <mark key="]" line="406" column="35" />
         <mark key="^" line="406" column="35" />
         <mark key="." line="406" column="35" />
+      </file>
+      <file name="E:/h5/yeyx-official-site-wap/components/form_select_service.vue" timestamp="1561023888275">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/h5/yeyx-official-site-wap/components/form_input.vue" timestamp="1560958594095">
         <mark key="'" line="54" column="19" />
@@ -150,21 +151,16 @@
         <mark key="." line="119" column="29" />
         <mark key="^" line="119" column="29" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/layouts/default.vue" timestamp="1560957751067">
-        <mark key="'" line="54" column="24" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="81" column="34" />
-      </file>
       <file name="E:/h5/yeyx-sp-back/components/detail_item.vue" timestamp="1560954819276">
         <mark key="[" line="55" column="20" />
         <mark key="]" line="55" column="23" />
         <mark key="." line="55" column="23" />
         <mark key="^" line="55" column="23" />
       </file>
-      <file name="E:/h5/yeyx-official-site-wap/components/form_select_city.vue" timestamp="1561019706607">
+      <file name="E:/h5/yeyx-official-site-wap/components/form_select_city.vue" timestamp="1561023804380">
         <mark key="'" line="14" column="7" />
-        <mark key="[" line="69" column="42" />
-        <mark key="]" line="69" column="43" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="65" />
         <mark key="." line="69" column="43" />
         <mark key="^" line="67" column="58" />
       </file>
@@ -188,6 +184,13 @@
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
         <mark key="^" line="154" column="10" />
+      </file>
+      <file name="E:/h5/yeyx-official-site-wap/api/request.js" timestamp="1561024205754">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
       </file>
       <file name="E:/h5/yeyx-sp-back/components/model_order.vue" timestamp="1560871860040">
         <mark key="'" line="7" column="9" />
@@ -247,10 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="5" filename="E:/h5/yeyx-official-site-wap/components/form_uploader.vue" />
-      <jump line="107" column="23" filename="E:/h5/yeyx-sp-back/pages/order/evaluate.vue" />
-      <jump line="594" column="6" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="74" column="12" filename="E:/h5/yeyx-official-site-wap/pages/factory/register.vue" />
       <jump line="0" column="0" filename="E:/h5/yeyx-official-site-wap/pages/factory/register.vue" />
       <jump line="28" column="15" filename="E:/h5/yeyx-official-site-wap/pages/factory/register.vue" />
       <jump line="40" column="15" filename="E:/h5/yeyx-official-site-wap/pages/factory/register.vue" />
@@ -347,55 +346,59 @@
       <jump line="23" column="5" filename="E:/h5/yeyx-official-site-wap/components/form_uploader.vue" />
       <jump line="37" column="16" filename="E:/h5/yeyx-official-site-wap/components/form_button.vue" />
       <jump line="19" column="24" filename="E:/h5/yeyx-official-site-wap/utils/mixins.js" />
+      <jump line="32" column="2" filename="E:/h5/yeyx-official-site-wap/components/form_select_service.vue" />
+      <jump line="0" column="0" filename="E:/h5/yeyx-official-site-wap/components/form_select_service.vue" />
+      <jump line="16" column="44" filename="E:/h5/yeyx-official-site-wap/api/request.js" />
+      <jump line="48" column="0" filename="E:/h5/yeyx-official-site-wap/api/request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
+        <text encoding="base64">ICAgIGxvYWRpbmcgPSBMb2FkaW5nKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>form</text>
+        <text>Loading</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMuY2hlY2tGb3JtKHRoaXMuZm9ybSkpIHsK</text>
+        <text encoding="base64">aW1wb3J0IEZvcm1TZWxlY3RPdXRlciBmcm9tICd+L2NvbXBvbmVudHMvZm9ybV9zZWxlY3Rfb3V0ZXIudnVlJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
+        <text encoding="base64">ICAgIGxvYWRpbmcgPSBMb2FkaW5nKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICMwMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gbG9jYXRpb24uaHJlZiA9ICcvdXNlci9sb2dpbic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTm90aWZpY2F0aW9uLmVycm9yKEpTT04uc3RyaW5naWZ5KF8ucGljayhyZXMuY29uZmlnLCBbJ3VybCcsICdtZXRob2QnLCAncGFyYW1zJywgJ2RhdGEnXSkpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZWxlLmVycm9yKTsK</text>
+        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb24uZXJyb3IoeyBtZXNzYWdlOiBKU09OLnN0cmluZ2lmeShfLnBpY2socmVzLmNvbmZpZywgWyd1cmwnLCAnbWV0aG9kJywgJ3BhcmFtcycsICdkYXRhJ10pKSB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID1mYWxzZTsK</text>
+        <text encoding="base64">ICBpZiAoaXNTaG93TG9hZGluZykgewogICAgbG9hZGluZyA9IExvYWRpbmcuc2VydmljZSgpOwogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgbG9hZGluZyA9ICcnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEaWFsb2cuYWxlcnQoewogICAgICAgICAgbWVzc2FnZTogJ9DFz6LM7tC009DO8yzH69DeuMS689bYytQnLAogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTG9hZGluZywgTm90aWZpY2F0aW9uIH0gZnJvbSAnZWxlbWVudC11aSc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICd+L2NvbmZpZy9yZXF1ZXN0LmNvbmZpZy5qcyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiZy1pbWc9Ii9pbWcvY2FyZC5wbmciCg==</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>_</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>_</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -403,7 +406,6 @@
     </search>
     <history>
       <history-search>
-        <entry>uni-app</entry>
         <entry>custom</entry>
         <entry>41007</entry>
         <entry>性别</entry>
@@ -423,6 +425,7 @@
         <entry>bankAccount</entry>
         <entry>props</entry>
         <entry>test</entry>
+        <entry>_</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
