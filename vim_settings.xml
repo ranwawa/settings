@@ -132,11 +132,12 @@
         <mark key="." line="371" column="13" />
         <mark key="^" line="371" column="12" />
       </file>
-      <file name="E:/h5/yeyx-official-site-wap/nuxt.config.js" timestamp="1561001703580">
-        <mark key="[" line="16" column="59" />
-        <mark key="]" line="16" column="59" />
-        <mark key="." line="16" column="59" />
-        <mark key="^" line="16" column="60" />
+      <file name="E:/h5/yeyx-official-site-wap/nuxt.config.js" timestamp="1561046220088">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="40" />
+        <mark key="." line="31" column="40" />
+        <mark key="^" line="31" column="40" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/index.vue" timestamp="1561036625731">
         <mark key="'" line="111" column="9" />
@@ -181,7 +182,7 @@
         <mark key="." line="69" column="43" />
         <mark key="^" line="67" column="58" />
       </file>
-      <file name="E:/h5/yeyx-official-site-wap/utils/mixins.js" timestamp="1561030145630">
+      <file name="E:/h5/yeyx-official-site-wap/utils/mixins.js" timestamp="1561046179420">
         <mark key="'" line="21" column="24" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -201,10 +202,10 @@
         <mark key="." line="53" column="37" />
         <mark key="^" line="53" column="37" />
       </file>
-      <file name="E:/h5/yeyx-official-site-wap/api/request.js" timestamp="1561026182685">
+      <file name="E:/h5/yeyx-official-site-wap/api/request.js" timestamp="1561045919457">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="26" column="39" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="29" />
         <mark key="." line="26" column="39" />
         <mark key="^" line="26" column="39" />
       </file>
@@ -257,9 +258,11 @@
         <mark key="^" line="6" column="6" />
       </file>
       <file name="E:/h5/yeyx-sp-back/plugins/clipboard.js" timestamp="1561037198185" />
-      <file name="E:/h5/yeyx-sp-back/api/price.js" timestamp="1561026066169">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="1" />
+      <file name="E:/h5/yeyx-official-site-wap/plugins/alert.js" timestamp="1561046294584">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="60" />
+        <mark key="^" line="4" column="60" />
+        <mark key="." line="4" column="60" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" timestamp="1561035313450">
         <mark key="'" line="102" column="27" />
@@ -277,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="12" filename="E:/h5/yeyx-sp-back/pages/order/evaluate.vue" />
       <jump line="116" column="15" filename="E:/h5/zmn-official-wechat/src/pages.json" />
       <jump line="27" column="17" filename="E:/h5/zmn-official-wechat/src/pages.json" />
       <jump line="58" column="6" filename="E:/h5/zmn-official-wechat/src/pages.json" />
@@ -377,55 +379,56 @@
       <jump line="103" column="12" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
       <jump line="453" column="31" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="487" column="24" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="2" column="2" filename="E:/h5/yeyx-official-site-wap/nuxt.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>border:1px solid #000;</text>
+        <text>Dialog.alert</text>
       </register>
       <register name="-" type="4">
-        <text>border:1px solid #000;</text>
+        <text>Dialog.alert</text>
       </register>
       <register name="/" type="4">
-        <text>400</text>
+        <text>plugins</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgZGF0ZS5nZXREYXRlKCkgfX0K</text>
+        <text encoding="base64">aW1wb3J0IHsgVG9hc3QgfSBmcm9tICd2YW50JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBWdWUudXNlKERpYWxvZyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhvdXJzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaG91cnMgPSBob3VyczsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhvdXJzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldyBBcnJheSgyNCkK</text>
+        <text encoding="base64">ICAgIHRoaXMuaG91cnMgPSBob3VyczsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIG5ldyBBcnJheSgyNCkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ2V0VGltZXMoMzAsICcwLTI0JykpOzsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIC8vILvxyKHDv7j2yrG85LbO1tC1xMqxvOS85Lj0CiAgICBnZXRUaW1lcyhndXR0ZXIgPSAzMCkgewogICAgICBjb25zdCBnZXRIb3VyID0gKHQpID0+IHsKICAgICAgICByZXR1cm4gbmV3IERhdGUodCkuZ2V0SG91cnMoKS50b1N0cmluZygpLnBhZFN0YXJ0KDIsICcwJyk7CiAgICAgIH07CiAgICAgIGNvbnN0IGdldE1pbnV0ZXMgPSAodCkgPT4gewogICAgICAgIHJldHVybiBuZXcgRGF0ZSh0KS5nZXRNaW51dGVzKCkudG9TdHJpbmcoKS5wYWRTdGFydCgyLCAnMCcpOwogICAgICB9OwogICAgICBsZXQgdmFsdWVTdGFydCA9ICcnOwogICAgICBsZXQgdmFsdWVFbmQgPSAnJzsKICAgICAgbGV0IG5ld0d1dHRlciA9IGd1dHRlciAqIDYwICogMTAwMDsKICAgICAgcmV0dXJuIEFycmF5LmZyb20obmV3IEFycmF5KDI0KS5tYXAoKGUsIGkpID0+IHsKICAgICAgICB2YWx1ZVN0YXJ0ID0gc3RhcnQgKyBpICogbmV3R3V0dGVyOwogICAgICAgIHZhbHVlRW5kID0gc3RhcnQgKyAoaSArIDEpICogbmV3R3V0dGVyOwogICAgICAgIHJldHVybiB7CiAgICAgICAgICBsYWJlbDogYCR7Z2V0SG91cih2YWx1ZVN0YXJ0KX06JHtnZXRNaW51dGVzKHZhbHVlU3RhcnQpfSAtICR7CiAgICAgICAgICAgIGdldEhvdXIodmFsdWVFbmQpfToke2dldE1pbnV0ZXModmFsdWVFbmQpfWAsCiAgICAgICAgICB2YWx1ZTogdmFsdWVFbmQsCiAgICAgICAgfTsKICAgICAgfSk7CiAgICB9LAog</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2YWx1ZVN0YXJ0ID0gc3RhcnQgKyBpICogbmV3R3V0dGVyOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IFtzdGFydCwgZW5kXSA9IHZhbHVlLnNwbGl0KCctJyk7CiAgICAgIHN0YXJ0ID0gcGFyc2VJbnQoc3RhcnQsIDEwKTsKICAgICAgZW5kID0gcGFyc2VJbnQoZW5kLCAxMCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vILvxyKHPws/C1tzW3MjVCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IFtzdGFydCwgZW5kXSA9IHZhbHVlLnNwbGl0KCctJyk7CiAgICAgIHN0YXJ0ID0gcGFyc2VJbnQoc3RhcnQsIDEwKTsKICAgICAgZW5kID0gcGFyc2VJbnQoZW5kLCAxMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>400</last-search>
+      <last-search>plugins</last-search>
       <last-offset />
-      <last-pattern>400</last-pattern>
+      <last-pattern>plugins</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -433,8 +436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>法人姓名</entry>
-        <entry>bankAccount</entry>
         <entry>props</entry>
         <entry>test</entry>
         <entry>_</entry>
@@ -453,6 +454,8 @@
         <entry>logout</entry>
         <entry>10000</entry>
         <entry>400</entry>
+        <entry>plugihs</entry>
+        <entry>plugins</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
