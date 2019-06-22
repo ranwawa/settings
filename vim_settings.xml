@@ -38,12 +38,12 @@
         <mark key="." line="30" column="89" />
         <mark key="^" line="30" column="89" />
       </file>
-      <file name="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" timestamp="1561187146739">
-        <mark key="'" line="33" column="28" />
-        <mark key="[" line="362" column="29" />
-        <mark key="]" line="362" column="29" />
-        <mark key="." line="362" column="29" />
-        <mark key="^" line="362" column="29" />
+      <file name="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" timestamp="1561194239791">
+        <mark key="'" line="357" column="34" />
+        <mark key="[" line="362" column="24" />
+        <mark key="]" line="362" column="24" />
+        <mark key="." line="362" column="24" />
+        <mark key="^" line="362" column="24" />
       </file>
       <file name="E:/h5/yeyx-official-site-wap/components/form_uploader.vue" timestamp="1561190941440">
         <mark key="'" line="63" column="21" />
@@ -364,7 +364,6 @@
       <jump line="354" column="35" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
       <jump line="355" column="31" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
       <jump line="356" column="35" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
-      <jump line="357" column="37" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
       <jump line="358" column="43" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
       <jump line="88" column="23" filename="E:/h5/yeyx-sp-back/pages/order/components/order_detail.vue" />
       <jump line="142" column="0" filename="E:/h5/zmn-official-wechat/src/pages/product/search.vue" />
@@ -439,16 +438,17 @@
       <jump line="134" column="19" filename="E:/h5/yeyx-official-site-wap/pages/fc/register.vue" />
       <jump line="107" column="35" filename="E:/h5/yeyx-official-site-wap/pages/fc/register.vue" />
       <jump line="29" column="8" filename="E:/h5/yeyx-official-site-wap/components/register_success.vue" />
+      <jump line="357" column="34" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>container</text>
+        <text>'wap'</text>
       </register>
       <register name="-" type="4">
-        <text>container</text>
+        <text>'wap'</text>
       </register>
       <register name="/" type="4">
-        <text>current</text>
+        <text>wap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRleHQ6IHsKICAgICAgdHlwZTogU3RyaW5nLAogICAgICBkZWZhdWx0OiAnJywKICAgIH0sCg==</text>
@@ -485,9 +485,9 @@
       </register>
     </registers>
     <search>
-      <last-search>current</last-search>
+      <last-search>wap</last-search>
       <last-offset />
-      <last-pattern>current</last-pattern>
+      <last-pattern>wap</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -495,7 +495,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showTime</entry>
         <entry>showWeek</entry>
         <entry>find</entry>
         <entry>预约时间</entry>
@@ -515,6 +514,7 @@
         <entry>axios</entry>
         <entry>currentStep</entry>
         <entry>current</entry>
+        <entry>wap</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
