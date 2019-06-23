@@ -101,6 +101,13 @@
         <mark key="^" line="181" column="59" />
         <mark key="." line="181" column="59" />
       </file>
+      <file name="E:/project/yuelao2/src/pages/tab/account/index.vue" timestamp="1561250903221">
+        <mark key="'" line="65" column="9" />
+        <mark key="[" line="217" column="40" />
+        <mark key="]" line="217" column="45" />
+        <mark key="." line="217" column="45" />
+        <mark key="^" line="217" column="45" />
+      </file>
       <file name="E:/h5/yeyx-sp-back/components/layout_head.vue" timestamp="1561176862904">
         <mark key="'" line="57" column="50" />
         <mark key="[" line="191" column="0" />
@@ -339,7 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="31" filename="E:/h5/yeyx-sp-back/pages/order/evaluate.vue" />
       <jump line="371" column="14" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="182" column="0" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
       <jump line="112" column="30" filename="E:/h5/yeyx-official-site-wap/components/register_phone.vue" />
@@ -439,55 +445,56 @@
       <jump line="29" column="8" filename="E:/h5/yeyx-official-site-wap/components/register_success.vue" />
       <jump line="357" column="34" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
       <jump line="208" column="7" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
+      <jump line="63" column="9" filename="E:/project/yuelao2/src/pages/tab/account/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>icon/mine/question.png</text>
       </register>
       <register name="-" type="4">
-        <text>ame</text>
+        <text>icon/mine/question.png</text>
       </register>
       <register name="/" type="4">
-        <text>wap</text>
+        <text>新手引导</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRleHQ6IHsKICAgICAgdHlwZTogU3RyaW5nLAogICAgICBkZWZhdWx0OiAnJywKICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5pc19jYXJkID0gMjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaXRlbSA9IHRoaXMuJHN0b3JlLnN0YXRlLnVzZXJSb2xlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvcm0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEZvcm1CdXR0b24sCg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbS5tb2JpbGUgPSAxMzg4MzE5ODM4NjsK</text>
+        <text encoding="base64">ICAgIGZvcm0tCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgOwo=</text>
+        <text encoding="base64">ICAgIEZvcm1CdXR0b24sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEljb25TdmcsCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbS5tb2JpbGUgPSAxMzg4MzE5ODM4NjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>wap</last-search>
+      <last-search>新手引导</last-search>
       <last-offset />
-      <last-pattern>wap</last-pattern>
+      <last-pattern>新手引导</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -495,7 +502,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showWeek</entry>
         <entry>find</entry>
         <entry>预约时间</entry>
         <entry>订单号</entry>
@@ -515,6 +521,7 @@
         <entry>currentStep</entry>
         <entry>current</entry>
         <entry>wap</entry>
+        <entry>新手引导</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
