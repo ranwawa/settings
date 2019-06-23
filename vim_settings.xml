@@ -178,12 +178,11 @@
         <mark key="^" line="109" column="1" />
         <mark key="." line="111" column="2" />
       </file>
-      <file name="E:/project/yuelao2/src/pages/share/recommendation/index.vue" timestamp="1561286845682">
-        <mark key="'" line="61" column="16" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="22" />
-        <mark key="^" line="33" column="20" />
-        <mark key="." line="33" column="20" />
+      <file name="E:/project/yuelao2/src/pages/share/recommendation/index.vue" timestamp="1561302768574">
+        <mark key="'" line="130" column="24" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="E:/project/yuelao2/src/api/recommendation.js" timestamp="1561300109880">
         <mark key="'" line="38" column="6" />
@@ -229,6 +228,12 @@
         <mark key="]" line="37" column="16" />
         <mark key="^" line="37" column="16" />
         <mark key="." line="37" column="16" />
+      </file>
+      <file name="E:/project/yuelao2/src/pages/account/real/index.vue" timestamp="1561283051683">
+        <mark key="'" line="16" column="9" />
+        <mark key="[" line="88" column="28" />
+        <mark key="]" line="88" column="29" />
+        <mark key="." line="88" column="29" />
       </file>
       <file name="E:/project/yuelao2/src/pages/account/photo/index.vue" timestamp="1561288227114">
         <mark key="[" line="133" column="11" />
@@ -484,7 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="7" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
       <jump line="63" column="9" filename="E:/project/yuelao2/src/pages/tab/account/index.vue" />
       <jump line="135" column="25" filename="E:/project/yuelao2/src/pages/public/welcome/index.vue" />
       <jump line="43" column="2" filename="E:/project/yuelao2/src/pages/public/welcome/index.vue" />
@@ -584,43 +588,44 @@
       <jump line="157" column="17" filename="E:/project/yuelao2/src/pages/love/home/index.vue" />
       <jump line="129" column="77" filename="E:/project/yuelao2/src/pages/love/home/index.vue" />
       <jump line="139" column="77" filename="E:/project/yuelao2/src/pages/love/home/index.vue" />
+      <jump line="130" column="24" filename="E:/project/yuelao2/src/pages/share/recommendation/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>contact</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySWQgPSAnJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>contact</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
-        <text>去分享</text>
+        <text>getCode</text>
       </register>
-      <register name="0" type="4">
-        <text>this.$store.state.noticeType</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHVzZXJJZCA9IHRoaXMudXNlc3JJbmZvLmlkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySWQgPSAnJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHVzZXJJZCA9IHRoaXMudXNlc3JJbmZvLmlkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgIHVzZXJJZCA9IHRoaXMudXNlc3JJbmZvLmlkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyC78cihtv7OrMLrCiAgICAgICAgY29uc3QgcmVzID0gYXdhaXQgY29tbW9uLmdldENvZGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbmVlZEF2YXRhcjogdHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbmVlZEF2YXRhcjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbmVlZEF2YXRhcjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5lZWRBdmF0YXI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgbmVlZEF2YXRhcjogdHJ1ZSwK</text>
@@ -630,9 +635,9 @@
       </register>
     </registers>
     <search>
-      <last-search>去分享</last-search>
+      <last-search>getCode</last-search>
       <last-offset />
-      <last-pattern>去分享</last-pattern>
+      <last-pattern>getCode</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -640,7 +645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>联系客服</entry>
         <entry>methods</entry>
         <entry>加入心动</entry>
         <entry>notice</entry>
@@ -660,6 +664,7 @@
         <entry>log</entry>
         <entry>console</entry>
         <entry>去分享</entry>
+        <entry>getCode</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
