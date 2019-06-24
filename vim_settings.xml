@@ -38,10 +38,10 @@
         <mark key="." line="30" column="89" />
         <mark key="^" line="30" column="89" />
       </file>
-      <file name="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" timestamp="1561196389604">
+      <file name="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" timestamp="1561340220906">
         <mark key="'" line="211" column="7" />
-        <mark key="[" line="204" column="48" />
-        <mark key="]" line="204" column="74" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="58" />
         <mark key="." line="204" column="74" />
         <mark key="^" line="204" column="74" />
       </file>
@@ -66,12 +66,12 @@
         <mark key="." line="25" column="56" />
         <mark key="^" line="25" column="56" />
       </file>
-      <file name="E:/h5/yeyx-official-site-wap/pages/fc/register.vue" timestamp="1561192943052">
-        <mark key="'" line="107" column="35" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
-        <mark key="^" line="107" column="35" />
+      <file name="E:/h5/yeyx-official-site-wap/pages/fc/register.vue" timestamp="1561340575966">
+        <mark key="'" line="239" column="8" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="54" />
+        <mark key="^" line="228" column="30" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="E:/h5/yeyx-official-site-wap/components/form_select_service.vue" timestamp="1561027905547">
         <mark key="'" line="0" column="0" />
@@ -87,12 +87,12 @@
         <mark key="^" line="54" column="19" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="E:/h5/yeyx-official-site-wap/components/register_success.vue" timestamp="1561193310374">
+      <file name="E:/h5/yeyx-official-site-wap/components/register_success.vue" timestamp="1561339801427">
         <mark key="'" line="35" column="8" />
-        <mark key="[" line="55" column="17" />
-        <mark key="]" line="55" column="17" />
-        <mark key="." line="55" column="17" />
-        <mark key="^" line="55" column="17" />
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="64" column="21" />
+        <mark key="." line="64" column="21" />
+        <mark key="^" line="64" column="21" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" timestamp="1561097235924">
         <mark key="'" line="160" column="17" />
@@ -283,12 +283,12 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="E:/h5/yeyx-official-site-wap/components/form_select_city.vue" timestamp="1561112516844">
-        <mark key="'" line="113" column="6" />
-        <mark key="[" line="79" column="21" />
-        <mark key="]" line="79" column="22" />
-        <mark key="." line="79" column="22" />
-        <mark key="^" line="77" column="33" />
+      <file name="E:/h5/yeyx-official-site-wap/components/form_select_city.vue" timestamp="1561342096999">
+        <mark key="'" line="119" column="6" />
+        <mark key="[" line="94" column="36" />
+        <mark key="]" line="95" column="29" />
+        <mark key="." line="95" column="29" />
+        <mark key="^" line="95" column="29" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/master/index.vue" timestamp="1560872992261">
         <mark key="'" line="231" column="0" />
@@ -373,8 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="36" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
-      <jump line="329" column="7" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="12" column="2" filename="E:/h5/yeyx-sp-back/components/form_pagination.vue" />
       <jump line="25" column="42" filename="E:/h5/yeyx-sp-back/api/axios_request.js" />
       <jump line="277" column="11" filename="E:/h5/yeyx-sp-back/pages/order/evaluate.vue" />
@@ -473,55 +471,57 @@
       <jump line="149" column="12" filename="E:/h5/yeyx-sp-back/pages/order/components/order_account.vue" />
       <jump line="162" column="7" filename="E:/h5/yeyx-sp-back/pages/order/evaluate.vue" />
       <jump line="263" column="6" filename="E:/h5/yeyx-sp-back/pages/user/forgot.vue" />
+      <jump line="127" column="15" filename="E:/h5/yeyx-official-site-wap/pages/fc/register.vue" />
+      <jump line="234" column="8" filename="E:/h5/yeyx-official-site-wap/pages/fc/register.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZlU3RlcDogMCwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>activeStep</text>
+        <text>watch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2FkaW5nID0gZmFsc2U7Cg==</text>
+      <register name="0" type="4">
+        <text>this.columns[1].values</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZlU3RlcDogMCwK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuY29sdW1uc1sxXS52YWx1ZXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2hvd0NpcmNsZTogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdi1zaG93PSJmb3JtLnNjb3BlVHlwZSA9PT0gMiIK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1hcENpcmNsZS5wYW5Ubyhwb2ludCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuc2VsZWN0Q29sdW1ucyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9LCAyMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKHRydWUpIHJldHVybjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgaWYoY3VycmVudEluZGV4KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDplcnJvci1tZXNzYWdlPSJmb3JtLmlkQ2FyZFNyY0JhY2suZXJyb3JNZXNzYWdlIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1hcENpcmNsZS5wYW5Ubyhwb2ludCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDplcnJvci1tZXNzYWdlPSJmb3JtLmlkQ2FyZFNyYy5lcnJvck1lc3NhZ2UiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwb2ludCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJnLWltZz0iL2ltZy9jYXJkLnBuZyIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>activeStep</last-search>
+      <last-search>watch</last-search>
       <last-offset />
-      <last-pattern>activeStep</last-pattern>
+      <last-pattern>watch</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -529,8 +529,6 @@
     </search>
     <history>
       <history-search>
-        <entry>current</entry>
-        <entry>wap</entry>
         <entry>list</entry>
         <entry>userPicCaptcha</entry>
         <entry>111</entry>
@@ -549,6 +547,8 @@
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry>全部</entry>
         <entry>activeStep</entry>
+        <entry>data</entry>
+        <entry>watch</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
