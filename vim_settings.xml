@@ -108,6 +108,13 @@
         <mark key="^" line="181" column="59" />
         <mark key="." line="181" column="59" />
       </file>
+      <file name="E:/h5/yeyx-sp-back/components/layout_head.vue" timestamp="1561431299685">
+        <mark key="'" line="166" column="9" />
+        <mark key="[" line="168" column="15" />
+        <mark key="]" line="168" column="16" />
+        <mark key="^" line="168" column="15" />
+        <mark key="." line="168" column="16" />
+      </file>
       <file name="E:/h5/yeyx-sp-back/components/form_pagination.vue" timestamp="1561360313591">
         <mark key="'" line="14" column="2" />
         <mark key="[" line="9" column="14" />
@@ -251,12 +258,12 @@
       <file name="E:/h5/yeyx-sp-back/api/master.js" timestamp="1561382952620">
         <mark key="'" line="46" column="2" />
       </file>
-      <file name="E:/h5/yeyx-official-site-wap/layouts/default.vue" timestamp="1561105178092">
+      <file name="E:/h5/yeyx-official-site-wap/layouts/default.vue" timestamp="1561431372778">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="426" column="29" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="273" column="21" />
+        <mark key="]" line="274" column="16" />
+        <mark key="^" line="274" column="16" />
+        <mark key="." line="274" column="16" />
       </file>
       <file name="E:/h5/yeyx-official-site-wap/pages/master/register.vue" timestamp="1561381730937">
         <mark key="'" line="286" column="19" />
@@ -421,12 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="6" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
-      <jump line="143" column="0" filename="E:/h5/yeyx-official-site-wap/pages/master/register.vue" />
-      <jump line="222" column="16" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
-      <jump line="232" column="27" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
-      <jump line="253" column="2" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
-      <jump line="3" column="9" filename="E:/h5/yeyx-official-site-wap/pages/master/register.vue" />
       <jump line="175" column="30" filename="E:/h5/yeyx-official-site-wap/pages/master/register.vue" />
       <jump line="27" column="19" filename="E:/h5/yeyx-official-site-wap/pages/master/register.vue" />
       <jump line="414" column="8" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
@@ -521,16 +522,22 @@
       <jump line="4" column="10" filename="E:/h5/yeyx-sp-back/pages/master/recruit.vue" />
       <jump line="5" column="13" filename="E:/h5/yeyx-sp-back/pages/master/recruit.vue" />
       <jump line="25" column="22" filename="E:/h5/yeyx-sp-back/pages/master/recruit.vue" />
+      <jump line="50" column="29" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
+      <jump line="128" column="11" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
+      <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
+      <jump line="9" column="6" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
+      <jump line="136" column="3" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
+      <jump line="166" column="9" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>标题</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>标题</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>复制</text>
+        <text>logo</text>
       </register>
       <register name="0" type="4">
         <text>http://51yeyx.com/pc/30/?{{ shop.spId }}</text>
@@ -567,9 +574,9 @@
       </register>
     </registers>
     <search>
-      <last-search>复制</last-search>
+      <last-search>logo</last-search>
       <last-offset />
-      <last-pattern>复制</last-pattern>
+      <last-pattern>logo</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -577,8 +584,6 @@
     </search>
     <history>
       <history-search>
-        <entry>button</entry>
-        <entry>协</entry>
         <entry>data</entry>
         <entry>link</entry>
         <entry>orderTabList</entry>
@@ -597,6 +602,8 @@
         <entry>服务项目</entry>
         <entry>qrCode</entry>
         <entry>复制</entry>
+        <entry>nav</entry>
+        <entry>logo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
