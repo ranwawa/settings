@@ -108,7 +108,7 @@
         <mark key="^" line="181" column="59" />
         <mark key="." line="181" column="59" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/components/layout_head.vue" timestamp="1561431299685">
+      <file name="E:/h5/yeyx-sp-back/components/layout_head.vue" timestamp="1561432202431">
         <mark key="'" line="166" column="9" />
         <mark key="[" line="168" column="15" />
         <mark key="]" line="168" column="16" />
@@ -135,12 +135,12 @@
         <mark key="]" line="214" column="59" />
         <mark key="." line="214" column="0" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_account.vue" timestamp="1561386380770">
-        <mark key="'" line="0" column="9" />
-        <mark key="[" line="85" column="32" />
-        <mark key="]" line="86" column="31" />
-        <mark key="." line="86" column="31" />
-        <mark key="^" line="86" column="31" />
+      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_account.vue" timestamp="1561432251827">
+        <mark key="'" line="61" column="19" />
+        <mark key="[" line="47" column="17" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="34" />
       </file>
       <file name="E:/h5/yeyx-sp-back/layouts/default.vue" timestamp="1561376736069">
         <mark key="'" line="53" column="24" />
@@ -428,9 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="30" filename="E:/h5/yeyx-official-site-wap/pages/master/register.vue" />
-      <jump line="27" column="19" filename="E:/h5/yeyx-official-site-wap/pages/master/register.vue" />
-      <jump line="414" column="8" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
       <jump line="366" column="2" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
       <jump line="3" column="21" filename="E:/h5/yeyx-official-site-wap/components/register_agreement.vue" />
       <jump line="0" column="0" filename="E:/h5/yeyx-official-site-wap/components/register_agreement.vue" />
@@ -528,16 +525,19 @@
       <jump line="9" column="6" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
       <jump line="136" column="3" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
       <jump line="166" column="9" filename="E:/h5/yeyx-sp-back/components/layout_head.vue" />
+      <jump line="7" column="17" filename="E:/h5/yeyx-sp-back/pages/order/components/order_account.vue" />
+      <jump line="47" column="20" filename="E:/h5/yeyx-sp-back/pages/order/components/order_account.vue" />
+      <jump line="61" column="19" filename="E:/h5/yeyx-sp-back/pages/order/components/order_account.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>端</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>端</text>
       </register>
       <register name="/" type="4">
-        <text>logo</text>
+        <text>服务商</text>
       </register>
       <register name="0" type="4">
         <text>http://51yeyx.com/pc/30/?{{ shop.spId }}</text>
@@ -574,9 +574,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logo</last-search>
+      <last-search>服务商</last-search>
       <last-offset />
-      <last-pattern>logo</last-pattern>
+      <last-pattern>服务商</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -584,8 +584,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry>link</entry>
         <entry>orderTabList</entry>
         <entry>order</entry>
         <entry>orderList</entry>
@@ -604,6 +602,8 @@
         <entry>复制</entry>
         <entry>nav</entry>
         <entry>logo</entry>
+        <entry>服务端</entry>
+        <entry>服务商</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
