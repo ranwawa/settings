@@ -36,12 +36,12 @@
         <mark key="^" line="145" column="5" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/user/login.vue" timestamp="1561527881600">
-        <mark key="'" line="103" column="12" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="17" />
-        <mark key="." line="104" column="44" />
-        <mark key="^" line="104" column="44" />
+      <file name="E:/h5/yeyx-sp-back/pages/user/login.vue" timestamp="1561530158933">
+        <mark key="'" line="31" column="33" />
+        <mark key="[" line="155" column="25" />
+        <mark key="]" line="155" column="26" />
+        <mark key="." line="155" column="26" />
+        <mark key="^" line="155" column="26" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" timestamp="1561374185420">
         <mark key="'" line="131" column="29" />
@@ -427,9 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="21" filename="E:/h5/yeyx-official-site-wap/pages/master/register.vue" />
-      <jump line="279" column="53" filename="E:/h5/yeyx-official-site-wap/pages/master/register.vue" />
-      <jump line="284" column="16" filename="E:/h5/yeyx-official-site-wap/pages/master/register.vue" />
       <jump line="286" column="21" filename="E:/h5/yeyx-official-site-wap/pages/master/register.vue" />
       <jump line="488" column="0" filename="E:/h5/zmn-ofiicial-site-wap/layouts/default.vue" />
       <jump line="306" column="19" filename="E:/h5/yeyx-official-site-wap/layouts/default.vue" />
@@ -527,16 +524,19 @@
       <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
       <jump line="97" column="0" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
       <jump line="102" column="0" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
+      <jump line="136" column="11" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
+      <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
+      <jump line="31" column="33" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGVsLWRpdmlkZXIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>用户名</text>
       </register>
       <register name="-" type="4">
-        <text>img</text>
+        <text>用户名</text>
       </register>
       <register name="/" type="4">
-        <text>el-divider</text>
+        <text>用户名</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsYXlvdXQ6ICdub25lJywK</text>
@@ -573,9 +573,9 @@
       </register>
     </registers>
     <search>
-      <last-search>el-divider</last-search>
+      <last-search>用户名</last-search>
       <last-offset />
-      <last-pattern>el-divider</last-pattern>
+      <last-pattern>用户名</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -583,8 +583,6 @@
     </search>
     <history>
       <history-search>
-        <entry>预约时间</entry>
-        <entry>methods</entry>
         <entry>getBtn</entry>
         <entry>import</entry>
         <entry>submit</entry>
@@ -603,6 +601,8 @@
         <entry>form</entry>
         <entry>mounted</entry>
         <entry>el-divider</entry>
+        <entry>placeholder</entry>
+        <entry>用户名</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
