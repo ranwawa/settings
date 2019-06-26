@@ -301,12 +301,12 @@
         <mark key="." line="371" column="13" />
         <mark key="^" line="371" column="12" />
       </file>
-      <file name="E:/h5/yeyx-official-site-wap/nuxt.config.js" timestamp="1561544500931">
-        <mark key="'" line="50" column="4" />
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+      <file name="E:/h5/yeyx-official-site-wap/nuxt.config.js" timestamp="1561558461424">
+        <mark key="'" line="1" column="10" />
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="50" column="17" />
+        <mark key="^" line="50" column="17" />
+        <mark key="." line="50" column="17" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/index.vue" timestamp="1561544165714">
         <mark key="'" line="190" column="5" />
@@ -412,6 +412,13 @@
         <mark key="]" line="24" column="27" />
         <mark key="." line="24" column="27" />
       </file>
+      <file name="E:/h5/yeyx-official-site-old/index.htm" timestamp="1561559019607">
+        <mark key="'" line="2" column="5" />
+        <mark key="[" line="68" column="58" />
+        <mark key="]" line="68" column="57" />
+        <mark key="." line="68" column="57" />
+        <mark key="^" line="68" column="57" />
+      </file>
       <file name="E:/h5/yeyx-sp-back/pages/order/components/order_checkout.vue" timestamp="1561477644950">
         <mark key="'" line="37" column="4" />
         <mark key="[" line="17" column="16" />
@@ -435,8 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="29" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
-      <jump line="97" column="0" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
       <jump line="102" column="0" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
       <jump line="136" column="11" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
       <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/user/login.vue" />
@@ -478,7 +483,6 @@
       <jump line="123" column="6" filename="E:/h5/zmn-ofiicial-site-wap/nuxt.config.js" />
       <jump line="190" column="5" filename="E:/h5/yeyx-sp-back/pages/index.vue" />
       <jump line="346" column="18" filename="E:/h5/yeyx-official-site-wap/pages/fc/register.vue" />
-      <jump line="2" column="11" filename="E:/h5/yeyx-official-site-wap/nuxt.config.js" />
       <jump line="50" column="4" filename="E:/h5/yeyx-official-site-wap/nuxt.config.js" />
       <jump line="469" column="37" filename="E:/h5/yeyx-official-site-wap/pages/fc/register.vue" />
       <jump line="245" column="55" filename="E:/h5/yeyx-sp-back/pages/order/components/order_edit.vue" />
@@ -535,16 +539,19 @@
       <jump line="389" column="5" filename="E:/h5/yeyx-official-site-wap/pages/fc/register.vue" />
       <jump line="460" column="0" filename="E:/h5/yeyx-official-site-wap/pages/fc/register.vue" />
       <jump line="25" column="0" filename="E:/h5/yeyx-official-site-wap/api/register.js" />
+      <jump line="2" column="11" filename="E:/h5/yeyx-official-site-wap/nuxt.config.js" />
+      <jump line="2" column="5" filename="E:/h5/yeyx-official-site-old/index.htm" />
+      <jump line="1" column="10" filename="E:/h5/yeyx-official-site-wap/nuxt.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>currentStep:</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLiRyb3V0ZXIucHVzaChpdGVtLnVybCk7CiAgICAgICAgdGhpcy5zaG93UG9wKCk7Cg==</text>
@@ -581,9 +588,9 @@
       </register>
     </registers>
     <search>
-      <last-search>currentStep:</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>currentStep:</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -591,8 +598,6 @@
     </search>
     <history>
       <history-search>
-        <entry>submit</entry>
-        <entry>publicPath</entry>
         <entry>orderFac</entry>
         <entry>currentStep:2</entry>
         <entry>a</entry>
@@ -611,6 +616,8 @@
         <entry>其他资质</entry>
         <entry>currentStep</entry>
         <entry>currentStep:</entry>
+        <entry>厂商注册</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
