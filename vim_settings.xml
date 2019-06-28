@@ -87,11 +87,11 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" timestamp="1561711976996">
-        <mark key="'" line="152" column="12" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" timestamp="1561721543338">
+        <mark key="'" line="138" column="11" />
+        <mark key="[" line="138" column="23" />
+        <mark key="]" line="138" column="24" />
+        <mark key="." line="138" column="24" />
         <mark key="^" line="103" column="16" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/address/components/address_list.vue" timestamp="1561718929314">
@@ -192,8 +192,8 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/config/request.config.js" timestamp="1561593569800">
-        <mark key="'" line="7" column="51" />
+      <file name="E:/h5/yeyx-sp-back/config/request.config.js" timestamp="1561721568216">
+        <mark key="'" line="7" column="21" />
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="24" />
         <mark key="^" line="2" column="24" />
@@ -279,15 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="372" column="37" filename="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" />
-      <jump line="359" column="47" filename="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" />
-      <jump line="377" column="65" filename="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" />
-      <jump line="358" column="51" filename="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" />
-      <jump line="87" column="31" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
-      <jump line="116" column="21" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
-      <jump line="135" column="8" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
-      <jump line="150" column="68" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
-      <jump line="151" column="12" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
       <jump line="291" column="17" filename="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" />
       <jump line="361" column="7" filename="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" />
       <jump line="221" column="11" filename="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" />
@@ -379,6 +370,15 @@
       <jump line="0" column="0" filename="E:/h5/zmn-official-wechat/src/pages/address/components/address_list.vue" />
       <jump line="2" column="16" filename="E:/h5/zmn-official-wechat/src/pages/address/components/address_list.vue" />
       <jump line="1" column="14" filename="E:/h5/zmn-official-wechat/src/pages/address/components/address_list.vue" />
+      <jump line="123" column="31" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
+      <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
+      <jump line="103" column="15" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
+      <jump line="3" column="19" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
+      <jump line="102" column="4" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
+      <jump line="118" column="11" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
+      <jump line="126" column="22" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
+      <jump line="138" column="11" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
+      <jump line="7" column="21" filename="E:/h5/yeyx-sp-back/config/request.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -388,7 +388,7 @@
         <text>err</text>
       </register>
       <register name="/" type="4">
-        <text>address</text>
+        <text>pageIndex</text>
       </register>
       <register name="0" type="4">
         <text>this.$alert(err.message)</text>
@@ -425,9 +425,9 @@
       </register>
     </registers>
     <search>
-      <last-search>address</last-search>
+      <last-search>pageIndex</last-search>
       <last-offset />
-      <last-pattern>address</last-pattern>
+      <last-pattern>pageIndex</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -435,8 +435,6 @@
     </search>
     <history>
       <history-search>
-        <entry>submit</entry>
-        <entry>\.t</entry>
         <entry>resolve</entry>
         <entry>detail</entry>
         <entry>this\.datas</entry>
@@ -455,6 +453,8 @@
         <entry>then</entry>
         <entry>console</entry>
         <entry>address</entry>
+        <entry>0</entry>
+        <entry>pageIndex</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
