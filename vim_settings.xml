@@ -10,11 +10,11 @@
         <mark key="." line="199" column="0" />
         <mark key="^" line="181" column="34" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" timestamp="1561716292560">
-        <mark key="'" line="183" column="0" />
-        <mark key="[" line="221" column="36" />
-        <mark key="]" line="221" column="40" />
-        <mark key="." line="221" column="40" />
+      <file name="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" timestamp="1561724976917">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="188" column="47" />
+        <mark key="]" line="188" column="47" />
+        <mark key="." line="188" column="47" />
         <mark key="^" line="221" column="40" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/product/detail.vue" timestamp="1561716519690">
@@ -203,7 +203,7 @@
         <mark key="." line="43" column="0" />
       </file>
       <file name="E:/h5/yeyx-sp-back/config/request.config.js" timestamp="1561722178759">
-        <mark key="'" line="5" column="21" />
+        <mark key="'" line="7" column="21" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -288,8 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="9" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
-      <jump line="0" column="0" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
       <jump line="184" column="0" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
       <jump line="235" column="6" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
       <jump line="177" column="9" filename="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" />
@@ -388,16 +386,18 @@
       <jump line="98" column="13" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
       <jump line="102" column="4" filename="E:/h5/yeyx-sp-back/pages/order/components/order_allot.vue" />
       <jump line="397" column="12" filename="E:/h5/zmn-official-wechat/src/pages/home/index.vue" />
+      <jump line="221" column="40" filename="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" />
+      <jump line="0" column="0" filename="E:/h5/zmn-official-wechat/src/pages/order/detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>pageIndex</text>
+        <text>address</text>
       </register>
       <register name="0" type="4">
         <text>this.$alert(err.message)</text>
@@ -434,9 +434,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pageIndex</last-search>
+      <last-search>address</last-search>
       <last-offset />
-      <last-pattern>pageIndex</last-pattern>
+      <last-pattern>address</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -460,10 +460,10 @@
         <entry>forEach</entry>
         <entry>then</entry>
         <entry>console</entry>
-        <entry>address</entry>
         <entry>0</entry>
         <entry>手机号,订单号</entry>
         <entry>pageIndex</entry>
+        <entry>address</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
