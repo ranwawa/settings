@@ -184,6 +184,11 @@
         <mark key="." line="89" column="23" />
         <mark key="^" line="89" column="23" />
       </file>
+      <file name="E:/h5/zmn-official-wechat/src/components/search.vue" timestamp="1561788503308">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="E:/h5/zmn-official-wechat/src/components/ss-select-city/ss-select-city.vue" timestamp="1561703315028">
         <mark key="'" line="219" column="25" />
         <mark key="[" line="214" column="56" />
@@ -211,14 +216,14 @@
         <mark key="^" line="88" column="13" />
         <mark key="." line="88" column="13" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/api/config.js" timestamp="1561787217865">
+      <file name="E:/h5/zmn-official-wechat/src/api/config.js" timestamp="1561789506338">
         <mark key="'" line="6" column="19" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/api/request.js" timestamp="1561772704255">
+      <file name="E:/h5/zmn-official-wechat/src/api/request.js" timestamp="1561788240624">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="E:/h5/yeyx-sp-back/config/request.config.js" timestamp="1561722178759">
         <mark key="'" line="7" column="21" />
@@ -289,12 +294,13 @@
         <mark key="^" line="499" column="26" />
         <mark key="." line="499" column="26" />
       </file>
-      <file name="E:/h5/zmn-official-wechat/src/utils/getGPS.js" timestamp="1561787313554">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="29" />
-        <mark key="^" line="74" column="24" />
-        <mark key="." line="14" column="29" />
+      <file name="E:/h5/zmn-official-wechat/src/components/uni/uni-number-box.vue" timestamp="1561788876561" />
+      <file name="E:/h5/zmn-official-wechat/src/utils/getGPS.js" timestamp="1561788621665">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
+      <file name="E:/h5/yeyx-official-site-wap/api/register.js" timestamp="1561789542161" />
       <file name="E:/h5/yeyx-sp-back/pages/set/address.vue" timestamp="1561592280037">
         <mark key="'" line="205" column="8" />
       </file>
@@ -408,11 +414,11 @@
       <jump line="3" column="15" filename="E:/h5/yeyx-official-site-wap/api/config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudXNlckluZm8udG9rZW4pOwogICAgY29uc29sZS5sb2codW5pLmdldFN0b3JhZ2VTeW5jKCd1c2VySW5mbycpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
         <text>卡号</text>
@@ -421,31 +427,31 @@
         <text>this.$alert(err.message)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudXNlckluZm8udG9rZW4pOwogICAgY29uc29sZS5sb2codW5pLmdldFN0b3JhZ2VTeW5jKCd1c2VySW5mbycpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKGUpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuJGFsZXJ0KGVyci5tZXNzYWdlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhCg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICB9KS5jYXRjaChlcnIgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1bmkuc2hvd1RvYXN0KHsKICAgICAgICAgIGljb246ICdub25lJywKICAgICAgICAgIHRpdGxlOiAnstnX97PJuaYnLAogICAgICAgIH0pOwogICAgICAgIHNldFRpbWVvdXQodW5pLm5hdmlnYXRlQmFjaywgMTY4OCk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IAogICAgLnRoZW4ocmVzID0+IHsKICAgIGlmIChyZXMuc3RhdHVzQm9vbCkgewogICAgfSBlbHNlIHsKICAgICAgdW5pLm5hdmlnYXRlVG8oewogICAgICAgIHVybDogJy9wYWdlcy9ob21lL2NpdHknLAogICAgICB9KTsKICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHVuaS5uYXZpZ2F0ZVRvKHsKICAgICAgdXJsOiAnL3BhZ2VzL2hvbWUvY2l0eScsCiAgICB9KTsKICAgIHJlamVjdChlcnIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzICYmIHJlcy5jb25maXJtKSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
