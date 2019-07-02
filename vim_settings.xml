@@ -88,8 +88,8 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/api/product.js" timestamp="1562035175702">
-        <mark key="'" line="0" column="0" />
+      <file name="E:/h5/zmn-wechat/src/api/product.js" timestamp="1562053440153">
+        <mark key="'" line="12" column="68" />
         <mark key="[" line="12" column="68" />
         <mark key="]" line="12" column="74" />
         <mark key="^" line="12" column="74" />
@@ -240,6 +240,13 @@
         <mark key="]" line="14" column="110" />
         <mark key="." line="14" column="110" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/pages/reserve/result.vue" timestamp="1562053458436">
+        <mark key="'" line="47" column="15" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="1" />
+        <mark key="^" line="58" column="1" />
+        <mark key="." line="58" column="1" />
+      </file>
       <file name="E:/h5/zmn-mp/src/utils/index.js" timestamp="1561805993665">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -265,12 +272,12 @@
         <mark key="^" line="14" column="47" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/order/index.vue" timestamp="1562053339987">
-        <mark key="'" line="451" column="17" />
-        <mark key="[" line="172" column="36" />
-        <mark key="]" line="172" column="41" />
-        <mark key="^" line="172" column="41" />
-        <mark key="." line="172" column="41" />
+      <file name="E:/h5/yeyx-sp-back/pages/order/index.vue" timestamp="1562055016957">
+        <mark key="'" line="180" column="45" />
+        <mark key="[" line="178" column="32" />
+        <mark key="]" line="178" column="33" />
+        <mark key="." line="178" column="33" />
+        <mark key="^" line="178" column="33" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/my/bind_phone.vue" timestamp="1561704438811">
         <mark key="'" line="125" column="31" />
@@ -481,13 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="E:/h5/zmn-official-wechat/src/api/request.js" />
-      <jump line="0" column="0" filename="E:/h5/zmn-official-wechat/src/api/request.js" />
-      <jump line="372" column="0" filename="E:/h5/yeyx-official-site-wap/pages/sp/register.vue" />
-      <jump line="3" column="15" filename="E:/h5/yeyx-official-site-wap/api/config.js" />
-      <jump line="223" column="0" filename="E:/h5/zmn-ofiicial-site-wap/layouts/default.vue" />
-      <jump line="224" column="15" filename="E:/h5/zmn-ofiicial-site-wap/layouts/default.vue" />
-      <jump line="227" column="13" filename="E:/h5/zmn-ofiicial-site-wap/layouts/default.vue" />
       <jump line="31" column="27" filename="E:/h5/zmn-ofiicial-site-wap/layouts/default.vue" />
       <jump line="39" column="108" filename="E:/h5/zmn-ofiicial-site-wap/layouts/default.vue" />
       <jump line="45" column="20" filename="E:/h5/zmn-ofiicial-site-wap/layouts/default.vue" />
@@ -581,55 +581,62 @@
       <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="219" column="20" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="451" column="17" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="12" column="68" filename="E:/h5/zmn-wechat/src/api/product.js" />
+      <jump line="47" column="15" filename="E:/h5/zmn-wechat/src/pages/reserve/result.vue" />
+      <jump line="157" column="21" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="395" column="15" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="686" column="0" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="449" column="6" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="179" column="45" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>my</text>
+        <text>key</text>
       </register>
       <register name="-" type="4">
-        <text>my</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
-        <text>保内</text>
+        <text>warrantyList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyAgICAgICBuLmZvckVhY2goZWxlID0+IHsKICAvLyAgICAgICAgIGVsZS5zbWFsbFBpY1NyYyA9IHRoaXMuJGFwcGVuZFVybChlbGUuc21hbGxQaWNTcmMsIDQ1KTsKICAvLyAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmVMb2FkOiAxLjMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2VsLW9wdGlvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDpzcmM9Iml0ZW0uc21hbGxQaWNTcmMiCg==</text>
+        <text encoding="base64">ICAgICAgICB7IHRleHQ6ICfIq7K/Jywga2V5OiAzIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1vZGU9ImFzcGVjdEZpbGwiCg==</text>
+        <text encoding="base64">ICBwcmVMb2FkOiAxLjMsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOnNyYz0iaXRlbS5waWNTcmMiCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDpzcmM9Iml0ZW0uc21hbGxQaWNTcmMiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZT0iYXNwZWN0RmlsbCIK</text>
+        <text encoding="base64">ICAgICAgICAgIG1vZGU9ImFzcGVjdEZpbGwiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtaXhpbnM6IFtNaXhpbkxheUxvYWRdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOnNyYz0iaXRlbS5waWNTcmMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IE1peGluTGF5TG9hZCBmcm9tICdAL21peGlucy9sYXlsb2FkJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>保内</last-search>
+      <last-search>warrantyList</last-search>
       <last-offset />
-      <last-pattern>保内</last-pattern>
+      <last-pattern>warrantyList</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -637,10 +644,6 @@
     </search>
     <history>
       <history-search>
-        <entry>地址</entry>
-        <entry>data</entry>
-        <entry>img</entry>
-        <entry>load</entry>
         <entry>list</entry>
         <entry>iamge</entry>
         <entry>offsetH</entry>
@@ -657,6 +660,10 @@
         <entry>import</entry>
         <entry>index</entry>
         <entry>保内</entry>
+        <entry>getHot</entry>
+        <entry>222</entry>
+        <entry>全部</entry>
+        <entry>warrantyList</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
