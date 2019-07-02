@@ -114,8 +114,8 @@
         <mark key="^" line="96" column="7" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1561811859102">
-        <mark key="'" line="0" column="0" />
+      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1562060070141">
+        <mark key="'" line="269" column="13" />
         <mark key="[" line="646" column="0" />
         <mark key="]" line="646" column="0" />
         <mark key="^" line="192" column="0" />
@@ -265,11 +265,12 @@
         <mark key="^" line="434" column="21" />
         <mark key="." line="434" column="21" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/product/detail.vue" timestamp="1561810990180">
-        <mark key="'" line="271" column="6" />
-        <mark key="[" line="259" column="15" />
-        <mark key="]" line="259" column="15" />
-        <mark key="." line="259" column="15" />
+      <file name="E:/h5/zmn-mp/src/pages/product/detail.vue" timestamp="1562060237942">
+        <mark key="'" line="244" column="16" />
+        <mark key="[" line="363" column="4" />
+        <mark key="]" line="363" column="7" />
+        <mark key="." line="363" column="7" />
+        <mark key="^" line="363" column="7" />
       </file>
       <file name="E:/h5/zmn-mp/src/App.vue" timestamp="1561807994398">
         <mark key="'" line="17" column="3" />
@@ -476,6 +477,7 @@
         <mark key="]" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
+      <file name="E:/h5/zmn-mp/src/api/request.js" timestamp="1562060086191" />
       <file name="E:/h5/zmn-mp/src/components/uni-ui/lib/uni-collapse-item/uni-collapse-item.vue" timestamp="1561805826874">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
@@ -495,13 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="20" filename="E:/h5/zmn-ofiicial-site-wap/layouts/default.vue" />
-      <jump line="102" column="4" filename="E:/h5/zmn-mp/src/components/uni-ui/lib/uni-collapse-item/uni-collapse-item.vue" />
-      <jump line="109" column="9" filename="E:/h5/zmn-mp/src/components/uni-ui/lib/uni-collapse-item/uni-collapse-item.vue" />
-      <jump line="113" column="4" filename="E:/h5/zmn-mp/src/components/uni-ui/lib/uni-collapse-item/uni-collapse-item.vue" />
-      <jump line="104" column="9" filename="E:/h5/zmn-mp/src/components/uni-ui/lib/uni-collapse-item/uni-collapse-item.vue" />
-      <jump line="335" column="0" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
-      <jump line="56" column="32" filename="E:/h5/zmn-mp/src/utils/getGPS.js" />
       <jump line="6" column="0" filename="E:/h5/zmn-mp/src/pages.json" />
       <jump line="21" column="14" filename="E:/h5/zmn-mp/src/pages.json" />
       <jump line="41" column="0" filename="E:/h5/zmn-mp/src/pages.json" />
@@ -595,16 +590,23 @@
       <jump line="70" column="0" filename="E:/h5/zmn-wechat/vue.config.js" />
       <jump line="207" column="12" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="451" column="18" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
+      <jump line="222" column="17" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
+      <jump line="269" column="13" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
+      <jump line="296" column="29" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
+      <jump line="309" column="13" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
+      <jump line="319" column="23" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
+      <jump line="363" column="4" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
+      <jump line="244" column="16" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgeyBTa2VsZXRvblBsdWdpbiB9ID0gcmVxdWlyZSgncGFnZS1za2VsZXRvbi13ZWJwYWNrLXBsdWdpbicpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>, '/search'</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>保内</text>
+        <text>submit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyAgICAgICBuLmZvckVhY2goZWxlID0+IHsKICAvLyAgICAgICAgIGVsZS5zbWFsbFBpY1NyYyA9IHRoaXMuJGFwcGVuZFVybChlbGUuc21hbGxQaWNTcmMsIDQ1KTsKICAvLyAgICAgICB9KTsK</text>
@@ -641,9 +643,9 @@
       </register>
     </registers>
     <search>
-      <last-search>保内</last-search>
+      <last-search>submit</last-search>
       <last-offset />
-      <last-pattern>保内</last-pattern>
+      <last-pattern>submit</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -651,8 +653,6 @@
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
-        <entry>iamge</entry>
         <entry>offsetH</entry>
         <entry>offset</entry>
         <entry>key</entry>
@@ -671,6 +671,8 @@
         <entry>全部</entry>
         <entry>warrantyList</entry>
         <entry>保内</entry>
+        <entry>then</entry>
+        <entry>submit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
