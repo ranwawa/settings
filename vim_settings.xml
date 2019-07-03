@@ -124,7 +124,7 @@
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="21" />
       </file>
-      <file name="E:/h5/zmn-mp/src/api/config.js" timestamp="1562137288244" />
+      <file name="E:/h5/zmn-mp/src/api/config.js" timestamp="1562144640135" />
       <file name="E:/h5/zmn-mp/src/components/product-width.vue" timestamp="1562133785506">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -281,12 +281,12 @@
         <mark key="^" line="434" column="21" />
         <mark key="." line="434" column="21" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/product/detail.vue" timestamp="1562060237942">
-        <mark key="'" line="244" column="16" />
-        <mark key="[" line="363" column="4" />
-        <mark key="]" line="363" column="7" />
-        <mark key="." line="363" column="7" />
-        <mark key="^" line="363" column="7" />
+      <file name="E:/h5/zmn-mp/src/pages/product/detail.vue" timestamp="1562144160702">
+        <mark key="'" line="257" column="0" />
+        <mark key="[" line="348" column="35" />
+        <mark key="]" line="348" column="35" />
+        <mark key="." line="348" column="35" />
+        <mark key="^" line="348" column="35" />
       </file>
       <file name="E:/h5/zmn-mp/src/App.vue" timestamp="1562137297543">
         <mark key="'" line="36" column="0" />
@@ -513,10 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="21" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="395" column="15" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="686" column="0" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
-      <jump line="449" column="6" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="179" column="45" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="70" column="0" filename="E:/h5/zmn-wechat/vue.config.js" />
       <jump line="207" column="12" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
@@ -525,9 +521,7 @@
       <jump line="269" column="13" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="296" column="29" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
       <jump line="309" column="13" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
-      <jump line="319" column="23" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
       <jump line="363" column="4" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
-      <jump line="244" column="16" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
       <jump line="3" column="19" filename="E:/h5/zmn-wechat-official-accounts/src/manifest.json" />
       <jump line="25" column="48" filename="E:/h5/zmn-wechat-official-accounts/src/manifest.json" />
       <jump line="26" column="48" filename="E:/h5/zmn-wechat-official-accounts/src/manifest.json" />
@@ -613,55 +607,61 @@
       <jump line="67" column="13" filename="E:/h5/yeyx-sp-back/pages/money/index.vue" />
       <jump line="128" column="8" filename="E:/h5/zmn-wechat/src/pages/my/my.vue" />
       <jump line="93" column="19" filename="E:/h5/zmn-wechat/src/pages/my/my.vue" />
+      <jump line="368" column="18" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
+      <jump line="244" column="16" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
+      <jump line="3" column="8" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
+      <jump line="51" column="0" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
+      <jump line="319" column="44" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
+      <jump line="257" column="0" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>?orderInfo=${JSON.stringify(data.data)}`</text>
       </register>
       <register name="-" type="4">
-        <text>getEvn() === '支付宝生活号'</text>
+        <text>?orderInfo=${JSON.stringify(data.data)}`</text>
       </register>
       <register name="/" type="4">
-        <text>getEvn</text>
+        <text>getCommentList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1bmkubmF2aWdhdGVUbyh7IHVybCB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZGVyIGZyb20gJ0AvYXBpL29yZGVyJzsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ly8gyse38bDztqjK1rv6usXC6wogICAgICBjb25zdCB1c2VySW5mbyA9IHRoaXMuJHN0b3JlLnN0YXRlLnVzZXJJbmZvOwogICAgICBpZiAodGhpcy5ldm4gPT09ICfOotDFuavW2rrFJyAmJiAhdXNlckluZm8ubW9iaWxlKSB7CiAgICAgICAgcmV0dXJuIHVuaS5uYXZpZ2F0ZVRvKHsgdXJsOiAnL3BhZ2VzL215L2JpbmRfcGhvbmUnIH0pOwogICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIEBjbGljay5vbmNlPSJnZXRDb21tZW50TGlzdCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMuZXZuID09PSAnzqLQxbmr1tq6xScgJiYgIXVzZXJJbmZvLm1vYmlsZSkgewogICAgICAgIHJldHVybiB1bmkubmF2aWdhdGVUbyh7IHVybDogJy9wYWdlcy9teS9iaW5kX3Bob25lJyB9KTsKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gyOe5+8rH1qe4trGmu7e+syzWsb3TzPjXqgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1bmkubmF2aWdhdGVUbyh7IHVybCB9KTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdW5pLm5hdmlnYXRlVG8oeyB1cmwgfSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICA8IS0tINPSx7DNtyAtLT4KICAgICAgICA8IS0tPGRpdiBjbGFzcz0icmlnaHQiPi0tPgogICAgICAgIDwhLS0gIDx0ZXh0IGNsYXNzPSJpY29uZm9udCBpY29uLXJpZ2h0IiAvPi0tPgogICAgICAgIDwhLS08L2Rpdj4tLT4=</text>
+      <register name="5" type="4">
+        <text encoding="base64">b3JkZXIuZ2V0T3JkZXIoewogICAgICAgIG9yZGVyUHJvZHVjdExpc3Q6IHsKICAgICAgICAgIG51bWJlcjogdGhpcy5wcm9kdWN0Lm51bWJlciwKICAgICAgICAgIHByb2R1Y3RJZDogdGhpcy5wcm9kdWN0LnByb2R1Y3RJZCwKICAgICAgICB9LAogICAgICB9KS50aGVuKCh7IGRhdGEgfSkgPT4gewogICAgICAgIGlmICghZGF0YS5zdGF0dXNCb29sKSByZXR1cm47CiAgICAgIH0pLmNhdGNoKGVyciA9PiB0aGlzLiRhbGVydChlcnIubWVzc2FnZSkpOw==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB1bmkubmF2aWdhdGVUbyh7CiAgICAgICAgICB1cmw6IGAvcGFnZXMvcmVzZXJ2ZS9jb21taXQ/b3JkZXJJbmZvPSR7SlNPTi5zdHJpbmdpZnkoZGF0YS5kYXRhKX1gLAogICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gyse38bDztqjK1rv6usXC6wogICAgICBjb25zdCB1c2VySW5mbyA9IHRoaXMuJHN0b3JlLnN0YXRlLnVzZXJJbmZvOwogICAgICBpZiAodGhpcy5ldm4gPT09ICfOotDFuavW2rrFJyAmJiAhdXNlckluZm8ubW9iaWxlKSB7CiAgICAgICAgcmV0dXJuIHVuaS5uYXZpZ2F0ZVRvKHsgdXJsOiAnL3BhZ2VzL215L2JpbmRfcGhvbmUnIH0pOwogICAgICB9</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMuZXZuID09PSAnzqLQxbmr1tq6xScgJiYgIXVzZXJJbmZvLm1vYmlsZSkgewogICAgICAgIHJldHVybiB1bmkubmF2aWdhdGVUbyh7IHVybDogJy9wYWdlcy9teS9iaW5kX3Bob25lJyB9KTsKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>getEvn</last-search>
+      <last-search>getCommentList</last-search>
       <last-offset />
-      <last-pattern>getEvn</last-pattern>
+      <last-pattern>getCommentList</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -669,8 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>222</entry>
-        <entry>全部</entry>
         <entry>warrantyList</entry>
         <entry>保内</entry>
         <entry>then</entry>
@@ -683,12 +681,14 @@
         <entry>currentStep</entry>
         <entry>currentStep:</entry>
         <entry>order</entry>
-        <entry>submit</entry>
         <entry>data</entry>
         <entry>onLoad</entry>
         <entry>console</entry>
         <entry>layout</entry>
         <entry>getEvn</entry>
+        <entry>submit</entry>
+        <entry>评价</entry>
+        <entry>getCommentList</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
