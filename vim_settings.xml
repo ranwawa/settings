@@ -72,12 +72,12 @@
         <mark key="^" line="226" column="47" />
         <mark key="." line="214" column="0" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/pages/product/detail.vue" timestamp="1562125243693">
-        <mark key="'" line="326" column="22" />
-        <mark key="[" line="269" column="23" />
-        <mark key="]" line="269" column="23" />
-        <mark key="." line="269" column="23" />
-        <mark key="^" line="374" column="16" />
+      <file name="E:/h5/zmn-wechat/src/pages/product/detail.vue" timestamp="1562126008951">
+        <mark key="'" line="331" column="12" />
+        <mark key="[" line="375" column="39" />
+        <mark key="]" line="375" column="39" />
+        <mark key="." line="375" column="39" />
+        <mark key="^" line="375" column="39" />
       </file>
       <file name="E:/h5/zmn-mp/src/pages/my/my.vue" timestamp="1561807551877">
         <mark key="[" line="91" column="17" />
@@ -140,10 +140,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/api/request.js" timestamp="1561947440713">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="E:/h5/zmn-wechat/src/api/request.js" timestamp="1562125436838">
+        <mark key="[" line="43" column="27" />
+        <mark key="]" line="43" column="39" />
+        <mark key="." line="43" column="39" />
+        <mark key="^" line="43" column="39" />
       </file>
       <file name="E:/h5/zmn-wechat/src/pages.json" timestamp="1562046983025">
         <mark key="[" line="205" column="0" />
@@ -477,7 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="6" filename="E:/h5/zmn-wechat/src/components/product-width.vue" />
       <jump line="0" column="0" filename="E:/h5/zmn-wechat/src/components/product-width.vue" />
       <jump line="55" column="0" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
       <jump line="13" column="18" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
@@ -577,10 +577,11 @@
       <jump line="8" column="22" filename="E:/h5/yeyx-site-wap/pages/master/register.vue" />
       <jump line="251" column="23" filename="E:/h5/yeyx-site-wap/pages/master/register.vue" />
       <jump line="326" column="22" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
+      <jump line="331" column="12" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBjb25zb2xlLmxvZyhkYXRhLmRhdGEpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>, getCode</text>
@@ -592,50 +593,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5nZXRQcm9kdWN0KGUuaWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBjb25zb2xlLmxvZyhkYXRhLmRhdGEpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>// #ifdef H5
-            // 如果是登陆页面报未绑定手机
-            // 就不要管,让登陆页去跳绑定手机页面
-            const state = location.hash.substr(1);
-            if (state.indexOf('pages/my/login') === -1) getToken('/pages/my/bind_phone');
-            // #endif
-            // #ifdef MP
-            // 登陆时发现帐号未绑定,则不管
-            // uni.navigateTo({
-            //   url: '/pages/my/login_mp',
-            // });
-            // #endif</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIHJldHVybiBnZXRDb2RlKCcvcGFnZXMvbXkvYmluZF9waG9uZScsIHN0YXRlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGEuZGF0YS51c2VyTQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAnL3BhZ2VzLycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHN0YXRlID0gbG9jYXRpb24uaGFzaC5zdWJzdHIoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gvs2yu9KqudwsyMO1x8K90rPIpcz4sPO2qMrWu/rSs8PmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvbkxvYWQoKSB7CiAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gyOe5+8rHtcfCvdKzw+axqM60sPO2qMrWu/oK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0VXNlckluZm8oKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>if (isTab) {
-            uni.switchTab({
-              url: this.state,
-            });
-          } else {
-            uni.redirectTo({
-              url: this.state,
-            });
-          }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0YXRlLmluZGV4T2YoJ3BhZ2VzL215L2xvZ2luJykgPT09IC0xKSBnZXRUb2tlbignL3BhZ2VzL215L2JpbmRfcGhvbmUnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChpc1RhYikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc3RhdGUgPSBsb2NhdGlvbi5oYXNoLnN1YnN0cigxKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
