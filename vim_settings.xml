@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/h5/zmn-mp/src/config/evn_prod.js" timestamp="1561810357817">
+      <file name="E:/h5/zmn-mp/src/config/evn_prod.js" timestamp="1562138108921">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -29,6 +29,17 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
+      </file>
+      <file name="E:/h5/yeyx-sp-back/pages/money/index.vue" timestamp="1562138849980">
+        <mark key="'" line="66" column="13" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="E:/h5/yeyx-sp-back/pages/money.vue" timestamp="1562138588186">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="E:/h5/zmn-wechat/src/pages/product/detail.vue" timestamp="1562136115767">
         <mark key="'" line="363" column="4" />
@@ -241,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="20" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="12" column="68" filename="E:/h5/zmn-wechat/src/api/product.js" />
       <jump line="47" column="15" filename="E:/h5/zmn-wechat/src/pages/reserve/result.vue" />
       <jump line="157" column="21" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
@@ -341,55 +351,56 @@
       <jump line="253" column="16" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="363" column="4" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="0" column="0" filename="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" />
+      <jump line="67" column="13" filename="E:/h5/yeyx-sp-back/pages/money/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlckluZm8pOwo=</text>
+        <text encoding="base64">ICAgIDxlbC1pbWFnZSBzcmM9Ii9pbWcvbW9uZXlfZW10cHkucG5nIiAvPgo=</text>
       </register>
       <register name="-" type="4">
         <text>?orderInfo=${JSON.stringify(data.data)}`</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>layout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4sIGdldEV2biB9IGZyb20gJ0AvdXRpbHMvaW5kZXgnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlckluZm8pOwo=</text>
+        <text encoding="base64">ICAgIDxlbC1pbWFnZSBzcmM9Ii9pbWcvbW9uZXlfZW10cHkucG5nIiAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZGVyIGZyb20gJ0AvYXBpL29yZGVyJzsK</text>
+        <text encoding="base64">PHNjcmlwdD4KZXhwb3J0IGRlZmF1bHQgewogIGxheW91dDogJ3RlbXAnLAp9Owo8L3NjcmlwdD4K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlckluZm8pOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZGVyIGZyb20gJ0AvYXBpL29yZGVyJzsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IG9yZGVyLmdldE9yZGVyKHsKICAgICAgICBvcmRlclByb2R1Y3RMaXN0OiB7CiAgICAgICAgICBudW1iZXI6IHRoaXMucHJvZHVjdC5udW1iZXIsCiAgICAgICAgICBwcm9kdWN0SWQ6IHRoaXMucHJvZHVjdC5wcm9kdWN0SWQsCiAgICAgICAgfSwKICAgICAgfSkudGhlbigoeyBkYXRhIH0pID0+IHsKICAgICAgICBpZiAoIWRhdGEuc3RhdHVzQm9vbCkgcmV0dXJuOwogICAgICAgIAogICAgICB9KS5jYXRjaChlcnIgPT4gdGhpcy4kYWxlcnQoZXJyLm1lc3NhZ2UpKTs=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">aWYgKHRoaXMuZXZuID09PSAnzqLQxbmr1tq6xScgJiYgIWRhdGEuZGF0YS51c2VyTW9iaWxlKSB7CiAgICAgICAgICByZXR1cm4gdW5pLm5hdmlnYXRlVG8oeyB1cmw6ICcvcGFnZXMvbXkvYmluZF9waG9uZScgfSk7CiAgICAgICAgfQogICAgICAgIHVuaS5uYXZpZ2F0ZVRvKHsKICAgICAgICAgIHVybDogYC9wYWdlcy9yZXNlcnZlL2NvbW1pdD9vcmRlckluZm89JHtKU09OLnN0cmluZ2lmeShkYXRhLmRhdGEpfWAsCiAgICAgICAgfSk7</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiAodXNlckluZm8pIHJldHVybjsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VySW5mbyk7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIC8vILvxyKFjb2RlLMjnufvDu9PQY29kZbe1u9jK19KzCiAgICBnZXRDb2RlKCkgewogICAgICBjb25zdCBjb2RlID0gbG9jYXRpb24uc2VhcmNoLm1hdGNoKC9cP2NvZGU9KC4qKSg/PSYpLyk7CiAgICAgIGlmICghY29kZSkgewogICAgICAgIHJldHVybiB1bmkucmVkaXJlY3RUbyh7CiAgICAgICAgICB1cmw6ICcvcGFnZXMvaG9tZS9pbmRleCcKICAgICAgICB9KTsKICAgICAgfQogICAgICB0aGlzLmZvcm0uY29kZSA9IGNvZGVbMV07CiAgICB9LAogICAgLy8gu/HIobDztqizybmmuvO72Mz4tcTSs8PmLMjnufvDu9PQ1PLJ6NbDzPjXqrW9ytfSswogICAgZ2V0U3RhdGUoKSB7CiAgICAgIHRoaXMuc3RhdGUgPSBsb2NhdGlvbi5zZWFyY2gubWF0Y2goL3N0YXRlPSguKikvKTsKICAgICAgdGhpcy5zdGF0ZSA9IHRoaXMuc3RhdGVbMV0gPyBkZWNvZGVVUklDb21wb25lbnQodGhpcy5zdGF0ZVsxXSkgOiAnL3BhZ2VzL2hvbWUvaW5kZXgnOwogICAgfSwKIA==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VySW5mbyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>layout</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>layout</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>index</entry>
         <entry>getHot</entry>
         <entry>222</entry>
         <entry>全部</entry>
@@ -417,6 +427,7 @@
         <entry>data</entry>
         <entry>onLoad</entry>
         <entry>console</entry>
+        <entry>layout</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
