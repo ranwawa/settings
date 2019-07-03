@@ -324,7 +324,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/api/config.js" timestamp="1562118617666" />
+      <file name="E:/h5/zmn-wechat/src/api/config.js" timestamp="1562122286329" />
       <file name="E:/h5/zmn-mp/src/main.js" timestamp="1562116404902">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="28" column="21" />
@@ -423,6 +423,7 @@
         <mark key="^" line="499" column="26" />
         <mark key="." line="499" column="26" />
       </file>
+      <file name="E:/h5/yeyx-site-wap/api/config.js" timestamp="1562122941315" />
       <file name="E:/h5/zmn-official-wechat/src/utils/getGPS.js" timestamp="1561788621665">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -434,6 +435,12 @@
         <mark key="]" line="376" column="20" />
         <mark key="^" line="376" column="20" />
         <mark key="." line="376" column="20" />
+      </file>
+      <file name="E:/h5/zmn-mp/src/api/request.js" timestamp="1562122279611">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="39" />
+        <mark key="." line="44" column="39" />
+        <mark key="^" line="44" column="39" />
       </file>
       <file name="E:/h5/zmn-mp/src/components/uni-ui/lib/uni-collapse-item/uni-collapse-item.vue" timestamp="1561805826874">
         <mark key="[" line="102" column="0" />
@@ -561,7 +568,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA8aSBjbGFzcz0iaWNvbmZvbnQgIj48L2k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gyOe5+8rHtcfCvdKzw+axqM60sPO2qMrWu/oK</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -573,31 +580,36 @@
         <text encoding="base64">ICAgICAgdGhpcy5nZXRQcm9kdWN0KGUuaWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8aSBjbGFzcz0iaWNvbmZvbnQgIj48L2k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gyOe5+8rHtcfCvdKzw+axqM60sPO2qMrWu/oK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gvs2yu9KqudwsyMO1x8K90rPIpcz4sPO2qMrWu/rSs8PmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuc3RhdGUuc2VsZWN0ZWRDaXR5LCB0aGlzLiRzdG9yZS5zdGF0ZS5sb2NhdGlvbkNpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc3RhdGUgPSBsb2NhdGlvbi5oYXNoLnN1YnN0cigxKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vILj5vt2+rc6ztsi78cihs8fK0GlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0YXRlLmluZGV4T2YoJ3BhZ2VzL215L2xvZ2luJykgPT09IC0xKSBnZXRUb2tlbignL3BhZ2VzL215L2JpbmRfcGhvbmUnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0VXNlckluZm8oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmUoZGF0YS5kYXRhKTsK</text>
+      <register name="7" type="4">
+        <text>// #ifdef MP
+            // 登陆时发现帐号未绑定,则不管
+            // uni.navigateTo({
+            //   url: '/pages/my/login_mp',
+            // });
+            // #endif</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuZ2V0SG9tZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gI2VuZGlmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuZ2V0SG9tZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gI2lmZGVmIEg1Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
