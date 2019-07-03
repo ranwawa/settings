@@ -125,11 +125,11 @@
         <mark key="^" line="32" column="21" />
       </file>
       <file name="E:/h5/zmn-mp/src/api/config.js" timestamp="1562147869896" />
-      <file name="E:/h5/zmn-mp/src/components/product-width.vue" timestamp="1562152524714">
-        <mark key="'" line="67" column="5" />
+      <file name="E:/h5/zmn-mp/src/components/product-width.vue" timestamp="1562153433042">
+        <mark key="'" line="66" column="5" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
-        <mark key="^" line="78" column="12" />
+        <mark key="^" line="14" column="20" />
         <mark key="." line="15" column="0" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/order/evaluate.vue" timestamp="1561716405422">
@@ -218,6 +218,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="33" />
+      </file>
+      <file name="E:/h5/zmn-mp/src/pages/product/category.vue" timestamp="1562153199359">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="21" />
+        <mark key="." line="36" column="21" />
+        <mark key="^" line="36" column="22" />
       </file>
       <file name="E:/h5/zmn-ofiicial-site-wap/layouts/default.vue" timestamp="1561792330994">
         <mark key="'" line="45" column="20" />
@@ -479,12 +486,6 @@
         <mark key="^" line="376" column="20" />
         <mark key="." line="376" column="20" />
       </file>
-      <file name="E:/h5/zmn-mp/src/api/request.js" timestamp="1562125320661">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="41" column="39" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="E:/h5/zmn-mp/src/components/uni-ui/lib/uni-collapse-item/uni-collapse-item.vue" timestamp="1561805826874">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
@@ -502,7 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="E:/h5/zmn-wechat/vue.config.js" />
       <jump line="207" column="12" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="451" column="18" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
       <jump line="222" column="17" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
@@ -602,55 +602,56 @@
       <jump line="319" column="44" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
       <jump line="257" column="0" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
       <jump line="68" column="5" filename="E:/h5/zmn-mp/src/components/product-width.vue" />
+      <jump line="0" column="0" filename="E:/h5/zmn-mp/src/pages/product/category.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxhenktbG9hZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIEBsb2FkPSJsYXlMb2FkKGl0ZW0sIGluZGV4LCAkZXZlbnQpIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>?orderInfo=${JSON.stringify(data.data)}`</text>
+        <text>=&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>getCommentList</text>
+        <text>image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1bmkubmF2aWdhdGVUbyh7IHVybCB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxhenktbG9hZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIEBsb2FkPSJsYXlMb2FkKGl0ZW0sIGluZGV4LCAkZXZlbnQpIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZGVyIGZyb20gJ0AvYXBpL29yZGVyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIDpjbGFzcz0ie2xvYWRpbmc6ICFpdGVtLmlzTG9hZGVkfSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBjbGljay5vbmNlPSJnZXRDb21tZW50TGlzdCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOnNyYz0iaXRlbS5waWNTcmMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxhenktbG9hZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZGVyIGZyb20gJ0AvYXBpL29yZGVyJzsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">b3JkZXIuZ2V0T3JkZXIoewogICAgICAgIG9yZGVyUHJvZHVjdExpc3Q6IHsKICAgICAgICAgIG51bWJlcjogdGhpcy5wcm9kdWN0Lm51bWJlciwKICAgICAgICAgIHByb2R1Y3RJZDogdGhpcy5wcm9kdWN0LnByb2R1Y3RJZCwKICAgICAgICB9LAogICAgICB9KS50aGVuKCh7IGRhdGEgfSkgPT4gewogICAgICAgIGlmICghZGF0YS5zdGF0dXNCb29sKSByZXR1cm47CiAgICAgIH0pLmNhdGNoKGVyciA9PiB0aGlzLiRhbGVydChlcnIubWVzc2FnZSkpOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIEBjbGljay5vbmNlPSJnZXRDb21tZW50TGlzdCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1bmkubmF2aWdhdGVUbyh7CiAgICAgICAgICB1cmw6IGAvcGFnZXMvcmVzZXJ2ZS9jb21taXQ/b3JkZXJJbmZvPSR7SlNPTi5zdHJpbmdpZnkoZGF0YS5kYXRhKX1gLAogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Ly8gyse38bDztqjK1rv6usXC6wogICAgICBjb25zdCB1c2VySW5mbyA9IHRoaXMuJHN0b3JlLnN0YXRlLnVzZXJJbmZvOwogICAgICBpZiAodGhpcy5ldm4gPT09ICfOotDFuavW2rrFJyAmJiAhdXNlckluZm8ubW9iaWxlKSB7CiAgICAgICAgcmV0dXJuIHVuaS5uYXZpZ2F0ZVRvKHsgdXJsOiAnL3BhZ2VzL215L2JpbmRfcGhvbmUnIH0pOwogICAgICB9</text>
+        <text encoding="base64">b3JkZXIuZ2V0T3JkZXIoewogICAgICAgIG9yZGVyUHJvZHVjdExpc3Q6IHsKICAgICAgICAgIG51bWJlcjogdGhpcy5wcm9kdWN0Lm51bWJlciwKICAgICAgICAgIHByb2R1Y3RJZDogdGhpcy5wcm9kdWN0LnByb2R1Y3RJZCwKICAgICAgICB9LAogICAgICB9KS50aGVuKCh7IGRhdGEgfSkgPT4gewogICAgICAgIGlmICghZGF0YS5zdGF0dXNCb29sKSByZXR1cm47CiAgICAgIH0pLmNhdGNoKGVyciA9PiB0aGlzLiRhbGVydChlcnIubWVzc2FnZSkpOw==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>getCommentList</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>getCommentList</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -658,7 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>warrantyList</entry>
         <entry>保内</entry>
         <entry>then</entry>
         <entry>alert</entry>
@@ -678,6 +678,7 @@
         <entry>submit</entry>
         <entry>评价</entry>
         <entry>getCommentList</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
