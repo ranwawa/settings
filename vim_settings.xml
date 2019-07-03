@@ -107,8 +107,12 @@
         <mark key="]" line="205" column="0" />
         <mark key="." line="205" column="0" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/components/product-lg.vue" timestamp="1562155186778">
+      <file name="E:/h5/zmn-wechat/src/components/product-lg.vue" timestamp="1562174855597">
         <mark key="'" line="43" column="35" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="E:/h5/zmn-wechat/src/pages/my/my.vue" timestamp="1562170716994">
         <mark key="'" line="90" column="0" />
@@ -496,12 +500,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/pages/home/index.vue" timestamp="1562160299610">
-        <mark key="'" line="303" column="0" />
-        <mark key="[" line="309" column="0" />
-        <mark key="]" line="309" column="55" />
-        <mark key="^" line="376" column="20" />
-        <mark key="." line="376" column="20" />
+      <file name="E:/h5/zmn-wechat/src/pages/home/index.vue" timestamp="1562174667855">
+        <mark key="'" line="298" column="7" />
+        <mark key="[" line="376" column="0" />
+        <mark key="]" line="376" column="0" />
+        <mark key="." line="376" column="0" />
       </file>
       <file name="E:/h5/zmn-wechat/src/pages/product/category.vue" timestamp="1562169694655">
         <mark key="[" line="118" column="8" />
@@ -511,7 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="6" filename="E:/h5/zmn-wechat/src/utils/getGPS.js" />
       <jump line="27" column="4" filename="E:/h5/zmn-wechat/src/utils/getGPS.js" />
       <jump line="308" column="46" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
       <jump line="303" column="0" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
@@ -611,55 +613,56 @@
       <jump line="90" column="0" filename="E:/h5/zmn-wechat/src/pages/my/my.vue" />
       <jump line="65" column="0" filename="E:/h5/zmn-wechat/src/pages/feedback/index.vue" />
       <jump line="40" column="5" filename="E:/h5/zmn-wechat/src/pages/home/city.vue" />
+      <jump line="298" column="7" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2LWxhenk9Iml0ZW0ucGljU3JjIgo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>async</text>
+        <text>getHome</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIHRoaXMuaG90Q2l0eUxpc3QgPSBhZGRyLmhvdENpdGllczsKICAgIC8vIHRoaXMuYWxsQ2l0aWVzID0gYWRkci5hZGRyZXNzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDEyMzEyMzEyMzEyMwo=</text>
+        <text encoding="base64">ICAgICAgICB2LWxhenk9Iml0ZW0ucGljU3JjIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KDUpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KDQpOwo=</text>
+        <text encoding="base64">ICAgIDEyMzEyMzEyMzEyMwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KDMpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KDIpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KDEpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGFsZXJ0KDUpOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KDQpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KDMpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KDIpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgUGlueWluTWF0Y2ggPSByZXF1aXJlKCdwaW55aW4tbWF0Y2gnKTsK</text>
+        <text encoding="base64">ICAgIGFsZXJ0KDEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KDUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>async</last-search>
+      <last-search>getHome</last-search>
       <last-offset />
-      <last-pattern>async</last-pattern>
+      <last-pattern>getHome</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -667,8 +670,6 @@
     </search>
     <history>
       <history-search>
-        <entry>png</entry>
-        <entry>loading</entry>
         <entry>image</entry>
         <entry>items</entry>
         <entry encoding="base64">aW5pdFNlY29uZERhdGEg</entry>
@@ -687,6 +688,8 @@
         <entry>currentCate</entry>
         <entry>onShow</entry>
         <entry>async</entry>
+        <entry>getHOme</entry>
+        <entry>getHome</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
