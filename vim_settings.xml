@@ -257,13 +257,6 @@
         <mark key="^" line="95" column="30" />
         <mark key="." line="95" column="30" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/order/index.vue" timestamp="1562222215472">
-        <mark key="'" line="135" column="12" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="23" />
-        <mark key="." line="611" column="0" />
-        <mark key="^" line="617" column="16" />
-      </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/my/bind_phone.vue" timestamp="1561704438811">
         <mark key="'" line="125" column="31" />
         <mark key="[" line="133" column="20" />
@@ -370,11 +363,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/master/add.vue" timestamp="1562238261943">
-        <mark key="'" line="473" column="24" />
-        <mark key="[" line="446" column="0" />
-        <mark key="]" line="446" column="0" />
-        <mark key="." line="446" column="0" />
+      <file name="E:/h5/yeyx-sp-back/pages/master/add.vue" timestamp="1562244723686">
+        <mark key="'" line="330" column="6" />
+        <mark key="[" line="413" column="0" />
+        <mark key="]" line="413" column="0" />
+        <mark key="." line="413" column="0" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/product/search.vue" timestamp="1561716995251">
         <mark key="'" line="138" column="37" />
@@ -417,11 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="29" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
-      <jump line="116" column="5" filename="E:/h5/zmn-wechat/src/pages/my/my.vue" />
-      <jump line="60" column="11" filename="E:/h5/zmn-wechat/src/pages/my/my.vue" />
-      <jump line="88" column="25" filename="E:/h5/zmn-wechat/src/utils/getGPS.js" />
-      <jump line="267" column="35" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="73" column="42" filename="E:/h5/zmn-wechat/src/pages/reserve/result.vue" />
       <jump line="66" column="18" filename="E:/h5/zmn-wechat/src/pages/reserve/result.vue" />
       <jump line="31" column="25" filename="E:/h5/zmn-wechat/src/utils/getToken.js" />
@@ -498,7 +486,6 @@
       <jump line="412" column="34" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
       <jump line="419" column="46" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
       <jump line="22" column="18" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
-      <jump line="13" column="17" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
       <jump line="478" column="24" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
       <jump line="56" column="9" filename="E:/h5/yeyx-sp-back/api/master.js" />
       <jump line="139" column="18" filename="E:/h5/zmn-wechat/src/pages/my/my.vue" />
@@ -517,60 +504,74 @@
       <jump line="62" column="15" filename="E:/h5/zmn-wechat/src/pages/my/my.vue" />
       <jump line="264" column="38" filename="E:/h5/yeyx-site-wap/pages/master/register.vue" />
       <jump line="575" column="16" filename="E:/h5/yeyx-site-wap/pages/master/register.vue" />
+      <jump line="477" column="0" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
+      <jump line="0" column="9" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
+      <jump line="2" column="8" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
+      <jump line="5" column="14" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
+      <jump line="13" column="12" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
+      <jump line="330" column="6" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLm1vYmlsZSA9ICcxMzMyNDIyMzEzNSc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZ4ZGF0YSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>head</text>
+        <text>form</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmdvTWFzdGVyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLm1vYmlsZSA9ICcxMzMyNDIyMzEzNSc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZ4ZGF0YSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>if (fxdata) {
+      this.form.realname = fxdata.realname;
+      this.form.mobile = fxdata.mobile;
+      this.form.idcard = fxdata.idcard;
+      this.form.avatarSrc = fxdata.avatarSrc;
+      this.form.idcardImgSrc = fxdata.idcardImgSrc;
+      this.form.idcardImgSrc2 = fxdata.idcardImgSrc2;
+      this.form.certImgSrc = fxdata.certImgSrc;
+    }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby1ldmFsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBiZWZvcmVVcGRhdGUoKSB7CiAgfSwK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby1ldmFsCiAgICBjb25zdCBmeGRhdGEgPSBldmFsKGAoJHt0aGlzLiRyb3V0ZS5xdWVyeS5pdGVtfSlgKTsKICAgIGlmIChmeGRhdGEpIHsKICAgICAgdGhpcy5mb3JtLnJlYWxuYW1lID0gZnhkYXRhLnJlYWxuYW1lOwogICAgICB0aGlzLmZvcm0ubW9iaWxlID0gZnhkYXRhLm1vYmlsZTsKICAgICAgdGhpcy5mb3JtLmlkY2FyZCA9IGZ4ZGF0YS5pZGNhcmQ7CiAgICAgIHRoaXMuZm9ybS5hdmF0YXJTcmMgPSBmeGRhdGEuYXZhdGFyU3JjOwogICAgICB0aGlzLmZvcm0uaWRjYXJkSW1nU3JjID0gZnhkYXRhLmlkY2FyZEltZ1NyYzsKICAgICAgdGhpcy5mb3JtLmlkY2FyZEltZ1NyYzIgPSBmeGRhdGEuaWRjYXJkSW1nU3JjMjsKICAgICAgdGhpcy5mb3JtLmNlcnRJbWdTcmMgPSBmeGRhdGEuY2VydEltZ1NyYzsKICAgIH0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLm1vYmlsZSA9ICcxMzMyNDIyMzEzNSc7Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>if (this.recruitApplyId) {
           this.operateSuccess();
         }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5yZWNydWl0QXBwbHlJZCkgewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLm1vYmlsZSA9ICcxMzYxMjUzMjQyMyc7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLm1vYmlsZSA9ICcxMzYxMjMzMjQ1Myc7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgIzAwMDsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>head</last-search>
+      <last-search>form</last-search>
       <last-offset />
-      <last-pattern>head</last-pattern>
+      <last-pattern>form</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -578,7 +579,6 @@
     </search>
     <history>
       <history-search>
-        <entry>调至</entry>
         <entry>script</entry>
         <entry>onLoad</entry>
         <entry>realname</entry>
@@ -598,6 +598,7 @@
         <entry>意见</entry>
         <entry>mobile</entry>
         <entry>head</entry>
+        <entry>form</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
