@@ -407,12 +407,12 @@
         <mark key="^" line="95" column="30" />
         <mark key="." line="95" column="30" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/order/index.vue" timestamp="1562059748745">
-        <mark key="'" line="451" column="18" />
-        <mark key="[" line="178" column="32" />
-        <mark key="]" line="178" column="33" />
-        <mark key="." line="178" column="33" />
-        <mark key="^" line="178" column="33" />
+      <file name="E:/h5/yeyx-sp-back/pages/order/index.vue" timestamp="1562219807878">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="611" column="0" />
+        <mark key="]" line="611" column="54" />
+        <mark key="." line="611" column="0" />
+        <mark key="^" line="617" column="16" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/my/bind_phone.vue" timestamp="1561704438811">
         <mark key="'" line="125" column="31" />
@@ -453,7 +453,7 @@
         <mark key="^" line="97" column="7" />
         <mark key="." line="97" column="7" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/api/config.js" timestamp="1562215047065" />
+      <file name="E:/h5/zmn-wechat/src/api/config.js" timestamp="1562219341176" />
       <file name="/Dummy.txt" timestamp="1562062865375">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -515,7 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="4" filename="E:/h5/zmn-wechat/src/utils/getGPS.js" />
       <jump line="308" column="46" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
       <jump line="303" column="0" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
       <jump line="6" column="0" filename="E:/h5/zmn-wechat/src/utils/getGPS.js" />
@@ -615,55 +614,56 @@
       <jump line="65" column="0" filename="E:/h5/zmn-wechat/src/pages/feedback/index.vue" />
       <jump line="40" column="5" filename="E:/h5/zmn-wechat/src/pages/home/city.vue" />
       <jump line="298" column="7" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
+      <jump line="0" column="9" filename="E:/h5/yeyx-sp-back/pages/order/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlc3Npb25TdG9yYWdlLnNldEl0ZW0oJ2lzRGlzYWJsZUFsZXJ0JywgJ3RydWUnKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKCEvXGQvLnRlc3QoZSkpIHJldHVybiB0aGlzLiRhbGVydCgn1rvE3MrkyOvK/dfWJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>navigateTo</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
-        <text>getHome</text>
+        <text>手机号,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHNlc3Npb25TdG9yYWdlLnNldEl0ZW0oJ2lzRGlzYWJsZUFsZXJ0JywgJ3RydWUnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlc3Npb25TdG9yYWdlLnNldEl0ZW0oJ2lzRGlzYWJsZUFsZXJ0JywgJ3RydWUnKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKCEvXGQvLnRlc3QoZSkpIHJldHVybiB0aGlzLiRhbGVydCgn1rvE3MrkyOvK/dfWJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vILXju/fIoc/7uvMsvs2yu9TZvfjQ0MfQu7u12Na3zOHKvsHLCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlc3Npb25TdG9yYWdlLnNldEl0ZW0oJ2lzRGlzYWJsZUFsZXJ0JywgJ3RydWUnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8g0aHU8bXY1re68yy+zbK71Nm9+NDQx9C7u7XY1rfM4cq+wcsKICAgICAgc2Vzc2lvblN0b3JhZ2Uuc2V0SXRlbSgnaXNEaXNhYmxlQWxlcnQnLCAndHJ1ZScpOwogICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vILXju/fIoc/7uvMsvs2yu9TZvfjQ0MfQu7u12Na3zOHKvsHLCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdW5pLm5hdmlnYXRlQmFjaygpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8g0aHU8bXY1re68yy+zbK71Nm9+NDQx9C7u7XY1rfM4cq+wcsKICAgICAgc2Vzc2lvblN0b3JhZ2Uuc2V0SXRlbSgnaXNEaXNhYmxlQWxlcnQnLCAndHJ1ZScpOwogICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdW5pLm5hdmlnYXRlQmFjaygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2LWxhenk9Iml0ZW0ucGljU3JjIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2LWxhenk9Iml0ZW0ucGljU3JjIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDEyMzEyMzEyMzEyMwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KDUpOwo=</text>
+        <text encoding="base64">ICAgIDEyMzEyMzEyMzEyMwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>getHome</last-search>
+      <last-search>手机号,</last-search>
       <last-offset />
-      <last-pattern>getHome</last-pattern>
+      <last-pattern>手机号,</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -671,7 +671,6 @@
     </search>
     <history>
       <history-search>
-        <entry>image</entry>
         <entry>items</entry>
         <entry encoding="base64">aW5pdFNlY29uZERhdGEg</entry>
         <entry>initSecondData</entry>
@@ -691,6 +690,7 @@
         <entry>async</entry>
         <entry>getHOme</entry>
         <entry>getHome</entry>
+        <entry>手机号,</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
