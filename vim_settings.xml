@@ -526,7 +526,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>mobile</text>
+        <text>head</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmdvTWFzdGVyKCk7Cg==</text>
@@ -568,9 +568,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mobile</last-search>
+      <last-search>head</last-search>
       <last-offset />
-      <last-pattern>mobile</last-pattern>
+      <last-pattern>head</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -578,7 +578,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cityList</entry>
         <entry>调至</entry>
         <entry>script</entry>
         <entry>onLoad</entry>
@@ -598,6 +597,7 @@
         <entry>search</entry>
         <entry>意见</entry>
         <entry>mobile</entry>
+        <entry>head</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
