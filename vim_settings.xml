@@ -172,8 +172,8 @@
         <mark key="." line="348" column="35" />
         <mark key="^" line="348" column="35" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/api/master.js" timestamp="1562226958712">
-        <mark key="'" line="6" column="2" />
+      <file name="E:/h5/yeyx-sp-back/api/master.js" timestamp="1562230245851">
+        <mark key="'" line="56" column="9" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/address/list.vue" timestamp="1561718852094">
         <mark key="'" line="87" column="12" />
@@ -397,7 +397,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="E:/h5/zmn-wechat/src/store/mutations.js" timestamp="1562134809590" />
-      <file name="E:/h5/yeyx-sp-back/pages/master/recruit.vue" timestamp="1561593406313">
+      <file name="E:/h5/yeyx-sp-back/pages/master/recruit.vue" timestamp="1562229865653">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="434" column="17" />
         <mark key="]" line="434" column="21" />
@@ -491,12 +491,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/master/add.vue" timestamp="1562229466148">
-        <mark key="'" line="470" column="24" />
-        <mark key="[" line="470" column="0" />
-        <mark key="]" line="470" column="0" />
-        <mark key="^" line="445" column="25" />
-        <mark key="." line="470" column="0" />
+      <file name="E:/h5/yeyx-sp-back/pages/master/add.vue" timestamp="1562230835965">
+        <mark key="'" line="472" column="24" />
+        <mark key="[" line="442" column="33" />
+        <mark key="]" line="442" column="34" />
+        <mark key="." line="442" column="34" />
+        <mark key="^" line="442" column="38" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/product/search.vue" timestamp="1561716995251">
         <mark key="'" line="138" column="37" />
@@ -518,12 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="16" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
-      <jump line="3" column="8" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
-      <jump line="51" column="0" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
-      <jump line="319" column="44" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
-      <jump line="257" column="0" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
-      <jump line="68" column="5" filename="E:/h5/zmn-mp/src/components/product-width.vue" />
       <jump line="0" column="0" filename="E:/h5/zmn-mp/src/pages/product/category.vue" />
       <jump line="37" column="31" filename="E:/h5/zmn-wechat/src/utils/getGPS.js" />
       <jump line="0" column="0" filename="E:/h5/zmn-wechat/src/utils/getGPS.js" />
@@ -618,55 +612,63 @@
       <jump line="459" column="26" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
       <jump line="462" column="24" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
       <jump line="471" column="24" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
+      <jump line="412" column="34" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
+      <jump line="419" column="46" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
+      <jump line="22" column="18" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
+      <jump line="13" column="17" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
+      <jump line="478" column="24" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
+      <jump line="56" column="9" filename="E:/h5/yeyx-sp-back/api/master.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8qICAgIH0gKi8K</text>
+      <register name="&quot;" type="4">
+        <text>{
+        }</text>
       </register>
       <register name="-" type="4">
-        <text>logo</text>
+        <text>核</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>success</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZvcm0uY291bnRyeUlkID0gdGhpcy5jaXR5SW5mb1sxXS52YWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmdvTWFzdGVyKCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8qICAgIH0gKi8K</text>
+      <register name="1" type="4">
+        <text>{
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5yZWNydWl0QXBwbHlJZCwgMzMzMyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ9ffwcvJ87rLJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRtZXNzYWdlKCey2df3s8m5prPJuaYnKTsKICAgICAgICB0aGlzLiRyb3V0ZXIucHVzaCh7IHBhdGg6ICcvbWFzdGVyJyB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHJvdXRlci5wdXNoKHsgcGF0aDogJy9tYXN0ZXInIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCfRrbu3Jyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucmVjcnVpdEFwcGx5SWQsIDExMTExKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1lbHNlCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgfSkuY2F0Y2goZXJyID0+IGNvbnNvbGUubG9nKGVycikpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2LWVsc2UK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">LnRoZW4oKHsgZGF0YSB9KSA9PiB7CiAgICAgICAgdGhpcy4kbWVzc2FnZSh7CiAgICAgICAgICB0eXBlOiAnc3VjY2VzcycsCiAgICAgICAgICBtZXNzYWdlOiAnyfO6y7PJuaYnLAogICAgICAgIH0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>success</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>success</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -674,8 +676,6 @@
     </search>
     <history>
       <history-search>
-        <entry>class</entry>
-        <entry>搜索</entry>
         <entry>submit</entry>
         <entry>工程师</entry>
         <entry>clearable</entry>
@@ -694,6 +694,8 @@
         <entry>区域</entry>
         <entry>getList</entry>
         <entry>console</entry>
+        <entry>item</entry>
+        <entry>success</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
