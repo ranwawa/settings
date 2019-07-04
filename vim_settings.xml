@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="E:/h5/zmn-mp/src/config/evn_prod.js" timestamp="1562138108921">
@@ -82,8 +82,12 @@
         <mark key="." line="130" column="14" />
         <mark key="^" line="134" column="49" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/pages/my/my.vue" timestamp="1562234053353">
-        <mark key="'" line="139" column="18" />
+      <file name="E:/h5/zmn-wechat/src/pages/my/my.vue" timestamp="1562235800902">
+        <mark key="'" line="62" column="15" />
+        <mark key="[" line="65" column="21" />
+        <mark key="]" line="65" column="21" />
+        <mark key="." line="65" column="21" />
+        <mark key="^" line="65" column="21" />
       </file>
       <file name="E:/h5/zmn-wechat/src/pages/my/login.vue" timestamp="1562134756319" />
       <file name="E:/h5/zmn-official-wechat/src/pages/product/list.vue" timestamp="1561716634910">
@@ -209,9 +213,9 @@
       <file name="E:/h5/yeyx-site-wap/api/config.js" timestamp="1562122941315" />
       <file name="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" timestamp="1562234483554">
         <mark key="'" line="3" column="16" />
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="256" column="0" />
-        <mark key="." line="256" column="0" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="0" />
+        <mark key="." line="255" column="0" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/user/login.vue" timestamp="1561590463456">
         <mark key="'" line="181" column="57" />
@@ -379,9 +383,6 @@
         <mark key="^" line="32" column="11" />
         <mark key="." line="33" column="50" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/pages/order/evaluate.vue" timestamp="1561948531921">
-        <mark key="'" line="94" column="9" />
-      </file>
       <file name="E:/h5/zmn-wechat/src/pages/feedback/index.vue" timestamp="1562170859760">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="53" column="15" />
@@ -413,12 +414,8 @@
         <mark key="]" line="376" column="0" />
         <mark key="." line="376" column="0" />
       </file>
-      <file name="E:/h5/zmn-wechat-official-accounts/src/manifest.json" timestamp="1562063345151">
-        <mark key="'" line="24" column="33" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="14" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
       <jump line="113" column="8" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
       <jump line="127" column="20" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
       <jump line="49" column="29" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
@@ -518,16 +515,17 @@
       <jump line="214" column="15" filename="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" />
       <jump line="243" column="3" filename="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" />
       <jump line="3" column="16" filename="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="62" column="15" filename="E:/h5/zmn-wechat/src/pages/my/my.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgIzAwMDsK</text>
+      <register name="&quot;" type="4">
+        <text>意见反馈</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGhlaWdodDogNDBweDs=</text>
+        <text>意见反馈</text>
       </register>
       <register name="/" type="4">
-        <text>search</text>
+        <text>意见</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmdvTWFzdGVyKCk7Cg==</text>
@@ -568,9 +566,9 @@
       </register>
     </registers>
     <search>
-      <last-search>search</last-search>
+      <last-search>意见</last-search>
       <last-offset />
-      <last-pattern>search</last-pattern>
+      <last-pattern>意见</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -578,7 +576,6 @@
     </search>
     <history>
       <history-search>
-        <entry>工程师</entry>
         <entry>clearable</entry>
         <entry>cityList</entry>
         <entry>调至</entry>
@@ -598,6 +595,7 @@
         <entry>item</entry>
         <entry>success</entry>
         <entry>search</entry>
+        <entry>意见</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
