@@ -139,8 +139,12 @@
         <mark key="." line="348" column="35" />
         <mark key="^" line="348" column="35" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/api/master.js" timestamp="1562230245851">
+      <file name="E:/h5/yeyx-sp-back/api/master.js" timestamp="1562237385635">
         <mark key="'" line="56" column="9" />
+        <mark key="[" line="38" column="69" />
+        <mark key="]" line="38" column="72" />
+        <mark key="." line="38" column="72" />
+        <mark key="^" line="38" column="72" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/address/list.vue" timestamp="1561718852094">
         <mark key="'" line="87" column="12" />
@@ -394,12 +398,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/master/add.vue" timestamp="1562230835965">
-        <mark key="'" line="472" column="24" />
-        <mark key="[" line="442" column="33" />
-        <mark key="]" line="442" column="34" />
-        <mark key="." line="442" column="34" />
-        <mark key="^" line="442" column="38" />
+      <file name="E:/h5/yeyx-sp-back/pages/master/add.vue" timestamp="1562238261943">
+        <mark key="'" line="473" column="24" />
+        <mark key="[" line="446" column="0" />
+        <mark key="]" line="446" column="0" />
+        <mark key="." line="446" column="0" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/product/search.vue" timestamp="1561716995251">
         <mark key="'" line="138" column="37" />
@@ -518,11 +521,11 @@
       <jump line="62" column="15" filename="E:/h5/zmn-wechat/src/pages/my/my.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>意见反馈</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLm1vYmlsZSA9ICcxMzMyNDIyMzEzNSc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>意见反馈</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>意见</text>
@@ -531,35 +534,36 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmdvTWFzdGVyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgIzAwMDsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLm1vYmlsZSA9ICcxMzMyNDIyMzEzNSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQGluY2x1ZGUgaC1saCg2MCk7Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>{
+      <register name="2" type="4">
+        <text>if (this.recruitApplyId) {
+          this.operateSuccess();
         }</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRtZXNzYWdlKCey2df3s8m5prPJuaYnKTsKICAgICAgICB0aGlzLiRyb3V0ZXIucHVzaCh7IHBhdGg6ICcvbWFzdGVyJyB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5yZWNydWl0QXBwbHlJZCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHJvdXRlci5wdXNoKHsgcGF0aDogJy9tYXN0ZXInIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLm1vYmlsZSA9ICcxMzYxMjUzMjQyMyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSkuY2F0Y2goZXJyID0+IGNvbnNvbGUubG9nKGVycikpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLm1vYmlsZSA9ICcxMzYxMjMzMjQ1Myc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgIzAwMDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
