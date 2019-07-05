@@ -305,6 +305,7 @@
         <mark key="^" line="97" column="7" />
         <mark key="." line="97" column="7" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/api/config.js" timestamp="1562291355495" />
       <file name="E:/h5/zmn-official-wechat/src/components/product-width.vue" timestamp="1561770961721">
         <mark key="'" line="45" column="39" />
         <mark key="[" line="87" column="12" />
@@ -364,10 +365,11 @@
         <mark key="]" line="254" column="63" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/pages/order/detail.vue" timestamp="1562228655077">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="E:/h5/zmn-wechat/src/pages/order/detail.vue" timestamp="1562291426449">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="44" />
+        <mark key="." line="23" column="44" />
+        <mark key="^" line="23" column="44" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/master/add.vue" timestamp="1562244723686">
         <mark key="'" line="330" column="6" />
@@ -518,11 +520,11 @@
       <jump line="330" column="6" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgeyBDbGVhbldlYnBhY2tQbHVnaW4gfSA9IHJlcXVpcmUoJ2NsZWFuLXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(order.orderProductList[0] ? order.orderProductList[0].number * 68 : 0)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(order.orderProductList[0] ? order.orderProductList[0].number * 68 : 0)</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
