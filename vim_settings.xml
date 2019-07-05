@@ -316,6 +316,7 @@
         <mark key="^" line="88" column="13" />
         <mark key="." line="88" column="13" />
       </file>
+      <file name="E:/h5/zmn-site-wap/package.json" timestamp="1562331295328" />
       <file name="E:/h5/zmn-mp/src/config/evn_dev.js" timestamp="1562324476647">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="31" />
@@ -381,6 +382,9 @@
         <mark key="^" line="499" column="26" />
         <mark key="." line="499" column="26" />
       </file>
+      <file name="E:/h5/zmn-site-wap/nuxt.config.js" timestamp="1562331317994">
+        <mark key="'" line="113" column="6" />
+      </file>
       <file name="E:/h5/zmn-mp/src/api/request.js" timestamp="1562314002135">
         <mark key="[" line="38" column="21" />
         <mark key="]" line="38" column="21" />
@@ -397,9 +401,6 @@
       <file name="/detail.vue" timestamp="1562297168830" />
     </filemarks>
     <jumps>
-      <jump line="136" column="72" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
-      <jump line="137" column="28" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
-      <jump line="88" column="10" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
       <jump line="90" column="11" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
       <jump line="50" column="0" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
       <jump line="128" column="11" filename="E:/h5/zmn-wechat/src/pages/my/my.vue" />
@@ -497,6 +498,9 @@
       <jump line="167" column="18" filename="E:/h5/zmn-mp/src/pages/reserve/commit.vue" />
       <jump line="204" column="19" filename="E:/h5/zmn-mp/src/pages/reserve/commit.vue" />
       <jump line="73" column="7" filename="E:/h5/zmn-site-wap/pages/service/family.vue" />
+      <jump line="78" column="2" filename="E:/h5/zmn-site-wap/nuxt.config.js" />
+      <jump line="90" column="15" filename="E:/h5/zmn-site-wap/nuxt.config.js" />
+      <jump line="113" column="6" filename="E:/h5/zmn-site-wap/nuxt.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -506,7 +510,7 @@
         <text>redirect</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>plugins</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgfSkuY2F0Y2goKCkgPT4gdGhpcy5nb0hvbWUoKSk7Cg==</text>
@@ -546,9 +550,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search>plugins</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern>plugins</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -556,7 +560,6 @@
     </search>
     <history>
       <history-search>
-        <entry>调</entry>
         <entry>provide</entry>
         <entry>区域</entry>
         <entry>getList</entry>
@@ -576,6 +579,7 @@
         <entry>getOrderInfo</entry>
         <entry>handleChange</entry>
         <entry>1</entry>
+        <entry>plugins</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
