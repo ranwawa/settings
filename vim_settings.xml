@@ -108,6 +108,7 @@
         <mark key="^" line="30" column="21" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="E:/h5/zmn-mp/src/api/config.js" timestamp="1562289610985" />
       <file name="E:/h5/zmn-mp/src/components/product-width.vue" timestamp="1562153433042">
         <mark key="'" line="66" column="5" />
         <mark key="[" line="15" column="0" />
@@ -230,6 +231,11 @@
         <mark key="]" line="9" column="24" />
         <mark key="." line="116" column="34" />
         <mark key="^" line="116" column="34" />
+      </file>
+      <file name="E:/h5/zmn-mp/vue.config.js" timestamp="1562289642650">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="E:/h5/zmn-wechat/src/components/search.vue" timestamp="1562232235889">
         <mark key="[" line="69" column="3" />
@@ -513,7 +519,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZ4ZGF0YSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBDbGVhbldlYnBhY2tQbHVnaW4gfSA9IHJlcXVpcmUoJ2NsZWFuLXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -525,15 +531,21 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmdvTWFzdGVyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZ4ZGF0YSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBDbGVhbldlYnBhY2tQbHVnaW4gfSA9IHJlcXVpcmUoJ2NsZWFuLXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgbmV3IENsZWFuV2VicGFja1BsdWdpbigpLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZ4ZGF0YSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>if (fxdata) {
       this.form.realname = fxdata.realname;
       this.form.mobile = fxdata.mobile;
@@ -544,25 +556,17 @@
       this.form.certImgSrc = fxdata.certImgSrc;
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby1ldmFsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBiZWZvcmVVcGRhdGUoKSB7CiAgfSwK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby1ldmFsCiAgICBjb25zdCBmeGRhdGEgPSBldmFsKGAoJHt0aGlzLiRyb3V0ZS5xdWVyeS5pdGVtfSlgKTsKICAgIGlmIChmeGRhdGEpIHsKICAgICAgdGhpcy5mb3JtLnJlYWxuYW1lID0gZnhkYXRhLnJlYWxuYW1lOwogICAgICB0aGlzLmZvcm0ubW9iaWxlID0gZnhkYXRhLm1vYmlsZTsKICAgICAgdGhpcy5mb3JtLmlkY2FyZCA9IGZ4ZGF0YS5pZGNhcmQ7CiAgICAgIHRoaXMuZm9ybS5hdmF0YXJTcmMgPSBmeGRhdGEuYXZhdGFyU3JjOwogICAgICB0aGlzLmZvcm0uaWRjYXJkSW1nU3JjID0gZnhkYXRhLmlkY2FyZEltZ1NyYzsKICAgICAgdGhpcy5mb3JtLmlkY2FyZEltZ1NyYzIgPSBmeGRhdGEuaWRjYXJkSW1nU3JjMjsKICAgICAgdGhpcy5mb3JtLmNlcnRJbWdTcmMgPSBmeGRhdGEuY2VydEltZ1NyYzsKICAgIH0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLm1vYmlsZSA9ICcxMzMyNDIyMzEzNSc7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>if (this.recruitApplyId) {
-          this.operateSuccess();
-        }</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLgo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLm1vYmlsZSA9ICcxMzMyNDIyMzEzNSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
