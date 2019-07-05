@@ -242,6 +242,7 @@
         <mark key="]" line="69" column="3" />
         <mark key="." line="69" column="3" />
       </file>
+      <file name="E:/h5/zmn-mp/src/pages/my/login_mp.vue" timestamp="1562306713237" />
       <file name="E:/h5/zmn-mp/src/pages/product/detail.vue" timestamp="1562144160702">
         <mark key="'" line="257" column="0" />
         <mark key="[" line="348" column="35" />
@@ -276,6 +277,13 @@
         <mark key="]" line="38" column="72" />
         <mark key="." line="38" column="72" />
         <mark key="^" line="38" column="72" />
+      </file>
+      <file name="E:/h5/zmn-mp/src/pages/order/detail.vue" timestamp="1562306459706">
+        <mark key="'" line="129" column="4" />
+        <mark key="[" line="172" column="84" />
+        <mark key="]" line="172" column="107" />
+        <mark key="." line="172" column="107" />
+        <mark key="^" line="172" column="107" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/card/detail.vue" timestamp="1561702225303">
         <mark key="'" line="105" column="6" />
@@ -329,6 +337,11 @@
         <mark key="]" line="33" column="47" />
         <mark key="^" line="32" column="11" />
         <mark key="." line="33" column="50" />
+      </file>
+      <file name="E:/h5/zmn-mp/src/pages/my/bind_phone.vue" timestamp="1562306617133">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/h5/zmn-wechat/src/pages/feedback/index.vue" timestamp="1562170859760">
         <mark key="'" line="65" column="0" />
@@ -413,6 +426,7 @@
         <mark key="]" line="376" column="0" />
         <mark key="." line="376" column="0" />
       </file>
+      <file name="E:/h5/zmn-mp/src/api/user.js" timestamp="1562306707405" />
       <file name="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" timestamp="1562234483554">
         <mark key="'" line="3" column="16" />
         <mark key="[" line="255" column="0" />
@@ -422,7 +436,6 @@
       <file name="/detail.vue" timestamp="1562297168830" />
     </filemarks>
     <jumps>
-      <jump line="66" column="18" filename="E:/h5/zmn-wechat/src/pages/reserve/result.vue" />
       <jump line="31" column="25" filename="E:/h5/zmn-wechat/src/utils/getToken.js" />
       <jump line="30" column="31" filename="E:/h5/zmn-wechat/src/utils/getToken.js" />
       <jump line="27" column="22" filename="E:/h5/zmn-wechat/src/utils/getToken.js" />
@@ -522,66 +535,59 @@
       <jump line="13" column="12" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
       <jump line="330" column="6" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
       <jump line="95" column="30" filename="E:/h5/zmn-mp/src/App.vue" />
+      <jump line="129" column="4" filename="E:/h5/zmn-mp/src/pages/order/detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>getDetail</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmdvTWFzdGVyKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>orderProductList[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgeyBDbGVhbldlYnBhY2tQbHVnaW4gfSA9IHJlcXVpcmUoJ2NsZWFuLXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gyOe5+8rHudK7+r/VtffH5c+0LNTy0qrQ3rjEsvrGt73wtu4s0tS687vhyb6z/bX0CiAgICAgIGlmKCkK</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbmV3IENsZWFuV2VicGFja1BsdWdpbigpLAo=</text>
+        <text encoding="base64">ICAgICAgLy8gyOe5+8rHudK7+r/VtffH5c+0LNTy0qrQ3rjEsvrGt73wtu4s0tS687vhyb6z/bX0CiAgICAgIGlmKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZ4ZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text>if (fxdata) {
-      this.form.realname = fxdata.realname;
-      this.form.mobile = fxdata.mobile;
-      this.form.idcard = fxdata.idcard;
-      this.form.avatarSrc = fxdata.avatarSrc;
-      this.form.idcardImgSrc = fxdata.idcardImgSrc;
-      this.form.idcardImgSrc2 = fxdata.idcardImgSrc2;
-      this.form.certImgSrc = fxdata.certImgSrc;
-    }</text>
+        <text encoding="base64">IDx1bmktbGlzdC1pdGVtCiAgICAgICAgdGl0bGU9IrL6xre98LbuIgogICAgICAgIDp2YWx1ZT0iJ6OkJyArIChvcmRlci5vcmRlclByb2R1Y3RMaXN0WzBdID8gb3JkZXIub3JkZXJQcm9kdWN0TGlzdFswXS5udW1iZXIgKiA2OCA6IDApIgogICAgICAgIDpzaG93LWFycm93PSJmYWxzZSIKICAgICAgLz4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby1ldmFsCg==</text>
+        <text encoding="base64">ICAgICAgICB2LWVsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiZWZvcmVVcGRhdGUoKSB7CiAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB2LWlmPSJvcmRlci5vcmRlclByb2R1Y3RMaXN0WzBdICYmIG9yZGVyLm9yZGVyUHJvZHVjdExpc3RbMF0ucHJvZHVjdE5hbWUgIT09ICe50rv6v9W198flz7QnIgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby1ldmFsCiAgICBjb25zdCBmeGRhdGEgPSBldmFsKGAoJHt0aGlzLiRyb3V0ZS5xdWVyeS5pdGVtfSlgKTsKICAgIGlmIChmeGRhdGEpIHsKICAgICAgdGhpcy5mb3JtLnJlYWxuYW1lID0gZnhkYXRhLnJlYWxuYW1lOwogICAgICB0aGlzLmZvcm0ubW9iaWxlID0gZnhkYXRhLm1vYmlsZTsKICAgICAgdGhpcy5mb3JtLmlkY2FyZCA9IGZ4ZGF0YS5pZGNhcmQ7CiAgICAgIHRoaXMuZm9ybS5hdmF0YXJTcmMgPSBmeGRhdGEuYXZhdGFyU3JjOwogICAgICB0aGlzLmZvcm0uaWRjYXJkSW1nU3JjID0gZnhkYXRhLmlkY2FyZEltZ1NyYzsKICAgICAgdGhpcy5mb3JtLmlkY2FyZEltZ1NyYzIgPSBmeGRhdGEuaWRjYXJkSW1nU3JjMjsKICAgICAgdGhpcy5mb3JtLmNlcnRJbWdTcmMgPSBmeGRhdGEuY2VydEltZ1NyYzsKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2LWlmPSJvcmRlci5vcmRlclByb2R1Y3RMaXN0WzBdICYmIG9yZGVyLm9yZGVyUHJvZHVjdExpc3RbMF0ucHJvZHVjdE5hbWUgIT09ICe50rv6v9W198flz7QnIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLm1vYmlsZSA9ICcxMzMyNDIyMzEzNSc7Cg==</text>
+        <text encoding="base64">ICAgICAgPHRlbXBsYXRlPjwvdGVtcGxhdGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>getDetail</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>getDetail</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -589,7 +595,6 @@
     </search>
     <history>
       <history-search>
-        <entry>script</entry>
         <entry>onLoad</entry>
         <entry>realname</entry>
         <entry>cityId</entry>
@@ -609,6 +614,7 @@
         <entry>mobile</entry>
         <entry>head</entry>
         <entry>form</entry>
+        <entry>getDetail</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
