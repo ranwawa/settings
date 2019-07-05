@@ -60,6 +60,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="E:/h5/zmn-mp/src/pages.json" timestamp="1562308237180">
+        <mark key="'" line="77" column="19" />
+      </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/reserve/components/time-picker.vue" timestamp="1561693061106">
         <mark key="'" line="89" column="36" />
         <mark key="[" line="104" column="23" />
@@ -136,6 +139,7 @@
         <mark key="." line="130" column="14" />
         <mark key="^" line="134" column="49" />
       </file>
+      <file name="E:/h5/zmn-mp/src/pages/home/city.vue" timestamp="1562308537434" />
       <file name="E:/h5/zmn-wechat/src/pages/my/my.vue" timestamp="1562235800902">
         <mark key="'" line="62" column="15" />
         <mark key="[" line="65" column="21" />
@@ -243,12 +247,12 @@
         <mark key="." line="69" column="3" />
       </file>
       <file name="E:/h5/zmn-mp/src/pages/my/login_mp.vue" timestamp="1562306713237" />
-      <file name="E:/h5/zmn-mp/src/pages/product/detail.vue" timestamp="1562144160702">
-        <mark key="'" line="257" column="0" />
-        <mark key="[" line="348" column="35" />
-        <mark key="]" line="348" column="35" />
-        <mark key="." line="348" column="35" />
-        <mark key="^" line="348" column="35" />
+      <file name="E:/h5/zmn-mp/src/pages/product/detail.vue" timestamp="1562308803741">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="178" column="51" />
+        <mark key="]" line="178" column="60" />
+        <mark key="." line="178" column="60" />
+        <mark key="^" line="178" column="60" />
       </file>
       <file name="E:/h5/yeyx-sp-back/pages/master/recruit.vue" timestamp="1562229865653">
         <mark key="'" line="0" column="0" />
@@ -436,10 +440,6 @@
       <file name="/detail.vue" timestamp="1562297168830" />
     </filemarks>
     <jumps>
-      <jump line="31" column="25" filename="E:/h5/zmn-wechat/src/utils/getToken.js" />
-      <jump line="30" column="31" filename="E:/h5/zmn-wechat/src/utils/getToken.js" />
-      <jump line="27" column="22" filename="E:/h5/zmn-wechat/src/utils/getToken.js" />
-      <jump line="44" column="0" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
       <jump line="65" column="117" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
       <jump line="72" column="28" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
       <jump line="103" column="21" filename="E:/h5/zmn-wechat/src/pages/product/category.vue" />
@@ -536,16 +536,20 @@
       <jump line="330" column="6" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
       <jump line="95" column="30" filename="E:/h5/zmn-mp/src/App.vue" />
       <jump line="129" column="4" filename="E:/h5/zmn-mp/src/pages/order/detail.vue" />
+      <jump line="8" column="4" filename="E:/h5/zmn-mp/src/pages.json" />
+      <jump line="0" column="0" filename="E:/h5/zmn-mp/src/pages.json" />
+      <jump line="77" column="19" filename="E:/h5/zmn-mp/src/pages.json" />
+      <jump line="0" column="9" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>logo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>logo</text>
       </register>
       <register name="/" type="4">
-        <text>getDetail</text>
+        <text>评价信息</text>
       </register>
       <register name="0" type="4">
         <text>orderProductList[0]</text>
@@ -585,9 +589,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getDetail</last-search>
+      <last-search>评价信息</last-search>
       <last-offset />
-      <last-pattern>getDetail</last-pattern>
+      <last-pattern>评价信息</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -595,8 +599,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onLoad</entry>
-        <entry>realname</entry>
         <entry>cityId</entry>
         <entry>name</entry>
         <entry>find</entry>
@@ -615,6 +617,8 @@
         <entry>head</entry>
         <entry>form</entry>
         <entry>getDetail</entry>
+        <entry>login</entry>
+        <entry>评价信息</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
