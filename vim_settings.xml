@@ -441,18 +441,11 @@
         <mark key="^" line="166" column="22" />
         <mark key="." line="155" column="0" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" timestamp="1562558875239">
+        <mark key="'" line="226" column="44" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="15" filename="E:/h5/yeyx-sp-back/pages/master/components/master_work.vue" />
-      <jump line="89" column="30" filename="E:/h5/yeyx-sp-back/pages/master/components/master_work.vue" />
-      <jump line="6" column="2" filename="E:/h5/yeyx-sp-back/api/master.js" />
-      <jump line="254" column="9" filename="E:/h5/yeyx-sp-back/pages/master/index.vue" />
-      <jump line="457" column="4" filename="E:/h5/yeyx-sp-back/pages/master/index.vue" />
-      <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/master/index.vue" />
-      <jump line="149" column="2" filename="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" />
-      <jump line="43" column="45" filename="E:/h5/zmn-wechat/src/pages/order/list.vue" />
-      <jump line="458" column="35" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
-      <jump line="464" column="26" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
       <jump line="467" column="24" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
       <jump line="476" column="24" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
       <jump line="417" column="0" filename="E:/h5/yeyx-sp-back/pages/master/add.vue" />
@@ -543,6 +536,16 @@
       <jump line="0" column="0" filename="E:/h5/zmn-wechat/src/utils/getGPS.js" />
       <jump line="3" column="33" filename="E:/h5/zmn-wechat/src/api/request.js" />
       <jump line="46" column="12" filename="E:/h5/zmn-wechat/src/api/request.js" />
+      <jump line="229" column="17" filename="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="304" column="5" filename="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="0" column="0" filename="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="26" column="48" filename="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="42" column="16" filename="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="173" column="6" filename="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="191" column="13" filename="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="197" column="17" filename="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="225" column="11" filename="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" />
+      <jump line="226" column="44" filename="E:/h5/zmn-wechat/src/components/ss-select-city/ss-select-city.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -552,7 +555,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>setUserInfo</text>
+        <text>current</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxKTsK</text>
@@ -592,9 +595,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setUserInfo</last-search>
+      <last-search>current</last-search>
       <last-offset />
-      <last-pattern>setUserInfo</last-pattern>
+      <last-pattern>current</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -602,7 +605,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getList</entry>
         <entry>item</entry>
         <entry>success</entry>
         <entry>search</entry>
@@ -622,6 +624,7 @@
         <entry>console</entry>
         <entry>alert</entry>
         <entry>setUserInfo</entry>
+        <entry>current</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
