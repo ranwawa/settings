@@ -702,7 +702,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>eee</text>
+        <text>submit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBpbmNsdWRlIHBkLXQoMik7Cg==</text>
@@ -747,9 +747,9 @@ setUserInfo公共方法时间改成1小时</text>
       </register>
     </registers>
     <search>
-      <last-search>eee</last-search>
+      <last-search>submit</last-search>
       <last-offset />
-      <last-pattern>eee</last-pattern>
+      <last-pattern>submit</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -757,7 +757,6 @@ setUserInfo公共方法时间改成1小时</text>
     </search>
     <history>
       <history-search>
-        <entry>media</entry>
         <entry>alert</entry>
         <entry>methods</entry>
         <entry>goOther</entry>
@@ -777,6 +776,7 @@ setUserInfo公共方法时间改成1小时</text>
         <entry>container</entry>
         <entry>item</entry>
         <entry>eee</entry>
+        <entry>submit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
