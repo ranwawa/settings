@@ -387,11 +387,12 @@
         <mark key="^" line="97" column="7" />
         <mark key="." line="97" column="7" />
       </file>
-      <file name="E:/h5/zmn-mp/src/main.js" timestamp="1562555550187">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="34" />
-        <mark key="^" line="25" column="33" />
-        <mark key="." line="25" column="33" />
+      <file name="E:/h5/zmn-mp/src/main.js" timestamp="1562721505634">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1562720840685">
         <mark key="[" line="0" column="0" />
@@ -513,8 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/h5/zmn-site-wap/pages/enterprise/index.vue" />
-      <jump line="322" column="12" filename="E:/h5/zmn-site-wap/pages/hire/employee.vue" />
       <jump line="88" column="2" filename="E:/h5/zmn-site-wap/pages/hire/engineer.vue" />
       <jump line="266" column="38" filename="E:/h5/zmn-site-wap/pages/new/detail/_id.vue" />
       <jump line="0" column="0" filename="E:/h5/zmn-site-wap/pages/new/detail/_id.vue" />
@@ -613,6 +612,8 @@
       <jump line="9" column="33" filename="E:/h5/zmn-wechat/package.json" />
       <jump line="139" column="19" filename="E:/h5/cms/tpl/111/style/custom.css" />
       <jump line="194" column="1" filename="E:/h5/cms/tpl/111/style/custom.css" />
+      <jump line="25" column="28" filename="E:/h5/zmn-mp/src/main.js" />
+      <jump line="0" column="0" filename="E:/h5/zmn-mp/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -622,7 +623,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>media</text>
+        <text>alert</text>
       </register>
       <register name="0" type="4">
         <text>目录命名规范调整</text>
@@ -662,9 +663,9 @@
       </register>
     </registers>
     <search>
-      <last-search>media</last-search>
+      <last-search>alert</last-search>
       <last-offset />
-      <last-pattern>media</last-pattern>
+      <last-pattern>alert</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -672,7 +673,6 @@
     </search>
     <history>
       <history-search>
-        <entry>about</entry>
         <entry>iii</entry>
         <entry>业务范围</entry>
         <entry>rangeList</entry>
@@ -692,6 +692,7 @@
         <entry>node-sass</entry>
         <entry>dist</entry>
         <entry>media</entry>
+        <entry>alert</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
