@@ -57,12 +57,12 @@
         <mark key="^" line="96" column="7" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1562851014607">
-        <mark key="'" line="249" column="5" />
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="342" column="0" />
-        <mark key="^" line="40" column="36" />
-        <mark key="." line="342" column="0" />
+      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1562852644754">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="376" column="27" />
+        <mark key="]" line="376" column="45" />
+        <mark key="." line="376" column="45" />
+        <mark key="^" line="376" column="45" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/address/create.vue" timestamp="1561726835032">
         <mark key="'" line="283" column="3" />
@@ -550,7 +550,6 @@
       <jump line="145" column="40" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
       <jump line="165" column="40" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
       <jump line="621" column="26" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
-      <jump line="0" column="0" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="624" column="18" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
       <jump line="525" column="8" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="160" column="15" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
@@ -578,7 +577,6 @@
       <jump line="44" column="0" filename="E:/h5/zmn-wechat/src/pages/product/list.vue" />
       <jump line="465" column="18" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="377" column="85" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
-      <jump line="376" column="20" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="369" column="11" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="200" column="37" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="406" column="40" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
@@ -609,58 +607,60 @@
       <jump line="28" column="30" filename="E:/h5/zmn-mp/src/pages/reserve/commit.vue" />
       <jump line="22" column="11" filename="E:/h5/zmn-mp/src/pages/product/search.vue" />
       <jump line="249" column="5" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
+      <jump line="376" column="0" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
+      <jump line="0" column="0" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuc3RhdGUudXNlCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>goFa</text>
+        <text>userInfo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHNldFVzZXJJbmZvIGZyb20gJ0AvdXRpbHMvc2V0VXNlckluZm8nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuc3RhdGUudXNlCg==</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgdW5pLmxvZ2luKHsKICAgICAgICBzY29wZXM6ICdhdXRoX2Jhc2UnLAogICAgICB9KS50aGVuKChbZXJyLCBkYXRhXSkgPT4gewogICAgICAgIGlmIChlcnIpIHJldHVybjs=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC9kZWVwLyBpbnB1dCB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6IHJnYigyNDgsIDI0OCwgMjQ4KTsKICAgICAgZm9udC1zaXplOiAxNHB4OwogICAgfQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBob21lLnF1ZXJ5QWN0aXZpdHkoeyBwbGF0OiAyMSB9KS50aGVuKCh7IGRhdGEgfSkgPT4gewogICAgICAgIGlmICghZGF0YS5zdGF0dXNCb29sKSByZXR1cm4gdGhpcy4kYWxlcnQoZGF0YS5tZXNzYWdlKTsKICAgICAgICAvLyB0eXBlIDHK1bLY09DA8QogICAgICAgIC8vIHBsYXkgMjHWp7i2sabQobPM0PIKICAgICAgICAvLyDIobXaMcz1ytWy2NPQwPEKICAgICAgICBkYXRhLml0ZW1zID0gZGF0YS5pdGVtcyB8fCBbXTsKICAgICAgICBjb25zdCBhY3Rpdml0eSA9IGRhdGEuaXRlbXMuZmluZChlbGUgPT4gewogICAgICAgICAgcmV0dXJuIGVsZS5wbGF0ID09PSAyMSAmJiBlbGUudHlwZSA9PT0gMTsKICAgICAgICB9KTsKICAgICAgICBpZiAoYWN0aXZpdHkpIHsKICAgICAgICAgIC8vIMqxvOSyu9Kq0KHK/QogICAgICAgICAgKFthY3Rpdml0eS5hbW91bnRTdHJdID0gYWN0aXZpdHkuYW1vdW50U3RyLnNwbGl0KCcuJykpOwogICAgICAgICAgLy8gw+jK9s7E19bX7rbgMTK49gogICAgICAgICAgYWN0aXZpdHkuc2hvd05hbWUgPSBhY3Rpdml0eS5zaG93TmFtZS5zdWJzdHJpbmcoMCwgMTIpOwogICAgICAgIH0KICAgICAgICB0aGlzLmFjdGl2aXR5ID0gYWN0aXZpdHkgfHwge307CiAgICAgIH0pLmNhdGNoKGVyciA9PiBjb25zb2xlLmxvZyhlcnIpKTsKICAgICA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IC8vIMjnufvDu9PQdG9rZW6+zbXI0ru74dTZwLQKICAgICAgaWYgKCF0aGlzLiRzdG9yZS5zdGF0ZS51c2VySW5mby50b2tlbikgewogICAgICAgIHJldHVybiBzZXRUaW1lb3V0KHRoaXMucXVlcnlBY3Rpdml0eSwgMjAwKTsKICAgICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>goFa</last-search>
+      <last-search>userInfo</last-search>
       <last-offset />
-      <last-pattern>goFa</last-pattern>
+      <last-pattern>userInfo</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -668,8 +668,6 @@
     </search>
     <history>
       <history-search>
-        <entry>item</entry>
-        <entry>eee</entry>
         <entry>submit</entry>
         <entry>onLoad</entry>
         <entry>goF</entry>
@@ -688,6 +686,8 @@
         <entry>input</entry>
         <entry>uni-search</entry>
         <entry>goFa</entry>
+        <entry>computed</entry>
+        <entry>userInfo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
