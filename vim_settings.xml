@@ -61,6 +61,7 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="79" column="9" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/assets/scss/_function.scss" timestamp="1562919910435" />
       <file name="E:/h5/zmn-official-wechat/src/pages/reserve/commit.vue" timestamp="1561770701535">
         <mark key="'" line="234" column="19" />
         <mark key="[" line="214" column="0" />
@@ -81,6 +82,7 @@
         <mark key="^" line="12" column="74" />
         <mark key="." line="12" column="74" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/assets/scss/_variable.scss" timestamp="1562919449418" />
       <file name="E:/h5/zmn-wechat/src/main.js" timestamp="1562762205083">
         <mark key="'" line="40" column="14" />
         <mark key="[" line="29" column="43" />
@@ -213,10 +215,12 @@
         <mark key="^" line="60" column="21" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/utils/getGPS.js" timestamp="1562865334574">
-        <mark key="'" line="8" column="10" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="53" />
+      <file name="E:/h5/zmn-wechat/src/utils/getGPS.js" timestamp="1562920304736">
+        <mark key="'" line="26" column="44" />
+        <mark key="[" line="78" column="35" />
+        <mark key="]" line="78" column="53" />
+        <mark key="." line="78" column="53" />
+        <mark key="^" line="78" column="53" />
       </file>
       <file name="E:/h5/zmn-wechat/src/pages/product/list.vue" timestamp="1562867052733">
         <mark key="'" line="0" column="0" />
@@ -343,7 +347,7 @@
         <mark key="^" line="97" column="7" />
         <mark key="." line="97" column="7" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/api/config.js" timestamp="1562867495996">
+      <file name="E:/h5/zmn-wechat/src/api/config.js" timestamp="1562920380214">
         <mark key="'" line="19" column="21" />
       </file>
       <file name="E:/h5/zmn-mp/src/main.js" timestamp="1562806602339">
@@ -473,9 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="0" filename="E:/h5/cms/tpl/111/list.html" />
-      <jump line="174" column="37" filename="E:/h5/cms/tpl/111/list.html" />
-      <jump line="72" column="15" filename="E:/h5/cms/tpl/111/list.html" />
       <jump line="169" column="13" filename="E:/h5/cms/tpl/110/list.html" />
       <jump line="21" column="65" filename="E:/h5/cms/tpl/110/list.html" />
       <jump line="125" column="43" filename="E:/h5/cms/tpl/110/list.html" />
@@ -573,16 +574,19 @@
       <jump line="8" column="10" filename="E:/h5/zmn-wechat/src/utils/getGPS.js" />
       <jump line="274" column="7" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="0" column="0" filename="E:/h5/zmn-wechat/src/pages/product/list.vue" />
+      <jump line="31" column="25" filename="E:/h5/zmn-wechat/src/utils/getGPS.js" />
+      <jump line="78" column="41" filename="E:/h5/zmn-wechat/src/utils/getGPS.js" />
+      <jump line="26" column="44" filename="E:/h5/zmn-wechat/src/utils/getGPS.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyh0aGlzLnByb2R1Y3QpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>this.$alert(data.message)</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>this.$alert(data.message)</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>alert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1bmkuc2V0U3RvcmFnZVN5bmMoJ2lzRGlzYWJsZUFsZXJ0JywgJ3RydWUnKTsK</text>
@@ -622,9 +626,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>alert</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>alert</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -632,7 +636,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
         <entry>activity</entry>
         <entry>participateFlag</entry>
         <entry>query</entry>
@@ -652,6 +655,7 @@
         <entry>session</entry>
         <entry>submit</entry>
         <entry>onLoad</entry>
+        <entry>alert</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
