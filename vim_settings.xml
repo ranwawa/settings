@@ -131,6 +131,12 @@
         <mark key="^" line="60" column="21" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/pages/product/list.vue" timestamp="1563179877074">
+        <mark key="'" line="24" column="2" />
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+      </file>
       <file name="E:/h5/zmn-wechat/src/pages/reserve/result.vue" timestamp="1563180059530">
         <mark key="[" line="53" column="43" />
         <mark key="]" line="53" column="44" />
@@ -161,6 +167,12 @@
         <mark key="]" line="178" column="60" />
         <mark key="." line="178" column="60" />
         <mark key="^" line="178" column="60" />
+      </file>
+      <file name="E:/h5/zmn-site-pc/enterprise/index.html" timestamp="1563184108256">
+        <mark key="'" line="43" column="21" />
+        <mark key="[" line="411" column="0" />
+        <mark key="]" line="411" column="0" />
+        <mark key="." line="411" column="0" />
       </file>
       <file name="E:/h5/yeyx-sp-back/api/master.js" timestamp="1562237385635">
         <mark key="'" line="56" column="9" />
@@ -597,7 +609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="40" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
       <jump line="621" column="26" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="624" column="18" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
       <jump line="525" column="8" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
@@ -697,16 +708,17 @@
       <jump line="54" column="11" filename="E:/h5/zmn-wechat/src/components/product_lg.vue" />
       <jump line="111" column="22" filename="E:/h5/zmn-wechat/src/components/search.vue" />
       <jump line="236" column="6" filename="E:/h5/zmn-wechat/src/components/ss_select_city.vue" />
+      <jump line="43" column="21" filename="E:/h5/zmn-site-pc/enterprise/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ss-select-city/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJCgnaW1nJykpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>ss-select-city/</text>
       </register>
       <register name="/" type="4">
-        <text>join</text>
+        <text>setHeader</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -717,47 +729,47 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLSBhdXRob3I6IHJhbndhd2EgLS0+CjwhLS0gZGF0ZTogIC0tPgo8IS0tIGRlc2M6ICAtLT4K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJCgnaW1nJykpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZG9jLWZpbGUtanMK</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iLi4vcHVibGljL2pzL2NvbW1vbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cob3V0cHV0Q29uZmlnKTsK</text>
+        <text encoding="base64">PCEtLSBhdXRob3I6IHJhbndhd2EgLS0+CjwhLS0gZGF0ZTogIC0tPgo8IS0tIGRlc2M6ICAtLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG9jLWZpbGUtanMK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2cob3V0cHV0Q29uZmlnKTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>/**
  * @author 冉娃娃
  * @date 15:03
  * @desc
  */</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZG9jLWZpbGUtanMgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZG9jLWZpbGUtanMgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text encoding="base64">ZG9jLWZpbGUtanMgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>join</last-search>
+      <last-search>setHeader</last-search>
       <last-offset />
-      <last-pattern>join</last-pattern>
+      <last-pattern>setHeader</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -765,7 +777,6 @@
     </search>
     <history>
       <history-search>
-        <entry>query</entry>
         <entry>image</entry>
         <entry>address</entry>
         <entry>empty</entry>
@@ -785,6 +796,7 @@
         <entry>img</entry>
         <entry>onLoad</entry>
         <entry>join</entry>
+        <entry>setHeader</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
