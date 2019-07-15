@@ -18,7 +18,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="vuex-mutation" value="// $comment$&#10;set$mutationName$(state, value) {&#10;  state.$stateName$ = value;&#10;}," description="" toReformat="false" toShortenFQNames="true">
+  <template name="vuex-mutation" value="// $comment$&#10;set$mutationName$(state, value) {&#10;  state.$stateName$ = value;&#10;}," description="html文件注释" toReformat="false" toShortenFQNames="true">
     <variable name="comment" expression="" defaultValue="&quot;一定要写注释哦&quot;" alwaysStopAt="true" />
     <variable name="mutationName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="stateName" expression="camelCase(mutationName)" defaultValue="camelCase(mutationName)" alwaysStopAt="true" />
@@ -45,6 +45,13 @@
     <variable name="time" expression="date() + time()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="doc-file-html" value="&lt;!-- author: ranwawa --&gt;&#10;&lt;!-- date: $date$ --&gt;&#10;&lt;!-- desc: $END$ --&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Vue" value="true" />
     </context>
   </template>
 </templateSet>
