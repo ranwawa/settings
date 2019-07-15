@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/h5/zmn-mp/src/api/home.js" timestamp="1563170126333">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="E:/h5/zmn-wechat/vue.config.js" timestamp="1562674545387">
         <mark key="'" line="55" column="40" />
       </file>
@@ -117,8 +122,8 @@
         <mark key="^" line="96" column="7" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1562864658251">
-        <mark key="'" line="0" column="9" />
+      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1563169933961">
+        <mark key="'" line="261" column="7" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -481,6 +486,7 @@
         <mark key="." line="314" column="17" />
         <mark key="^" line="338" column="23" />
       </file>
+      <file name="E:/h5/zmn-mp/src/api/user.js" timestamp="1563170196875" />
       <file name="E:/h5/cms/tpl/112/list.html" timestamp="1562739582694">
         <mark key="'" line="58" column="62" />
       </file>
@@ -516,7 +522,6 @@
       <jump line="0" column="0" filename="E:/h5/zmn-mp/src/pages/order/evaluate.vue" />
       <jump line="46" column="16" filename="E:/h5/zmn-mp/src/pages/order/evaluate.vue" />
       <jump line="622" column="18" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
-      <jump line="261" column="7" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="9" column="12" filename="E:/h5/zmn-wechat/src/api/order.js" />
       <jump line="9" column="12" filename="E:/h5/zmn-mp/src/api/order.js" />
       <jump line="11" column="26" filename="E:/h5/zmn-mp/src/api/config.js" />
@@ -589,16 +594,17 @@
       <jump line="11" column="24" filename="E:/h5/zmn-wechat/src/components/product-lg.vue" />
       <jump line="68" column="0" filename="E:/h5/zmn-wechat/src/pages/product/list.vue" />
       <jump line="24" column="2" filename="E:/h5/zmn-wechat/src/pages/product/list.vue" />
+      <jump line="261" column="7" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text encoding="base64">ICAvLyC78cihs8fK0MHQse0KICBnZXRDaXR5TGlzdDogKCkgPT4gcmVxdWVzdCgnaG9tZS9hcmVhJyksCiA=</text>
       </register>
       <register name="-" type="4">
         <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>join</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -608,44 +614,44 @@
       }
     }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAvLyC78cihs8fK0MHQse0KICBnZXRDaXR5TGlzdDogKCkgPT4gcmVxdWVzdCgnaG9tZS9hcmVhJyksCiA=</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGRpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGdldEdQUygpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAvLyC78cihs8fK0MHQse0KICBnZXRDaXR5TGlzdDogKCkgPT4gcmVxdWVzdCgnaG9tZS9hcmVhJyks</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0R1BTIH0gZnJvbSAnQC91dGlscy9pbmRleCc7Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pLmNhdGNoKGVyciA9PiB0aGlzLiRhbGVydChlcnIubWVzc2FnZSkpOwo=</text>
+        <text encoding="base64">PGRpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldEdQUygpLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgIGdldEdQUygpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHsgZ2V0R1BTIH0gZnJvbSAnQC91dGlscy9pbmRleCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIH0pLmNhdGNoKGVyciA9PiB0aGlzLiRhbGVydChlcnIubWVzc2FnZSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldEdQUygpLnRoZW4oKHJlcykgPT4gewo=</text>
+        <text encoding="base64">ICAgIGdldEdQUygpLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>join</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>join</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -653,7 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>participateFlag</entry>
         <entry>query</entry>
         <entry>image</entry>
         <entry>address</entry>
@@ -673,6 +678,7 @@
         <entry>alert</entry>
         <entry>img</entry>
         <entry>onLoad</entry>
+        <entry>join</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
