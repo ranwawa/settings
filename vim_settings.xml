@@ -77,12 +77,6 @@
         <mark key="^" line="54" column="19" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="E:/project/月老1.0/site/src/api/account.js" timestamp="1563031442838">
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="25" column="42" />
-        <mark key="." line="25" column="42" />
-        <mark key="^" line="25" column="42" />
-      </file>
       <file name="E:/project/yuelao2/src/pages/account/authHome/index.vue" timestamp="1561280235745">
         <mark key="'" line="91" column="55" />
         <mark key="[" line="85" column="38" />
@@ -560,12 +554,6 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="E:/project/月老1.0/site/src/utils/utils.js" timestamp="1563031469162">
-        <mark key="[" line="141" column="12" />
-        <mark key="]" line="141" column="19" />
-        <mark key="." line="141" column="19" />
-        <mark key="^" line="141" column="19" />
-      </file>
       <file name="E:/project/yuelao2/src/pages/message/detail/index.vue" timestamp="1561305666097">
         <mark key="'" line="303" column="12" />
         <mark key="[" line="162" column="2" />
@@ -717,12 +705,6 @@
         <mark key="." line="172" column="107" />
         <mark key="^" line="172" column="107" />
       </file>
-      <file name="E:/project/月老1.0/site/src/api/request.js" timestamp="1563028466618">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="47" />
-        <mark key="." line="4" column="47" />
-        <mark key="^" line="4" column="47" />
-      </file>
       <file name="E:/h5/yeyx-official-site-wap/layouts/default.vue" timestamp="1561105178092">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="0" />
@@ -809,6 +791,9 @@
       <file name="E:/h5/zmn-site-wap/pages/about/contact.vue" timestamp="1562547385360">
         <mark key="'" line="29" column="6" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/pages/order/detail.vue" timestamp="1563196100729">
+        <mark key="'" line="237" column="85" />
+      </file>
       <file name="E:/h5/zmn-site-wap/pages/hire/engineer.vue" timestamp="1562547495985">
         <mark key="'" line="88" column="2" />
       </file>
@@ -846,10 +831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="43" filename="E:/h5/cms/tpl/110/list.html" />
-      <jump line="137" column="91" filename="E:/h5/cms/tpl/110/list.html" />
-      <jump line="141" column="31" filename="E:/h5/cms/tpl/110/list.html" />
-      <jump line="142" column="32" filename="E:/h5/cms/tpl/110/list.html" />
       <jump line="201" column="26" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="3" column="21" filename="E:/h5/zmn-wechat/src/pages/home/customer.vue" />
       <jump line="0" column="0" filename="E:/h5/zmn-wechat/src/pages/home/customer.vue" />
@@ -946,6 +927,10 @@
       <jump line="391" column="4" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="267" column="16" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="385" column="16" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
+      <jump line="0" column="0" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
+      <jump line="69" column="45" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
+      <jump line="242" column="49" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
+      <jump line="237" column="85" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -955,7 +940,7 @@
         <text>临时</text>
       </register>
       <register name="/" type="4">
-        <text>战</text>
+        <text>prepayStatus</text>
       </register>
       <register name="0" type="4">
         <text>https://api.czxiangqin.com</text>
@@ -995,9 +980,9 @@
       </register>
     </registers>
     <search>
-      <last-search>战</last-search>
+      <last-search>prepayStatus</last-search>
       <last-offset />
-      <last-pattern>战</last-pattern>
+      <last-pattern>prepayStatus</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -1005,8 +990,6 @@
     </search>
     <history>
       <history-search>
-        <entry>开通会员</entry>
-        <entry>push</entry>
         <entry>dat</entry>
         <entry>needBase</entry>
         <entry>log</entry>
@@ -1021,10 +1004,12 @@
         <entry>onLoad</entry>
         <entry>marriage</entry>
         <entry>list</entry>
-        <entry>优惠</entry>
         <entry>submit</entry>
         <entry>战鼓</entry>
         <entry>战</entry>
+        <entry>优惠</entry>
+        <entry>discountAmountStr</entry>
+        <entry>prepayStatus</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
