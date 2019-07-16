@@ -124,8 +124,12 @@
         <mark key="^" line="7" column="74" />
         <mark key="." line="7" column="74" />
       </file>
-      <file name="E:/h5/yeyx-site-pc/pages/fc/register.html" timestamp="1563246245543">
+      <file name="E:/h5/yeyx-site-pc/pages/fc/register.html" timestamp="1563249125199">
         <mark key="'" line="1" column="15" />
+        <mark key="[" line="379" column="9" />
+        <mark key="]" line="379" column="12" />
+        <mark key="." line="379" column="12" />
+        <mark key="^" line="379" column="12" />
       </file>
       <file name="E:/h5/yeyx-site-pc/pages/sp/index.html" timestamp="1563244312901">
         <mark key="[" line="27" column="78" />
@@ -428,11 +432,11 @@
         <mark key="." line="94" column="35" />
         <mark key="^" line="94" column="7" />
       </file>
-      <file name="E:/h5/yeyx-site-pc/js/script/fc_register.js" timestamp="1563246208755">
+      <file name="E:/h5/yeyx-site-pc/js/script/fc_register.js" timestamp="1563248671060">
         <mark key="'" line="61" column="45" />
-        <mark key="[" line="379" column="0" />
-        <mark key="]" line="379" column="0" />
-        <mark key="." line="379" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="E:/h5/yeyx-sp-back/components/model_order.vue" timestamp="1561120575371">
         <mark key="'" line="7" column="9" />
@@ -1019,7 +1023,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGlzRGVidWcpIGNvbnNvbGUubG9nKCdbUmVzXScgKyBKU09OLnN0cmluZ2lmeShvYmopKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>li</text>
@@ -1031,34 +1035,40 @@
         <text encoding="base64">ICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3lleXh3eC54aXVqaWFkaWFuLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPs6s0N7N+LXjtcfCvDwvYT48L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGlzRGVidWcpIGNvbnNvbGUubG9nKCdbUmVzXScgKyBKU09OLnN0cmluZ2lmeShvYmopKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0RlYnVnKSB7CiAgICAgIGNvbnNvbGUubG9nKCdbVVJMXScgKyB1cmwpOwogICAgICBjb25zb2xlLmxvZygnW1BBUk1dJyArIEpTT04uc3RyaW5naWZ5KGRhdGEpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSA8YSBocmVmPSIuLy4uLy4uL2ZpbGUvY29udHJhY3QuZG9jeCIgZG93bmxvYWQ9ItHUtvjT0NDFytu687f+zvHQrdLpyukiPjwvYT4gLS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0RlYnVnKSB7CiAgICAgIGNvbnNvbGUubG9nKCdbVVJMXScgKyB1cmwpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGlzRGVidWcpIGNvbnNvbGUubG9nKCdbUmVzXScgKyBKU09OLnN0cmluZ2lmeShvYmopKTsK</text>
+      <register name="4" type="4">
+        <text>case '0':
+        $('.process-wrap').hide();
+        $('.process-wrap.process-wrap1').show();
+        $('.process-content').show();
+        $('.process-line-div').removeClass('active');
+        $('.process-line-1').addClass('active');
+        break;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0RlYnVnKSB7CiAgICAgIGNvbnNvbGUubG9nKCdbVVJMXScgKyB1cmwpOwogICAgICBjb25zb2xlLmxvZygnW1BBUk1dJyArIEpTT04uc3RyaW5naWZ5KGRhdGEpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIHByb2Nlc3NXcmFwMygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0RlYnVnKSB7CiAgICAgIGNvbnNvbGUubG9nKCdbVVJMXScgKyB1cmwpOwogICAgICBjb25zb2xlLmxvZygnW1BBUk1dJyArIEpTT04uc3RyaW5naWZ5KGRhdGEpKTsKICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgaWYgKGlzRGVidWcpIGNvbnNvbGUubG9nKCdbUmVzXScgKyBKU09OLnN0cmluZ2lmeShvYmopKTsK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIChpc0RlYnVnKSB7CiAgICAgIGNvbnNvbGUubG9nKCdbVVJMXScgKyB1cmwpOwogICAgICBjb25zb2xlLmxvZygnW1BBUk1dJyArIEpTT04uc3RyaW5naWZ5KGRhdGEpKTsKICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGlmIChpc0RlYnVnKSB7CiAgICAgIGNvbnNvbGUubG9nKCdbVVJMXScgKyB1cmwpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0RlYnVnKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGlzRGVidWcpIGNvbnNvbGUubG9nKCdbUmVzXScgKyBKU09OLnN0cmluZ2lmeShvYmopKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
