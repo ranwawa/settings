@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="E:/h5/yeyx-official-site-wap/components/form_select_outer.vue" timestamp="1561026678857">
@@ -487,6 +487,12 @@
         <mark key="]" line="86" column="13" />
         <mark key="." line="86" column="13" />
         <mark key="^" line="86" column="13" />
+      </file>
+      <file name="E:/h5/zmn-wechat/src/config/evn_dev.js" timestamp="1563342038533">
+        <mark key="'" line="1" column="30" />
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/order/list.vue" timestamp="1561716411053">
         <mark key="'" line="129" column="9" />
@@ -1025,7 +1031,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="7" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="292" column="17" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="391" column="4" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="385" column="16" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
@@ -1125,16 +1130,17 @@
       <jump line="188" column="6" filename="E:/h5/yeyx-site-pc/js/script/fc_register.js" />
       <jump line="172" column="6" filename="E:/h5/yeyx-site-pc/js/script/fc_register.js" />
       <jump line="109" column="6" filename="E:/h5/yeyx-site-pc/js/script/fc_register.js" />
+      <jump line="1" column="30" filename="E:/h5/zmn-wechat/src/config/evn_dev.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="&quot;" type="4">
+        <text>48</text>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text>48</text>
       </register>
       <register name="/" type="4">
-        <text>Api</text>
+        <text encoding="base64">XDwxMDY0M1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkKCcucGhvbmUgLndhcm5pbmcnKS5zaG93KCk7Cg==</text>
@@ -1174,9 +1180,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Api</last-search>
+      <last-search encoding="base64">XDwxMDY0M1w+</last-search>
       <last-offset />
-      <last-pattern>Api</last-pattern>
+      <last-pattern encoding="base64">XDwxMDY0M1w+</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -1184,7 +1190,6 @@
     </search>
     <history>
       <history-search>
-        <entry>姓名</entry>
         <entry>realname</entry>
         <entry>公司名称</entry>
         <entry>data</entry>
@@ -1204,6 +1209,7 @@
         <entry>.html</entry>
         <entry>\.html</entry>
         <entry>Api</entry>
+        <entry encoding="base64">XDwxMDY0M1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
