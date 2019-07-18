@@ -21,6 +21,12 @@
         <mark key="^" line="14" column="65" />
         <mark key="." line="14" column="65" />
       </file>
+      <file name="E:/h5/yeyx-site-pc/js/script/main.js" timestamp="1563430047704">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+      </file>
       <file name="E:/h5/yeyx-site-pc/index.html" timestamp="1563329336557">
         <mark key="[" line="137" column="23" />
         <mark key="]" line="137" column="23" />
@@ -117,12 +123,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/h5/yeyx-site-pc/js/script/area_select.js" timestamp="1563428534016">
-        <mark key="[" line="28" column="32" />
-        <mark key="]" line="29" column="26" />
-        <mark key="." line="29" column="26" />
-        <mark key="^" line="29" column="26" />
-      </file>
       <file name="E:/h5/zmn-mp/src/api/order.js" timestamp="1563415825586">
         <mark key="'" line="9" column="12" />
         <mark key="[" line="20" column="81" />
@@ -212,11 +212,11 @@
         <mark key="^" line="20" column="83" />
         <mark key="." line="20" column="83" />
       </file>
-      <file name="E:/h5/yeyx-site-pc/fc/register/index.html" timestamp="1563428567803">
-        <mark key="[" line="668" column="36" />
-        <mark key="]" line="180" column="41" />
-        <mark key="." line="180" column="41" />
-        <mark key="^" line="180" column="41" />
+      <file name="E:/h5/yeyx-site-pc/fc/register/index.html" timestamp="1563430458238">
+        <mark key="[" line="668" column="62" />
+        <mark key="]" line="668" column="64" />
+        <mark key="^" line="668" column="64" />
+        <mark key="." line="668" column="64" />
       </file>
       <file name="E:/h5/yeyx-site-pc/sp/register/index.html" timestamp="1563328171388">
         <mark key="[" line="653" column="37" />
@@ -335,8 +335,8 @@
       <jump line="403" column="9" filename="E:/h5/yeyx-site-pc/js/script/fc_register.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">yb6z/bTy06EK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -345,43 +345,37 @@
         <text>onLoad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVuaS5nZXRVc2VySW5mbyh7IHNjb3BlczogJ2F1dGhfdXNlcicgfSkudGhlbigoW2VyciwgZGF0YV0pID0+IHsKICAgICAgaWYgKGVycikgcmV0dXJuIGNvbnNvbGUubG9nKGVycik7CiAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwogICAgfSkuY2F0Y2goZXJyID0+IHRoaXMuJGFsZXJ0KGVyci5tZXNzYWdlKSk7Cg==</text>
+        <text encoding="base64">ICAgICdhYm91dF9kZXRhaWwnOiAnc2NyaXB0L2Fib3V0X2RldGFpbCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">yb6z/bTy06EK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZuYyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBkYXRhID0gewogICAgICBwcm92aW5jZUlkOiAnJywgLy8gyqG92rXjc2VsZWN0IGlkCiAgICAgIGNpdHlJZDogJycsIC8vIMrQvdq143NlbGVjdCBpZAogICAgICBhcmVhSWQ6ICcnLCAvLyDH+L3ateNzZWxlY3QgaWQKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZuYyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">ICBbJ2pxdWVyeScsICcuLi9hcGkvcmVxdWVzdCddLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKioK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAvKioKICAgICAqILP1yry7r7qvyv0KICAgICAqLwogICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">yb6z/bTy06EK</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-   * 省市区三级联动
-   * @param provinceId {string} 省select的id
-   * @param cityId {string} 市select的id
-   * @param areaId {string} 区select的id
-   * @returns {{}}
-   */</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhciBkYXRhID0gewogICAgICBwcm92aW5jZUlkOiAnJywgLy8gyqG92rXjc2VsZWN0IGlkCiAgICAgIGNpdHlJZDogJycsIC8vIMrQvdq143NlbGVjdCBpZAogICAgICBhcmVhSWQ6ICcnLCAvLyDH+L3ateNzZWxlY3QgaWQKICAgIH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm5WYWx1ZQo=</text>
+        <text encoding="base64">ICAgIC8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAvKioKICAgICAqILP1yry7r7qvyv0KICAgICAqLwogICA=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
