@@ -27,6 +27,11 @@
         <mark key="." line="137" column="23" />
         <mark key="^" line="137" column="23" />
       </file>
+      <file name="E:/h5/yeyx-site-pc/js/api/ajax.js" timestamp="1563421051294">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="E:/h5/zmn-wechat/src/api/public.js" timestamp="1563413597440">
         <mark key="[" line="10" column="54" />
         <mark key="]" line="10" column="54" />
@@ -112,11 +117,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/h5/yeyx-site-pc/js/script/area_select.js" timestamp="1563420169013">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="9" />
+      <file name="E:/h5/yeyx-site-pc/js/script/area_select.js" timestamp="1563421658239">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="16" column="6" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="28" column="31" />
       </file>
       <file name="E:/h5/zmn-mp/src/api/order.js" timestamp="1563415825586">
         <mark key="'" line="9" column="12" />
@@ -156,6 +161,12 @@
         <mark key="]" line="673" column="26" />
         <mark key="." line="673" column="26" />
         <mark key="^" line="673" column="26" />
+      </file>
+      <file name="E:/h5/yeyx-site-pc/js/api/request.js" timestamp="1563421452646">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="E:/h5/zmn-wechat/src/api/user.js" timestamp="1563413701984">
         <mark key="[" line="6" column="66" />
@@ -325,10 +336,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhciBkYXRhID0gewogICAgICBwcm92aW5jZUlkOiAnJywgLy8gyqG92rXjc2VsZWN0IGlkCiAgICAgIGNpdHlJZDogJycsIC8vIMrQvdq143NlbGVjdCBpZAogICAgICBhcmVhSWQ6ICcnLCAvLyDH+L3ateNzZWxlY3QgaWQKICAgIH07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sp,pc登陆链接</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>onLoad</text>
@@ -337,34 +348,40 @@
         <text encoding="base64">ICAgIHVuaS5nZXRVc2VySW5mbyh7IHNjb3BlczogJ2F1dGhfdXNlcicgfSkudGhlbigoW2VyciwgZGF0YV0pID0+IHsKICAgICAgaWYgKGVycikgcmV0dXJuIGNvbnNvbGUubG9nKGVycik7CiAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwogICAgfSkuY2F0Y2goZXJyID0+IHRoaXMuJGFsZXJ0KGVyci5tZXNzYWdlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhciBkYXRhID0gewogICAgICBwcm92aW5jZUlkOiAnJywgLy8gyqG92rXjc2VsZWN0IGlkCiAgICAgIGNpdHlJZDogJycsIC8vIMrQvdq143NlbGVjdCBpZAogICAgICBhcmVhSWQ6ICcnLCAvLyDH+L3ateNzZWxlY3QgaWQKICAgIH07Cg==</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICBvbkxvYWQoKSB7CiAgICB1bmkuZ2V0VXNlckluZm8oeyBzY29wZXM6ICdhdXRoX3VzZXInIH0pLnRoZW4oKFtlcnIsIGRhdGFdKSA9PiB7CiAgICAgIGlmIChlcnIpIHJldHVybiBjb25zb2xlLmxvZyhlcnIpOwogICAgICBjb25zb2xlLmxvZyhkYXRhKTsKICAgIH0pLmNhdGNoKGVyciA9PiB0aGlzLiRhbGVydChlcnIubWVzc2FnZSkpOwogIH0s</text>
+        <text encoding="base64">ICAvKioKICAgICAqILP1yry7r7qvyv0KICAgICAqLwogICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIsIHJlcyk7Cg==</text>
+      <register name="5" type="4">
+        <text>/**
+   * 省市区三级联动
+   * @param provinceId {string} 省select的id
+   * @param cityId {string} 市select的id
+   * @param areaId {string} 区select的id
+   * @returns {{}}
+   */</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFkYXRhLnN0YXR1c0Jvb2wpIHJldHVybiB0aGlzLiRhbGVydChkYXRhLm1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICByZXR1cm5WYWx1ZQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgLnRoZW4oKHsgZGF0YSB9KSA9PiB7CiAgICAgICAgaWYgKCFkYXRhLnN0YXR1c0Jvb2wpIHsKICAgICAgICAgIHRoaXMuJGFsZXJ0KGRhdGEubWVzc2FnZSk7CiAgICAgICAgICB1bmkuc3dpdGNoVGFiKHsKICAgICAgICAgICAgdXJsOiAnL3BhZ2VzL2hvbWUvaW5kZXgnLAogICAgICAgICAgfSk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIHNldFVzZXJJbmZvKGRhdGEuZGF0YSk7CiAgICAgICAgdW5pLm5hdmlnYXRlQmFjaygpOwogICAgICB9KS5jYXRjaCgoKSA9PiB0aGlzLmdvSG9tZSgpKTsKIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRhbGVydChlcnIubWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyByZWdpc3RlckJ5QWxpcGF5OiAocGFyYW0gPSB7fSkgPT4gcmVxdWVzdCgndXNlci9hbGlwYXkvcmVnaXN0ZXJVc2VyJywgcGFyYW0sICdnZXQnLCBmYWxzZSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
