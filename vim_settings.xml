@@ -499,6 +499,7 @@
         <mark key="." line="314" column="17" />
         <mark key="^" line="338" column="23" />
       </file>
+      <file name="/add.vue" timestamp="1563527177062" />
       <file name="E:/h5/yeyx-official-site-wap/components/register_title.vue" timestamp="1560960457694">
         <mark key="'" line="41" column="17" />
         <mark key="[" line="88" column="16" />
@@ -746,11 +747,12 @@
         <mark key="]" line="124" column="19" />
         <mark key="." line="124" column="19" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/master/recruit.vue" timestamp="1563517860024">
-        <mark key="'" line="424" column="7" />
-        <mark key="[" line="429" column="27" />
-        <mark key="]" line="429" column="27" />
-        <mark key="." line="429" column="27" />
+      <file name="E:/h5/yeyx-sp-back/pages/master/recruit.vue" timestamp="1563527371182">
+        <mark key="'" line="1" column="22" />
+        <mark key="[" line="168" column="43" />
+        <mark key="]" line="168" column="45" />
+        <mark key="." line="168" column="45" />
+        <mark key="^" line="168" column="45" />
       </file>
       <file name="E:/h5/yeyx-sp-back/api/order.js" timestamp="1560950878281">
         <mark key="'" line="33" column="12" />
@@ -861,11 +863,6 @@
         <mark key="." line="16" column="58" />
         <mark key="^" line="16" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563468115085">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="E:/h5/yeyx-site-pc/js/script/area_select.js" timestamp="1563444769308">
         <mark key="'" line="47" column="37" />
         <mark key="[" line="84" column="15" />
@@ -915,12 +912,12 @@
         <mark key="^" line="20" column="87" />
         <mark key="." line="20" column="87" />
       </file>
-      <file name="E:/h5/yeyx-sp-back/pages/master/add.vue" timestamp="1563521713564">
+      <file name="E:/h5/yeyx-sp-back/pages/master/add.vue" timestamp="1563527565473">
         <mark key="'" line="400" column="2" />
-        <mark key="[" line="334" column="0" />
-        <mark key="]" line="334" column="0" />
-        <mark key="^" line="407" column="33" />
-        <mark key="." line="334" column="0" />
+        <mark key="[" line="406" column="27" />
+        <mark key="]" line="406" column="32" />
+        <mark key="^" line="406" column="32" />
+        <mark key="." line="406" column="32" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/product/search.vue" timestamp="1561716995251">
         <mark key="'" line="138" column="37" />
@@ -952,7 +949,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="726" column="7" filename="E:/h5/yeyx-site-wap/pages/sp/register.vue" />
       <jump line="0" column="0" filename="E:/h5/yeyx-site-wap/pages/sp/register.vue" />
       <jump line="497" column="16" filename="E:/h5/yeyx-site-wap/pages/master/register.vue" />
       <jump line="437" column="7" filename="E:/h5/yeyx-site-wap/pages/fc/register.vue" />
@@ -1052,58 +1048,71 @@
       <jump line="19" column="2" filename="E:/h5/yeyx-sp-back/pages/master/test1.vue" />
       <jump line="2" column="21" filename="E:/h5/yeyx-sp-back/pages/master/test2.vue" />
       <jump line="0" column="0" filename="E:/h5/yeyx-sp-back/pages/master/test2.vue" />
+      <jump line="1" column="22" filename="E:/h5/yeyx-sp-back/pages/master/recruit.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>replace</text>
+        <text>assgin</text>
       </register>
       <register name="-" type="4">
-        <text>replace</text>
+        <text>assgin</text>
       </register>
       <register name="/" type="4">
-        <text>mounted</text>
+        <text>审核成功</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHsgcGF0aDogJy90ZXN0MScsIGNvbXBvbmVudDogaW1wb3J0KCcvdGVzdDEudnVlJykgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByb3V0ZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="4">
+        <text>this.$router.push({
+          name: 'master-add',
+          params: {
+            item: data.data,
+            id: item.applyId,
+          },
+        });</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXM6IHsKICAgICAgICAgIGlkOiAxLAogICAgICAgIH0sCg==</text>
+      <register name="3" type="4">
+        <text>if (!data.statusBool) return this.$alert(data.message);
+        this.$router.push({
+          name: 'master-add',
+          params: {
+            item: data.data,
+            id: item.applyId,
+          },</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaWQgPSAxOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgbWFzdGVyLmdldFNraWxsTGlzdCgpLnRoZW4oKHsgZGF0YSB9KSA9PiB7CiAgICAgIGlmICghZGF0YS5zdGF0dXNCb29sKSByZXR1cm4gdGhpcy4kYWxlcnQoZGF0YS5tZXNzYWdlKTsKICAgICAgdGhpcy5xdWVyeVNvdXJjZSA9IGRhdGEuZGF0YTsKICAgIH0pLmNhdGNoKGVyciA9PiB0aGlzLiRhbGVydChlcnIubWVzc2FnZSkpOwogIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaWQgPSB0aGlzLiRyb3V0ZS5wYXJhbXMuaWQ7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuJHJvdXRlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMucmVhbG5hbWUgPSBpdGVtLnJlYWxuYW1lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuZm9ybS5yZWFsbmFtZSA9IGl0ZW0ucmVhbG5hbWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZm9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>mounted</last-search>
+      <last-search>审核成功</last-search>
       <last-offset />
-      <last-pattern>mounted</last-pattern>
+      <last-pattern>审核成功</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -1126,11 +1135,11 @@
         <entry>productSubTitle</entry>
         <entry>费用分类</entry>
         <entry>操作成功</entry>
-        <entry>审核成功</entry>
         <entry>onLoad</entry>
         <entry>reset</entry>
         <entry>form</entry>
         <entry>mounted</entry>
+        <entry>审核成功</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
