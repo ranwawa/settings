@@ -177,12 +177,12 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1563604911839">
-        <mark key="'" line="399" column="11" />
-        <mark key="[" line="268" column="24" />
-        <mark key="]" line="268" column="27" />
-        <mark key="." line="268" column="27" />
-        <mark key="^" line="268" column="27" />
+      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1563605551039">
+        <mark key="'" line="315" column="6" />
+        <mark key="[" line="196" column="11" />
+        <mark key="]" line="197" column="15" />
+        <mark key="." line="197" column="15" />
+        <mark key="^" line="197" column="15" />
       </file>
       <file name="E:/h5/zmn-official-wechat/src/pages/order/evaluate.vue" timestamp="1561716405422">
         <mark key="'" line="94" column="9" />
@@ -979,13 +979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="21" filename="E:/h5/yeyx-site-wap/pages/about/feedback.vue" />
-      <jump line="59" column="25" filename="E:/h5/yeyx-site-wap/pages/about/feedback.vue" />
-      <jump line="60" column="19" filename="E:/h5/yeyx-site-wap/pages/about/feedback.vue" />
-      <jump line="61" column="21" filename="E:/h5/yeyx-site-wap/pages/about/feedback.vue" />
-      <jump line="91" column="13" filename="E:/h5/yeyx-site-wap/pages/about/feedback.vue" />
-      <jump line="105" column="15" filename="E:/h5/yeyx-site-wap/pages/about/feedback.vue" />
-      <jump line="324" column="33" filename="E:/h5/yeyx-site-wap/pages/fc/register.vue" />
       <jump line="394" column="18" filename="E:/h5/yeyx-site-wap/pages/fc/register.vue" />
       <jump line="346" column="14" filename="E:/h5/yeyx-site-wap/pages/fc/register.vue" />
       <jump line="2" column="0" filename="E:/h5/yeyx-site-pc/service/index.html" />
@@ -1079,6 +1072,13 @@
       <jump line="341" column="20" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="375" column="13" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="399" column="11" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
+      <jump line="200" column="11" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
+      <jump line="201" column="15" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
+      <jump line="211" column="31" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
+      <jump line="220" column="17" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
+      <jump line="239" column="72" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
+      <jump line="291" column="8" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
+      <jump line="315" column="6" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1088,7 +1088,7 @@
         <text>home</text>
       </register>
       <register name="/" type="4">
-        <text>isRegister</text>
+        <text>activity</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGhvbWUgZnJvbSAnQC9hcGkvaG9tZSc7Cg==</text>
@@ -1128,9 +1128,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isRegister</last-search>
+      <last-search>activity</last-search>
       <last-offset />
-      <last-pattern>isRegister</last-pattern>
+      <last-pattern>activity</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -1138,7 +1138,6 @@
     </search>
     <history>
       <history-search>
-        <entry>源</entry>
         <entry>submit</entry>
         <entry>msg</entry>
         <entry>item</entry>
@@ -1158,6 +1157,7 @@
         <entry>user</entry>
         <entry>ov</entry>
         <entry>isRegister</entry>
+        <entry>activity</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
