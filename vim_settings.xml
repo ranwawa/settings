@@ -35,12 +35,6 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/utils/go_register.js" timestamp="1563900852239">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="E:/h5/zmn-mp/src/components/coupon-label.vue" timestamp="1563954543971">
         <mark key="'" line="192" column="28" />
       </file>
@@ -162,12 +156,6 @@
         <mark key="^" line="55" column="34" />
         <mark key="." line="55" column="34" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/pages.json" timestamp="1563904000632">
-        <mark key="'" line="106" column="19" />
-        <mark key="[" line="99" column="9" />
-        <mark key="]" line="99" column="9" />
-        <mark key="." line="99" column="9" />
-      </file>
       <file name="E:/h5/yeyx-site-pc/js/script/main.js" timestamp="1563439504234">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="16" column="26" />
@@ -218,12 +206,6 @@
         <mark key="]" line="15" column="33" />
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="33" />
-      </file>
-      <file name="E:/h5/zmn-wechat/src/pages/product/list.vue" timestamp="1563873186005">
-        <mark key="'" line="27" column="2" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="57" />
-        <mark key="." line="27" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/hello-world/src/router/index.js" timestamp="1563525142738">
         <mark key="[" line="5" column="41" />
@@ -281,7 +263,7 @@
         <mark key="." line="152" column="40" />
         <mark key="^" line="152" column="40" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/components/coupon-label.vue" timestamp="1563955751930">
+      <file name="E:/h5/zmn-wechat/src/components/coupon-label.vue" timestamp="1563961297432">
         <mark key="'" line="1" column="15" />
         <mark key="[" line="178" column="19" />
         <mark key="]" line="179" column="20" />
@@ -397,18 +379,15 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/pages/home/index.vue" timestamp="1563961396594">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="E:/h5/zmn-mp/src/pages/reserve/commit.vue" timestamp="1563804098116">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="314" column="16" />
         <mark key="]" line="314" column="17" />
         <mark key="." line="314" column="17" />
         <mark key="^" line="338" column="23" />
-      </file>
-      <file name="E:/h5/zmn-mp/src/api/request.js" timestamp="1563773819516">
-        <mark key="'" line="2" column="9" />
-        <mark key="[" line="46" column="7" />
-        <mark key="]" line="46" column="7" />
-        <mark key="." line="46" column="7" />
       </file>
       <file name="E:/h5/zmn-mp/src/api/user.js" timestamp="1563865571040">
         <mark key="'" line="0" column="0" />
@@ -426,8 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="530" column="15" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
-      <jump line="532" column="19" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="581" column="18" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="582" column="14" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="583" column="32" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
@@ -526,6 +503,8 @@
       <jump line="95" column="42" filename="E:/h5/zmn-mp/src/pages/vip/my.vue" />
       <jump line="22" column="41" filename="E:/h5/zmn-mp/src/pages/vip/my.vue" />
       <jump line="102" column="12" filename="E:/h5/zmn-mp/src/pages/vip/my.vue" />
+      <jump line="407" column="2" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
+      <jump line="0" column="0" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -535,7 +514,7 @@
         <text>, register</text>
       </register>
       <register name="/" type="4">
-        <text>import</text>
+        <text>index</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4sIHNldFVzZXJJbmZvLCByZWdpc3RlciB9IGZyb20gJ0AvdXRpbHMvaW5kZXgnOwo=</text>
@@ -576,9 +555,9 @@ vip支付,成功后改变一下字段</text>
       </register>
     </registers>
     <search>
-      <last-search>import</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern>import</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -586,7 +565,6 @@ vip支付,成功后改变一下字段</text>
     </search>
     <history>
       <history-search>
-        <entry>login</entry>
         <entry>getToken</entry>
         <entry>isShow</entry>
         <entry>commit</entry>
@@ -606,6 +584,7 @@ vip支付,成功后改变一下字段</text>
         <entry>props</entry>
         <entry>清洗5折</entry>
         <entry>import</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
