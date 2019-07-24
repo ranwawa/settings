@@ -253,12 +253,12 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="12" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" timestamp="1563975875012">
-        <mark key="'" line="250" column="19" />
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
-        <mark key="^" line="289" column="21" />
+      <file name="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" timestamp="1563976314243">
+        <mark key="'" line="133" column="11" />
+        <mark key="[" line="141" column="52" />
+        <mark key="]" line="141" column="52" />
+        <mark key="." line="141" column="52" />
+        <mark key="^" line="141" column="52" />
       </file>
       <file name="E:/h5/zmn-mp/src/api/vip.js" timestamp="1563891767324">
         <mark key="[" line="18" column="5" />
@@ -305,10 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="739" column="28" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
-      <jump line="725" column="7" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
-      <jump line="670" column="17" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
-      <jump line="663" column="7" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="586" column="40" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="555" column="22" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
       <jump line="529" column="14" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
@@ -405,59 +401,63 @@
       <jump line="14" column="22" filename="E:/h5/zmn-mp/src/pages/my/my.vue" />
       <jump line="81" column="37" filename="E:/h5/zmn-mp/src/pages/vip/my.vue" />
       <jump line="250" column="19" filename="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" />
+      <jump line="302" column="15" filename="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" />
+      <jump line="305" column="27" filename="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" />
+      <jump line="117" column="12" filename="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" />
+      <jump line="133" column="11" filename="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVsZS5wcmVmZXJlbnRpYWxUeXBlID09PSAxKSB7CiAgICAgICAgICAgIH0gZWxzZSAoZWxlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>10.00</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>10.00</text>
       </register>
       <register name="/" type="4">
-        <text>orderInfo</text>
+        <text>商品优惠</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMudXNlckluZm8uc3RhdHVzID09PSAyKSB1bmkubmF2aWdhdGVUbyh7IHVybDogJy9wYWdlcy92aXAvbXknIH0pOwo=</text>
+      <register name="0" type="4">
+        <text>ele.preferentialValue</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVsZS5wcmVmZXJlbnRpYWxUeXBlID09PSAxKSB7CiAgICAgICAgICAgIH0gZWxzZSAoZWxlKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGRhdGEuZGF0YS5jb3VwSXRlbUdyb3VwRFRPLnVuVXNhYmxlQ291cEl0ZW1zLnJlZHVjZSgocHJldiwgbmV4dCkgPT4gewogICAgICAgICAgICByZXR1cm4gTWF0aC5tYXgocHJldi5yZWFsRGlzY291bnQsIG5leHQucmVhbERpc2NvdW50KTsKICAgICAgICAgIH0pOwogICAgICAgICAgY29uc29sZS5sb2codGhpcy5jdXJyZW50Q291cG9uKTs=</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCBkaXNjb3VudCA9ICgxMDAgLSBlbGUucHJlZmVyZW50aWFsVmFsdWUpIC8gMTAwOyAvLyDKobbgydksyOe08jkw1dssvs3Kx8qhMTAlCiAgICAgICAgICAgICAgZWxlLnJlYWxEaXNjb3VudCA9IG9yaWdpblByaWNlICogZGlzY291bnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVsZS5wcmVmZXJlbnRpYWxUeXBlID09PSAxKSB7CiAgICAgICAgICAgIH0gZWxzZSAoZWxlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCBkaXNjb3VudCA9ICgxMDAgLSBlbGUucHJlZmVyZW50aWFsVmFsdWUpIC8gMTAwOyAvLyDKobbgydksyOe08jkw1dssvs3Kx8qhMTAlCiAgICAgICAgICAgICAgZWxlLnJlYWxEaXNjb3VudCA9IG9yaWdpblByaWNlICogZGlzY291bnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImhvc3QiOiAibG9jYWxob3N0IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgImhvc3QiOiAibG9jYWxob3N0IiwK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>个人中心不显示数据的bug
 会员链接根据会员状态进行跳转</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZS5zdGF0ZS5sb2NhdGlvbkNpdHlIZWFkZXIpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZS5zdGF0ZS51c2VySW5mby50b2tlbik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZS5zdGF0ZS5sb2NhdGlvbkNpdHlIZWFkZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>orderInfo</last-search>
+      <last-search>商品优惠</last-search>
       <last-offset />
-      <last-pattern>orderInfo</last-pattern>
+      <last-pattern>商品优惠</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -465,9 +465,6 @@
     </search>
     <history>
       <history-search>
-        <entry>usableCoupItems</entry>
-        <entry>token</entry>
-        <entry>register</entry>
         <entry>submit</entry>
         <entry>setVipPri</entry>
         <entry>限时特惠</entry>
@@ -485,6 +482,9 @@
         <entry>methods</entry>
         <entry>每月</entry>
         <entry>orderInfo</entry>
+        <entry>currentCoupon</entry>
+        <entry>端口优惠</entry>
+        <entry>商品优惠</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
