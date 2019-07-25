@@ -71,6 +71,13 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/pages/product/detail.vue" timestamp="1564080517066">
+        <mark key="'" line="501" column="32" />
+        <mark key="[" line="585" column="55" />
+        <mark key="]" line="585" column="55" />
+        <mark key="." line="585" column="55" />
+        <mark key="^" line="585" column="55" />
+      </file>
       <file name="E:/h5/zmn-mp/src/pages/my/my.vue" timestamp="1564065153657">
         <mark key="'" line="74" column="0" />
         <mark key="[" line="113" column="67" />
@@ -343,13 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="18" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
-      <jump line="227" column="8" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
-      <jump line="242" column="35" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
-      <jump line="252" column="51" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
-      <jump line="261" column="22" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
-      <jump line="280" column="51" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
-      <jump line="416" column="54" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="396" column="22" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="419" column="54" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="239" column="29" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
@@ -443,6 +443,13 @@
       <jump line="172" column="17" filename="E:/h5/zmn-wechat/src/components/coupon-label.vue" />
       <jump line="160" column="52" filename="E:/h5/zmn-wechat/src/components/coupon-label.vue" />
       <jump line="258" column="27" filename="E:/h5/zmn-wechat/src/components/coupon-label.vue" />
+      <jump line="585" column="13" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
+      <jump line="773" column="9" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
+      <jump line="764" column="5" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
+      <jump line="576" column="13" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
+      <jump line="538" column="9" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
+      <jump line="503" column="36" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
+      <jump line="501" column="32" filename="E:/h5/zmn-wechat/src/pages/product/detail.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -452,7 +459,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>svg</text>
+        <text>活动</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHYtc2hvdz0iY2FuVXNlRmxhZyA9PT0gJ7/J08PTxbvdyK8nIgo=</text>
@@ -493,9 +500,9 @@
       </register>
     </registers>
     <search>
-      <last-search>svg</last-search>
+      <last-search>活动</last-search>
       <last-offset />
-      <last-pattern>svg</last-pattern>
+      <last-pattern>活动</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -503,7 +510,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disabled</entry>
         <entry>碰了</entry>
         <entry>圈</entry>
         <entry>redirect</entry>
@@ -523,6 +529,7 @@
         <entry>mounted</entry>
         <entry>去使用</entry>
         <entry>svg</entry>
+        <entry>活动</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
