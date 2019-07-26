@@ -80,12 +80,11 @@
         <mark key="^" line="34" column="72" />
         <mark key="." line="34" column="72" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1564152460737">
+      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1564169999867">
         <mark key="'" line="312" column="17" />
-        <mark key="[" line="393" column="21" />
-        <mark key="]" line="394" column="23" />
-        <mark key="." line="394" column="23" />
-        <mark key="^" line="394" column="23" />
+        <mark key="[" line="394" column="0" />
+        <mark key="]" line="394" column="0" />
+        <mark key="." line="394" column="0" />
       </file>
       <file name="E:/h5/yeyx-site-pc/js/components/footer.html" timestamp="1563329363268">
         <mark key="[" line="20" column="21" />
@@ -98,6 +97,11 @@
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
         <mark key="^" line="4" column="9" />
+      </file>
+      <file name="E:/h5/zmn-mp/src/pages/card/index.vue" timestamp="1564135517054">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="31" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="E:/h5/zmn-wechat/src/pages/my/components/my-header.vue" timestamp="1564066031758">
         <mark key="[" line="14" column="18" />
@@ -191,8 +195,8 @@
         <mark key="^" line="519" column="28" />
         <mark key="." line="519" column="28" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/address/create.vue" timestamp="1564160850866">
-        <mark key="'" line="67" column="14" />
+      <file name="E:/h5/zmn-mp/src/pages/address/create.vue" timestamp="1564169909190">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="276" column="18" />
         <mark key="]" line="276" column="18" />
         <mark key="." line="276" column="18" />
@@ -501,8 +505,10 @@
         <mark key="." line="34" column="32" />
         <mark key="^" line="34" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564169413176">
+      <file name="/Dummy.txt" timestamp="1564170019147">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/h5/zmn-mp/src/pages/my/bind_phone.vue" timestamp="1563953218916">
         <mark key="'" line="49" column="4" />
@@ -564,9 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="46" filename="E:/h5/zmn-mp/src/pages/reserve/commit.vue" />
-      <jump line="125" column="27" filename="E:/h5/zmn-mp/src/pages/reserve/commit.vue" />
-      <jump line="336" column="28" filename="E:/h5/zmn-mp/src/pages/reserve/commit.vue" />
       <jump line="0" column="9" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
       <jump line="164" column="13" filename="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" />
       <jump line="166" column="14" filename="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" />
@@ -664,58 +667,63 @@
       <jump line="67" column="14" filename="E:/h5/zmn-mp/src/pages/address/create.vue" />
       <jump line="130" column="31" filename="E:/h5/zmn-mp/src/pages/vip/buy.vue" />
       <jump line="27" column="5" filename="E:/h5/zmn-mp/src/pages/coupon/index.vue" />
+      <jump line="76" column="7" filename="E:/h5/zmn-mp/src/pages/address/create.vue" />
+      <jump line="80" column="38" filename="E:/h5/zmn-mp/src/pages/address/create.vue" />
+      <jump line="0" column="0" filename="E:/h5/zmn-mp/src/pages/address/create.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>会员-我的会员
+会员优惠券分类汇总</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>3</text>
+        <text>uni-list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbGUuY291cG9uRGVzYyA9ICfDv9TCyKvGt8Dg08W73czYyKgnOwogICAgICAgIGVsZS5jaGlsZHJlbi5zb3J0KChhY2MsIGN1cikgPT4gYWNjLnN0YXR1cyAtIGN1ci5zdGF0dXMpOwogICAgICAgIHJldHVybiBlbGU7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text>会员-我的会员
+会员优惠券分类汇总</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PCEtLSDU3c7e08W73civIC0tPgogICAgICAgICAgPGVtcHR5CiAgICAgICAgICAgIHYtaWY9IiFpdGVtLmNvdXBvbkxpc3QubGVuZ3RoIgogICAgICAgICAgICBpbmZvPSLU3c7e08W73civIgogICAgICAgICAgLz4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYtc2hvdz0idGFiQWN0aXZlID09PSBpdGVtLm5hbWUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYtaWY9InRhYkFjdGl2ZSA9PT0gaXRlbS5uYW1lIgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">PCEtLSDU3c7e08W73civIC0tPgogICAgICAgICAgPGVtcHR5CiAgICAgICAgICAgIHYtaWY9IiFpdGVtLmNvdXBvbkxpc3QubGVuZ3RoIgogICAgICAgICAgICBpbmZvPSLU3c7e08W73civIgogICAgICAgICAgLz4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYtaWY9InRhYkFjdGl2ZSA9PT0gaXRlbS5uYW1lIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHYtc2hvdz0idGFiQWN0aXZlID09PSBpdGVtLm5hbWUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhkYXRhLml0ZW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHYtaWY9InRhYkFjdGl2ZSA9PT0gaXRlbS5uYW1lIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOmtleT0iaXRlbS5pdGVtSWQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHYtaWY9InRhYkFjdGl2ZSA9PT0gaXRlbS5uYW1lIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAga2V5PSJpdGVtLm5hbWUiCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhkYXRhLml0ZW1zKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOmtleT0iaXRlbS5pdGVtSWQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>3</last-search>
+      <last-search>uni-list</last-search>
       <last-offset />
-      <last-pattern>3</last-pattern>
+      <last-pattern>uni-list</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -723,7 +731,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onLoad</entry>
         <entry>首页</entry>
         <entry>getToken</entry>
         <entry>__extra</entry>
@@ -743,6 +750,7 @@
         <entry>coupon-list</entry>
         <entry>submit</entry>
         <entry>3</entry>
+        <entry>uni-list</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
