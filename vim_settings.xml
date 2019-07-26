@@ -39,7 +39,13 @@
         <mark key="^" line="24" column="8" />
         <mark key="." line="24" column="8" />
       </file>
-      <file name="E:/h5/zmn-mp/src/api/config.js" timestamp="1564175125434" />
+      <file name="E:/h5/zmn-mp/src/api/config.js" timestamp="1564183774788" />
+      <file name="E:/h5/zmn-wechat/src/pages/vip/my.vue" timestamp="1564066919350">
+        <mark key="'" line="88" column="6" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="E:/h5/zmn-wechat/src/pages/card/components/detail-fixed.vue" timestamp="1564046472090">
         <mark key="'" line="4" column="18" />
         <mark key="[" line="34" column="56" />
@@ -201,6 +207,9 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
       </file>
+      <file name="E:/h5/zmn-mp/src/components/coupon-label.vue" timestamp="1564183232451">
+        <mark key="'" line="49" column="12" />
+      </file>
       <file name="E:/h5/zmn-mp/src/pages/vip/my.vue" timestamp="1564182015213">
         <mark key="'" line="111" column="43" />
         <mark key="[" line="35" column="38" />
@@ -242,6 +251,12 @@
         <mark key="]" line="97" column="61" />
         <mark key="." line="97" column="61" />
         <mark key="^" line="97" column="61" />
+      </file>
+      <file name="E:/h5/zmn-mp/src/utils/filter-coupon-info.js" timestamp="1564183117668">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="E:/h5/zmn-wechat/src/components/coupon-list.vue" timestamp="1564131878819">
         <mark key="'" line="51" column="28" />
@@ -360,7 +375,6 @@
       <jump line="156" column="19" filename="E:/h5/zmn-mp/src/pages/reserve/commit.vue" />
       <jump line="161" column="19" filename="E:/h5/zmn-mp/src/pages/reserve/commit.vue" />
       <jump line="42" column="31" filename="E:/h5/zmn-mp/src/components/coupon-label.vue" />
-      <jump line="49" column="12" filename="E:/h5/zmn-mp/src/components/coupon-label.vue" />
       <jump line="96" column="12" filename="E:/h5/zmn-mp/src/components/coupon-label.vue" />
       <jump line="178" column="17" filename="E:/h5/zmn-mp/src/components/coupon-label.vue" />
       <jump line="175" column="17" filename="E:/h5/zmn-mp/src/components/coupon-label.vue" />
@@ -427,6 +441,7 @@
       <jump line="52" column="15" filename="E:/h5/zmn-mp/src/components/coupon-label.vue" />
       <jump line="161" column="0" filename="E:/h5/zmn-mp/src/components/coupon-label.vue" />
       <jump line="44" column="0" filename="E:/h5/zmn-mp/src/components/coupon-label.vue" />
+      <jump line="49" column="12" filename="E:/h5/zmn-mp/src/components/coupon-label.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -437,7 +452,7 @@
         <text encoding="base64">IHt7IGl0ZW0uaXRlbUlkIH19</text>
       </register>
       <register name="/" type="4">
-        <text>itemId</text>
+        <text>满</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PHZpZXcKICAgICAgICAgICAgY2xhc3M9InByaXZpbGVnZSBwcml2aWxlZ2UxIgogICAgICAgICAgPgogICAgICAgICAgICA8dmlldyBjbGFzcz0icHJpdmlsZWdlLXRpdGxlIj4KICAgICAgICAgICAgICA8dGV4dD7Dv9TCyKvGt8Dg08W73czYyKg8L3RleHQ+CiAgICAgICAgICAgIDwvdmlldz4KICAgICAgICAgICAgPHZpZXcgY2xhc3M9InByaXZpbGVnZS1jb250ZW50Ij4KICAgICAgICAgICAgICA8dmlldwogICAgICAgICAgICAgICAgY2xhc3M9InByaXZpbGVnZS1jb250ZW50X3Nob3ciCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPGNvdXBvbi1saXN0CiAgICAgICAgICAgICAgICAgIDpsaXN0PSJsaXN0WzBdLmNoaWxkcmVuIgogICAgICAgICAgICAgICAgICBwb3AtdHlwZT0ic2VlIgogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICA8L3ZpZXc+CiAgICAgICAgICAgIDwvdmlldz4KICAgICAgICAgIDwvdmlldz4=</text>
@@ -479,9 +494,9 @@
       </register>
     </registers>
     <search>
-      <last-search>itemId</last-search>
+      <last-search>满</last-search>
       <last-offset />
-      <last-pattern>itemId</last-pattern>
+      <last-pattern>满</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -489,7 +504,6 @@
     </search>
     <history>
       <history-search>
-        <entry>key</entry>
         <entry>computed</entry>
         <entry>couponBtnStr</entry>
         <entry>popType</entry>
@@ -509,6 +523,7 @@
         <entry>意见反馈</entry>
         <entry>mounted</entry>
         <entry>itemId</entry>
+        <entry>满</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
