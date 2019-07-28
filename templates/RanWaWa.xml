@@ -18,7 +18,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="vuex-mutation" value="// $comment$&#10;set$mutationName$(state, value) {&#10;  state.$stateName$ = value;&#10;}," description="" toReformat="false" toShortenFQNames="true">
+  <template name="vuex-mutation" value="// $comment$&#10;set$mutationName$(state, value) {&#10;  state.$stateName$ = value;&#10;}," description="html文件注释" toReformat="false" toShortenFQNames="true">
     <variable name="comment" expression="" defaultValue="&quot;一定要写注释哦&quot;" alwaysStopAt="true" />
     <variable name="mutationName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="stateName" expression="camelCase(mutationName)" defaultValue="camelCase(mutationName)" alwaysStopAt="true" />
@@ -35,9 +35,30 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="!vcomp" value="&lt;div&gt;&#10;&lt;!-- author: ranwawa --&gt;&#10;&lt;!-- des:  --&gt;&#10;&lt;!-- date: $date$ --&gt;&#10;&lt;template&gt;&#10;  &lt;div class=&quot;comp-container&quot;&gt;&#10;    $END$&#10;  &lt;/div&gt;&#10;&lt;/template&gt;&#10;&lt;script&gt;&#10;export default {&#10;  components: {},&#10;  props: {}&#10;}&#10;&lt;/script&gt;&#10;&lt;style lang=&quot;scss&quot; scoped&gt;&#10;  &#10;&lt;/style&gt;&#10;&lt;/div&gt;" description="vue组件页面" toReformat="true" toShortenFQNames="true">
+  <template name="!vcomp" value="&lt;div&gt;&#10;&lt;!-- author: ranwawa --&gt;&#10;&lt;!-- date: $date$ --&gt;&#10;&lt;!-- desc:  --&gt;&#10;&lt;template&gt;&#10;  &lt;div class=&quot;comp-container&quot;&gt;&#10;    $END$&#10;  &lt;/div&gt;&#10;&lt;/template&gt;&#10;&lt;script&gt;&#10;export default {&#10;  components: {},&#10;  props: {}&#10;}&#10;&lt;/script&gt;&#10;&lt;style lang=&quot;scss&quot; scoped&gt;&#10;  &#10;&lt;/style&gt;&#10;&lt;/div&gt;" description="vue组件页面" toReformat="true" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="doc-file-js" value="/**&#10; * @author 冉娃娃&#10; * @date $time$&#10; * @desc $END$&#10; */" description="js文件注释" toReformat="false" toShortenFQNames="true">
+    <variable name="time" expression="date() + time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="doc-file-html" value="&lt;!-- author: ranwawa --&gt;&#10;&lt;!-- date: $date$ --&gt;&#10;&lt;!-- desc: $END$ --&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name=".t.c2" value=".then(() =&gt; {})&#10;.catch(() =&gt; this.$alert('系统异常,请稍后'))" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
       <option name="Vue" value="true" />
     </context>
   </template>

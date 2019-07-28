@@ -97,6 +97,9 @@
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt a" />
   </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl h" />
+  </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
