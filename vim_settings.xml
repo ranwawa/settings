@@ -111,12 +111,11 @@
         <mark key="." line="97" column="61" />
         <mark key="^" line="97" column="61" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1564467361821">
+      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1564468876342">
         <mark key="'" line="170" column="23" />
-        <mark key="[" line="914" column="21" />
-        <mark key="]" line="915" column="14" />
-        <mark key="." line="915" column="14" />
-        <mark key="^" line="915" column="14" />
+        <mark key="[" line="910" column="0" />
+        <mark key="]" line="910" column="0" />
+        <mark key="." line="910" column="0" />
       </file>
       <file name="E:/h5/zmn-wechat/src/components/coupon-list.vue" timestamp="1564131878819">
         <mark key="'" line="51" column="28" />
@@ -267,10 +266,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564391156967">
+      <file name="/Dummy.txt" timestamp="1564469069170">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/h5/zmn-wechat/src/assets/sass/_colors.scss" timestamp="1564383167974">
         <mark key="[" line="17" column="34" />
@@ -461,8 +460,9 @@
       <jump line="170" column="23" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBiZAo=</text>
+      <register name="&quot;" type="4">
+        <text>通用-渠道id
+优惠券,商品详情,提交订单,header头里面统一配置</text>
       </register>
       <register name="-" type="4">
         <text>000</text>
@@ -473,35 +473,41 @@
       <register name="0" type="4">
         <text encoding="base64">ewogICAgICAgICAgdmFsaWRhdG9yOiAocnVsZSwgdmFsdWUsIGNiKSA9PiB7CiAgICAgICAgICAgIGlmICgvXlswLTldezExLDEyfSQvLnRlc3QodmFsdWUpKSBjYigpOwogICAgICAgICAgICBlbHNlIGNiKG5ldyBFcnJvcignyta7+rrF09DO8ycpKTsKICAgICAgICAgIH0sCiAgICAgICAgICB0cmlnZ2VyOiAnYmx1cicsCiAgICAgICAgfSw=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBiZAo=</text>
+      <register name="1" type="4">
+        <text>通用-渠道id
+优惠券,商品详情,提交订单,header头里面统一配置</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGYK</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTRweDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiByZ2IoMCwgMCwgMCk7Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNDZweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1cnNvcjogcG9pbnRlcjsK</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTRweDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci10b3A6IDFweCBzb2xpZCAjZWVlOwo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiByZWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci10b3A6IDsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDU2cHg7Cg==</text>
+      <register name="7" type="4">
+        <text>lifestyle::before {
+    border: 1px solid #000;
+  }
+  lifestyle::after {
+    border: 1px solid #000;
+  }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBiZAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bW9iaWxlMjogWwogICAgICAgIHsKICAgICAgICAgIHZhbGlkYXRvcjogKHJ1bGUsIHZhbHVlLCBjYikgPT4gewogICAgICAgICAgICBpZiAoL15bMC05XXsxMSwxMn0kLy50ZXN0KHZhbHVlKSkgY2IoKTsKICAgICAgICAgICAgZWxzZSBjYihuZXcgRXJyb3IoJ8rWu/q6xdPQzvMnKSk7CiAgICAgICAgICB9LAogICAgICAgICAgdHJpZ2dlcjogJ2JsdXInLAogICAgICAgIH0sCiAgICAgIF0s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGYK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
