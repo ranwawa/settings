@@ -218,6 +218,12 @@
         <mark key="." line="12" column="52" />
         <mark key="^" line="52" column="61" />
       </file>
+      <file name="E:/project/空包1.0/site/src/components/ranwawa/performance.vue" timestamp="1564675877617">
+        <mark key="'" line="138" column="7" />
+        <mark key="[" line="155" column="27" />
+        <mark key="]" line="155" column="27" />
+        <mark key="." line="155" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/UI-Standard/UI-Standard/base/_spacing.scss" timestamp="1564543452498">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="6" column="7" />
@@ -517,8 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="7" filename="E:/h5/zmn-mp/src/pages/activity/index.vue" />
-      <jump line="583" column="34" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
       <jump line="478" column="38" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
       <jump line="479" column="41" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
       <jump line="495" column="12" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
@@ -617,16 +621,18 @@
       <jump line="389" column="5" filename="E:/h5/yeyx-site-wap/pages/fc/register.vue" />
       <jump line="3" column="9" filename="E:/h5/yeyx-site-wap/pages/sp/register.vue" />
       <jump line="54" column="26" filename="E:/project/空包1.0/site/build/webpack.dev.conf.js" />
+      <jump line="65" column="13" filename="E:/project/空包1.0/site/src/components/ranwawa/performance.vue" />
+      <jump line="138" column="7" filename="E:/project/空包1.0/site/src/components/ranwawa/performance.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://120.79.24.144</text>
+        <text>http://api.ranwawa.cn</text>
       </register>
       <register name="-" type="4">
-        <text>http://120.79.24.144</text>
+        <text>http://api.ranwawa.cn</text>
       </register>
       <register name="/" type="4">
-        <text>proxy</text>
+        <text>下载</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXRlbS5jbGFzcyA9IChpbmRleCAlIDIgPT09IDApID8gJ3RyLWJnJyA6ICcnOwogICAgICAgICAgICBpbmRleCArPSAxOwo=</text>
@@ -669,9 +675,9 @@
       </register>
     </registers>
     <search>
-      <last-search>proxy</last-search>
+      <last-search>下载</last-search>
       <last-offset />
-      <last-pattern>proxy</last-pattern>
+      <last-pattern>下载</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -679,7 +685,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addOrder</entry>
         <entry>itemPrice</entry>
         <entry>优惠券</entry>
         <entry>无可用</entry>
@@ -699,6 +704,7 @@
         <entry>couponList</entry>
         <entry>退出</entry>
         <entry>proxy</entry>
+        <entry>下载</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
