@@ -48,6 +48,12 @@
         <mark key="." line="9" column="33" />
         <mark key="^" line="9" column="33" />
       </file>
+      <file name="E:/project/空包1.0/site/config/index.js" timestamp="1564674776115">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="43" />
+      </file>
       <file name="E:/h5/yeyx-site-wap/pages/sp/register.vue" timestamp="1564557866342">
         <mark key="'" line="3" column="9" />
         <mark key="[" line="659" column="17" />
@@ -152,16 +158,19 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="E:/project/空包1.0/site/build/webpack.dev.conf.js" timestamp="1564674744857">
+        <mark key="'" line="54" column="26" />
+      </file>
       <file name="E:/h5/zmn-wechat/src/pages/vip/my.vue" timestamp="1564066919350">
         <mark key="'" line="88" column="6" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="E:/project/空包1.0/site/src/api/request.js" timestamp="1564589502206">
-        <mark key="[" line="3" column="42" />
-        <mark key="]" line="3" column="42" />
-        <mark key="." line="3" column="42" />
+      <file name="E:/project/空包1.0/site/src/api/request.js" timestamp="1564674841301">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="21" />
       </file>
       <file name="E:/h5/zmn-wechat/src/pages/card/components/detail-fixed.vue" timestamp="1564046472090">
@@ -508,7 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="6" filename="E:/h5/zmn-mp/src/components/coupon-label.vue" />
       <jump line="25" column="7" filename="E:/h5/zmn-mp/src/pages/activity/index.vue" />
       <jump line="583" column="34" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
       <jump line="478" column="38" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
@@ -608,16 +616,17 @@
       <jump line="0" column="0" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
       <jump line="389" column="5" filename="E:/h5/yeyx-site-wap/pages/fc/register.vue" />
       <jump line="3" column="9" filename="E:/h5/yeyx-site-wap/pages/sp/register.vue" />
+      <jump line="54" column="26" filename="E:/project/空包1.0/site/build/webpack.dev.conf.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>http://120.79.24.144</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>http://120.79.24.144</text>
       </register>
       <register name="/" type="4">
-        <text>currentStep:</text>
+        <text>proxy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXRlbS5jbGFzcyA9IChpbmRleCAlIDIgPT09IDApID8gJ3RyLWJnJyA6ICcnOwogICAgICAgICAgICBpbmRleCArPSAxOwo=</text>
@@ -660,9 +669,9 @@
       </register>
     </registers>
     <search>
-      <last-search>currentStep:</last-search>
+      <last-search>proxy</last-search>
       <last-offset />
-      <last-pattern>currentStep:</last-pattern>
+      <last-pattern>proxy</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -670,7 +679,6 @@
     </search>
     <history>
       <history-search>
-        <entry>__extra</entry>
         <entry>addOrder</entry>
         <entry>itemPrice</entry>
         <entry>优惠券</entry>
@@ -690,6 +698,7 @@
         <entry>uni-list</entry>
         <entry>couponList</entry>
         <entry>退出</entry>
+        <entry>proxy</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
