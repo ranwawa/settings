@@ -90,9 +90,6 @@
         <mark key="." line="130" column="0" />
         <mark key="^" line="182" column="20" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/my/my.vue" timestamp="1564651930392">
-        <mark key="'" line="138" column="25" />
-      </file>
       <file name="E:/h5/zmn-wechat/src/api/product.js" timestamp="1563886944521">
         <mark key="'" line="2" column="14" />
         <mark key="[" line="22" column="23" />
@@ -118,6 +115,13 @@
         <mark key="]" line="97" column="61" />
         <mark key="." line="97" column="61" />
         <mark key="^" line="97" column="61" />
+      </file>
+      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1564658836175">
+        <mark key="'" line="527" column="18" />
+        <mark key="[" line="430" column="48" />
+        <mark key="]" line="430" column="63" />
+        <mark key="." line="430" column="63" />
+        <mark key="^" line="430" column="63" />
       </file>
       <file name="E:/h5/zmn-wechat/src/components/coupon-list.vue" timestamp="1564131878819">
         <mark key="'" line="51" column="28" />
@@ -213,7 +217,6 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="604" column="0" />
         <mark key="]" line="604" column="0" />
-        <mark key="^" line="599" column="32" />
         <mark key="." line="604" column="0" />
       </file>
       <file name="E:/h5/zmn-mp/src/pages/address/create.vue" timestamp="1564171159348">
@@ -258,7 +261,7 @@
         <mark key="." line="139" column="33" />
         <mark key="^" line="139" column="33" />
       </file>
-      <file name="E:/h5/zmn-mp/src/utils/getToken.js" timestamp="1564134621923">
+      <file name="E:/h5/zmn-mp/src/utils/getToken.js" timestamp="1564658397292">
         <mark key="'" line="21" column="8" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="5" />
@@ -379,7 +382,6 @@
       <jump line="20" column="23" filename="E:/h5/yeyx-sp-back/nuxt.config.js" />
       <jump line="184" column="47" filename="E:/h5/yeyx-site-wap/pages/about/components/news.vue" />
       <jump line="256" column="13" filename="E:/h5/yeyx-site-wap/pages/about/detail/_id.vue" />
-      <jump line="527" column="9" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="898" column="0" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="290" column="0" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="243" column="9" filename="E:/h5/yeyx-site-wap/pages/about/components/news.vue" />
@@ -453,16 +455,17 @@
       <jump line="40" column="20" filename="E:/h5/yeyx-site-wap/pages/about/components/us.vue" />
       <jump line="203" column="9" filename="E:/h5/yeyx-site-wap/pages/about/components/us.vue" />
       <jump line="138" column="25" filename="E:/h5/zmn-mp/src/pages/my/my.vue" />
+      <jump line="527" column="18" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this.$alert('系统异常,请稍后再试')</text>
       </register>
       <register name="-" type="4">
-        <text>。</text>
+        <text>this.$alert('系统异常,请稍后再试')</text>
       </register>
       <register name="/" type="4">
-        <text>订单</text>
+        <text>onLoad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXRlbS5jbGFzcyA9IChpbmRleCAlIDIgPT09IDApID8gJ3RyLWJnJyA6ICcnOwogICAgICAgICAgICBpbmRleCArPSAxOwo=</text>
@@ -503,9 +506,9 @@
       </register>
     </registers>
     <search>
-      <last-search>订单</last-search>
+      <last-search>onLoad</last-search>
       <last-offset />
-      <last-pattern>订单</last-pattern>
+      <last-pattern>onLoad</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -513,7 +516,6 @@
     </search>
     <history>
       <history-search>
-        <entry>body</entry>
         <entry>10</entry>
         <entry>收单</entry>
         <entry>custom</entry>
@@ -533,6 +535,7 @@
         <entry>与朋友</entry>
         <entry>way</entry>
         <entry>订单</entry>
+        <entry>onLoad</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
