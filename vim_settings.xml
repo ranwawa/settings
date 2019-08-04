@@ -300,12 +300,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/h5/zmn-mp/src/main.js" timestamp="1564663466416">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="25" column="47" />
-        <mark key="." line="32" column="0" />
+      <file name="E:/h5/zmn-mp/src/main.js" timestamp="1564898322426">
+        <mark key="'" line="36" column="6" />
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="35" column="2" />
+        <mark key="^" line="35" column="2" />
+        <mark key="." line="35" column="2" />
       </file>
       <file name="E:/h5/zmn-wechat/src/utils/redirect_weixin_auth.js" timestamp="1564129242689">
         <mark key="'" line="10" column="1" />
@@ -373,7 +373,6 @@
         <mark key="." line="369" column="34" />
         <mark key="^" line="369" column="34" />
       </file>
-      <file name="E:/h5/zmn-wechat/package.json" timestamp="1564713485127" />
       <file name="E:/h5/zmn-mp/src/api/user.js" timestamp="1563865571040">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="0" />
@@ -397,8 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="35" filename="E:/h5/yeyx-site-wap/pages/about/components/news.vue" />
-      <jump line="40" column="0" filename="E:/h5/yeyx-site-wap/pages/about/components/advertises.vue" />
       <jump line="112" column="22" filename="E:/h5/yeyx-site-wap/pages/about/components/us.vue" />
       <jump line="50" column="6" filename="E:/h5/yeyx-site-wap/nuxt.config.js" />
       <jump line="38" column="3" filename="E:/h5/yeyx-site-wap/nuxt.config.js" />
@@ -497,16 +494,18 @@
       <jump line="176" column="37" filename="E:/h5/yeyx-site-pc/about/index.html" />
       <jump line="200" column="29" filename="E:/h5/yeyx-site-pc/about/index.html" />
       <jump line="0" column="0" filename="E:/h5/zmn-mp/src/pages/product/category.vue" />
+      <jump line="39" column="34" filename="E:/h5/zmn-mp/src/main.js" />
+      <jump line="36" column="6" filename="E:/h5/zmn-mp/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>del d</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>del d</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>errorHandler</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyDJzMa3t/7O8c/uz+rH6aOo08PT2rzbxL+x7aOpCiAgZ2V0U2VydkNhdGVnb3J5OiAocGFyYW0pID0+IHJlcXVlc3QoJ3NlcnZDYXRlZ29yeS9nZXRTZXJ2U2VydmljZUdyb3VwSW5mbycsIHBhcmFtKSwK</text>
@@ -547,9 +546,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>errorHandler</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>errorHandler</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -557,7 +556,6 @@
     </search>
     <history>
       <history-search>
-        <entry>currentStep:</entry>
         <entry>v-for</entry>
         <entry>el-input</entry>
         <entry>确认</entry>
@@ -577,6 +575,7 @@
         <entry>us</entry>
         <entry>师傅</entry>
         <entry>onLoad</entry>
+        <entry>errorHandler</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
