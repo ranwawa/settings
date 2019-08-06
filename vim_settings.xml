@@ -165,11 +165,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/pages/home/index.vue" timestamp="1565061666945">
-        <mark key="'" line="491" column="9" />
-        <mark key="[" line="400" column="0" />
-        <mark key="]" line="400" column="0" />
-        <mark key="." line="400" column="0" />
+      <file name="E:/h5/zmn-wechat/src/pages/home/index.vue" timestamp="1565071573281">
+        <mark key="'" line="496" column="9" />
+        <mark key="[" line="342" column="28" />
+        <mark key="]" line="342" column="28" />
+        <mark key="." line="342" column="28" />
+        <mark key="^" line="342" column="27" />
       </file>
       <file name="E:/h5/yeyx-site-pc/js/script/main.js" timestamp="1564667575410">
         <mark key="[" line="76" column="79" />
@@ -305,20 +306,20 @@
       <jump line="51" column="36" filename="E:/h5/zmn-wechat/test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBvblNob3coKSB7CiAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>uni-cloud</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LndyaXRlKCcxMTExMTExMTExMTEnKTsK</text>
+        <text encoding="base64">ICB1bmkuc2hvd01vZGFsKHsgdGl0bGU6ICcxMjMnIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvblNob3coKSB7CiAgfSwK</text>
+        <text encoding="base64">ICB1bmkuc2hvd01vZGFsKHsgdGl0bGU6ICcxMjMnIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
@@ -327,12 +328,24 @@
         <text encoding="base64">ICBkb2N1bWVudC53cml0ZWxuKG15Lm9uTWVzc2FnZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1bmkuc2hvd1RvYXN0KHsgdGl0bGU6ICcxMTEnIH0pOwo=</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LndyaXRlKCcxMTExMTExMTExMTEnKTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHVuaS5zaG93TW9kYWwoeyB0aXRsZTogMTIzNDU2NyB9KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBvblNob3coKSB7CiAgfSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkb2N1bWVudC53cml0ZWxuKG15Lm9uTWVzc2FnZSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB1bmkuc2hvd1RvYXN0KHsgdGl0bGU6ICcxMTEnIH0pOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICA7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>document.writeln('我去啊1--1');
     document.write('111111111111');
     my.onMessage = function (e) {
@@ -341,26 +354,14 @@
     };
     my.postMessage({ name: 'ranwawa123456789' });</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG15LmFsZXJ0KHsgdGl0bGU6ICcxMjMxMjMxMjMnIH0pOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG15LnBvc3RNZXNzYWdlKHsgbmFtZTogJ3Jhbndhd2EnIH0pOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG15LnBvc3RNZXNzYWdlKHsgbmFtZTogJ3Jhbndhd2EnIH0pOwo=</text>
-      </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>uni-cloud</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>uni-cloud</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -368,7 +369,6 @@
     </search>
     <history>
       <history-search>
-        <entry>grouplist</entry>
         <entry>group</entry>
         <entry>counter</entry>
         <entry>coutner2</entry>
@@ -388,6 +388,7 @@
         <entry>h5</entry>
         <entry>uni</entry>
         <entry>onLoad</entry>
+        <entry>uni-cloud</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
