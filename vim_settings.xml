@@ -38,6 +38,7 @@
         <mark key="^" line="9" column="45" />
         <mark key="." line="9" column="45" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/api/address.js" timestamp="1565144839824" />
       <file name="E:/h5/yeyx-sp-back/pages/master/recruit.vue" timestamp="1564663149849">
         <mark key="'" line="323" column="6" />
         <mark key="[" line="361" column="70" />
@@ -124,13 +125,15 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="E:/h5/xiujiadian/pcPortal/pages/order.html" timestamp="1565140695972">
-        <mark key="'" line="0" column="15" />
-        <mark key="[" line="74" column="14" />
-        <mark key="]" line="74" column="14" />
-        <mark key="^" line="74" column="13" />
-        <mark key="." line="74" column="14" />
+      <file name="E:/h5/xiujiadian/pcPortal/pages/order.html" timestamp="1565148691215">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="679" column="2" />
+        <mark key="]" line="679" column="4" />
+        <mark key="." line="679" column="4" />
+        <mark key="^" line="679" column="4" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/pages/address/create.vue" timestamp="1565144900799" />
+      <file name="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" timestamp="1565149055771" />
       <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1564996815053">
         <mark key="'" line="320" column="15" />
         <mark key="[" line="372" column="0" />
@@ -204,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="15" filename="E:/h5/zmn-mp/src/pages/my/my.vue" />
       <jump line="41" column="12" filename="E:/h5/zmn-mp/public/test.html" />
       <jump line="34" column="2" filename="E:/h5/zmn-mp/public/test.html" />
       <jump line="39" column="2" filename="E:/h5/zmn-mp/public/test.html" />
@@ -303,62 +305,60 @@
       <jump line="542" column="30" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="551" column="0" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="559" column="34" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
-      <jump line="0" column="15" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="306" column="12" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="0" column="0" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>move</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text>move</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
-        <text>select</text>
+        <text>option</text>
       </register>
       <register name="0" type="4">
-        <text>joinElement(res.data)</text>
+        <text>$('.street').html(joinElement([]))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtLmNhdGVnSWQpOwo=</text>
+        <text encoding="base64">ICBkYXkuY2hpbGRyZW4uZm9yRWFjaCgoZWxlKSA9PiB7CiAgICAKICB9KTsK</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">bGV0IFtzdGFydCwgZW5kXSA9IGVsZS52YWx1ZS5zcGxpdCgnLScpOwogICAgc3RhcnQgPSBwYXJzZUludChzdGFydCwgMTApOwogICAgZW5kID0gcGFyc2VJbnQoZW5kLCAxMCk7CiAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgaWYgKG5vdyA8IGVuZCAmJiBub3cgPiBzdGFydCkgewogICAgICBlbGUuY2hpbGRyZW4gPSBlbGUuY2hpbGRyZW4uZmlsdGVyKGUgPT4gewogICAgICAgIHJldHVybiBub3cgPCBlLnZhbHVlOwogICAgICB9KTsKICAgICAgbmV3Q2hpbGRyZW4ucHVzaChlbGUpOwogICAgfQogICAgaWYgKG5vdyA8IHN0YXJ0KSBuZXdDaGlsZHJlbi5wdXNoKGVsZSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygkKGUudGFyZ2V0KS5hdHRyKCd0aXRsZScpKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIDsK</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8gx+Wz/dCh09q1scewyrG85LXjtcTKsbzkCmNsZWFyVGltZXMoZGF5KSB7CiAgY29uc3QgbmV3Q2hpbGRyZW4gPSBbXTsKICBkYXkuY2hpbGRyZW4uZm9yRWFjaCgoZWxlKSA9PiB7CiAgICBsZXQgW3N0YXJ0LCBlbmRdID0gZWxlLnZhbHVlLnNwbGl0KCctJyk7CiAgICBzdGFydCA9IHBhcnNlSW50KHN0YXJ0LCAxMCk7CiAgICBlbmQgPSBwYXJzZUludChlbmQsIDEwKTsKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICBpZiAobm93IDwgZW5kICYmIG5vdyA+IHN0YXJ0KSB7CiAgICAgIGVsZS5jaGlsZHJlbiA9IGVsZS5jaGlsZHJlbi5maWx0ZXIoZSA9PiB7CiAgICAgICAgcmV0dXJuIG5vdyA8IGUudmFsdWU7CiAgICAgIH0pOwogICAgICBuZXdDaGlsZHJlbi5wdXNoKGVsZSk7CiAgICB9CiAgICBpZiAobm93IDwgc3RhcnQpIG5ld0NoaWxkcmVuLnB1c2goZWxlKTsKICB9KTsKICBkYXkuY2hpbGRyZW4gPSBuZXdDaGlsZHJlbjsKfSwKLyoqCiAqILvxyKHWuLaousXK/bXEMLXjyrG85AogKiBAcGFyYW0gZGF0ZSB7RGF0ZX0gyNXG2gogKi8KZ2V0QmVnZ2luVGltZShkYXRlID0gbmV3IERhdGUoKSkgewogIGRhdGUuc2V0SG91cnMoMCk7CiAgZGF0ZS5zZXRNaW51dGVzKDApOwogIGRhdGUuc2V0U2Vjb25kcygwKTsKICByZXR1cm4gZGF0ZTsKfSwKLy8gu/HIoc60wLS8uMzstcS6xcr9CmdldERheXMobGVuZ3RoID0gNykgewogIGNvbnN0IHRvZGF5ID0gdGhpcy5nZXRCZWdnaW5UaW1lKCkuZ2V0VGltZSgpOwogIGNvbnN0IGRheXMgPSBBcnJheS5mcm9tKG5ldyBBcnJheShsZW5ndGgpKS5tYXAoKGUsIGkpID0+IHsKICAgIGNvbnN0IGRheSA9IHRvZGF5ICsgaSAqICgxMDAwICogNjAgKiA2MCAqIDI0KTsKICAgIHJldHVybiB7CiAgICAgIGxhYmVsOiBgJHtuZXcgRGF0ZShkYXkpLmdldERhdGUoKX26xWAsCiAgICAgIHZhbHVlOiBkYXksCiAgICAgIGNoaWxkcmVuOiB0aGlzLmdldFNlZ21lbnRzKGkpLAogICAgfTsKICB9KTsKICB0aGlzLmNsZWFyVGltZXMoZGF5c1swXSk7CiAgcmV0dXJuIGRheXM7Cn0sCi8qKgogKiC78cihxLPSu8zstcTKsbzkts4KICoKICovCmdldFNlZ21lbnRzKG9mZnNldCA9IDAsIHNlZ21lbnRzID0gWyfU58nPJywgJ8nPzucnLCAnz8LO5ycsICfN7cnPJ10pIHsKICBjb25zdCBkYXRlID0gbmV3IERhdGUoRGF0ZS5ub3coKSArIChvZmZzZXQgKiAoMTAwMCAqIDYwICogNjAgKiAyNCkpKTsKICBjb25zdCB0b2RheSA9IHRoaXMuZ2V0QmVnZ2luVGltZShkYXRlKTsKICBjb25zdCBndXR0ZXIgPSAoMjQgKiA2MCAqIDYwICogMTAwMCAvIHNlZ21lbnRzLmxlbmd0aCk7CiAgLy8gsrvE3NX7s/2+zbe1u9jfwgogIGlmICgyNCAlIHNlZ21lbnRzLmxlbmd0aCAhPT0gMCkgcmV0dXJuIGZhbHNlOwogIHJldHVybiBzZWdtZW50cy5tYXAoKGUsIGkpID0+IHsKICAgIGNvbnN0IHZhbHVlID0gYCR7Z3V0dGVyICogaSArIHRvZGF5LmdldFRpbWUoKX0tJHtndXR0ZXIgKiAoaSArIDEpICsgdG9kYXkuZ2V0VGltZSgpfWA7CiAgICByZXR1cm4gewogICAgICBsYWJlbDogZSwKICAgICAgdmFsdWUsCiAgICAgIGNoaWxkcmVuOiB0aGlzLmdldFRpbWVzKDMwLCB2YWx1ZSksCiAgICB9OwogIH0pOwp9LAovKioKICogu/HIocqxvOS85Lj0CiAqIEBwYXJhbSBndXR0ZXIge051bWJlcn0gvOS49LfW1tPK/SDI5yAzMLfW1tMKICogQHBhcmFtIHZhbHVlIHtTdHJpbmd9IMqxvOS3ts6nIMjnICIxNTYxNjcyODAwNzc2LTE1NjE2OTQ0MDA3NzYiCiAqIEByZXR1cm5zIHt7bGFiZWw6IHN0cmluZywgdmFsdWU6ICgqfHN0cmluZyl9W119CiAqLwpnZXRUaW1lcyhndXR0ZXIgPSAzMCwgdmFsdWUpIHsKICBsZXQgW3N0YXJ0LCBlbmRdID0gdmFsdWUuc3BsaXQoJy0nKTsKICBzdGFydCA9IHBhcnNlSW50KHN0YXJ0LCAxMCk7CiAgZW5kID0gcGFyc2VJbnQoZW5kLCAxMCk7CiAgY29uc3QgZ2V0SG91ciA9ICh0KSA9PiB7CiAgICByZXR1cm4gbmV3IERhdGUodCkuZ2V0SG91cnMoKS50b1N0cmluZygpLnBhZFN0YXJ0KDIsICcwJyk7CiAgfTsKICBjb25zdCBnZXRNaW51dGVzID0gKHQpID0+IHsKICAgIHJldHVybiBuZXcgRGF0ZSh0KS5nZXRNaW51dGVzKCkudG9TdHJpbmcoKS5wYWRTdGFydCgyLCAnMCcpOwogIH07CiAgbGV0IHZhbHVlU3RhcnQgPSAnJzsKICBsZXQgdmFsdWVFbmQgPSAnJzsKICBsZXQgbmV3R3V0dGVyID0gZ3V0dGVyICogNjAgKiAxMDAwOwogIHJldHVybiBBcnJheS5mcm9tKG5ldyBBcnJheSgoZW5kIC0gc3RhcnQpIC8gbmV3R3V0dGVyKSkubWFwKChlLCBpKSA9PiB7CiAgICB2YWx1ZVN0YXJ0ID0gc3RhcnQgKyBpICogbmV3R3V0dGVyOwogICAgdmFsdWVFbmQgPSBzdGFydCArIChpICsgMSkgKiBuZXdHdXR0ZXI7CiAgICByZXR1cm4gewogICAgICBsYWJlbDogYCR7Z2V0SG91cih2YWx1ZVN0YXJ0KX06JHtnZXRNaW51dGVzKHZhbHVlU3RhcnQpfSAtICR7CiAgICAgICAgZ2V0SG91cih2YWx1ZUVuZCl9OiR7Z2V0TWludXRlcyh2YWx1ZUVuZCl9YCwKICAgICAgdmFsdWU6IHZhbHVlRW5kLAogICAgfTsKICB9KTsKfSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygkKGUpLmZpbmQoJy5zdHJlZXQtY29udGVudCcpKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA7Cg==</text>
+        <text encoding="base64">ICB2YXIgb3B0aW9uID0gJChlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxMjMxMjMxMzIpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>// 选择区县
-$('.area').click(function (res) {
-  var ele = $(res.target);
-})</text>
+      <register name="8" type="2">
+        <text encoding="base64">JCgnLnN0cmVldCcpLmNsaWNrKGZ1bmN0aW9uIChlKSB7CiAgY29uc29sZS5sb2coZS50YXJnZXQpOwp9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAkKCcuYXJlYScpLmhpZGUoKS5wYXJlbnQoKS5maW5kKCdpbnB1dCcpLnZhbChlbGUuYXR0cigndGl0bGUnKSk7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>select</last-search>
+      <last-search>option</last-search>
       <last-offset />
-      <last-pattern>select</last-pattern>
+      <last-pattern>option</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -366,7 +366,6 @@ $('.area').click(function (res) {
     </search>
     <history>
       <history-search>
-        <entry>uni-cloud</entry>
         <entry>id</entry>
         <entry encoding="base64">aXRoIA==</entry>
         <entry>selector</entry>
@@ -386,6 +385,7 @@ $('.area').click(function (res) {
         <entry>hide</entry>
         <entry>暂无可用城市</entry>
         <entry>select</entry>
+        <entry>option</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
