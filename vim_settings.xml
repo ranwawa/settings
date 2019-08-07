@@ -125,15 +125,18 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="E:/h5/xiujiadian/pcPortal/pages/order.html" timestamp="1565149891004">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="647" column="39" />
-        <mark key="]" line="648" column="29" />
-        <mark key="." line="648" column="29" />
-        <mark key="^" line="648" column="29" />
+      <file name="E:/h5/xiujiadian/pcPortal/pages/order.html" timestamp="1565158029275">
+        <mark key="'" line="664" column="41" />
+        <mark key="[" line="665" column="55" />
+        <mark key="]" line="665" column="57" />
+        <mark key="." line="665" column="57" />
+        <mark key="^" line="665" column="57" />
       </file>
       <file name="E:/h5/zmn-wechat/src/pages/address/create.vue" timestamp="1565144900799" />
-      <file name="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" timestamp="1565149834478" />
+      <file name="E:/h5/zmn-wechat/src/pages/reserve/commit.vue" timestamp="1565157374406">
+        <mark key="[" line="476" column="0" />
+        <mark key="]" line="476" column="61" />
+      </file>
       <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1564996815053">
         <mark key="'" line="320" column="15" />
         <mark key="[" line="372" column="0" />
@@ -207,8 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="12" filename="E:/h5/zmn-mp/public/test.html" />
-      <jump line="34" column="2" filename="E:/h5/zmn-mp/public/test.html" />
       <jump line="39" column="2" filename="E:/h5/zmn-mp/public/test.html" />
       <jump line="27" column="5" filename="E:/h5/zmn-mp/public/test.html" />
       <jump line="30" column="55" filename="E:/h5/zmn-mp/public/test.html" />
@@ -307,49 +308,51 @@
       <jump line="559" column="34" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="306" column="12" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="0" column="0" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="654" column="17" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="664" column="41" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.</text>
+        <text>gutter * (n + 1)</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>gutter * (n + 1)</text>
       </register>
       <register name="/" type="4">
         <text>option</text>
       </register>
       <register name="0" type="4">
-        <text>$('.street').html(joinElement([]))</text>
+        <text>(24 * 60 * 60 * 1000 / segments.length)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgdmFyIGVuZCA9IGd1dHRlciAqIChpICsgMSkgKiBkYXlNaWxsaXNlY29uZHM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVyCg==</text>
+        <text encoding="base64">ICAgICAgbGlzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICAvLyC78cihxLPSu8zstcTKsbzkts4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgCg==</text>
+        <text encoding="base64">ICAgIG9mZnNldCA9IG9mZnNldCB8fCAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0aGlzLmxlbmd0aAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIDsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB2YXIgZ2V0U2VnbWVudHNrago=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGZvciAoKSA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAodmFyIGkgPSAxLCBpbmRleCA8ICkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dmFyIGdldFJlc2VydmVUaW1lID0gZnVuY3Rpb24gKCkgewogLy8gx+Wz/dCh09q1scewyrG85LXjtcTKsbzkCnZhciBjbGVhclRpbWVzID0gZnVuY3Rpb24gKGRheSkgewogIHZhciBuZXdDaGlsZHJlbiA9IFtdOwogICQuZWFjaChkYXkuY2hpbGRyZW4sIGZ1bmN0aW9uIChpbmRleCwgZWxlKSB7CiAgICBsZXQgW3N0YXJ0LCBlbmRdID0gZWxlLnZhbHVlLnNwbGl0KCctJyk7CiAgICBzdGFydCA9IHBhcnNlSW50KHN0YXJ0LCAxMCk7CiAgICBlbmQgPSBwYXJzZUludChlbmQsIDEwKTsKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICBpZiAobm93IDwgZW5kICYmIG5vdyA+IHN0YXJ0KSB7CiAgICAgIGVsZS5jaGlsZHJlbiA9IGVsZS5jaGlsZHJlbi5maWx0ZXIoZSA9PiB7CiAgICAgICAgcmV0dXJuIG5vdyA8IGUudmFsdWU7CiAgICAgIH0pOwogICAgICBuZXdDaGlsZHJlbi5wdXNoKGVsZSk7CiAgICB9CiAgICBpZiAobm93IDwgc3RhcnQpIG5ld0NoaWxkcmVuLnB1c2goZWxlKTsKICB9KTsKICBkYXkuY2hpbGRyZW4gPSBuZXdDaGlsZHJlbjsKfTsKLyoqCiAqILvxyKHWuLaousXK/bXEMLXjyrG85AogKiBAcGFyYW0gZGF0ZSB7RGF0ZX0gyNXG2gogKi8KdmFyIGdldEJlZ2dpblRpbWUgPSBmdW5jdGlvbiAoZGF0ZSkgewogIGRhdGUgPSBkYXRlIHx8IG5ldyBEYXRlKCk7CiAgZGF0ZS5zZXRIb3VycygwKTsKICBkYXRlLnNldE1pbnV0ZXMoMCk7CiAgZGF0ZS5zZXRTZWNvbmRzKDApOwogIHJldHVybiBkYXRlOwp9OwovLyC78cihzrTAtLy4zOy1xLrFyv0KdmFyIGdldERheXMgPSBmdW5jdGlvbiAobGVuZ3RoKSB7CiAgbGVuZ3RoID0gbGVuZ3RoIHx8IDc7CiAgdmFyIHRvZGF5ID0gZ2V0QmVnZ2luVGltZSgpLmdldFRpbWUoKTsKICB2YXIgZGF5cyA9IEFycmF5LmZyb20obmV3IEFycmF5KGxlbmd0aCkpLm1hcCgoZSwgaSkgPT4gewogICAgY29uc3QgZGF5ID0gdG9kYXkgKyBpICogKDEwMDAgKiA2MCAqIDYwICogMjQpOwogICAgcmV0dXJuIHsKICAgICAgbGFiZWw6IGAke25ldyBEYXRlKGRheSkuZ2V0RGF0ZSgpfbrFYCwKICAgICAgdmFsdWU6IGRheSwKICAgICAgY2hpbGRyZW46IHRoaXMuZ2V0U2VnbWVudHMoaSksCiAgICB9OwogIH0pOwogIHRoaXMuY2xlYXJUaW1lcyhkYXlzWzBdKTsKICByZXR1cm4gZGF5czsKfSwKLyoqCiAqILvxyKHEs9K7zOy1xMqxvOS2zgogKgogKi8KZ2V0U2VnbWVudHMob2Zmc2V0ID0gMCwgc2VnbWVudHMgPSBbJ9Tnyc8nLCAnyc/O5ycsICfPws7nJywgJ83tyc8nXSkgewogIGNvbnN0IGRhdGUgPSBuZXcgRGF0ZShEYXRlLm5vdygpICsgKG9mZnNldCAqICgxMDAwICogNjAgKiA2MCAqIDI0KSkpOwogIGNvbnN0IHRvZGF5ID0gdGhpcy5nZXRCZWdnaW5UaW1lKGRhdGUpOwogIGNvbnN0IGd1dHRlciA9ICgyNCAqIDYwICogNjAgKiAxMDAwIC8gc2VnbWVudHMubGVuZ3RoKTsKICAvLyCyu8Tc1fuz/b7Nt7W72N/CCiAgaWYgKDI0ICUgc2VnbWVudHMubGVuZ3RoICE9PSAwKSByZXR1cm4gZmFsc2U7CiAgcmV0dXJuIHNlZ21lbnRzLm1hcCgoZSwgaSkgPT4gewogICAgY29uc3QgdmFsdWUgPSBgJHtndXR0ZXIgKiBpICsgdG9kYXkuZ2V0VGltZSgpfS0ke2d1dHRlciAqIChpICsgMSkgKyB0b2RheS5nZXRUaW1lKCl9YDsKICAgIHJldHVybiB7CiAgICAgIGxhYmVsOiBlLAogICAgICB2YWx1ZSwKICAgICAgY2hpbGRyZW46IHRoaXMuZ2V0VGltZXMoMzAsIHZhbHVlKSwKICAgIH07CiAgfSk7Cn0sCi8qKgogKiC78cihyrG85LzkuPQKICogQHBhcmFtIGd1dHRlciB7TnVtYmVyfSC85Lj0t9bW08r9IMjnIDMwt9bW0wogKiBAcGFyYW0gdmFsdWUge1N0cmluZ30gyrG85Le2zqcgyOcgIjE1NjE2NzI4MDA3NzYtMTU2MTY5NDQwMDc3NiIKICogQHJldHVybnMge3tsYWJlbDogc3RyaW5nLCB2YWx1ZTogKCp8c3RyaW5nKX1bXX0KICovCmdldFRpbWVzKGd1dHRlciA9IDMwLCB2YWx1ZSkgewogIGxldCBbc3RhcnQsIGVuZF0gPSB2YWx1ZS5zcGxpdCgnLScpOwogIHN0YXJ0ID0gcGFyc2VJbnQoc3RhcnQsIDEwKTsKICBlbmQgPSBwYXJzZUludChlbmQsIDEwKTsKICBjb25zdCBnZXRIb3VyID0gKHQpID0+IHsKICAgIHJldHVybiBuZXcgRGF0ZSh0KS5nZXRIb3VycygpLnRvU3RyaW5nKCkucGFkU3RhcnQoMiwgJzAnKTsKICB9OwogIGNvbnN0IGdldE1pbnV0ZXMgPSAodCkgPT4gewogICAgcmV0dXJuIG5ldyBEYXRlKHQpLmdldE1pbnV0ZXMoKS50b1N0cmluZygpLnBhZFN0YXJ0KDIsICcwJyk7CiAgfTsKICBsZXQgdmFsdWVTdGFydCA9ICcnOwogIGxldCB2YWx1ZUVuZCA9ICcnOwogIGxldCBuZXdHdXR0ZXIgPSBndXR0ZXIgKiA2MCAqIDEwMDA7CiAgcmV0dXJuIEFycmF5LmZyb20obmV3IEFycmF5KChlbmQgLSBzdGFydCkgLyBuZXdHdXR0ZXIpKS5tYXAoKGUsIGkpID0+IHsKICAgIHZhbHVlU3RhcnQgPSBzdGFydCArIGkgKiBuZXdHdXR0ZXI7CiAgICB2YWx1ZUVuZCA9IHN0YXJ0ICsgKGkgKyAxKSAqIG5ld0d1dHRlcjsKICAgIHJldHVybiB7CiAgICAgIGxhYmVsOiBgJHtnZXRIb3VyKHZhbHVlU3RhcnQpfToke2dldE1pbnV0ZXModmFsdWVTdGFydCl9IC0gJHsKICAgICAgICBnZXRIb3VyKHZhbHVlRW5kKX06JHtnZXRNaW51dGVzKHZhbHVlRW5kKX1gLAogICAgICB2YWx1ZTogdmFsdWVFbmQsCiAgICB9OwogIH0pOwp9LAoKfTsK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
