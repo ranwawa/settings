@@ -65,12 +65,12 @@
         <mark key="." line="437" column="17" />
         <mark key="^" line="437" column="17" />
       </file>
-      <file name="E:/h5/xiujiadian/pcPortal/pages/order.html" timestamp="1565236645971">
-        <mark key="'" line="1" column="5" />
-        <mark key="[" line="591" column="0" />
-        <mark key="]" line="591" column="0" />
-        <mark key="." line="591" column="0" />
-        <mark key="^" line="590" column="25" />
+      <file name="E:/h5/xiujiadian/pcPortal/pages/order.html" timestamp="1565243305948">
+        <mark key="'" line="1001" column="4" />
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
       </file>
       <file name="/detail.html" timestamp="1565230113000" />
       <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1564996815053">
@@ -261,15 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="445" column="18" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
-      <jump line="468" column="0" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
-      <jump line="379" column="36" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
-      <jump line="198" column="11" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
-      <jump line="269" column="7" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
-      <jump line="107" column="25" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
-      <jump line="517" column="5" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
-      <jump line="519" column="2" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
-      <jump line="500" column="0" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="250" column="12" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="308" column="0" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="42" column="11" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
@@ -356,21 +347,30 @@
       <jump line="559" column="8" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="59" column="13" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="239" column="22" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
-      <jump line="537" column="29" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="340" column="30" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="339" column="16" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
-      <jump line="0" column="0" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="1" column="5" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="594" column="8" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="0" column="0" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="252" column="9" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="536" column="26" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="537" column="20" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="540" column="20" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="543" column="20" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="854" column="4" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="857" column="15" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="858" column="2" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="1001" column="4" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Document</text>
       </register>
       <register name="-" type="4">
-        <text>middle</text>
+        <text>Document</text>
       </register>
       <register name="/" type="4">
-        <text>form-button</text>
+        <text>getDate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhdXRvY29tcGxldGU9Im9mZiIK</text>
@@ -410,9 +410,9 @@
       </register>
     </registers>
     <search>
-      <last-search>form-button</last-search>
+      <last-search>getDate</last-search>
       <last-offset />
-      <last-pattern>form-button</last-pattern>
+      <last-pattern>getDate</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -420,9 +420,6 @@
     </search>
     <history>
       <history-search>
-        <entry>执行</entry>
-        <entry>pdata</entry>
-        <entry>button</entry>
         <entry>console</entry>
         <entry>post</entry>
         <entry>export</entry>
@@ -440,6 +437,9 @@
         <entry>form-item</entry>
         <entry>placeholder</entry>
         <entry>form-button</entry>
+        <entry>title</entry>
+        <entry>time</entry>
+        <entry>getDate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
