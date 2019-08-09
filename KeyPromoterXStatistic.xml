@@ -89,6 +89,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="File">
+        <Item>
+          <IdeaActionID>NewFile</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+F'</ShortCut>
+          <Description>File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Flatten Packages">
         <Item>
           <IdeaActionID>TodoViewGroupByFlattenPackage</IdeaActionID>
@@ -262,7 +270,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>124</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
