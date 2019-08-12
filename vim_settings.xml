@@ -138,6 +138,9 @@
         <mark key="^" line="34" column="72" />
         <mark key="." line="34" column="72" />
       </file>
+      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1565576675263">
+        <mark key="'" line="0" column="9" />
+      </file>
       <file name="E:/h5/yeyx-site-wap/nuxt.config.js" timestamp="1565230328481">
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="15" />
@@ -786,10 +789,10 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="55" column="6" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/pages/home/index.vue" timestamp="1565575750676">
+      <file name="E:/h5/zmn-wechat/src/pages/home/index.vue" timestamp="1565576664383">
         <mark key="'" line="53" column="7" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="24" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="36" />
         <mark key="." line="24" column="0" />
       </file>
       <file name="E:/h5/zmn-saas/src/pages/home/components/home_contact.vue" timestamp="1565341771793">
@@ -815,7 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="867" column="17" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="826" column="0" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="722" column="26" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="733" column="14" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
@@ -915,58 +917,59 @@
       <jump line="572" column="20" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="0" column="15" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="860" column="6" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
+      <jump line="0" column="9" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA8IS0tILaptaXA4NDNIC0tPgogIDxkaXYgY2xhc3M9ImZvcm0taXRlbSByZXF1aXJlZCI+CiAgICA8bGFiZWwgY2xhc3M9ImZvcm0tbGFiZWwiPgogICAgICC2qbWlwODQzQogICAgPC9sYWJlbD4KICAgIDxkaXYgY2xhc3M9ImZvcm0tcmFkaW8tZ3JvdXAiPgogICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tcmFkaW8gYWN0aXZlIj4KICAgICAgICA8aW5wdXQKICAgICAgICAgIG5hbWU9InN0YXR1cyIKICAgICAgICAgIHZhbHVlPSIxIgogICAgICAgICAgdHlwZT0icmFkaW8iCiAgICAgICAgICBhdXRvY29tcGxldGU9Im9mZiIKICAgICAgICAgIGNoZWNrZWQKICAgICAgICA+CiAgICAgICAg0MK1pQogICAgICA8L2xhYmVsPgogICAgPC9kaXY+CiAgPC9kaXY+CiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFNlYXJjaCBmcm9tICdAL2NvbXBvbmVudHMvc2VhcmNoLnZ1ZSc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>订单类型</text>
+        <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JCgnaW5wdXRbdHlwZT0icmFkaW8iXScpLmNoYW5nZShmdW5jdGlvbiAoZSkgewogICQodGhpcykucGFyZW50KCkucGFyZW50KCkuZmluZCgnLmZvcm0tcmFkaW8nKS5yZW1vdmVDbGFzcygnYWN0aXZlJyk7CiAgJCh0aGlzKS5wYXJlbnQoKS5hZGRDbGFzcygnYWN0aXZlJyk7Cn0pOwo=</text>
+        <text encoding="base64">ICAgIDwhLS0gtqWyv8vRy/cgIC0tPgogICAgPGNvbW0tc2VhcmNoIDpzaG93LWhvdD0idHJ1ZSIgLz4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICA8IS0tILaptaXA4NDNIC0tPgogIDxkaXYgY2xhc3M9ImZvcm0taXRlbSByZXF1aXJlZCI+CiAgICA8bGFiZWwgY2xhc3M9ImZvcm0tbGFiZWwiPgogICAgICC2qbWlwODQzQogICAgPC9sYWJlbD4KICAgIDxkaXYgY2xhc3M9ImZvcm0tcmFkaW8tZ3JvdXAiPgogICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tcmFkaW8gYWN0aXZlIj4KICAgICAgICA8aW5wdXQKICAgICAgICAgIG5hbWU9InN0YXR1cyIKICAgICAgICAgIHZhbHVlPSIxIgogICAgICAgICAgdHlwZT0icmFkaW8iCiAgICAgICAgICBhdXRvY29tcGxldGU9Im9mZiIKICAgICAgICAgIGNoZWNrZWQKICAgICAgICA+CiAgICAgICAg0MK1pQogICAgICA8L2xhYmVsPgogICAgPC9kaXY+CiAgPC9kaXY+CiA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IFNlYXJjaCBmcm9tICdAL2NvbXBvbmVudHMvc2VhcmNoLnZ1ZSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICA8IS0tINDUsfAgLS0+CiAgPGRpdiBjbGFzcz0iZm9ybS1pdGVtIj4KICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1sYWJlbCI+CiAgICAgINDUsfAKICAgIDwvbGFiZWw+CiAgICA8ZGl2IGNsYXNzPSJmb3JtLXJhZGlvLWdyb3VwIj4KICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLXJhZGlvIGFjdGl2ZSI+CiAgICAgICAgPGlucHV0CiAgICAgICAgICBuYW1lPSJnZW5kZXIiCiAgICAgICAgICB2YWx1ZT0iMSIKICAgICAgICAgIHR5cGU9InJhZGlvIgogICAgICAgICAgYXV0b2NvbXBsZXRlPSJvZmYiCiAgICAgICAgICBjaGVja2VkCiAgICAgICAgPgogICAgICAgIMTQCiAgICAgIDwvbGFiZWw+CiAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1yYWRpbyI+CiAgICAgICAgPGlucHV0CiAgICAgICAgICBuYW1lPSJnZW5kZXIiCiAgICAgICAgICB2YWx1ZT0iMiIKICAgICAgICAgIHR5cGU9InJhZGlvIgogICAgICAgICAgYXV0b2NvbXBsZXRlPSJvZmYiCiAgICAgICAgPgogICAgICAgIMWuCiAgICAgIDwvbGFiZWw+CiAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1yYWRpbyI+CiAgICAgICAgPGlucHV0CiAgICAgICAgICBuYW1lPSJnZW5kZXIiCiAgICAgICAgICB2YWx1ZT0iMyIKICAgICAgICAgIHR5cGU9InJhZGlvIgogICAgICAgICAgYXV0b2NvbXBsZXRlPSJvZmYiCiAgICAgICAgPgogICAgICAgILGjw9wKICAgICAgPC9sYWJlbD4KICAgIDwvZGl2PgogIDwvZGl2Pgog</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFNlYXJjaCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdi1zaG93PSJzaG93RmxvYWQiCg==</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgOnN0eWxlPSJ7IGRpc3BsYXk6IHNob3dGbG9hdCA/ICdibG9jaycgOiAnbm9uZSd9Igo=</text>
+        <text encoding="base64">ICAgIDxzZWFyY2ggLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6bW9kZT0iMiIK</text>
+        <text encoding="base64">ICAgIDwhLS0gytWy2CAtLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2LW1vZGVsPSJrZXl3b3JkIgo=</text>
+        <text encoding="base64">ICAgIDwhLS08ZmF2b3JpdGU+ytWy2NChs8zQ8qOsz8K0zsq508O4/Le9seM8L2Zhdm9yaXRlPi0tPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5rZXkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICA8IS0tILaptaXA4NDNIC0tPgogIDxkaXYgY2xhc3M9ImZvcm0taXRlbSByZXF1aXJlZCI+CiAgICA8bGFiZWwgY2xhc3M9ImZvcm0tbGFiZWwiPgogICAgICC2qbWlwODQzQogICAgPC9sYWJlbD4KICAgIDxkaXYgY2xhc3M9ImZvcm0tcmFkaW8tZ3JvdXAiPgogICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tcmFkaW8gYWN0aXZlIj4KICAgICAgICA8aW5wdXQKICAgICAgICAgIG5hbWU9InN0YXR1cyIKICAgICAgICAgIHZhbHVlPSIxIgogICAgICAgICAgdHlwZT0icmFkaW8iCiAgICAgICAgICBhdXRvY29tcGxldGU9Im9mZiIKICAgICAgICAgIGNoZWNrZWQKICAgICAgICA+CiAgICAgICAg0MK1pQogICAgICA8L2xhYmVsPgogICAgPC9kaXY+CiAgPC9kaXY+CiA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">udK7+r/VtffH5c+0Csm+s/3QtMvAtcQ31dvTxbvdCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICA8IS0tINDUsfAgLS0+CiAgPGRpdiBjbGFzcz0iZm9ybS1pdGVtIj4KICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1sYWJlbCI+CiAgICAgINDUsfAKICAgIDwvbGFiZWw+CiAgICA8ZGl2IGNsYXNzPSJmb3JtLXJhZGlvLWdyb3VwIj4KICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLXJhZGlvIGFjdGl2ZSI+CiAgICAgICAgPGlucHV0CiAgICAgICAgICBuYW1lPSJnZW5kZXIiCiAgICAgICAgICB2YWx1ZT0iMSIKICAgICAgICAgIHR5cGU9InJhZGlvIgogICAgICAgICAgYXV0b2NvbXBsZXRlPSJvZmYiCiAgICAgICAgICBjaGVja2VkCiAgICAgICAgPgogICAgICAgIMTQCiAgICAgIDwvbGFiZWw+CiAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1yYWRpbyI+CiAgICAgICAgPGlucHV0CiAgICAgICAgICBuYW1lPSJnZW5kZXIiCiAgICAgICAgICB2YWx1ZT0iMiIKICAgICAgICAgIHR5cGU9InJhZGlvIgogICAgICAgICAgYXV0b2NvbXBsZXRlPSJvZmYiCiAgICAgICAgPgogICAgICAgIMWuCiAgICAgIDwvbGFiZWw+CiAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1yYWRpbyI+CiAgICAgICAgPGlucHV0CiAgICAgICAgICBuYW1lPSJnZW5kZXIiCiAgICAgICAgICB2YWx1ZT0iMyIKICAgICAgICAgIHR5cGU9InJhZGlvIgogICAgICAgICAgYXV0b2NvbXBsZXRlPSJvZmYiCiAgICAgICAgPgogICAgICAgILGjw9wKICAgICAgPC9sYWJlbD4KICAgIDwvZGl2PgogIDwvZGl2Pgog</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXJJbmZvKTsK</text>
+        <text encoding="base64">ICAgICAgdi1zaG93PSJzaG93RmxvYWQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>订单类型</last-search>
+      <last-search>import</last-search>
       <last-offset />
-      <last-pattern>订单类型</last-pattern>
+      <last-pattern>import</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -986,7 +989,6 @@
         <entry>isShowScreen</entry>
         <entry>getEvn</entry>
         <entry>getToken</entry>
-        <entry>import</entry>
         <entry>getAddress</entry>
         <entry>onLoad</entry>
         <entry>请搜索</entry>
@@ -994,6 +996,7 @@
         <entry>性别</entry>
         <entry>post</entry>
         <entry>订单类型</entry>
+        <entry>import</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
