@@ -27,7 +27,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name=".t.c" value=".then(({ data }) =&gt; {&#10;  if (!data.statusBool) return this.$alert(data.message);&#10;  console.log(data);&#10;}).catch(err =&gt; this.$alert(err.message));" description="" toReformat="false" toShortenFQNames="true">
+  <template name=".t.c" value=".then(({ data }) =&gt; {&#10;  if (!data.statusBool) return this.$alert(data.message);&#10;  console.log(data);&#10;}).catch(err =&gt; this.$console(err));" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
