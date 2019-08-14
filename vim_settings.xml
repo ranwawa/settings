@@ -294,6 +294,9 @@
       <file name="E:/h5/zmn-wechat/src/api/config.js" timestamp="1565680020042">
         <mark key="'" line="17" column="9" />
       </file>
+      <file name="E:/h5/zmn-mp/src/main.js" timestamp="1565770513015">
+        <mark key="'" line="28" column="24" />
+      </file>
       <file name="E:/h5/zmn-mp/src/pages/home/components/home_icon.vue" timestamp="1565605234645">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
@@ -428,7 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/h5/zmn-wechat/src/components/action_sheet.vue" />
       <jump line="19" column="2" filename="E:/h5/zmn-wechat/src/components/action_sheet.vue" />
       <jump line="570" column="6" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
       <jump line="609" column="8" filename="E:/h5/xiujiadian/pcPortal/pages/order.html" />
@@ -528,6 +530,7 @@
       <jump line="8" column="6" filename="E:/h5/zmn-wechat/src/pages/order/components/order_btn.vue" />
       <jump line="258" column="24" filename="E:/h5/zmn-mp/src/pages.json" />
       <jump line="14" column="0" filename="E:/h5/zmn-mp/src/pages.json" />
+      <jump line="28" column="24" filename="E:/h5/zmn-mp/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -537,7 +540,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>order</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgQGNsaWNrPSIkZW1pdCgnaW5wdXQnLCBmYWxzZSkiCg==</text>
@@ -577,9 +580,9 @@
       </register>
     </registers>
     <search>
-      <last-search>order</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>order</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -587,7 +590,6 @@
     </search>
     <history>
       <history-search>
-        <entry>key</entry>
         <entry>退款明细</entry>
         <entry>methods</entry>
         <entry>提交</entry>
@@ -607,6 +609,7 @@
         <entry>overflow</entry>
         <entry>fixed</entry>
         <entry>order</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
