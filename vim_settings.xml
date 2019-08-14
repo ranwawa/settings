@@ -52,12 +52,6 @@
         <mark key="^" line="104" column="19" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/pages/order/components/order_btn.vue" timestamp="1565768925085">
-        <mark key="'" line="8" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/UI-Standard/UI-Standard/base/_size.scss" timestamp="1564543419816">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="15" />
@@ -113,6 +107,9 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
       </file>
+      <file name="E:/h5/xiujiadian/pcPortal/pages/index.html" timestamp="1565749303527">
+        <mark key="'" line="260" column="23" />
+      </file>
       <file name="E:/h5/zmn-wechat/src/pages/order/list.vue" timestamp="1565775999743">
         <mark key="'" line="136" column="0" />
         <mark key="[" line="162" column="0" />
@@ -132,12 +129,18 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/main.js" timestamp="1565691488325">
+        <mark key="'" line="42" column="2" />
+      </file>
       <file name="E:/h5/xiujiadian/pcPortal/pages/order.html" timestamp="1565694773272">
         <mark key="'" line="953" column="25" />
         <mark key="[" line="903" column="26" />
         <mark key="]" line="903" column="26" />
         <mark key="." line="903" column="26" />
         <mark key="^" line="903" column="26" />
+      </file>
+      <file name="E:/h5/zmn-wechat/package-lock.json" timestamp="1565781459490">
+        <mark key="'" line="390" column="13" />
       </file>
       <file name="E:/project/空包1.0/site/src/api/request.js" timestamp="1564674841301">
         <mark key="[" line="3" column="22" />
@@ -151,11 +154,8 @@
         <mark key="^" line="296" column="25" />
         <mark key="." line="296" column="0" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/components/action_sheet.vue" timestamp="1565684565274">
-        <mark key="'" line="19" column="2" />
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="14" />
+      <file name="E:/h5/zmn-wechat/src/assets/scss/_spacing.scss" timestamp="1565621594199">
+        <mark key="'" line="69" column="7" />
       </file>
       <file name="E:/h5/zmn-saas/src/utils/get_address_from_api.js" timestamp="1565598610778">
         <mark key="[" line="1" column="23" />
@@ -324,6 +324,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="20" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/api/config.js" timestamp="1565680020042">
+        <mark key="'" line="17" column="9" />
+      </file>
       <file name="/Dummy.txt" timestamp="1565780540683">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
@@ -474,11 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="0" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
-      <jump line="76" column="14" filename="E:/h5/zmn-wechat/src/pages/order/list.vue" />
-      <jump line="2" column="16" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
-      <jump line="3" column="8" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
-      <jump line="30" column="10" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
       <jump line="4" column="18" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
       <jump line="87" column="22" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
       <jump line="235" column="22" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
@@ -574,6 +572,11 @@
       <jump line="125" column="10" filename="E:/h5/zmn-mp/src/pages/order/refund_detail.vue" />
       <jump line="185" column="25" filename="E:/h5/zmn-wechat/src/pages/order/refund_detail.vue" />
       <jump line="241" column="11" filename="E:/h5/zmn-wechat/src/pages/order/refund_detail.vue" />
+      <jump line="0" column="0" filename="E:/h5/zmn-wechat/package-lock.json" />
+      <jump line="363" column="53" filename="E:/h5/zmn-wechat/package-lock.json" />
+      <jump line="365" column="128" filename="E:/h5/zmn-wechat/package-lock.json" />
+      <jump line="387" column="24" filename="E:/h5/zmn-wechat/package-lock.json" />
+      <jump line="390" column="13" filename="E:/h5/zmn-wechat/package-lock.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -583,7 +586,7 @@
         <text>事件里面不直接执行js语句,以兼容支付宝小程序</text>
       </register>
       <register name="/" type="4">
-        <text>has</text>
+        <text>unicode-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgQGNsaWNrPSIkZW1pdCgnaW5wdXQnLCBmYWxzZSkiCg==</text>
@@ -625,9 +628,9 @@
       </register>
     </registers>
     <search>
-      <last-search>has</last-search>
+      <last-search>unicode-</last-search>
       <last-offset />
-      <last-pattern>has</last-pattern>
+      <last-pattern>unicode-</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -635,8 +638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>joinus.js</entry>
-        <entry>ajax</entry>
         <entry>portal\.xiu</entry>
         <entry>退款金额</entry>
         <entry>退款进度</entry>
@@ -655,6 +656,8 @@
         <entry>split</entry>
         <entry>refundDetail</entry>
         <entry>has</entry>
+        <entry>uni</entry>
+        <entry>unicode-</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
