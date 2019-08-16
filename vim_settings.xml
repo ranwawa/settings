@@ -147,8 +147,8 @@
         <mark key="." line="14" column="62" />
         <mark key="^" line="14" column="62" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/order/list.vue" timestamp="1565948080388">
-        <mark key="'" line="205" column="12" />
+      <file name="E:/h5/zmn-mp/src/pages/order/list.vue" timestamp="1565949040738">
+        <mark key="'" line="12" column="16" />
         <mark key="[" line="195" column="0" />
         <mark key="]" line="195" column="0" />
         <mark key="." line="195" column="0" />
@@ -475,6 +475,9 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
+      <file name="E:/h5/zmn-mp/src/pages/order/detail.vue" timestamp="1565948689137">
+        <mark key="'" line="300" column="18" />
+      </file>
       <file name="E:/h5/zmn-saas/src/api/search.js" timestamp="1565337639466">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -505,12 +508,11 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="E:/h5/zmn-wechat/src/pages/order/detail.vue" timestamp="1565877726012">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="215" column="17" />
-        <mark key="]" line="215" column="17" />
-        <mark key="^" line="215" column="17" />
-        <mark key="." line="215" column="17" />
+      <file name="E:/h5/zmn-wechat/src/pages/order/detail.vue" timestamp="1565949135286">
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="^" line="98" column="121" />
+        <mark key="." line="203" column="0" />
       </file>
       <file name="E:/h5/zmn-mp/src/api/order.js" timestamp="1565779200766">
         <mark key="[" line="33" column="2" />
@@ -569,16 +571,6 @@
       <file name="E:/h5/cms/tpl/110/config.json" timestamp="1565943593245" />
     </filemarks>
     <jumps>
-      <jump line="187" column="14" filename="E:/h5/zmn-wechat/src/pages/order/components/order_refund.vue" />
-      <jump line="17" column="31" filename="E:/h5/zmn-wechat/src/pages/order/components/order_refund.vue" />
-      <jump line="19" column="12" filename="E:/h5/zmn-wechat/src/pages/order/components/order_refund.vue" />
-      <jump line="28" column="37" filename="E:/h5/zmn-wechat/src/pages/order/components/order_refund.vue" />
-      <jump line="90" column="16" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
-      <jump line="192" column="16" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
-      <jump line="0" column="0" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
-      <jump line="112" column="10" filename="E:/h5/zmn-wechat/src/pages/home/index.vue" />
-      <jump line="2" column="15" filename="E:/h5/zmn-wechat/src/components/icon_svg.vue" />
-      <jump line="38" column="37" filename="E:/h5/zmn-mp/src/components/coupon-pop.vue" />
       <jump line="65" column="24" filename="E:/h5/zmn-mp/src/components/coupon-pop.vue" />
       <jump line="77" column="25" filename="E:/h5/zmn-mp/src/components/coupon-pop.vue" />
       <jump line="105" column="46" filename="E:/h5/zmn-mp/src/pages/my/my.vue" />
@@ -669,58 +661,68 @@
       <jump line="126" column="12" filename="E:/h5/zmn-mp/src/pages/order/list.vue" />
       <jump line="60" column="16" filename="E:/h5/zmn-mp/src/pages/order/components/order_item.vue" />
       <jump line="71" column="25" filename="E:/h5/zmn-mp/src/pages/order/components/order_item.vue" />
+      <jump line="294" column="4" filename="E:/h5/zmn-mp/src/pages/order/detail.vue" />
+      <jump line="0" column="0" filename="E:/h5/zmn-mp/src/pages/order/detail.vue" />
+      <jump line="300" column="18" filename="E:/h5/zmn-mp/src/pages/order/detail.vue" />
+      <jump line="217" column="28" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
+      <jump line="89" column="54" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
+      <jump line="86" column="16" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
+      <jump line="83" column="14" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
+      <jump line="12" column="16" filename="E:/h5/zmn-mp/src/pages/order/list.vue" />
+      <jump line="99" column="100" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
+      <jump line="227" column="28" filename="E:/h5/zmn-wechat/src/pages/order/detail.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>computed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgbWFwU3RhdGUgfSBmcm9tICd2dWV4JzsK</text>
       </register>
       <register name="-" type="4">
-        <text>computed</text>
+        <text>v-lazy</text>
       </register>
       <register name="/" type="4">
-        <text>totalAmountStr</text>
+        <text>selected</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYtbGF6eT0iaXRlbS5wcm9kdWN0TGlzdFswXS5zbWFsbFBpY1NyYyIKICAgICAgICAgIGNsYXNzPSJvcmRlci1pdGVtX3Byb2R1Y3Rfc2hvd19pbWFnZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2LWxhenk9Im9yZGVyLm9yZGVyUHJvZHVjdExpc3QgJiYgb3JkZXIub3JkZXJQcm9kdWN0TGlzdFswXS5zbWFsbFBpY1NyYyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVsZS50b3RhbEFtb3VudFN0cik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbWFwU3RhdGUgfSBmcm9tICd2dWV4JzsK</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzPSJwcm9kdWN0LWRldGFpbF9pbWciCg==</text>
+        <text encoding="base64">ICBjb21wdXRlZDogeyAuLi5tYXBTdGF0ZShbJ3NlbGVjdGVkT3JkZXInXSkgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDpzcmM9Iml0ZW0uc21hbGxQaWNTcmMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA6c3JjPSIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2LWxhenk9InNlbGVjdGVkT3JkZXIucHJvZHVjdExpc3RbMF0uc21hbGxQaWNTcmMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDprZXk9ImluZGV4Igo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2VsZWN0ZWRPcmRlci5wcm9kdWN0TGlzdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDprZXk9ImluZGV4Igo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVsZS50b3RhbEFtb3VudFN0cik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2LWlmPSJ0YWJBY3RpdmUgPT09IGl0ZW0ubmFtZSIK</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzPSJwcm9kdWN0LWRldGFpbF9pbWciCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6a2V5PSJpbmRleCIK</text>
+        <text encoding="base64">ICAgICAgICAgIDpzcmM9Iml0ZW0uc21hbGxQaWNTcmMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDEyMzEyMzEyMy5sb2cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>totalAmountStr</last-search>
+      <last-search>selected</last-search>
       <last-offset />
-      <last-pattern>totalAmountStr</last-pattern>
+      <last-pattern>selected</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -728,12 +730,6 @@
     </search>
     <history>
       <history-search>
-        <entry>icon-svg</entry>
-        <entry>postion</entry>
-        <entry>position</entry>
-        <entry>comm-topTab</entry>
-        <entry>fix</entry>
-        <entry>goPage</entry>
         <entry>getEvn</entry>
         <entry>svg</entry>
         <entry>svg {</entry>
@@ -748,6 +744,12 @@
         <entry>list</entry>
         <entry>项服务</entry>
         <entry>totalAmountStr</entry>
+        <entry>selectedAddress</entry>
+        <entry>selectedProduct</entry>
+        <entry>selectedOrder</entry>
+        <entry>v-lazy</entry>
+        <entry>lazy</entry>
+        <entry>selected</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
