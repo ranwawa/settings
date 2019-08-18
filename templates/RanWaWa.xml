@@ -62,4 +62,10 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name=".t.c3" value=".then(([err, data]) =&gt; {&#10;  if (err) return this.$console(err);&#10;  console.log(data);&#10;}).catch(err =&gt; this.$console(err));" description="uni相关接口的promise处理" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
