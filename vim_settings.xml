@@ -35,12 +35,12 @@
         <mark key="." line="178" column="26" />
         <mark key="^" line="178" column="25" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/vip/my.vue" timestamp="1566216677433">
+      <file name="E:/h5/zmn-mp/src/pages/vip/my.vue" timestamp="1566218626109">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="46" />
-        <mark key="]" line="84" column="47" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
         <mark key="^" line="109" column="69" />
-        <mark key="." line="84" column="47" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="E:/h5/zmn-wechat/src/pages/card/components/card-item.vue" timestamp="1566211741958">
         <mark key="'" line="35" column="30" />
@@ -101,13 +101,15 @@
         <mark key="^" line="1" column="20" />
       </file>
       <file name="E:/h5/zmn-mp/src/api/config.js" timestamp="1566215258725" />
-      <file name="E:/h5/zmn-wechat/src/pages/vip/my.vue" timestamp="1566216729073">
+      <file name="E:/h5/zmn-wechat/src/pages/vip/my.vue" timestamp="1566218627523">
         <mark key="'" line="6" column="9" />
-        <mark key="[" line="84" column="46" />
-        <mark key="]" line="84" column="47" />
-        <mark key="." line="84" column="47" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1566218077662" />
+      <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1566219617636">
+        <mark key="'" line="53" column="7" />
+      </file>
       <file name="E:/h5/zmn-wechat/src/api/request.js" timestamp="1566185374408">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -119,13 +121,6 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
-      </file>
-      <file name="E:/h5/zmn-wechat/src/pages/my/my.vue" timestamp="1566217107123">
-        <mark key="'" line="98" column="7" />
-        <mark key="[" line="148" column="6" />
-        <mark key="]" line="162" column="5" />
-        <mark key="^" line="162" column="5" />
-        <mark key="." line="162" column="5" />
       </file>
       <file name="E:/h5/zmn-mp/src/store/mutations.js" timestamp="1566205731880" />
       <file name="E:/h5/zmn-wechat/src/pages/my/login.vue" timestamp="1566185495824">
@@ -141,6 +136,12 @@
         <mark key="^" line="0" column="34" />
       </file>
       <file name="E:/h5/zmn-wechat/src/utils/get_token_new.js" timestamp="1566182250431" />
+      <file name="E:/h5/zmn-mp/src/utils/getGPS.js" timestamp="1566205790785">
+        <mark key="'" line="15" column="9" />
+      </file>
+      <file name="E:/h5/zmn-mp/src/pages/product/category.vue" timestamp="1566219279348">
+        <mark key="'" line="47" column="7" />
+      </file>
       <file name="/explain.vue" timestamp="1566208520911" />
       <file name="E:/h5/zmn-wechat/src/utils/getGPS.js" timestamp="1566202785932">
         <mark key="'" line="71" column="0" />
@@ -353,8 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="51" filename="E:/h5/zmn-mp/src/App.vue" />
-      <jump line="774" column="0" filename="E:/h5/zmn-mp/src/pages/reserve/commit.vue" />
       <jump line="23" column="8" filename="E:/h5/zmn-mp/src/utils/get_reserve_time_range.js" />
       <jump line="2" column="7" filename="E:/h5/zmn-mp/src/utils/get_reserve_time_range.js" />
       <jump line="1" column="0" filename="E:/h5/zmn-mp/src/utils/get_reserve_time_range.js" />
@@ -453,62 +452,65 @@
       <jump line="2" column="16" filename="E:/h5/zmn-wechat/src/pages/vip/my.vue" />
       <jump line="6" column="9" filename="E:/h5/zmn-wechat/src/pages/vip/my.vue" />
       <jump line="98" column="7" filename="E:/h5/zmn-wechat/src/pages/my/my.vue" />
+      <jump line="47" column="7" filename="E:/h5/zmn-mp/src/pages/product/category.vue" />
+      <jump line="53" column="7" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>个人中心
-会员跳转换一个方法</text>
+        <text>会员-会员主页
+不是会员,不能直接进入</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHx8IFtd</text>
       </register>
       <register name="/" type="4">
-        <text>my-header</text>
+        <text>onLoad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIMjnufvS0b6tu7q05rXY1rcssqLH0sjLuaTIt8jPuf0s1PKyu9TZtNPUtrPMx+vH8wogICAgaWYgKHRoaXMuJHN0b3JlLnN0YXRlLmxvY2F0aW9uQ2l0eS5jaXR5SWQgJiYgdW5pLmdldFN0b3JhZ2VTeW5jKCdpc0Rpc2FibGVBbGVydCcpKSByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>个人中心
-会员跳转换一个方法</text>
+        <text>会员-会员主页
+不是会员,不能直接进入</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">uPbIy9bQ0MQK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubGlzdCk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubGlzdCk7Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>个人中心
 会员跳转换一个方法</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">uPbIy9bQ0MQK</text>
+      </register>
+      <register name="6" type="4">
+        <text>个人中心
+会员跳转换一个方法</text>
+      </register>
+      <register name="7" type="4">
         <text>首页
 确认过地址,就不再请求接口了</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">fiF+Li4uCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIMz416q1vXZpcNKzw+YK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRzOiB7fSwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkYXRhOiAoKSA9PiAoe30pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>my-header</last-search>
+      <last-search>onLoad</last-search>
       <last-offset />
-      <last-pattern>my-header</last-pattern>
+      <last-pattern>onLoad</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -533,9 +535,9 @@
         <entry>icon-logo</entry>
         <entry>iconfont</entry>
         <entry>icon</entry>
-        <entry>onLoad</entry>
         <entry>go</entry>
         <entry>my-header</entry>
+        <entry>onLoad</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
