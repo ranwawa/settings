@@ -100,6 +100,9 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl h" />
   </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl u" />
+  </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
