@@ -118,7 +118,7 @@
         <mark key="^" line="103" column="37" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/my/login_mp.vue" timestamp="1566283779788" />
+      <file name="E:/h5/zmn-mp/src/pages/my/login_mp.vue" timestamp="1566285018225" />
       <file name="E:/h5/zmn-wechat/src/utils/get_userInfo_from_storage.js" timestamp="1566194017752">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="22" />
@@ -145,12 +145,12 @@
         <mark key="." line="22" column="53" />
         <mark key="^" line="22" column="53" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/activity/index.vue" timestamp="1566265076641">
-        <mark key="'" line="67" column="4" />
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-        <mark key="^" line="5" column="13" />
+      <file name="E:/h5/zmn-mp/src/pages/activity/index.vue" timestamp="1566285695689">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="46" column="32" />
+        <mark key="]" line="46" column="60" />
+        <mark key="." line="46" column="60" />
+        <mark key="^" line="46" column="60" />
       </file>
       <file name="E:/h5/zmn-wechat/src/config/evn_test.js" timestamp="1566193312288">
         <mark key="[" line="2" column="55" />
@@ -227,6 +227,7 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="E:/h5/cms/tpl/110/index.html" timestamp="1566286056103" />
       <file name="E:/h5/zmn-wechat/src/utils/index.js" timestamp="1566194201928">
         <mark key="'" line="1" column="26" />
         <mark key="[" line="2" column="30" />
@@ -265,7 +266,7 @@
         <mark key="." line="261" column="5" />
         <mark key="^" line="261" column="5" />
       </file>
-      <file name="E:/h5/zmn-mp/src/components/coupon-label.vue" timestamp="1566270686199">
+      <file name="E:/h5/zmn-mp/src/components/coupon-label.vue" timestamp="1566285090202">
         <mark key="'" line="118" column="16" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
@@ -374,14 +375,8 @@
         <mark key="^" line="245" column="26" />
         <mark key="." line="245" column="26" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/vip/buy.vue" timestamp="1566226411470">
-        <mark key="'" line="10" column="34" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
-      </file>
       <file name="E:/h5/zmn-wechat/src/api/config.js" timestamp="1566186427057" />
-      <file name="/Dummy.txt" timestamp="1566272928708">
+      <file name="/Dummy.txt" timestamp="1566285209700">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -517,7 +512,6 @@
       <jump line="66" column="27" filename="E:/h5/zmn-mp/src/pages/vip/explain.vue" />
       <jump line="317" column="17" filename="E:/h5/zmn-mp/src/pages/vip/buy.vue" />
       <jump line="10" column="34" filename="E:/h5/zmn-mp/src/pages/vip/buy.vue" />
-      <jump line="0" column="0" filename="E:/h5/zmn-mp/src/pages/activity/index.vue" />
       <jump line="46" column="11" filename="E:/h5/zmn-mp/src/pages/activity/index.vue" />
       <jump line="68" column="15" filename="E:/h5/zmn-mp/src/pages/activity/index.vue" />
       <jump line="11" column="21" filename="E:/h5/zmn-mp/src/pages/activity/index.vue" />
@@ -549,13 +543,14 @@
       <jump line="28" column="7" filename="E:/h5/zmn-wechat/src/pages/address/list.vue" />
       <jump line="2" column="21" filename="$USER_HOME$/Desktop/my-project/src/components/what.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/my-project/src/components/what.vue" />
+      <jump line="0" column="9" filename="E:/h5/zmn-mp/src/pages/activity/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this.item.voucherId</text>
       </register>
       <register name="-" type="4">
-        <text>cityName</text>
+        <text>this.item.voucherId</text>
       </register>
       <register name="/" type="4">
         <text>onLoad</text>
