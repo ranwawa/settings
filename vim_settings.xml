@@ -63,12 +63,6 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="E:/h5/zmn-mp/src/api/config.js" timestamp="1566279603574" />
-      <file name="E:/h5/zmn-wechat/src/pages/vip/my.vue" timestamp="1566218627523">
-        <mark key="'" line="6" column="9" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-      </file>
       <file name="E:/h5/cms/tpl/110/list.html" timestamp="1566263493822" />
       <file name="E:/h5/zmn-mp/src/pages/home/index.vue" timestamp="1566272201848">
         <mark key="[" line="205" column="0" />
@@ -125,8 +119,8 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="16" column="22" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/product/detail.vue" timestamp="1566207422141">
-        <mark key="'" line="675" column="1" />
+      <file name="E:/h5/zmn-mp/src/pages/product/detail.vue" timestamp="1566290109336">
+        <mark key="'" line="532" column="19" />
         <mark key="[" line="532" column="20" />
         <mark key="]" line="532" column="16" />
         <mark key="." line="532" column="16" />
@@ -173,17 +167,14 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="E:/h5/zmn-mp/src/main.js" timestamp="1566224750353">
-        <mark key="'" line="29" column="34" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="E:/h5/zmn-mp/src/config/evn_dev.js" timestamp="1566263277021">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="30" />
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="30" />
+      </file>
+      <file name="E:/h5/zmn-mp/src/pages/product/list.vue" timestamp="1566290139535">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/h5/zmn-wechat/src/pages/home/components/home_favorite.vue" timestamp="1566180998643">
         <mark key="[" line="95" column="0" />
@@ -220,12 +211,6 @@
         <mark key="]" line="78" column="34" />
         <mark key="^" line="78" column="34" />
         <mark key="." line="78" column="34" />
-      </file>
-      <file name="E:/h5/zmn-mp/src/pages/vip/explain.vue" timestamp="1566226423632">
-        <mark key="'" line="66" column="27" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
       </file>
       <file name="E:/h5/cms/tpl/110/index.html" timestamp="1566286935512" />
       <file name="E:/h5/zmn-wechat/src/utils/index.js" timestamp="1566194201928">
@@ -292,18 +277,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="E:/h5/zmn-mp/src/api/product.js" timestamp="1566177706123" />
+      <file name="E:/h5/zmn-mp/src/api/product.js" timestamp="1566290169348" />
       <file name="E:/h5/zmn-wechat/src/utils/set_user_info.js" timestamp="1566185465490">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="7" column="6" />
-      </file>
-      <file name="E:/h5/zmn-mp/src/pages/reserve/result.vue" timestamp="1565890457063">
-        <mark key="'" line="100" column="29" />
-        <mark key="[" line="162" column="17" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
       </file>
       <file name="E:/h5/zmn-wechat/src/pages/my/bind_phone.vue" timestamp="1566185450278">
         <mark key="[" line="46" column="19" />
@@ -444,8 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="44" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
-      <jump line="693" column="9" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="9" column="43" filename="E:/h5/zmn-mp/src/components/search.vue" />
       <jump line="30" column="27" filename="E:/h5/zmn-mp/src/components/search.vue" />
       <jump line="87" column="14" filename="E:/h5/zmn-mp/src/components/search.vue" />
@@ -544,6 +521,8 @@
       <jump line="2" column="21" filename="$USER_HOME$/Desktop/my-project/src/components/what.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/my-project/src/components/what.vue" />
       <jump line="0" column="9" filename="E:/h5/zmn-mp/src/pages/activity/index.vue" />
+      <jump line="532" column="19" filename="E:/h5/zmn-mp/src/pages/product/detail.vue" />
+      <jump line="0" column="0" filename="E:/h5/zmn-mp/src/pages/product/list.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -553,7 +532,7 @@
         <text>{ passId: '2019082000073002012904LUL5V4' }</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>getLiST</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjaXR5TmFtZTogJyVlOSU4NyU4ZCVlNSViYSU4NicsCg==</text>
@@ -593,9 +572,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>getLiST</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>getLiST</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -603,7 +582,6 @@
     </search>
     <history>
       <history-search>
-        <entry>my-header</entry>
         <entry>uni-page-bod</entry>
         <entry>h-lh</entry>
         <entry encoding="base64">dGhpcy1wZC14IA==</entry>
@@ -623,6 +601,7 @@
         <entry>使用</entry>
         <entry>clickFavorite</entry>
         <entry>onLoad</entry>
+        <entry>getLiST</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
