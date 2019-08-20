@@ -38,7 +38,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'Ctrl+M' or 'Ctrl+E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>502</Count>
+          <Count>506</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -230,7 +230,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>70</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -262,7 +262,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'Ctrl+G, Ctrl+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>128</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -295,6 +295,14 @@
           <ShortCut>'Ctrl+Shift+B'</ShortCut>
           <Description>Type Declaration</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+G, Ctrl+U'</ShortCut>
+          <Description>Update Project</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
