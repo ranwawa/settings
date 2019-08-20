@@ -393,6 +393,9 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/pages/address/list.vue" timestamp="1566273215486">
+        <mark key="'" line="28" column="7" />
+      </file>
       <file name="E:/h5/zmn-mp/src/pages/my/components/my_order_menu.vue" timestamp="1566224754488">
         <mark key="'" line="129" column="16" />
         <mark key="[" line="125" column="0" />
@@ -438,7 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="5" filename="E:/h5/zmn-mp/src/pages/card/components/card-item.vue" />
       <jump line="176" column="16" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="185" column="34" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="192" column="44" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
@@ -538,6 +540,7 @@
       <jump line="38" column="16" filename="E:/h5/zmn-mp/src/pages/home/components/home_favorite_alipay.vue" />
       <jump line="80" column="14" filename="E:/h5/zmn-mp/src/pages/home/components/home_favorite_alipay.vue" />
       <jump line="14" column="26" filename="E:/h5/zmn-mp/src/pages/home/components/home_favorite_alipay.vue" />
+      <jump line="28" column="7" filename="E:/h5/zmn-wechat/src/pages/address/list.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -547,7 +550,7 @@
         <text>细节样式调整</text>
       </register>
       <register name="/" type="4">
-        <text>clickFavorite</text>
+        <text>onLoad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLy8gxdC2z8rHt/HT0NPDu6fQxc+iCiAgICAgIC8vIMjnufvDu9PQ1PIsz8i199eisuG907/aLNTZvfjQ0M/C0ruyvQo=</text>
@@ -587,9 +590,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clickFavorite</last-search>
+      <last-search>onLoad</last-search>
       <last-offset />
-      <last-pattern>clickFavorite</last-pattern>
+      <last-pattern>onLoad</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -614,9 +617,9 @@
         <entry>couponBtnStr</entry>
         <entry>condition</entry>
         <entry>立即领取</entry>
-        <entry>onLoad</entry>
         <entry>使用</entry>
         <entry>clickFavorite</entry>
+        <entry>onLoad</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
