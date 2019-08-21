@@ -74,8 +74,8 @@
         <mark key="^" line="17" column="7" />
         <mark key="." line="17" column="7" />
       </file>
-      <file name="E:/h5/zmn-mp/src/pages/my/my.vue" timestamp="1566224325426">
-        <mark key="'" line="157" column="45" />
+      <file name="E:/h5/zmn-mp/src/pages/my/my.vue" timestamp="1566413571388">
+        <mark key="'" line="0" column="9" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
@@ -144,6 +144,13 @@
       <file name="E:/h5/zmn-wechat/src/pages.json" timestamp="1566391147878">
         <mark key="'" line="248" column="12" />
       </file>
+      <file name="E:/h5/zmn-wechat/src/pages/my/my.vue" timestamp="1566414220627">
+        <mark key="'" line="200" column="0" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
+        <mark key="^" line="164" column="22" />
+      </file>
       <file name="E:/h5/zmn-mp/src/pages/home/webview.vue" timestamp="1566368841127">
         <mark key="'" line="9" column="27" />
         <mark key="[" line="9" column="272" />
@@ -163,8 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="37" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
-      <jump line="13" column="24" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="87" column="8" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="143" column="14" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
       <jump line="156" column="42" filename="E:/h5/zmn-mp/src/pages/home/index.vue" />
@@ -263,59 +268,61 @@
       <jump line="167" column="4" filename="E:/h5/zmn-wechat/src/pages/order/payment.vue" />
       <jump line="179" column="13" filename="E:/h5/zmn-wechat/src/pages/order/payment.vue" />
       <jump line="182" column="13" filename="E:/h5/zmn-wechat/src/pages/order/payment.vue" />
+      <jump line="0" column="9" filename="E:/h5/zmn-mp/src/pages/my/my.vue" />
+      <jump line="200" column="0" filename="E:/h5/zmn-wechat/src/pages/my/my.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fff</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmctYm90dG9tOiBweDJ2dygzMCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>fff</text>
+        <text>$white</text>
       </register>
       <register name="/" type="4">
-        <text>useOffer</text>
+        <text>退出</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHVuaS5zaG93VG9hc3QoeyBpY29uOiAnbm9uZScsIHRpdGxlOiAnttK7u7PJuaYnIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICY6bGFzdC1jaGlsZCB7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctYm90dG9tOiBweDJ2dygzMCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>we</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICY6bGFzdC1jaGlsZCB7CiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRkU4NTEzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRkJDMjA2Owo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRkU4NTEzOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRkJDMjA2Owo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRkU4NTEzOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">1qe4trGmzt7Xyr3wyK/B7MihuvPXtMysseS7rwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>组件-优惠券详情
 无资金券领取后改变状态</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhLmRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/html-loader!@/..\/..\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>useOffer</last-search>
+      <last-search>退出</last-search>
       <last-offset />
-      <last-pattern>useOffer</last-pattern>
+      <last-pattern>退出</last-pattern>
       <last-replace>..\/..\/</last-replace>
       <last-substitute>html-loader!@</last-substitute>
       <last-dir>1</last-dir>
@@ -323,7 +330,6 @@
     </search>
     <history>
       <history-search>
-        <entry>查看</entry>
         <entry>兑换</entry>
         <entry>getCouponList</entry>
         <entry>receiveFlag</entry>
@@ -343,6 +349,7 @@
         <entry>确认支付</entry>
         <entry>selectPaymentType</entry>
         <entry>useOffer</entry>
+        <entry>退出</entry>
       </history-search>
       <history-cmd>
         <entry>%s/####/#/g</entry>
