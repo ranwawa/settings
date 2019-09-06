@@ -1,4 +1,16 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="CheckinProject" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl a" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl o" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+  </action>
+  <action id="EditorScrollToCenter" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
@@ -6,7 +18,16 @@
   <action id="MarkdownNavigator.ToggleBold">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="MarkdownNavigator.ToggleCodeSpan">
+    <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl back_quote" />
+  </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="ScrollTreeToCenter" />
+  <action id="TodoViewGroupByShowModules" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
 </keymap>
