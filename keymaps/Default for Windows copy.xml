@@ -5,6 +5,9 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl a" />
   </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl o" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt v" />
   </action>
