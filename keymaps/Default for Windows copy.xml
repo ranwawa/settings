@@ -1,1 +1,11 @@
-<keymap version="1" name="Default for Windows copy" parent="$default" />
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="ActivateKeyPromoterXToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="ctrl k" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl a" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt v" />
+  </action>
+</keymap>
