@@ -2,13 +2,24 @@
   <action id="ActivateKeyPromoterXToolWindow">
     <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="ctrl k" />
   </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl a" />
   </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl o" />
   </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt v" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
   </action>
 </keymap>
