@@ -9,7 +9,7 @@
   </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl k" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl a" />
@@ -31,6 +31,10 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt v" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl s" />
   </action>
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl t" />
