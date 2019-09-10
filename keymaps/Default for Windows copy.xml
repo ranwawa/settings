@@ -2,6 +2,11 @@
   <action id="ActivateKeyPromoterXToolWindow">
     <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="ctrl k" />
   </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl h" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl k" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
@@ -12,8 +17,17 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl o" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
+  </action>
+  <action id="Git.Clone">
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl d" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="RenameProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt v" />
@@ -21,5 +35,6 @@
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl p" />
   </action>
 </keymap>
