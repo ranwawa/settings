@@ -1,5 +1,21 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
-  <action id="CheckinProject" />
+  <action id="ActivateKeyPromoterXToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="ctrl k" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl h" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl a" />
   </action>
@@ -10,24 +26,44 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
   </action>
-  <action id="EditorScrollToCenter" />
-  <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="control button1" />
-    <mouse-shortcut keystroke="button2" />
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
   </action>
-  <action id="MarkdownNavigator.ToggleBold">
-    <keyboard-shortcut first-keystroke="ctrl b" />
+  <action id="Git.Clone">
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl d" />
   </action>
-  <action id="MarkdownNavigator.ToggleCodeSpan">
-    <keyboard-shortcut first-keystroke="meta o" />
-    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl back_quote" />
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
-  <action id="NewFile">
-    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  <action id="GotoNextError" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
-  <action id="ScrollTreeToCenter" />
-  <action id="TodoViewGroupByShowModules" />
-  <action id="Vcs.ShowMessageHistory">
-    <keyboard-shortcut first-keystroke="ctrl e" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="RenameProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt v" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl s" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl p" />
+  </action>
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
 </keymap>
