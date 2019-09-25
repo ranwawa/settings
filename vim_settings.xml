@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/project/spec/图解HTTP/第2章 简单的HTTP协议.md" timestamp="1569449779997">
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="21" column="33" />
-        <mark key="^" line="21" column="33" />
-        <mark key="." line="21" column="33" />
+      <file name="E:/project/spec/图解HTTP/第2章 简单的HTTP协议.md" timestamp="1569451006932">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="4" />
+        <mark key="^" line="33" column="4" />
       </file>
       <file name="E:/project/spec/css揭秘/第2章 背景与边框.md" timestamp="1569062064100">
         <mark key="'" line="2" column="44" />
@@ -41,41 +41,47 @@
       <jump line="12" column="13" filename="E:/project/spec/CSS权威指南/第18章 动画.md" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>是</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvcDogMnB4Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LSBJULXY1rcK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">SHlwZXJUZXh0IFRyYW5zZmVyIFByb3RvY29sCg==</text>
+        <text>/UpdateCheck.aspx?isBeta=False</text>
       </register>
       <register name="-" type="4">
-        <text>是</text>
+        <text>/UpdateCheck.aspx?isBeta=False</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzO0sPHt8POyrXEysfT8sP7XD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text>```
+GET /UpdateCheck.aspx?isBeta=False HTTP/1.1
+Host: www.fiddler2.com
+```</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Q29ubmVjdGlvbjogY2xvc2UK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">QWNjZXB0LUVuY29kaW5nOiBnemlwLCBkZWZsYXRlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">UmVmZXJlcjogaHR0cDovL2ZpZGRsZXIyLmNvbS9jbGllbnQvNS4wLjIwMTkyLjI1MDkxCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">UmVmZXJlcjogaHR0cDovL2ZpZGRsZXIyLmNvbS9jbGllbnQvNS4wLjIwMTkyLjI1MDkxCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">UmVmZXJlcjogaHR0cDovL2ZpZGRsZXIyLmNvbS9jbGllbnQvNS4wLjIwMTkyLjI1MDkxCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QWNjZXB0LUxhbmd1YWdlOiB6aC1DTgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">UHJhZ21hOiBuby1jYWNoZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">VXNlci1BZ2VudDogRmlkZGxlci81LjAuMjAxOTIuMjUwOTEgKC5ORVQgNC43LjE7IFdpbk5UIDEwLjAuMTQzOTMuMDsgemgtQ047IDh4QU1ENjQ7IEF1dG8gVXBkYXRlOyBGdWxsIEluc3RhbmNlOyBFeHRlbnNpb25zOiBBUElUZXN0aW5nLCBBdXRvU2F2ZUV4dCwgRXZlbnRMb2csIEZpZGRsZXJPcmNoZXN0cmFBZGRvbiwgSG9zdHNGaWxlLCBSdWxlc1RhYjIsIFNBWkNsaXBib2FyZEZhY3RvcnksIFNpbXBsZUZpbHRlciwgVGltZWxpbmUpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
