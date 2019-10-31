@@ -1,6 +1,59 @@
 <application>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/project/spec/study/ChromeDevTool/9_JavaScript.md" timestamp="1572444524017">
+        <mark key="'" line="50" column="1" />
+        <mark key="[" line="130" column="6" />
+        <mark key="]" line="134" column="5" />
+        <mark key="." line="134" column="5" />
+        <mark key="^" line="134" column="5" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="49" column="1" filename="E:/project/spec/study/ChromeDevTool/9_JavaScript.md" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAtIEVhY2ggY29tcGlsZWQgZmlsZSBjb250YWlucyBhbiBhbm5vbmF0aW9uIHRoYXQgc3BlY2lmaWVzIHRoZSBVUkwgb2YgaXQncyBzb3VyY2UgbWFwIGZpbGUK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>方法</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAtIEVhY2ggY29tcGlsZWQgZmlsZSBjb250YWlucyBhbiBhbm9uYXRpb24gdGhhdCBzcGVjaWZpZXMgdGhlIHNvdXJjZSBtYXAgb2YgdGhlIGZpbGUK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAtIEEgcHJlcHJvY2Vzc29yIGdlbmVyYXRlcyBhIHNvdXJjZSBtYXAgYC5tYXBgIGluIGFkZHRpb24gdG8gdGhlIGNvbXBpbGVkIGZpbGUuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAtIFRoYXQgY3JlYXRlcyBhIHJlbGF0aW9uc2hpcCBiZXR3ZWVuIGEgbWluaWZpZWQgZmlsZSBhbmQgaXQncyBzb3VyY2UgZmlsZS4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAtIEEgU291cmNlIE1hcCBpcyBhICBKU09OLWJhc2VkIGZvcm1tYXQgZmlsZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAtIEFzIENTUyB0byBvdXRwdXQsIG5vdGFibGUgZXhhbXBsZXMgYXJlCiAgICAtIHNhc3MgLi4uCiAgLSBBUyBKYXZhU2NyaXB0IHRvIG91dHB1dCwgbm90ZWJsZSBleGFtcGxlcyBhcmUKICAgIC0gdHlwZXNjcmlwdCAuLi4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAtIEEgcHJlcHJvY2Vzc29yIHRha2VzIGFuIGFyYml0cmFyeSBzb3VyY2UgZmlsZSBhbmQgY29udmVydHMgaXQgaW50byBzb21ldGhpbmcgQnJvd3NlciB1bmRlcnN0YW5kCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LSBXaGF0IGlzIGEgcHJlcHJvY2Vzc29yPwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">LSBIb3cK</text>
+      </register>
+      <register name="-" type="4">
+        <text>方法</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
@@ -81,11 +134,5 @@
         <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
-    <notifications>
-      <idea-join enabled="true" />
-      <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
-    </notifications>
   </component>
 </application>
