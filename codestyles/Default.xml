@@ -1131,6 +1131,16 @@
           <rule>
             <match>
               <AND>
+                <NAME>v-model</NAME>
+                <XML_ATTRIBUTE />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
                 <NAME>:class</NAME>
                 <XML_ATTRIBUTE />
               </AND>
