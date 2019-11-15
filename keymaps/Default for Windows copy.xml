@@ -45,6 +45,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="GotoNextError" />
+  <action id="MarkdownNavigator.ToggleBold">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl b" />
+  </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
   </action>
