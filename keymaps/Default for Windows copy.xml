@@ -83,4 +83,13 @@
   </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl b" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl i" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl s" />
+  </action>
 </keymap>
