@@ -18,11 +18,11 @@
   </action>
   <action id="ChangesView.Revert">
     <keyboard-shortcut first-keystroke="ctrl alt z" />
-    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt r" />
   </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl k" />
-    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt c" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl a" />
@@ -38,7 +38,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt w" />
   </action>
   <action id="Git.Clone">
-    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt d" />
   </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -77,15 +77,14 @@
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
-    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt p" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
-    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt h" />
   </action>
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl t" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
-    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt u" />
   </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
