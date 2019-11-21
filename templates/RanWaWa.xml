@@ -41,14 +41,14 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="doc-file-js" value="/**&#10; * @author 冉娃娃&#10; * @date $time$&#10; * @desc $end$&#10; */" description="js文件注释" toReformat="false" toShortenFQNames="true">
+  <template name="doc-file-js" value="/**&#10; * @author 冉娃娃&#10; * @since $time$&#10; * @desc $end$&#10; * @remark&#10; */" description="js文件注释" toReformat="false" toShortenFQNames="true">
     <variable name="time" expression="date() + time()" defaultValue="" alwaysStopAt="true" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="doc-file-html" value="&lt;!-- author: ranwawa --&gt;&#10;&lt;!-- date: $date$ --&gt;&#10;&lt;!-- desc: $END$ --&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="doc-file-html" value="&lt;!-- author: ranwawa --&gt;&#10;&lt;!-- since: $date$ --&gt;&#10;&lt;!-- desc: $END$ --&gt;&#10;&lt;!-- remark: $END$ --&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
