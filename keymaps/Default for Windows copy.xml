@@ -37,6 +37,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt w" />
   </action>
   <action id="CopyReference" />
+  <action id="CreateVueSingleFileComp">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt c" />
+  </action>
   <action id="Git.Clone">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt d" />
   </action>
