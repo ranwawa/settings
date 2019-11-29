@@ -1,15 +1,4 @@
 <templateSet group="RanWaWa">
-  <template name="html-page-normal" value="&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;  &lt;!-- 公共头部 --&gt;&#10;  &lt;%=require('html-loader!./public/html/header.html')%&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;div id=&quot;app&quot;&gt;&#10;&#10;&lt;/div&gt;&#10;&lt;footer&gt;&lt;/footer&gt;&#10;&lt;!-- 公共尾部 --&gt;&#10;&lt;%=require('html-loader!./public/html/footer.html')%&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
-  <template name="!vpage" value="&lt;template&gt;&#10;  &lt;view class=&quot;container&quot;&gt;&#10;    1&#10;  &lt;/view&gt;&#10;&lt;/template&gt;&lt;script&gt;&#10;  export default {&#10;    name:'$FILENAME$',&#10;    data: () =&gt;({}),&#10;    computed:{},&#10;    methods: {},&#10;    onLoad(){},&#10;  }&#10;&lt;/script&gt;&#10;&lt;style lang=&quot;scss&quot;&gt;&#10;  $END$&#10;&lt;/style&gt;" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="FILENAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="Vue" value="true" />
-    </context>
-  </template>
   <template name="arrow-inline" value="() =&gt; ({})" description="多行箭头函数" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
@@ -32,27 +21,6 @@
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
-      <option name="Vue" value="true" />
-    </context>
-  </template>
-  <template name="!vcomp" value="&lt;div&gt;&#10;&lt;!-- author: ranwawa --&gt;&#10;&lt;!-- since: $date$ --&gt;&#10;&lt;!-- desc:  --&gt;&#10;&lt;!-- remark:  --&gt;&#10;&lt;template&gt;&#10;  &lt;view class=&quot;$file$&quot;&gt;&#10;    $END$&#10;  &lt;/view&gt;&#10;&lt;/template&gt;&#10;&lt;script&gt;&#10;export default {&#10;  name: '$file$',&#10;}&#10;&lt;/script&gt;&#10;&lt;style lang=&quot;scss&quot; scoped&gt;&#10;  &#10;&lt;/style&gt;&#10;&lt;/div&gt;&#10;" description="vue组件页面" toReformat="true" toShortenFQNames="true">
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <variable name="file" expression="regularExpression(fileNameWithoutExtension(), &quot;_&quot;, &quot;-&quot;)" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="Vue" value="true" />
-    </context>
-  </template>
-  <template name="doc-file-js" value="/**&#10; * @author 冉娃娃&#10; * @since $time$&#10; * @desc $end$&#10; * @remark&#10; */" description="js文件注释" toReformat="false" toShortenFQNames="true">
-    <variable name="time" expression="date() + time()" defaultValue="" alwaysStopAt="true" />
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="doc-file-html" value="&lt;!-- author: ranwawa --&gt;&#10;&lt;!-- since: $date$ --&gt;&#10;&lt;!-- desc: $END$ --&gt;&#10;&lt;!-- remark: $END$ --&gt;" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="HTML" value="true" />
       <option name="Vue" value="true" />
     </context>
   </template>
