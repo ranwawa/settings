@@ -57,6 +57,9 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
+  <action id="NewJavaScriptFile">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt j" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
