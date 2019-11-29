@@ -38,7 +38,7 @@
   </action>
   <action id="CopyReference" />
   <action id="CreateVueSingleFileComp">
-    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt v" />
   </action>
   <action id="Git.Clone">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt d" />
@@ -57,8 +57,17 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
+  <action id="NewHtmlFile">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt h" />
+  </action>
   <action id="NewJavaScriptFile">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt j" />
+  </action>
+  <action id="NewStylesheetFile">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt c" />
+  </action>
+  <action id="NewTypeScriptFile">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt t" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
