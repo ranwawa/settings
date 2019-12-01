@@ -25,19 +25,21 @@
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt c" />
   </action>
   <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt a" />
   </action>
   <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt o" />
   </action>
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt c" />
   </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" />
   </action>
   <action id="CopyReference" />
+  <action id="CreateVueSingleFileComp">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt v" />
+  </action>
   <action id="Git.Clone">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt d" />
   </action>
@@ -55,8 +57,26 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
+  <action id="NewHtmlFile">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt h" />
+  </action>
+  <action id="NewJavaScriptFile">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt j" />
+  </action>
+  <action id="NewStylesheetFile">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt c" />
+  </action>
+  <action id="NewTypeScriptFile">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt t" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="QuickChangeScheme" />
   <action id="RenameElement">
@@ -77,7 +97,10 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt v" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt s" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt u" />
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
