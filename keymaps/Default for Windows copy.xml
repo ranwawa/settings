@@ -51,11 +51,13 @@
   <action id="MarkdownNavigator.ToggleBold">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl b" />
   </action>
+  <action id="MoveElementLeft" />
+  <action id="MoveElementRight" />
   <action id="NewDir">
-    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt d" />
   </action>
   <action id="NewFile">
-    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt f" />
   </action>
   <action id="NewHtmlFile">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt h" />
@@ -70,13 +72,13 @@
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt t" />
   </action>
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
   <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
   <action id="QuickChangeScheme" />
   <action id="RenameElement">
@@ -89,6 +91,9 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -99,6 +104,8 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt s" />
   </action>
+  <action id="Terminal.MoveToolWindowTabLeft" />
+  <action id="Terminal.MoveToolWindowTabRight" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt u" />
   </action>
