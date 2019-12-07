@@ -3,41 +3,61 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/project/spec/study/ES6标准入门/第14章_Promise.md" timestamp="1575640942262">
-        <mark key="[" line="35" column="5" />
-        <mark key="]" line="35" column="5" />
-        <mark key="." line="35" column="5" />
-        <mark key="^" line="35" column="5" />
+      <file name="E:/project/spec/study/ES6标准入门/_sidebar.md" timestamp="1575643344251">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="50" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="E:/project/spec/study/ES6标准入门/第14章_Promise.md" timestamp="1575643326911">
+        <mark key="[" line="110" column="3" />
+        <mark key="]" line="111" column="1" />
+        <mark key="." line="111" column="1" />
+        <mark key="^" line="111" column="1" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDgpOwo=</text>
+        <text encoding="base64">ICAqIFu12jEz1cJfUmVmbGVjdF0oL3N0dWR5L0VTNrHq17zI68PFL7XaMTPVwl9SZWZsZWN0Lm1kKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSDI57n7cmVqZWN0tcTE2sjdysfSu7j2Cg==</text>
+        <text encoding="base64">LSDH+LHw1NrT2s7ewtu0qwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAqIFu12jEz1cJfUmVmbGVjdF0oL3N0dWR5L0VTNrHq17zI68PFL7XaMTPVwl9SZWZsZWN0Lm1kKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIHAyID0gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gc2V0VGltZW91dCgoKSA9PiByZXNvbHZlKHAxKSwgMTAwMCkpOwo=</text>
+        <text encoding="base64">vdPK3NK7uPayzsr9LLe1u9jSu7j2UkUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IGtoCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gdChtcykgewogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBzZXRUaW1lb3V0KHJlc29sdmUsIG1zLCAnZG9uZScpOwogIH0pCn0KdCgxMDAwKS50aGVuKChzKSA9PiBjb25zb2xlLmxvZyhzKSk7IC8vID0+</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAuY2F0Y2goZSA9PiA4KTsgLy8gsrvSqtXi0rvQ0L+0v7TK5LP2yba94bn7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBlID0gYTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAuY2F0Y2goZSA9PiA4KTsgLy8gsrvSqtXi0rvQ0L+0v7TK5LP2yba94bn7Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>用于将多个Promise实例包装成一个实例
+- 只要有一个失败就失败执行catch
+- 3个全部成功才执行then
+- 如果实例成员中自己实现了catch,则不会触发all的catch
+```
+var
+```</text>
+      </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>r</text>
       </register>
     </registers>
     <search>
