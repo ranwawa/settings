@@ -1,9 +1,12 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Angular HTML Template" />
       <blacklist language="JavaScript">
         <added pattern="Promise(executor)" />
         <added pattern="Uni.request(options)" />
+        <added pattern="Result(status,message)" />
       </blacklist>
     </blacklists>
   </component>
