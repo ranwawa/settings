@@ -11,6 +11,8 @@
         <added pattern="Matchers.toEqual(expected)" />
         <added pattern="BaseWrapper.props(key)" />
         <added pattern="Wrapper.find(selector)" />
+        <added pattern="Matchers.toBe(expected)" />
+        <added pattern="Matchers.toContain(expected)" />
       </blacklist>
     </blacklists>
   </component>
