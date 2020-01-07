@@ -10,6 +10,7 @@
         <added pattern="BaseWrapper.is(selector)" />
         <added pattern="Matchers.toEqual(expected)" />
         <added pattern="BaseWrapper.props(key)" />
+        <added pattern="Wrapper.find(selector)" />
       </blacklist>
     </blacklists>
   </component>
