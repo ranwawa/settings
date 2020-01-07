@@ -7,6 +7,9 @@
         <added pattern="Promise(executor)" />
         <added pattern="Uni.request(options)" />
         <added pattern="Result(status,message)" />
+        <added pattern="BaseWrapper.is(selector)" />
+        <added pattern="Matchers.toEqual(expected)" />
+        <added pattern="BaseWrapper.props(key)" />
       </blacklist>
     </blacklists>
   </component>
