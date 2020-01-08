@@ -17,6 +17,7 @@
         <added pattern="func(expected)" />
         <added pattern="BaseWrapper.classes(className)" />
         <added pattern="mount(component,options)" />
+        <added pattern="BaseWrapper.attributes(key)" />
       </blacklist>
     </blacklists>
   </component>
