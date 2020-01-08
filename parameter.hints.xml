@@ -13,6 +13,10 @@
         <added pattern="Wrapper.find(selector)" />
         <added pattern="Matchers.toBe(expected)" />
         <added pattern="Matchers.toContain(expected)" />
+        <added pattern="it(name,fn,timeout)" />
+        <added pattern="func(expected)" />
+        <added pattern="BaseWrapper.classes(className)" />
+        <added pattern="mount(component,options)" />
       </blacklist>
     </blacklists>
   </component>
