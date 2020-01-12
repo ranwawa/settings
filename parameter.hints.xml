@@ -20,6 +20,7 @@
         <added pattern="BaseWrapper.classes(className)" />
         <added pattern="mount(component,options)" />
         <added pattern="BaseWrapper.attributes(key)" />
+        <added pattern="beforeEach(fn,timeout)" />
       </blacklist>
     </blacklists>
   </component>
