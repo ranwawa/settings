@@ -21,6 +21,8 @@
         <added pattern="mount(component,options)" />
         <added pattern="BaseWrapper.attributes(key)" />
         <added pattern="beforeEach(fn,timeout)" />
+        <added pattern="describe(name,fn)" />
+        <added pattern="test(name,fn,timeout)" />
       </blacklist>
     </blacklists>
   </component>
