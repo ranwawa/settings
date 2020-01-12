@@ -23,6 +23,8 @@
         <added pattern="beforeEach(fn,timeout)" />
         <added pattern="describe(name,fn)" />
         <added pattern="test(name,fn,timeout)" />
+        <added pattern="Vue.$emit(event,args)" />
+        <added pattern="Wrapper.emitted(event)" />
       </blacklist>
     </blacklists>
   </component>
