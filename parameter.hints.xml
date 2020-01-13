@@ -25,6 +25,7 @@
         <added pattern="test(name,fn,timeout)" />
         <added pattern="Vue.$emit(event,args)" />
         <added pattern="Wrapper.emitted(event)" />
+        <added pattern="Vue.$nextTick(callback)" />
       </blacklist>
     </blacklists>
   </component>
