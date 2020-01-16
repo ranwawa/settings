@@ -28,6 +28,9 @@
         <added pattern="Vue.$nextTick(callback)" />
         <added pattern="RegExp(pattern)" />
       </blacklist>
+      <blacklist language="Vue">
+        <added pattern="Vue.$emit(event,args)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
