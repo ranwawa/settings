@@ -116,13 +116,9 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt h" />
   </action>
-  <action id="Vcs.ToggleAmendCommitMode" />
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt u" />
-  </action>
-  <action id="ViewMainMenu">
-    <keyboard-shortcut first-keystroke="alt m" second-keystroke="alt m" />
   </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
