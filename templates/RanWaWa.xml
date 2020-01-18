@@ -16,7 +16,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name=".t.c" value=".then((data) =&gt; {&#10;  console.log(data);&#10;})&#10;.catch(err =&gt; this.$console(err));" description="" toReformat="false" toShortenFQNames="true">
+  <template name=".t.c" value=".then(([,data]) =&gt; {&#10;  if(data) {&#10;    console.log(data);&#10;  }&#10;})&#10;.catch(err =&gt; this.$console(err));" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
@@ -35,6 +35,14 @@
   <template name=".t.c3" value=".then(([err, data]) =&gt; {&#10;  if (err) {&#10;    this.$console(err.errMsg);&#10;  } else {&#10;    console.log(data);&#10;  }&#10;}).catch(err =&gt; this.$console(err));" description="uni相关接口的promise处理" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="arrow-mutiple" value="() =&gt; {&#10;  $END$&#10;}" description="多行箭头函数" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
       <option name="Vue" value="true" />
     </context>
   </template>

@@ -1,9 +1,35 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="mapKeys(source,target,map)" />
+      </blacklist>
+      <blacklist language="Angular HTML Template" />
       <blacklist language="JavaScript">
         <added pattern="Promise(executor)" />
         <added pattern="Uni.request(options)" />
+        <added pattern="Result(status,message)" />
+        <added pattern="BaseWrapper.is(selector)" />
+        <added pattern="Matchers.toEqual(expected)" />
+        <added pattern="BaseWrapper.props(key)" />
+        <added pattern="Wrapper.find(selector)" />
+        <added pattern="Matchers.toBe(expected)" />
+        <added pattern="Matchers.toContain(expected)" />
+        <added pattern="it(name,fn,timeout)" />
+        <added pattern="func(expected)" />
+        <added pattern="BaseWrapper.classes(className)" />
+        <added pattern="mount(component,options)" />
+        <added pattern="BaseWrapper.attributes(key)" />
+        <added pattern="beforeEach(fn,timeout)" />
+        <added pattern="describe(name,fn)" />
+        <added pattern="test(name,fn,timeout)" />
+        <added pattern="Vue.$emit(event,args)" />
+        <added pattern="Wrapper.emitted(event)" />
+        <added pattern="Vue.$nextTick(callback)" />
+        <added pattern="RegExp(pattern)" />
+      </blacklist>
+      <blacklist language="Vue">
+        <added pattern="Vue.$emit(event,args)" />
       </blacklist>
     </blacklists>
   </component>

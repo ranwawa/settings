@@ -3,13 +3,14 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="acss" type="CSS" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="wxss" type="CSS" />
       <mapping ext="axml" type="HTML" />
+      <mapping ext="wxml" type="HTML" />
       <mapping pattern=".htmlhintrc" type="JSON" />
+      <mapping ext="wxs" type="JavaScript" />
       <mapping ext="vsdx" type="Native" />
-      <mapping ext="js - 副本" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="js - 副本" type="PLAIN_TEXT" />
       <mapping ext="wpy" type="Vue.js" />
       <mapping pattern="12" type="XHTML" />
     </extensionMap>
