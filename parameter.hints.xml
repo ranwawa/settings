@@ -27,6 +27,7 @@
         <added pattern="Wrapper.emitted(event)" />
         <added pattern="Vue.$nextTick(callback)" />
         <added pattern="RegExp(pattern)" />
+        <added pattern="WrapperArray.at(index)" />
       </blacklist>
       <blacklist language="Vue">
         <added pattern="Vue.$emit(event,args)" />
