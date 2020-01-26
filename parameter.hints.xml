@@ -29,6 +29,7 @@
         <added pattern="RegExp(pattern)" />
         <added pattern="WrapperArray.at(index)" />
         <added pattern="func(props)" />
+        <added pattern="BaseWrapper.trigger(eventName,options)" />
       </blacklist>
       <blacklist language="Vue">
         <added pattern="Vue.$emit(event,args)" />
