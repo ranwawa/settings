@@ -46,7 +46,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="vprop-str" value="$propName$: {&#10;  type: $propType$,&#10;  default: $propValue$$END$,&#10;}," toReformat="false" toShortenFQNames="true">
+  <template name="vprop-str" value="$propName$: {&#10;  type: $propType$,&#10;  default: $propValue$$END$,&#10;}," description="" toReformat="false" toShortenFQNames="true">
     <variable name="propName" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
     <variable name="propType" expression="" defaultValue="&quot;String&quot;" alwaysStopAt="true" />
     <variable name="propValue" expression="" defaultValue="&quot;''&quot;" alwaysStopAt="true" />
@@ -55,7 +55,7 @@
       <option name="VUE_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="vprop-boolean" value="$propName$: {&#10;  type: $propType$,&#10;  default: $propValue$$END$,&#10;}," toReformat="false" toShortenFQNames="true">
+  <template name="vprop-boolean" value="$propName$: {&#10;  type: $propType$,&#10;  default: $propValue$$END$,&#10;}," description="" toReformat="false" toShortenFQNames="true">
     <variable name="propName" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
     <variable name="propType" expression="" defaultValue="&quot;Boolean&quot;" alwaysStopAt="true" />
     <variable name="propValue" expression="" defaultValue="&quot;false&quot;" alwaysStopAt="true" />
