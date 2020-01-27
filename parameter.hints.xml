@@ -34,6 +34,7 @@
       <blacklist language="Vue">
         <added pattern="Vue.$emit(event,args)" />
         <added pattern="func(options)" />
+        <added pattern="bem(name,conf)" />
       </blacklist>
     </blacklists>
   </component>
