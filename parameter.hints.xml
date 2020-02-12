@@ -35,6 +35,7 @@
         <added pattern="Vue.$emit(event,args)" />
         <added pattern="func(options)" />
         <added pattern="bem(name,conf)" />
+        <added pattern="func(searchElement)" />
       </blacklist>
     </blacklists>
   </component>
