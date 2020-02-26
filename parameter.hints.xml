@@ -38,6 +38,7 @@
         <added pattern="func(searchElement)" />
         <added pattern="func(searchElement,fromIndex)" />
         <added pattern="parseInt(s,radix)" />
+        <added pattern="default.methods.setStepSelectedInfo(step,showName,selectedStatus)" />
       </blacklist>
     </blacklists>
     <disabledLanguages>
