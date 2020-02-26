@@ -40,10 +40,13 @@
         <added pattern="parseInt(s,radix)" />
         <added pattern="default.methods.setStepSelectedInfo(step,showName,selectedStatus)" />
         <added pattern="Number.toFixed(fractionDigits)" />
+        <added pattern="Array.splice(start,deleteCount,items)" />
+        <added pattern="Array.findIndex(predicate,thisArg)" />
       </blacklist>
     </blacklists>
     <disabledLanguages>
       <language id="JavaScript" />
+      <language id="Vue" />
     </disabledLanguages>
   </component>
 </application>
