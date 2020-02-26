@@ -37,6 +37,7 @@
         <added pattern="bem(name,conf)" />
         <added pattern="func(searchElement)" />
         <added pattern="func(searchElement,fromIndex)" />
+        <added pattern="parseInt(s,radix)" />
       </blacklist>
     </blacklists>
     <disabledLanguages>
