@@ -39,6 +39,7 @@
         <added pattern="func(searchElement,fromIndex)" />
         <added pattern="parseInt(s,radix)" />
         <added pattern="default.methods.setStepSelectedInfo(step,showName,selectedStatus)" />
+        <added pattern="Number.toFixed(fractionDigits)" />
       </blacklist>
     </blacklists>
     <disabledLanguages>
