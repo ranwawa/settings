@@ -31,13 +31,15 @@
       <language id="Up" NEW_FILE="true" ENABLE="false" />
     </languages>
     <userTemplates>
-      <template name="Example user template">### Example user template
-
-# IntelliJ project files
+      <template name="ranwawa"># IntelliJ project files
 .idea
 *.iml
 out
-gen</template>
+gen
+
+# node
+node_modules
+*.log</template>
     </userTemplates>
   </component>
 </application>
