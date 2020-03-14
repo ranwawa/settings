@@ -84,6 +84,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
   <action id="QuickChangeScheme" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt m" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
