@@ -39,6 +39,7 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" />
   </action>
+  <action id="CopyElement" />
   <action id="CopyReference" />
   <action id="CreateVueSingleFileComp">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt v" />
@@ -51,6 +52,7 @@
   </action>
   <action id="GotoLine" />
   <action id="GotoNextError" />
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="MarkdownNavigator.ToggleBold">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl b" />
   </action>
@@ -110,6 +112,10 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt s" />
+  </action>
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="ctrl alt y" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="Terminal.MoveToolWindowTabLeft" />
   <action id="Terminal.MoveToolWindowTabRight" />
