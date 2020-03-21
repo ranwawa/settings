@@ -107,6 +107,10 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt s" />
   </action>
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="ctrl alt y" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="Terminal.MoveToolWindowTabLeft" />
   <action id="Terminal.MoveToolWindowTabRight" />
   <action id="ToggleBookmark">
