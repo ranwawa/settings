@@ -84,11 +84,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
   <action id="QuickChangeScheme" />
-  <action id="ReformatCode" />
-  <action id="ReformatWithPrettierAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
-  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
@@ -112,10 +107,6 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt s" />
   </action>
-  <action id="Synchronize">
-    <keyboard-shortcut first-keystroke="ctrl alt y" />
-    <keyboard-shortcut first-keystroke="f5" />
-  </action>
   <action id="Terminal.MoveToolWindowTabLeft" />
   <action id="Terminal.MoveToolWindowTabRight" />
   <action id="ToggleBookmark">
@@ -128,7 +119,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt p" />
   </action>
-  <action id="Vcs.ReformatCommitMessage" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt h" />
   </action>
