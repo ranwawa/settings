@@ -1,12 +1,10 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
-  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateKeyPromoterXToolWindow">
     <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="ctrl k" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
-    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
