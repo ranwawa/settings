@@ -19,6 +19,8 @@
         <entry>refresh</entry>
         <entry>show</entry>
         <entry>isShow</entry>
+        <entry>van-</entry>
+        <entry>van-pull-re</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -113,16 +115,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589523611010">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/jxgh5/src/util/basicSet.ts" timestamp="1589528592523" />
-      <file name="E:/jxgh5/babel.config.js" timestamp="1589523386679">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="5" />
-        <mark key="^" line="3" column="6" />
-      </file>
       <file name="E:/jxgh5/tsconfig.json" timestamp="1589525231808">
         <mark key="[" line="39" column="7" />
       </file>
@@ -132,9 +124,7 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="E:/jxgh5/src/views/login/login.vue" timestamp="1589529481866" />
       <file name="E:/jxgh5/src/api/api.ts" timestamp="1589528551355" />
-      <file name="E:/jxgh5/src/router/_import_development.ts" timestamp="1589527040477" />
       <file name="E:/jxgh5/vue.config.js" timestamp="1589526638173">
         <mark key="'" line="77" column="17" />
         <mark key="[" line="30" column="12" />
@@ -156,21 +146,35 @@
         <mark key="." line="3" column="8" />
         <mark key="^" line="3" column="9" />
       </file>
+      <file name="E:/jxgh5/src/components/jxgDoubleScroll/index.vue" timestamp="1589538401072">
+        <mark key="'" line="0" column="9" />
+      </file>
       <file name="/JavaScript Console" timestamp="1589532916559">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/jxgh5/src/shims-vue.d.ts" timestamp="1589523006335" />
       <file name="E:/jxgh5/src/components/login/index.vue" timestamp="1589534329909">
         <mark key="'" line="114" column="10" />
+      </file>
+      <file name="E:/jxgh5/src/main.ts" timestamp="1589525761350">
+        <mark key="'" line="131" column="2" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589523611010">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/jxgh5/src/util/basicSet.ts" timestamp="1589528592523" />
+      <file name="E:/jxgh5/src/views/login/login.vue" timestamp="1589529481866" />
+      <file name="E:/jxgh5/src/router/_import_development.ts" timestamp="1589527040477" />
+      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1589538717069">
+        <mark key="'" line="556" column="26" />
+        <mark key="[" line="430" column="0" />
+        <mark key="]" line="430" column="0" />
+        <mark key="." line="908" column="235" />
       </file>
       <file name="E:/jxgh5/src/api/contentType.ts" timestamp="1589525853827">
         <mark key="'" line="8" column="36" />
       </file>
       <file name="E:/jxgh5/package.json" timestamp="1589526341478" />
-      <file name="E:/jxgh5/src/main.ts" timestamp="1589525761350">
-        <mark key="'" line="131" column="2" />
-      </file>
-      <file name="E:/jxgh5/src/router/index.ts" timestamp="1589529473154" />
+      <file name="E:/jxgh5/src/router/index.ts" timestamp="1589538576117" />
     </filemarks>
     <jumps>
       <jump line="259" column="0" filename="E:/video/weixin_platform/train/app/Admin/View/Admin/diy_set.html" />
@@ -204,56 +208,67 @@
       <jump line="80" column="9" filename="E:/jxgh5/src/components/login/captchaDialog.vue" />
       <jump line="149" column="9" filename="E:/jxgh5/src/components/login/captchaDialog.vue" />
       <jump line="41" column="0" filename="E:/test/vue-class-component/src/components/HelloWorld.vue" />
+      <jump line="186" column="4" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="233" column="0" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="1125" column="0" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="81" column="4" filename="E:/jxgh5/src/components/jxgDoubleScroll/index.vue" />
+      <jump line="15" column="35" filename="E:/jxgh5/src/components/jxgDoubleScroll/index.vue" />
+      <jump line="21" column="9" filename="E:/jxgh5/src/components/jxgDoubleScroll/index.vue" />
+      <jump line="33" column="13" filename="E:/jxgh5/src/components/jxgDoubleScroll/index.vue" />
+      <jump line="36" column="13" filename="E:/jxgh5/src/components/jxgDoubleScroll/index.vue" />
+      <jump line="604" column="16" filename="E:/jxgh5/src/components/jxgDoubleScroll/index.vue" />
+      <jump line="0" column="9" filename="E:/jxgh5/src/components/jxgDoubleScroll/index.vue" />
+      <jump line="556" column="26" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Vue</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHJlZnJlc2hUb2tlbiBmcm9tICJAL2FwaS9yZWZyZXNoVG9rZW4iOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Vue</text>
+        <text>, Watch</text>
       </register>
       <register name="/" type="4">
-        <text>isShow</text>
+        <text>van-pull-re</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QENvbXBvbmVudApjbGFzcyBIZWxsbyBleHRlbmRzIFZ1ZSB7CiAgaGVsbG8gPSAnxOMnOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">aW1wb3J0IHJlZnJlc2hUb2tlbiBmcm9tICJAL2FwaS9yZWZyZXNoVG9rZW4iOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZXQgY29tcHV0ZWROYW1lICgpIHsKICAgIAogIH0K</text>
+        <text encoding="base64">ICBwcmV2ZW50RGVmYXVsdCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCfSs8PmudLU2LPJuaYnKTsK</text>
+        <text encoding="base64">ICByZW1vdmVEZWZhdWx0LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">ICBkZWVwQ2xvbmUsCiAgaHRtbERlY29kZUJ5UmVnRXhwLAogIHJlcGxhY2VJbWcsCiAgc29ydEJ5LAogIGdldEltZ0FyciwK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IDxkaXYgY2xhc3M9ImhlbGxvIj4KICAgIDxoMT57eyBtc2cgfX08L2gxPgogICAgPHA+CiAgICAgIEZvciBhIGd1aWRlIGFuZCByZWNpcGVzIG9uIGhvdyB0byBjb25maWd1cmUgLyBjdXN0b21pemUgdGhpcyBwcm9qZWN0LDxicj4KICAgICAgY2hlY2sgb3V0IHRoZQogICAgICA8YSBocmVmPSJodHRwczovL2NsaS52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj52dWUtY2xpIGRvY3VtZW50YXRpb248L2E+LgogICAgPC9wPgogICAgPGgzPkluc3RhbGxlZCBDTEkgUGx1Z2luczwvaDM+CiAgICA8dWw+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vdnVlanMvdnVlLWNsaS90cmVlL2Rldi9wYWNrYWdlcy8lNDB2dWUvY2xpLXBsdWdpbi1iYWJlbCIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPmJhYmVsPC9hPjwvbGk+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vdnVlanMvdnVlLWNsaS90cmVlL2Rldi9wYWNrYWdlcy8lNDB2dWUvY2xpLXBsdWdpbi10eXBlc2NyaXB0IiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciI+dHlwZXNjcmlwdDwvYT48L2xpPgogICAgPC91bD4KICAgIDxoMz5Fc3NlbnRpYWwgTGlua3M8L2gzPgogICAgPHVsPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly92dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj5Db3JlIERvY3M8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vZm9ydW0udnVlanMub3JnIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciI+Rm9ydW08L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vY2hhdC52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj5Db21tdW5pdHkgQ2hhdDwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly90d2l0dGVyLmNvbS92dWVqcyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPlR3aXR0ZXI8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vbmV3cy52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj5OZXdzPC9hPjwvbGk+CiAgICA8L3VsPgogICAgPGgzPkVjb3N5c3RlbTwvaDM+CiAgICA8dWw+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3JvdXRlci52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj52dWUtcm91dGVyPC9hPjwvbGk+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3Z1ZXgudnVlanMub3JnIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciI+dnVleDwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3Z1ZWpzL3Z1ZS1kZXZ0b29scyN2dWUtZGV2dG9vbHMiIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj52dWUtZGV2dG9vbHM8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vdnVlLWxvYWRlci52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj52dWUtbG9hZGVyPC9hPjwvbGk+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vdnVlanMvYXdlc29tZS12dWUiIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj5hd2Vzb21lLXZ1ZTwvYT48L2xpPgogICAgPC91bD4KICA8L2Rpdj4KICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkZWVwQ2xvbmUsCiAgaHRtbERlY29kZUJ5UmVnRXhwLAogIHJlcGxhY2VJbWcsCiAgc29ydEJ5LAogIGdldEltZ0FyciwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">X2ltcG9ydCgibG9naW4vbG9naW4iKQo=</text>
+        <text encoding="base64">ICByZXBsYWNlQVRhZywKICBHZXRVcmxQYXJhbSwKICBnZW5lcmF0ZVRlbCwKICBnZXRDbGllbnQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocm91dGVzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgdHlwZXMgZnJvbSAiQC9zdG9yZS9tdXRhdGlvbi10eXBlcyI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtb2R1bGVzOiBbJyddCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbWFwU3RhdGUsIG1hcE11dGF0aW9ucyB9IGZyb20gInZ1ZXgiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXNhZGZhZnNhO2xma2oK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>isShow</last-search>
+      <last-search>van-pull-re</last-search>
       <last-offset />
-      <last-pattern>isShow</last-pattern>
+      <last-pattern>van-pull-re</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
