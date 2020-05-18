@@ -119,8 +119,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgh5/src/api/api.ts" timestamp="1589528551355" />
-      <file name="E:/jxgh5/src/api/interface.ts" timestamp="1589542013395" />
+      <file name="/Dummy.txt" timestamp="1589542217497">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/document/problem/基础语法/JavaScript.md" timestamp="1589763966597">
+        <mark key="'" line="76" column="22" />
+        <mark key="[" line="266" column="54" />
+        <mark key="]" line="266" column="54" />
+        <mark key="^" line="266" column="54" />
+        <mark key="." line="266" column="53" />
+      </file>
       <file name="E:/jxgh5/vue.config.js" timestamp="1589526638173">
         <mark key="'" line="77" column="17" />
         <mark key="[" line="30" column="12" />
@@ -148,16 +156,9 @@
       <file name="/JavaScript Console" timestamp="1589532916559">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1589542208730" />
       <file name="E:/jxgh5/src/components/login/index.vue" timestamp="1589534329909">
         <mark key="'" line="114" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589542161088">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/jxgh5/src/util/basicSet.ts" timestamp="1589528592523" />
-      <file name="E:/jxgh5/src/views/login/login.vue" timestamp="1589529481866" />
-      <file name="E:/jxgh5/src/router/_import_development.ts" timestamp="1589527040477" />
       <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1589542215638">
         <mark key="'" line="1074" column="21" />
         <mark key="[" line="325" column="15" />
@@ -165,7 +166,6 @@
         <mark key="." line="325" column="15" />
         <mark key="^" line="969" column="17" />
       </file>
-      <file name="E:/jxgh5/package.json" timestamp="1589526341478" />
       <file name="E:/jxgh5/src/components/ad/adContent.vue" timestamp="1589541301852">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="25" />
@@ -274,15 +274,16 @@
       <jump line="345" column="24" filename="E:/jxgh5/src/router/index.ts" />
       <jump line="346" column="36" filename="E:/jxgh5/src/router/index.ts" />
       <jump line="1074" column="21" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="76" column="22" filename="$USER_HOME$/WebstormProjects/document/problem/基础语法/JavaScript.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text encoding="base64">IC8vIHR0ZmI=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IC8vIHR0ZmI=</text>
       </register>
       <register name="/" type="4">
         <text>立即购买2</text>
@@ -291,37 +292,37 @@
         <text encoding="base64">QENvbXBvbmVudApjbGFzcyBIZWxsbyBleHRlbmRzIFZ1ZSB7CiAgaGVsbG8gPSAnxOMnOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBteVRoaXM6IGFueSA9IHRoaXM7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGxldCBteVRoaXM6IGFueSA9IHRoaXM7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>} else {
       myThis.chooseShow = false;
       this.$router.push(&quot;/login&quot;);
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGlmIChteVRoaXMubG9nID09IDEpIHsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>// if (!myThis.isWeiXin) {
     //     myThis.$myToast(&quot;请在手机微信打开当前页面再购买&quot;);
     //     return;
     // }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBteVRoaXM6IGFueSA9IHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
     </registers>
   </component>
