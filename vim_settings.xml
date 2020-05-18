@@ -122,8 +122,10 @@
       <file name="vim_settings.xml" timestamp="1589764716079">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589542161088">
+      <file name="/Dummy.txt" timestamp="1589765932264">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/document/problem/基础语法/JavaScript.md" timestamp="1589763966597">
         <mark key="'" line="76" column="22" />
@@ -164,16 +166,18 @@
       <file name="/JavaScript Console" timestamp="1589532916559">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1589766111453" />
       <file name="E:/jxgh5/src/components/login/index.vue" timestamp="1589534329909">
         <mark key="'" line="114" column="10" />
       </file>
-      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1589542215638">
+      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1589765805274">
         <mark key="'" line="1074" column="21" />
-        <mark key="[" line="325" column="15" />
-        <mark key="]" line="325" column="15" />
-        <mark key="." line="325" column="15" />
+        <mark key="[" line="969" column="0" />
+        <mark key="]" line="969" column="0" />
+        <mark key="." line="969" column="0" />
         <mark key="^" line="969" column="17" />
       </file>
+      <file name="E:/jxgh5/src/mixin/wechatApi.ts" timestamp="1589766143986" />
       <file name="E:/jxgh5/src/components/ad/adContent.vue" timestamp="1589541301852">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="25" />
@@ -292,10 +296,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>8082</text>
+        <text>立即购买去掉登陆验证</text>
       </register>
       <register name="-" type="4">
-        <text>8082</text>
+        <text>立即购买去掉登陆验证</text>
       </register>
       <register name="/" type="4">
         <text>立即购买2</text>
@@ -304,34 +308,35 @@
         <text encoding="base64">QENvbXBvbmVudApjbGFzcyBIZWxsbyBleHRlbmRzIFZ1ZSB7CiAgaGVsbG8gPSAnxOMnOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKTsK</text>
+      <register name="4" type="4">
+        <text>debugger;
+        // 注意区分微信内与微信外支付  流程不一样
+        if (myThis.isWeiXin) {
+          // 微信内
+          myThis.jumpToWechatRederectUrl();</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coaGVyb05hbWUpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coMTIzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIGhlcm9OYW1lID0gJ7CyvKrArSc7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coMTIzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBteVRoaXM6IGFueSA9IHRoaXM7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coMTIzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coMTIzKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>} else {
-      myThis.chooseShow = false;
-      this.$router.push(&quot;/login&quot;);
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coaGVyb05hbWUpOwo=</text>
       </register>
     </registers>
   </component>
