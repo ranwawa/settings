@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>soket</entry>
-        <entry>86</entry>
-        <entry>countryCode</entry>
         <entry>获取验证码</entry>
         <entry>refresh</entry>
         <entry>show</entry>
@@ -25,6 +22,9 @@
         <entry>立即购买</entry>
         <entry>buyNow</entry>
         <entry>立即购买2</entry>
+        <entry>goodsDetail</entry>
+        <entry>debugger</entry>
+        <entry>created</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -134,6 +134,7 @@
         <mark key="^" line="266" column="54" />
         <mark key="." line="266" column="53" />
       </file>
+      <file name="E:/jxgh5/src/plugin/wxshareConfig.ts" timestamp="1589767755092" />
       <file name="E:/jxgh5/vue.config.js" timestamp="1589765078503">
         <mark key="'" line="77" column="17" />
         <mark key="[" line="184" column="10" />
@@ -170,12 +171,12 @@
       <file name="E:/jxgh5/src/components/login/index.vue" timestamp="1589534329909">
         <mark key="'" line="114" column="10" />
       </file>
-      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1589765805274">
-        <mark key="'" line="1074" column="21" />
-        <mark key="[" line="969" column="0" />
-        <mark key="]" line="969" column="0" />
-        <mark key="." line="969" column="0" />
-        <mark key="^" line="969" column="17" />
+      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1589768267009">
+        <mark key="'" line="695" column="4" />
+        <mark key="[" line="1046" column="13" />
+        <mark key="]" line="1047" column="24" />
+        <mark key="." line="1047" column="23" />
+        <mark key="^" line="1047" column="24" />
       </file>
       <file name="E:/jxgh5/src/mixin/wechatApi.ts" timestamp="1589766143986" />
       <file name="E:/jxgh5/src/components/ad/adContent.vue" timestamp="1589541301852">
@@ -184,18 +185,24 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="25" />
       </file>
+      <file name="E:/jxgh5/src/mixin/wechatShare.ts" timestamp="1589768174540">
+        <mark key="[" line="18" column="58" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="28" column="50" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="C:/project/document/problem/软件/WebStorm.md" timestamp="1589679712132">
         <mark key="'" line="116" column="0" />
         <mark key="[" line="302" column="33" />
       </file>
-      <file name="E:/jxgh5/src/router/index.ts" timestamp="1589541865496">
-        <mark key="'" line="346" column="36" />
+      <file name="E:/jxgh5/src/router/index.ts" timestamp="1589767322218">
+        <mark key="'" line="74" column="38" />
+        <mark key="[" line="177" column="24" />
+        <mark key="]" line="177" column="24" />
+        <mark key="." line="177" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="0" filename="E:/video/weixin_platform/train/app/Admin/View/Admin/diy_set.html" />
-      <jump line="10" column="2" filename="E:/video/weixin_platform/train/app/Admin/View/Admin/diy_set.html" />
-      <jump line="139" column="2" filename="E:/video/weixin_platform/train/app/Admin/View/Admin/diy_set.html" />
       <jump line="260" column="0" filename="E:/video/weixin_platform/train/app/Admin/View/Admin/diy_set.html" />
       <jump line="24" column="30" filename="E:/video/weixin_platform/train/app/Admin/View/Admin/diy_set.html" />
       <jump line="4" column="14" filename="E:/video/weixin_platform/audiance.html" />
@@ -291,60 +298,65 @@
       <jump line="346" column="36" filename="E:/jxgh5/src/router/index.ts" />
       <jump line="1074" column="21" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
       <jump line="116" column="0" filename="C:/project/document/problem/软件/WebStorm.md" />
+      <jump line="321" column="22" filename="E:/jxgh5/src/router/index.ts" />
+      <jump line="73" column="31" filename="E:/jxgh5/src/router/index.ts" />
+      <jump line="74" column="38" filename="E:/jxgh5/src/router/index.ts" />
+      <jump line="756" column="0" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="695" column="4" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>立即购买去掉登陆验证</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>立即购买去掉登陆验证</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>立即购买2</text>
+        <text>created</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QENvbXBvbmVudApjbGFzcyBIZWxsbyBleHRlbmRzIFZ1ZSB7CiAgaGVsbG8gPSAnxOMnOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZWVwQ2xvbmUoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGlzSW9zKCksIGlzQW5kcm9pZCgpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>debugger;
         // 注意区分微信内与微信外支付  流程不一样
         if (myThis.isWeiXin) {
           // 微信内
           myThis.jumpToWechatRederectUrl();</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coaGVyb05hbWUpOwo=</text>
-      </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>立即购买2</last-search>
+      <last-search>created</last-search>
       <last-offset />
-      <last-pattern>立即购买2</last-pattern>
+      <last-pattern>created</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
