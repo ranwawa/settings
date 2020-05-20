@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>target</entry>
-        <entry>分享</entry>
         <entry>base_user</entry>
         <entry>baseUser</entry>
         <entry>craetted</entry>
@@ -25,6 +23,8 @@
         <entry>您还没有填写</entry>
         <entry>没有填写</entry>
         <entry>recive</entry>
+        <entry>after</entry>
+        <entry>more</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/WeChat Files/ranwawag/FileStorage/File/2020-05/index(3).html" timestamp="1589959449792" />
+      <file name="$USER_HOME$/Documents/WeChat Files/ranwawag/FileStorage/File/2020-05/index(3).html" timestamp="1589963368870" />
       <file name="E:/jxgwxapp/prettier.js" timestamp="1589956078487">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="2" />
@@ -141,11 +141,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1589961449132">
-        <mark key="[" line="33" column="19" />
-        <mark key="]" line="33" column="60" />
-        <mark key="^" line="33" column="60" />
-        <mark key="." line="33" column="59" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1589963843911">
+        <mark key="'" line="79" column="13" />
+        <mark key="[" line="1028" column="9" />
+        <mark key="]" line="1028" column="10" />
+        <mark key="." line="1028" column="9" />
+        <mark key="^" line="1028" column="10" />
       </file>
       <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1589958747578">
         <mark key="'" line="181" column="4" />
@@ -168,6 +169,7 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="E:/jxgh5/src/util/basicSet.ts" timestamp="1589963431967" />
       <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1589955385722">
         <mark key="'" line="70" column="22" />
         <mark key="[" line="78" column="12" />
@@ -214,8 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1041" column="21" filename="E:/video/weixin_platform/live-player/audience.html" />
-      <jump line="476" column="18" filename="E:/video/weixin_platform/live-player/audience.html" />
       <jump line="1017" column="0" filename="E:/video/weixin_platform/live-player/audience.html" />
       <jump line="1023" column="0" filename="E:/video/weixin_platform/live-player/audience.html" />
       <jump line="860" column="0" filename="E:/video/weixin_platform/live-player/audience.html" />
@@ -314,56 +314,58 @@
       <jump line="33" column="0" filename="E:/jxgwxapp/vue.config.js" />
       <jump line="15" column="16" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
       <jump line="181" column="4" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
+      <jump line="38" column="20" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="64" column="13" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmxvZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoYmFja0VsZSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>recive</text>
+        <text>more</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICAgIC5hdS10aXRsZV9fYmFjazo6YWZ0ZXIgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmxvZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoYmFja0VsZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5sb2dpc3RpY3NGZWUK</text>
+        <text encoding="base64">ICAgICAgaWYoZGF0YS5pc0FwcCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwcmV0dHktcXVpY2siOiAicHJldHR5LXF1aWNrIC0tc3RhZ2VkIC0tdmVyYm9zZSIK</text>
+        <text encoding="base64">ICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIFByZXR0aWVyUGx1Z2luID0gcmVxdWlyZSgicHJldHRpZXItd2VicGFjay1wbHVnaW4iKTsK</text>
+        <text encoding="base64">ICAgICAgZmxleC1kaXJlY3Rpb246IHJvdzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFByZXR0aWVyUGx1Z2luKCksCg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYm90dG9tOiAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGVmdDogMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIFByZXR0aWVyUGx1Z2luID0gcmVxdWlyZSgicHJldHRpZXItd2VicGFjay1wbHVnaW4iKTsK</text>
+        <text encoding="base64">ICAgICAgdG9wOiAwOwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>recive</last-search>
+      <last-search>more</last-search>
       <last-offset />
-      <last-pattern>recive</last-pattern>
+      <last-pattern>more</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
