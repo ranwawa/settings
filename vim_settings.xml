@@ -139,12 +139,12 @@
       <file name="E:/jxgwxapp/babel.config.js" timestamp="1589950614269">
         <mark key="'" line="3" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589946495735">
+      <file name="/Dummy.txt" timestamp="1589952707074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1589951136257">
+      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1589952703206">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
@@ -166,12 +166,11 @@
         <mark key="." line="9" column="32" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/goods/detail.vue" timestamp="1589951115322">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="23" column="48" />
-        <mark key="." line="23" column="47" />
-        <mark key="^" line="23" column="48" />
+      <file name="E:/jxgwxapp/src/pages/goods/detail.vue" timestamp="1589952916615">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="8" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/document/problem/工程化/webpack.md" timestamp="1589936826566">
         <mark key="[" line="135" column="29" />
@@ -289,52 +288,47 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgY29tcGxldGUobWVzOiBhbnkpIHsKICAgICAgICAvLyC907/atffTw73hyvi1xLvYtfe6r8r9o6i199PDs8m5pqGiyqew3La8u+HWtNDQo6kKICAgICAgICBjb25zb2xlLmxvZyhtZXMsICJtZXMiKTsKICAgICAgICB1bmkuaGlkZUxvYWRpbmcoKTsKICAgICAgICBsZXQgYm9vbCA9IHRvVHlwZShtZXMpID09PSAib2JqZWN0IiAmJiBtZXNbInN0YXR1c0NvZGUiXSAhPT0gMjAwOwogICAgICAgIGlmIChib29sKSB7CiAgICAgICAgICBpZiAobWVzWyJkYXRhIl0gJiYgbWVzWyJkYXRhIl1bIm1zZyJdKSB7CiAgICAgICAgICAgIHVuaS5zaG93VG9hc3QoewogICAgICAgICAgICAgIHRpdGxlOiBtZXNbImRhdGEiXVsibXNnIl0sCiAgICAgICAgICAgICAgaWNvbjogIm5vbmUiCiAgICAgICAgICAgIH0pOwogICAgICAgICAgfQogICAgICAgICAgaWYgKGZhaWx1cmUgJiYgdHlwZW9mIGZhaWx1cmUgPT09ICJmdW5jdGlvbiIpIHsKICAgICAgICAgICAgZmFpbHVyZShtZXMpOwogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQog</text>
+        <text encoding="base64">LnRoZW4oKFssZGF0YV0pID0+IHs=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">LnRoZW4oKFssZGF0YV0pID0+IHs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-			&quot;path&quot;: &quot;pages/index/index&quot;,
-			&quot;style&quot;: {
-				&quot;navigationBarTitleText&quot;: &quot;uni-app&quot;
-			}
-		}</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgIGNvbnN0IHJlcyA9IGdvb2RzQXBpLmdldEdvb2RzRGV0YWlsKHt9KS50aGVuKChbLGRhdGFdKSA9PiB7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgY29tcGxldGUobWVzOiBhbnkpIHsKICAgICAgICAvLyC907/atffTw73hyvi1xLvYtfe6r8r9o6i199PDs8m5pqGiyqew3La8u+HWtNDQo6kKICAgICAgICBjb25zb2xlLmxvZyhtZXMsICJtZXMiKTsKICAgICAgICB1bmkuaGlkZUxvYWRpbmcoKTsKICAgICAgICBsZXQgYm9vbCA9IHRvVHlwZShtZXMpID09PSAib2JqZWN0IiAmJiBtZXNbInN0YXR1c0NvZGUiXSAhPT0gMjAwOwogICAgICAgIGlmIChib29sKSB7CiAgICAgICAgICBpZiAobWVzWyJkYXRhIl0gJiYgbWVzWyJkYXRhIl1bIm1zZyJdKSB7CiAgICAgICAgICAgIHVuaS5zaG93VG9hc3QoewogICAgICAgICAgICAgIHRpdGxlOiBtZXNbImRhdGEiXVsibXNnIl0sCiAgICAgICAgICAgICAgaWNvbjogIm5vbmUiCiAgICAgICAgICAgIH0pOwogICAgICAgICAgfQogICAgICAgICAgaWYgKGZhaWx1cmUgJiYgdHlwZW9mIGZhaWx1cmUgPT09ICJmdW5jdGlvbiIpIHsKICAgICAgICAgICAgZmFpbHVyZShtZXMpOwogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQog</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gZXhwb3J0IGRlZmF1bHQgY2xhc3MgZ29vZHNEZXRhaWwgZXh0ZW5kcyBWdWUgewovLyAgICBtb3VudGVkKCkgewovLyAgICAgdGhpcy50ZXN0KCk7Ci8vICAgfQovLyAgIGFzeW5jIHRlc3QoKSB7Ci8vICAgICBjb25zb2xlLmxvZygnx+vH873Tv9onKTsKLy8gICAgIGNvbnN0IHJlcyA9IGdvb2RzQXBpLmdldEdvb2RzRGV0YWlsKHt9KS50aGVuKChbLGRhdGFdKSA9PiB7Ci8vICAgICAgIGlmKGRhdGEpIHsKLy8gICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsKLy8gICAgICAgfQovLyAgICAgfSkKLy8gICAgIC5jYXRjaChlcnIgPT4gdGhpcy4kY29uc29sZShlcnIpKTs7Ci8vICAgICBjb25zb2xlLmxvZygxMTExMTExLCByZXMpOwovLyAgIH0KLy8gfTs=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">QENvbXBvbmVudCh7CiAgbmFtZTogJ2dvb2RzRGV0YWlsJywKfSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBtb3UK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgY29tcGxldGUobWVzOiBhbnkpIHsKICAgICAgICAvLyC907/atffTw73hyvi1xLvYtfe6r8r9o6i199PDs8m5pqGiyqew3La8u+HWtNDQo6kKICAgICAgICBjb25zb2xlLmxvZyhtZXMsICJtZXMiKTsKICAgICAgICB1bmkuaGlkZUxvYWRpbmcoKTsKICAgICAgICBsZXQgYm9vbCA9IHRvVHlwZShtZXMpID09PSAib2JqZWN0IiAmJiBtZXNbInN0YXR1c0NvZGUiXSAhPT0gMjAwOwogICAgICAgIGlmIChib29sKSB7CiAgICAgICAgICBpZiAobWVzWyJkYXRhIl0gJiYgbWVzWyJkYXRhIl1bIm1zZyJdKSB7CiAgICAgICAgICAgIHVuaS5zaG93VG9hc3QoewogICAgICAgICAgICAgIHRpdGxlOiBtZXNbImRhdGEiXVsibXNnIl0sCiAgICAgICAgICAgICAgaWNvbjogIm5vbmUiCiAgICAgICAgICAgIH0pOwogICAgICAgICAgfQogICAgICAgICAgaWYgKGZhaWx1cmUgJiYgdHlwZW9mIGZhaWx1cmUgPT09ICJmdW5jdGlvbiIpIHsKICAgICAgICAgICAgZmFpbHVyZShtZXMpOwogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQog</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>async test() {
     console.log('请求接口');
     const res = await goodsApi.getGoodsDetail({});
     console.log(1111111, res);
   }</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LnRoZW4oKFssZGF0YV0pID0+IHsKICAgICAgaWYoZGF0YSkgewogICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwogICAgICB9CiAgICB9KQogICAgLmNhdGNoKGVyciA9PiBjb25zb2xlLmxvZygxMjMsIGVycikgKTs=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGEpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMyk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBhOwo=</text>
       </register>
     </registers>
   </component>
