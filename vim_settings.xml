@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>plugins</entry>
-        <entry encoding="base64">XDxjb25zdFw+</entry>
-        <entry>111</entry>
         <entry>try</entry>
         <entry>reject</entry>
         <entry>plugin</entry>
@@ -25,6 +22,9 @@
         <entry>回放</entry>
         <entry>&quot;template</entry>
         <entry>\$end.</entry>
+        <entry encoding="base64">XDxwbGF0Zm9ybUJhY2tGdW5jXD4=</entry>
+        <entry>test&quot;</entry>
+        <entry>#test</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -141,12 +141,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1589969637282">
-        <mark key="'" line="762" column="16" />
-        <mark key="[" line="849" column="0" />
-        <mark key="]" line="849" column="0" />
-        <mark key="." line="849" column="0" />
-        <mark key="^" line="848" column="25" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1589971455813">
+        <mark key="'" line="849" column="14" />
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="42" column="14" />
+        <mark key="." line="42" column="13" />
+        <mark key="^" line="42" column="14" />
       </file>
       <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1589966887473">
         <mark key="'" line="181" column="4" />
@@ -216,12 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="43" filename="$USER_HOME$/Documents/WeChat Files/ranwawag/FileStorage/File/2020-05/liveGoods.html" />
-      <jump line="11" column="51" filename="$USER_HOME$/Documents/WeChat Files/ranwawag/FileStorage/File/2020-05/liveGoods.html" />
-      <jump line="12" column="18" filename="$USER_HOME$/Documents/WeChat Files/ranwawag/FileStorage/File/2020-05/liveGoods.html" />
-      <jump line="32" column="18" filename="$USER_HOME$/Documents/WeChat Files/ranwawag/FileStorage/File/2020-05/liveGoods.html" />
-      <jump line="7" column="53" filename="$USER_HOME$/Documents/WeChat Files/ranwawag/FileStorage/File/2020-05/liveGoods.html" />
-      <jump line="43" column="24" filename="$USER_HOME$/Documents/WeChat Files/ranwawag/FileStorage/File/2020-05/liveGoods.html" />
       <jump line="9" column="25" filename="$USER_HOME$/Desktop/liveGoods/liveGoods/goodsAdd.html" />
       <jump line="38" column="24" filename="$USER_HOME$/Desktop/liveGoods/liveGoods/goodsAdd.html" />
       <jump line="42" column="25" filename="$USER_HOME$/Desktop/liveGoods/liveGoods/goodsAdd.html" />
@@ -316,56 +310,67 @@
       <jump line="668" column="20" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="670" column="13" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="759" column="16" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="1055" column="10" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="1040" column="18" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="457" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="1039" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="1041" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="842" column="14" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhbGVydChhZ2VudCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>cacl</text>
       </register>
       <register name="-" type="4">
-        <text>https://www.apa.org/images/2020-03-feature-giraffe_tcm7-269465.png</text>
+        <text>cacl</text>
       </register>
       <register name="/" type="4">
-        <text>\$end.</text>
+        <text>#test</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">YXVQbGF5aW5nc05vZGUuaW5maW5pdGVTY3JvbGwoewogICAgYmluZGVyOiAnI2F1LXBsYXlpbmdzJywKICAgIHBhZ2VTaXplOiAxNSwKICAgIGluaXRMb2FkOiB0cnVlLAogICAgbG9hZGluZ0h0bWw6ICcnLAogICAgZG9uZVR4dDogJycsCiAgICBsb2FkTGlzdEZuOiBmdW5jdGlvbiAoKSB7CiAgICAgIHZhciBkZWYgPSAkLkRlZmVycmVkKCk7CiAgICAgICQuYWpheCh7CiAgICAgICAgdXJsOiAnL3RyYWluL2luZGV4LnBocC9Vc2VyL0phdmEvaW5kZXhfbW9yZScsCiAgICAgICAgbWV0aG9kOiAnUE9TVCcsCiAgICAgICAgaW5pdExvYWQ6IGZhbHNlLAogICAgICAgIGRhdGFUeXBlOiAnanNvbicsCiAgICAgICAgZGF0YTogewogICAgICAgICAgcGFnZTogZGF0YS5wcmUucGFnZSwKICAgICAgICAgIHR5cGU6IDEsCiAgICAgICAgfSwKICAgICAgICBzdWNjZXNzOiBmdW5jdGlvbiAocmVzKSB7CiAgICAgICAgICB2YXIgdGVtcGxhdGUgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgndGVtcGxhdGUtcHJlJykuaW5uZXJIVE1MOwogICAgICAgICAgdmFyIGV2YWxUZXh0ID0gZG9ULnRlbXBsYXRlKHRlbXBsYXRlKTsKICAgICAgICAgIGF1UGxheWluZ3NOb2RlLmFwcGVuZChldmFsVGV4dChyZXMpKTsKICAgICAgICAgIGRhdGEucHJlLnBhZ2UgKz0gMTsKICAgICAgICAgIChyZXMgJiYgcmVzLmxlbmd0aCA+IDApICYmIGRlZi5yZXNvbHZlKHJlcykKICAgICAgICB9LAogICAgICAgIGVycm9yOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBjb25zb2xlLmxvZygxMjMpOwogICAgICAgICAgZGVmLnJlc29sdmUoW10pOwogICAgICAgIH0sCiAgICAgIH0pOwogICAgICByZXR1cm4gZGVmLnByb21pc2UoKTsKICAgIH0sCiAgfSk7</text>
+        <text>android.goBack</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhbGVydChhZ2VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICQoJyN0ZXN0JykudGV4dChlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsZQo=</text>
+        <text encoding="base64">ICAgICAgICAkKCcjdGVzdCcpLnRleHQocGxhdGZvcm0gKyAnLS0tLS0tLS0tLS0tLS0nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICQoJyN0ZXN0JykudGV4dCh0eXBlb2YgYW5kcm9pZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImF1LXJlcGxheV9fZ29vZHMiPgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">PGRpdiBpZD0idGVzdCI+Cgo8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0TG9hZDogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgIHZhciBwbGF0Zm9ybUJhY2tGdW5jID0gYmFja0Z1bmNzW107Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJpbmRlcjogJyNhdS1yZXBsYXlzJywK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0TG9hZDogdHJ1ZSwK</text>
+      <register name="7" type="4">
+        <text>var backFuncs = {
+      ios: function () {
+      },
+      android: function () {
+      },
+    };</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">e3s9IGl0Lmxlbmd0aCB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAkKHdpbmRvdykuYmluZCgnc2Nyb2xsJywgbmV3IEluZmluaXRlU2Nyb2xsKDUwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkLmdvQmFjaygpOwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\$end.</last-search>
+      <last-search>#test</last-search>
       <last-offset />
-      <last-pattern>\$end.</last-pattern>
+      <last-pattern>#test</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
