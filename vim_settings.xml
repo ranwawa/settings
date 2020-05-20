@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>100人</entry>
-        <entry>setTimeout</entry>
-        <entry>ajax</entry>
         <entry>target</entry>
         <entry>分享</entry>
         <entry>base_user</entry>
@@ -25,6 +22,9 @@
         <entry>try</entry>
         <entry>reject</entry>
         <entry>plugin</entry>
+        <entry>您还没有填写</entry>
+        <entry>没有填写</entry>
+        <entry>recive</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -125,7 +125,6 @@
         <mark key="^" line="22" column="2" />
         <mark key="." line="22" column="1" />
       </file>
-      <file name="E:/jxgh5/src/mixin/appMarket.ts" timestamp="1589940104212" />
       <file name="E:/jxgh5/vue.config.js" timestamp="1589957060721">
         <mark key="'" line="147" column="13" />
       </file>
@@ -141,7 +140,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/jxgwxapp/package.json" timestamp="1589957278145">
+      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1589958747578">
+        <mark key="'" line="181" column="4" />
+        <mark key="[" line="393" column="40" />
+        <mark key="]" line="394" column="19" />
+        <mark key="." line="394" column="18" />
+        <mark key="^" line="394" column="19" />
+      </file>
+      <file name="E:/jxgwxapp/package.json" timestamp="1589957759929">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="31" column="0" />
@@ -150,7 +156,7 @@
       <file name="E:/jxgwxapp/babel.config.js" timestamp="1589950614269">
         <mark key="'" line="3" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589956433240">
+      <file name="/Dummy.txt" timestamp="1589957280251">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -162,7 +168,6 @@
         <mark key="^" line="70" column="23" />
         <mark key="." line="78" column="18" />
       </file>
-      <file name="E:/jxgh5/src/components/goodsList/goodsTool.vue" timestamp="1589940066158" />
       <file name="E:/jxgwxapp/vue.config.js" timestamp="1589957223173">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="2" column="0" />
@@ -197,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="888" column="20" filename="E:/video/weixin_platform/live-player/audience.html" />
       <jump line="1041" column="21" filename="E:/video/weixin_platform/live-player/audience.html" />
       <jump line="476" column="18" filename="E:/video/weixin_platform/live-player/audience.html" />
       <jump line="1017" column="0" filename="E:/video/weixin_platform/live-player/audience.html" />
@@ -297,56 +301,57 @@
       <jump line="147" column="13" filename="E:/jxgh5/vue.config.js" />
       <jump line="33" column="0" filename="E:/jxgwxapp/vue.config.js" />
       <jump line="15" column="16" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
+      <jump line="181" column="4" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwcmV0dHktcXVpY2siOiAicHJldHR5LXF1aWNrIC0tc3RhZ2VkIC0tdmVyYm9zZSIK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmxvZyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>plugin</text>
+        <text>recive</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgIGNvbnN0IHJlcyA9IGdvb2RzQXBpLmdldEdvb2RzRGV0YWlsKHt9KS50aGVuKChbLGRhdGFdKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwcmV0dHktcXVpY2siOiAicHJldHR5LXF1aWNrIC0tc3RhZ2VkIC0tdmVyYm9zZSIK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmxvZyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIFByZXR0aWVyUGx1Z2luID0gcmVxdWlyZSgicHJldHRpZXItd2VicGFjay1wbHVnaW4iKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5sb2dpc3RpY3NGZWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFByZXR0aWVyUGx1Z2luKCksCg==</text>
+        <text encoding="base64">ICAgICJwcmV0dHktcXVpY2siOiAicHJldHR5LXF1aWNrIC0tc3RhZ2VkIC0tdmVyYm9zZSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIFByZXR0aWVyUGx1Z2luID0gcmVxdWlyZSgicHJldHRpZXItd2VicGFjay1wbHVnaW4iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3IFByZXR0aWVyUGx1Z2luKCksCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIFByZXR0aWVyUGx1Z2luID0gcmVxdWlyZSgicHJldHRpZXItd2VicGFjay1wbHVnaW4iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdwcmUtcHVzaCc6IHRhc2tzKFsgXSksCg==</text>
+        <text encoding="base64">dmFyIFByZXR0aWVyUGx1Z2luID0gcmVxdWlyZSgicHJldHRpZXItd2VicGFjay1wbHVnaW4iKTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>plugin</last-search>
+      <last-search>recive</last-search>
       <last-offset />
-      <last-pattern>plugin</last-pattern>
+      <last-pattern>recive</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
