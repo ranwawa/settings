@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>canvas</entry>
         <entry>__zan</entry>
         <entry>ydui</entry>
         <entry>ini</entry>
@@ -25,6 +24,7 @@
         <entry>setTimeout</entry>
         <entry>ajax</entry>
         <entry>target</entry>
+        <entry>plugins</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -133,7 +133,7 @@
         <mark key="^" line="220" column="27" />
         <mark key="." line="220" column="26" />
       </file>
-      <file name="E:/jxgh5/src/util/base_user.ts" timestamp="1589812063049">
+      <file name="E:/jxgh5/src/util/base_user.ts" timestamp="1589935384753">
         <mark key="'" line="69" column="2" />
         <mark key="[" line="96" column="14" />
         <mark key="]" line="64" column="0" />
@@ -199,11 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="663" column="16" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
-      <jump line="137" column="29" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
-      <jump line="308" column="41" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
-      <jump line="310" column="41" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
-      <jump line="300" column="4" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
       <jump line="306" column="20" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
       <jump line="421" column="12" filename="E:/video/weixin_platform/live-player/audience.html" />
       <jump line="467" column="5" filename="E:/video/weixin_platform/live-player/audience.html" />
@@ -299,56 +294,61 @@
       <jump line="781" column="22" filename="E:/video/weixin_platform/live-player/audience.html" />
       <jump line="998" column="38" filename="E:/video/weixin_platform/live-player/audience.html" />
       <jump line="462" column="10" filename="E:/video/weixin_platform/live-player/audience.html" />
+      <jump line="7" column="0" filename="E:/jxgh5/vue.config.js" />
+      <jump line="159" column="13" filename="E:/jxgh5/vue.config.js" />
+      <jump line="169" column="17" filename="E:/jxgh5/vue.config.js" />
+      <jump line="147" column="13" filename="E:/jxgh5/vue.config.js" />
+      <jump line="152" column="13" filename="E:/jxgh5/vue.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>（</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>（</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>target</text>
+        <text>plugins</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZi5yZXNvbHZlKHJlcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdG9wCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCh0aGlzKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdG9wCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJCh0aGlzKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBkZWYucHJvbWlzZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRlZiA9ICQuRGVmZXJyZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBkZWYucHJvbWlzZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQod2luZG93KS51bmJpbmQoJ3Njcm9sbCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRlZiA9ICQuRGVmZXJyZWQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldExvYWRpbmdTdGF0dXMoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQod2luZG93KS51bmJpbmQoJ3Njcm9sbCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRlbXBsYXRlID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInRlbXBsYXRlIikuaW5uZXJIVE1MOwogICAgICAgICAgICB2YXIgdGVtcEZuID0gZG9ULnRlbXBsYXRlKHRlbXBsYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldExvYWRpbmdTdGF0dXMoZmFsc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEucHJlLnBhZ2UgKz0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRlbXBsYXRlID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInRlbXBsYXRlIikuaW5uZXJIVE1MOwogICAgICAgICAgICB2YXIgdGVtcEZuID0gZG9ULnRlbXBsYXRlKHRlbXBsYXRlKTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>target</last-search>
+      <last-search>plugins</last-search>
       <last-offset />
-      <last-pattern>target</last-pattern>
+      <last-pattern>plugins</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
