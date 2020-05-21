@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>您还没有填写</entry>
-        <entry>没有填写</entry>
-        <entry>recive</entry>
-        <entry>after</entry>
         <entry>more</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
         <entry>other</entry>
@@ -25,6 +21,10 @@
         <entry>wait_data</entry>
         <entry>id=&quot;template</entry>
         <entry>\$end.</entry>
+        <entry>body</entry>
+        <entry>id=&quot;template-re</entry>
+        <entry encoding="base64">XDxodHRwc1w+</entry>
+        <entry>volist</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -146,12 +146,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590025456885">
-        <mark key="'" line="719" column="7" />
-        <mark key="[" line="693" column="37" />
-        <mark key="]" line="693" column="37" />
-        <mark key="." line="693" column="37" />
-        <mark key="^" line="693" column="40" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590028267543">
+        <mark key="'" line="1124" column="19" />
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+        <mark key="." line="1" column="39" />
       </file>
       <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1589973712933">
         <mark key="'" line="181" column="4" />
@@ -219,15 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="913" column="68" filename="E:/video/weixin_platform/live-player/audience.html" />
-      <jump line="1177" column="27" filename="E:/video/weixin_platform/live-player/audience.html" />
-      <jump line="938" column="25" filename="E:/video/weixin_platform/live-player/audience.html" />
-      <jump line="1178" column="27" filename="E:/video/weixin_platform/live-player/audience.html" />
-      <jump line="939" column="25" filename="E:/video/weixin_platform/live-player/audience.html" />
-      <jump line="15" column="6" filename="$USER_HOME$/Desktop/liveGoods/liveGoods/goodsAdd.html" />
-      <jump line="31" column="43" filename="$USER_HOME$/Desktop/liveGoods/liveGoods/goodsAdd.html" />
-      <jump line="33" column="41" filename="$USER_HOME$/Desktop/liveGoods/liveGoods/goodsAdd.html" />
-      <jump line="73" column="47" filename="$USER_HOME$/Desktop/liveGoods/liveGoods/goodsAdd.html" />
       <jump line="485" column="16" filename="$USER_HOME$/Documents/WeChat Files/ranwawag/FileStorage/File/2020-05/index(1).html" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/WeChat Files/ranwawag/FileStorage/File/2020-05/index(1).html" />
       <jump line="1009" column="0" filename="E:/video/weixin_platform/live-player/audience.html" />
@@ -315,60 +306,69 @@
       <jump line="1041" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="842" column="14" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="117" column="30" filename="E:/jxgh5/vue.config.js" />
-      <jump line="618" column="28" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="614" column="14" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="824" column="52" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="709" column="7" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="1056" column="13" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="0" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="1054" column="20" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="747" column="15" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="37" column="14" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="516" column="3" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="603" column="4" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="618" column="7" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="646" column="8" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="1124" column="19" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>\$end.</text>
+        <text>volist</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICA8dm9saXN0CiAgICBuYW1lPSJlbmRfZGF0YSIKICAgIGlkPSJlbmQiCiAgPgo=</text>
+      <register name="0" type="4">
+        <text>it[i].product_info[j]</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPGltZwogICAgICAgICAgICAgIGNsYXNzPSJhdS1nb29kIgogICAgICAgICAgICAgIHNyYz0iaHR0cHM6Ly93d3cuYXBhLm9yZy9pbWFnZXMvMjAyMC0wMy1mZWF0dXJlLWdpcmFmZmVfdGNtNy0yNjk0NjUucG5nIgogICAgICAgICAgICAvPgogICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgY2xhc3M9ImF1LWdvb2QiCiAgICAgICAgICAgICAgc3JjPSJodHRwczovL3d3dy5hcGEub3JnL2ltYWdlcy8yMDIwLTAzLWZlYXR1cmUtZ2lyYWZmZV90Y203LTI2OTQ2NS5wbmciCiAgICAgICAgICAgIC8+CiA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleDsKICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8aW1nCiAgICAgICAgICBjbGFzcz0iYXUtZ29vZCIKICAgICAgICAgIHNyYz0iaHR0cHM6Ly93d3cuYXBhLm9yZy9pbWFnZXMvMjAyMC0wMy1mZWF0dXJlLWdpcmFmZmVfdGNtNy0yNjk0NjUucG5nIgogICAgICAgIC8+CiAgICAgICAgPGltZwogICAgICAgICAgY2xhc3M9ImF1LWdvb2QiCiAgICAgICAgICBzcmM9Imh0dHBzOi8vd3d3LmFwYS5vcmcvaW1hZ2VzLzIwMjAtMDMtZmVhdHVyZS1naXJhZmZlX3RjbTctMjY5NDY1LnBuZyIKICAgICAgICAvPg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRyb3V0ZXIucHVzaCh7CiAgICAgICAgICBwYXRoOiAiL3NoYXJlSDUvYnV5Tm93L2dvb2RzRGV0YWlsIgogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICQoJyN0ZXN0JykudGV4dChlKTsK</text>
+        <text encoding="base64">ICAgICAgJCgnYm9keScpLmF0dHIoJ3N0eWxlJywgJ3BhZGRpbmctdG9wOiAwOycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjdGVzdCcpLnRleHQocGxhdGZvcm0gKyAnLS0tLS0tLS0tLS0tLS0nKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICQoJyN0ZXN0JykudGV4dCh0eXBlb2YgYW5kcm9pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgJCgnYm9keScpLmF0dHIoJ3N0eWxlJywgJ3BhZGRpbmctdG9wOiAwOycpOwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\$end.</last-search>
+      <last-search>volist</last-search>
       <last-offset />
-      <last-pattern>\$end.</last-pattern>
+      <last-pattern>volist</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
