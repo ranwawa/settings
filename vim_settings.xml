@@ -134,7 +134,7 @@
         <mark key="." line="189" column="18" />
       </file>
       <file name="/index.vue" timestamp="1589973869193" />
-      <file name="E:/jxgh5/src/mixin/appFun.ts" timestamp="1590032962471" />
+      <file name="E:/jxgh5/src/mixin/appFun.ts" timestamp="1590037063480" />
       <file name="E:/jxgwxapp/src/api/goods.ts" timestamp="1589954343960">
         <mark key="[" line="17" column="19" />
         <mark key="]" line="18" column="13" />
@@ -147,12 +147,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590033316291">
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590037152154">
         <mark key="'" line="470" column="14" />
-        <mark key="[" line="866" column="17" />
-        <mark key="]" line="866" column="17" />
-        <mark key="^" line="866" column="26" />
-        <mark key="." line="866" column="17" />
+        <mark key="[" line="905" column="18" />
+        <mark key="]" line="912" column="7" />
+        <mark key="^" line="912" column="7" />
+        <mark key="." line="912" column="6" />
       </file>
       <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1589973712933">
         <mark key="'" line="181" column="4" />
@@ -321,44 +321,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>goBack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KDEyMyk7CiAgICAkKCcjdGVzdCcpLnRleHQocGxhdGZvcm1GdW5jLmdldFBob25lKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>goBack</text>
+        <text>.getPhone</text>
       </register>
       <register name="/" type="4">
         <text>platform</text>
       </register>
       <register name="0" type="4">
-        <text>('{{= it[i].live_url}}')</text>
+        <text>platformFunc.getPhone</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlLnByZQo=</text>
+        <text encoding="base64">ICAgIGFsZXJ0KDEyMyk7CiAgICAkKCcjdGVzdCcpLnRleHQocGxhdGZvcm1GdW5jLmdldFBob25lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ29VcmwodXJsLCBlKSB7CiAgZS5wcmUK</text>
+        <text encoding="base64">ICB2YXIgcGhvbmUgPSBwbGF0Zm9ybUZ1bmMuZ2V0UGhvbmUoKTsKICAvLyB2YXIgdG9rZW4gPSBwbGF0Zm9ybUZ1bmMuZ2V0VG9kZGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBhbGVydCh1cmwpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICB2YXIgcGxhdGZvcm1MaXN0ID0gewogICAgaW9zOiAnaW9zJywKICAgIGFuZHJvaWQ6ICdhbmRyb2lkJywKICAgIHd4Z3poOiAnd3hnemgnLAogICAgb3RoZXI6ICdvdGhlcicsCiAgfTsKICB2YXIgcGxhdEZ1bmNMaXN0ID0gewogICAgaW9zOiB7CiAgICAgIGdvQmFjazogZnVuY3Rpb24gKCkgewogICAgICAgIHdpbmRvdy53ZWJraXQubWVzc2FnZUhhbmRsZXJzLmp4Zy5wb3N0TWVzc2FnZSh7ICdnb0JhY2snOiAnJyB9KTsKICAgICAgfSwKICAgICAgdG9Mb2dpbjogZnVuY3Rpb24gKCkgewogICAgICAgIHdpbmRvdy53ZWJraXQubWVzc2FnZUhhbmRsZXJzLmp4Zy5wb3N0TWVzc2FnZSh7ICdsb2dpbkFjdGlvbic6ICcnIH0pOwogICAgICB9LAogICAgfSwKICAgIGFuZHJvaWQ6IHsKICAgICAgZ29CYWNrOiBmdW5jdGlvbiAoKSB7CiAgICAgICAganhnLmdvQmFjaygpOwogICAgICB9LAogICAgICB0b0xvZ2luOiBmdW5jdGlvbiAoKSB7CiAgICAgICAganhnLnRvTG9naW4oKTsKICAgICAgfSwKICAgIH0sCiAgfTsKICBmdW5jdGlvbiBkZXRlY3RQbGF0Zm9ybSgpIHsKICAgIHZhciBpb3NSZWcgPSAvaW9zL2lnOwogICAgdmFyIGFwcFJlZyA9IC9qeGdfdXNlci9pZzsKICAgIHZhciBhbmRyb2lkUmVnID0gL0FuZHJvaWQvaWc7CiAgICB2YXIgd3hnemcgPSAvTWljcm9NZXNzZW5nZXIgL2lnOwogICAgdmFyIGFnZW50ID0gbmF2aWdhdG9yLnVzZXJBZ2VudDsKICAgIGlmIChhcHBSZWcudGVzdChhZ2VudCkpIHsKICAgICAgcmV0dXJuIGFuZHJvaWRSZWcudGVzdChhZ2VudCkgPyBwbGF0Zm9ybUxpc3QuYW5kcm9pZCA6IHBsYXRmb3JtTGlzdC5pb3M7CiAgICB9IGVsc2UgewogICAgICByZXR1cm4gd3hnemcudGVzdChhZ2VudCkgPyBwbGF0Zm9ybUxpc3Qud3hnemggOiBwbGF0Zm9ybUxpc3Qub3RoZXI7CiAgICB9CiAgfQogIHZhciBwbGF0Zm9ybSA9IGRldGVjdFBsYXRmb3JtKCk7CiAgdmFyIHBsYXRmb3JtRnVuYyA9IHdpbmRvdy5wbGF0Zm9ybUZ1bmMgID0gcGxhdEZ1bmNMaXN0W3BsYXRmb3JtXTsKIA==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBlLnByZQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNoCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ29VcmwodXJsLCBlKSB7CiAgZS5wcmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgcXVlcnkgPSBxcy5wYXJzZShsb2NhdGlvbi5oYXNoLCB7IGlnbm9yZVF1ZXJ5UHJlZml4OiB0cnVlIH0pCg==</text>
+        <text encoding="base64">ICAgIHBsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JCgnI3Rlc3QnKS50ZXh0KHBsYXRmb3JtRnVuYy5nb0JhY2sgKyAnMTExMTExMTExMScgKyBwbGF0Zm9ybSk7Cg==</text>
+        <text encoding="base64">ICBhbGVydCh1cmwpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAkKCcjdGVzdCcpLnRleHQocGxhdGZvcm1GdW5jLmdvQmFjayArICcxMTExMTExMTExJyArIHBsYXRmb3JtKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
