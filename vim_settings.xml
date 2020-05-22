@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>更多</entry>
-        <entry>script</entry>
-        <entry>location.href</entry>
-        <entry>playing-square</entry>
-        <entry>ajax</entry>
-        <entry encoding="base64">XDx0cmFpblw+</entry>
         <entry>px</entry>
         <entry>icon-video</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybUxpc3RcPg==</entry>
@@ -25,6 +19,12 @@
         <entry>canvas</entry>
         <entry>template</entry>
         <entry>cover</entry>
+        <entry>发送验证码</entry>
+        <entry>发关</entry>
+        <entry>is_bind_other</entry>
+        <entry>location.href</entry>
+        <entry>goUrl</entry>
+        <entry>house</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,13 +119,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590054536427">
+      <file name="/Dummy.txt" timestamp="1590133581322">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
       <file name="/a.dummy" timestamp="1590059576125">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/prevue-detail.html" timestamp="1590134288973">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="47" />
+        <mark key="^" line="26" column="47" />
+        <mark key="." line="26" column="46" />
       </file>
       <file name="E:/jxgh5/vue.config.js" timestamp="1590051157580">
         <mark key="'" line="0" column="0" />
@@ -140,18 +146,21 @@
         <mark key="." line="26" column="19" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/prevue-list.html" timestamp="1590127225991">
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/prevue-list.html" timestamp="1590133516297">
         <mark key="'" line="38" column="23" />
-        <mark key="[" line="38" column="2" />
-        <mark key="]" line="38" column="2" />
-        <mark key="." line="38" column="2" />
+        <mark key="[" line="60" column="19" />
+        <mark key="]" line="60" column="20" />
+        <mark key="." line="60" column="20" />
+        <mark key="^" line="60" column="19" />
       </file>
       <file name="E:/video/weixin_platform/train/Public/train/product/js/base-rem.js" timestamp="1590119837687" />
-      <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1590127215241">
-        <mark key="[" line="91" column="2" />
-        <mark key="]" line="91" column="2" />
-        <mark key="^" line="55" column="5" />
-        <mark key="." line="91" column="2" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Person/changephone.html" timestamp="1590129150660" />
+      <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1590134794712">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="227" column="46" />
+        <mark key="]" line="227" column="46" />
+        <mark key="." line="227" column="46" />
+        <mark key="^" line="227" column="40" />
       </file>
       <file name="E:/video/weixin_platform/train/app/User/View/Java/test.html" timestamp="1590051589060">
         <mark key="[" line="27" column="12" />
@@ -159,12 +168,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590119914305">
-        <mark key="'" line="597" column="9" />
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="247" column="21" />
-        <mark key="." line="246" column="0" />
-        <mark key="^" line="355" column="34" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590134522686">
+        <mark key="'" line="384" column="6" />
+        <mark key="[" line="547" column="3" />
+        <mark key="]" line="595" column="3" />
+        <mark key="." line="595" column="3" />
+        <mark key="^" line="595" column="4" />
       </file>
       <file name="E:/video/weixin_platform/live-player/audience.html" timestamp="1589959444981">
         <mark key="p" line="1" column="15" />
@@ -203,33 +212,22 @@
         <mark key="]" line="275" column="0" />
         <mark key="." line="275" column="0" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/login.html" timestamp="1590126542634" />
-      <file name="E:/video/weixin_platform/train/Public/train/product/css/base-player.css" timestamp="1590067903488">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/login.html" timestamp="1590131332766">
+        <mark key="'" line="629" column="35" />
+        <mark key="[" line="297" column="44" />
+        <mark key="]" line="298" column="12" />
+        <mark key="." line="298" column="11" />
+        <mark key="^" line="298" column="12" />
+      </file>
+      <file name="E:/video/weixin_platform/train/Public/train/product/css/base-player.css" timestamp="1590133545674">
+        <mark key="'" line="7" column="5" />
+        <mark key="[" line="237" column="12" />
+        <mark key="]" line="257" column="1" />
+        <mark key="." line="257" column="0" />
+        <mark key="^" line="257" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1073" column="15" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="1164" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="913" column="12" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="862" column="12" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="470" column="14" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="894" column="26" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="893" column="1" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="705" column="35" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="764" column="6" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="1170" column="50" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="717" column="21" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="1153" column="27" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="918" column="3" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="1023" column="16" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="1186" column="50" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="754" column="14" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="772" column="2" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="525" column="6" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="528" column="8" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="635" column="16" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="212" column="0" filename="E:/jxgh5/vue.config.js" />
       <jump line="0" column="0" filename="E:/jxgh5/vue.config.js" />
@@ -311,56 +309,81 @@
       <jump line="86" column="25" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
       <jump line="117" column="4" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
       <jump line="142" column="25" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
+      <jump line="648" column="47" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
+      <jump line="708" column="26" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
+      <jump line="338" column="10" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
+      <jump line="449" column="14" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
+      <jump line="470" column="16" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
+      <jump line="497" column="33" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
+      <jump line="606" column="16" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
+      <jump line="628" column="35" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
+      <jump line="428" column="22" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="626" column="6" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="73" column="22" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
+      <jump line="116" column="33" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
+      <jump line="483" column="5" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="495" column="11" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="527" column="21" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="543" column="11" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="177" column="4" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
+      <jump line="7" column="5" filename="E:/video/weixin_platform/train/Public/train/product/css/base-player.css" />
+      <jump line="384" column="6" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA8IS0tINaxsqXNvM7Ev+kgLS0+CiAgICA8dGVtcGxhdGUgaWQ9InBsYXlpbmctc3F1YXJlIiB0eXBlPSJ4LXRlbXBsYXRlIj4KCgogICAgPC90ZW1wbGF0ZT4KICAgIDwhLS0g19S2qNLlserM4iAtLT4KICAgIDx0ZW1wbGF0ZSBpZD0iYXUtdGl0bGUiIHR5cGU9IngtdGVtcGxhdGUiPgogICAgICA8ZGl2IGNsYXNzPSJhdS10aXRsZSI+CiAgICAgICAgPGRpdiBjbGFzcz0iYXUtdGl0bGVfX2JhY2siIGlkPSJhdS10aXRsZV9fYmFjayIgQGNsaWNrPSJnb0JhY2siPjwvZGl2PgogICAgICAgIHt7IHRpdGxlIH19CiAgICAgIDwvZGl2PgogICAgPC90ZW1wbGF0ZT4KICA=</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>cover</text>
+        <text>house</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uYm9vdGNkbi5uZXQvYWpheC9saWJzL2pxdWVyeS8xLjEyLjEvanF1ZXJ5Lm1pbi5qcyI+PC9zY3JpcHQ+CiAgPHNjcmlwdCBzcmM9Ii90cmFpbi9QdWJsaWMvdHJhaW4vcHJvZHVjdC9qcy9iYXNlLXJlbS5qcyI+PC9zY3JpcHQ+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IDxkaXYKICAgICAgY2xhc3M9ImF1LWhvdXNlIgogICAgICBzdHlsZT0iIGJhY2tncm91bmQtaW1hZ2U6IHVybCgne3s9IGl0W2ldLmNvdmVyIH19Jyk7ICIKICAgID4KICAgICAgPCEtLSDX88nPvce9x7HqIC0tPgogICAgICA8ZGl2IGNsYXNzPSJhdS1ob3VzZV9fYmFkZ2VzIj4KICAgICAgICA8ZGl2IGNsYXNzPSJhdS1ob3VzZV9fYmFkZ2UgYWN0aXZlIj4KICAgICAgICAgIDxkaXYgY2xhc3M9ImF1LWhvdXNlX19ib3VuY2UiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJkeW4tYm91bmNlIGR5bi1ib3VuY2VfX2hvcml6b250YWwiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImR5bi1ib3VuY2VfX3RvcCI+PC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZHluLWJvdW5jZV9fbWlkZGxlIj48L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkeW4tYm91bmNlX19ib3R0b20iPjwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImR5bi1ib3VuY2VfX2VuZCI+PC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICDWsbKl1tAKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJhdS1ob3VzZV9fYmFkZ2UiPgogICAgICAgICAge3s/IGl0W2ldLm5lZWRwYXkgPT0gMCB8fCBpdFtpXS5uZWVkcGF5ID09IDF8fCBpdFtpXS5uZWVkcGF5ID09IDJ9fQogICAgICAgICAgw+K30QogICAgICAgICAge3s/PyBpdFtpXS5uZWVkcGF5ID09IDN9fQogICAgICAgICAguLa30QogICAgICAgICAge3s/P319CiAgICAgICAgICDD3MLrCiAgICAgICAgICB7ez99fQogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9ImF1LWhvdXNlX19iYWRnZSBhdS1ob3VzZV9fYmFkZ2Utc20iPiB7ez0gaXRbaV0ucmVhZGluZ3MKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX3Iy7nbv7QKICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICAgIDwhLS0g1/PPwr3Hw+jK9iAtLT4KICAgICAgPGRpdiBjbGFzcz0iYXUtaG91c2VfX2Rlc2MiPgogICAgICAgIDxkaXYgY2xhc3M9ImF1LWhvdXNlX19wbGF5ZXIiPgogICAgICAgICAgPGRpdiBjbGFzcz0icGxheWVyLXJvdyI+CiAgICAgICAgICAgIDxpbWcKICAgICAgICAgICAgICBjbGFzcz0icGxheWVyLXJvd19fYXZhdGFyIgogICAgICAgICAgICAgIHNyYz0ie3s9IGl0W2ldLnVzZXJfaW1nX3VybH19IgogICAgICAgICAgICAvPgogICAgICAgICAgICB7ez0gaXRbaV0udXNlcl9uYW1lIH19CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJhdS1ob3VzZV9fc2hvcCI+e3s9IGl0W2ldLnRpdGxlIH19PC9kaXY+CiAgICAgIDwvZGl2PgogICAgICA8IS0tILXj1N7Qp7n7IC0tPgogICAgICA8Y2FudmFzCiAgICAgICAgY2xhc3M9ImF1LWhvdXNlX196YW4iCiAgICAgICAgaWQ9Int7PSdjYW52YXMtJyArIGkgfX0iCiAgICAgID48L2NhbnZhcz4KICAgIDwvZGl2PgogICAg</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICA8IS0tINaxsqXNvM7Ev+kgLS0+CiAgICA8dGVtcGxhdGUgaWQ9InBsYXlpbmctc3F1YXJlIiB0eXBlPSJ4LXRlbXBsYXRlIj4KCgogICAgPC90ZW1wbGF0ZT4KICAgIDwhLS0g19S2qNLlserM4iAtLT4KICAgIDx0ZW1wbGF0ZSBpZD0iYXUtdGl0bGUiIHR5cGU9IngtdGVtcGxhdGUiPgogICAgICA8ZGl2IGNsYXNzPSJhdS10aXRsZSI+CiAgICAgICAgPGRpdiBjbGFzcz0iYXUtdGl0bGVfX2JhY2siIGlkPSJhdS10aXRsZV9fYmFjayIgQGNsaWNrPSJnb0JhY2siPjwvZGl2PgogICAgICAgIHt7IHRpdGxlIH19CiAgICAgIDwvZGl2PgogICAgPC90ZW1wbGF0ZT4KICA=</text>
+        <text encoding="base64">PSBpdFtpXS5yZWFkaW5ncwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0gserM4iAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>{{? it[i].needpay == 0 || it[i].needpay == 1|| it[i].needpay == 2}}
+          免费
+          {{?? it[i].needpay == 3}}
+          付费
+          {{??}}
+          密码
+          {{?}}</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PCEtLSDX1Lao0uWx6sziIC0tPgogICAgPHRlbXBsYXRlIGlkPSJhdS10aXRsZSIgdHlwZT0ieC10ZW1wbGF0ZSI+CiAgICAgIDxkaXYgY2xhc3M9ImF1LXRpdGxlIj4KICAgICAgICA8ZGl2IGNsYXNzPSJhdS10aXRsZV9fYmFjayIgaWQ9ImF1LXRpdGxlX19iYWNrIiBAY2xpY2s9ImdvQmFjayI+PC9kaXY+CiAgICAgICAge3sgdGl0bGUgfX0KICAgICAgPC9kaXY+CiAgICA8L3RlbXBsYXRlPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgINSk1LzWsbKlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS0g1rGypc28zsS/6SAtLT4KICAgIDx0ZW1wbGF0ZSBpZD0icGxheWluZy1zcXVhcmUiIHR5cGU9IngtdGVtcGxhdGUiPgogICAgPC90ZW1wbGF0ZT4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDxkaXYKICAgICAgICBjbGFzcz0icGxheWluZy1zcXVhcmUiCiAgICAgICAgOnN0eWxlPSInYmFja2dyb3VuZC1pbWFnZTogdXJsKFwnJyArIGNvdmVyICsgJ1wnKSciCiAgICAgID4KICAgICAgICA8ZGl2IGNsYXNzPSJwbGF5aW5nLXNxdWFyZV9fdGFnIj57eyBwbGF5aW5nLnRhZyB9fTwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9InBsYXlpbmctc3F1YXJlX19zdWJzIj4KICAgICAgICAgIHt7IHJlYWRpbmdzIH19yMt7eyBwbGF5aW5nLnN1YnMgfX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcHJldnVlSGVhZCAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgYXVSZXBsYXksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gu9i3xSAtLT4KICAgIDx0ZW1wbGF0ZSBpZD0iYXUtcmVwbGF5IiB0eXBlPSJ4LXRlbXBsYXRlIj4KICAgIDwvdGVtcGxhdGU+Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>cover</last-search>
+      <last-search>house</last-search>
       <last-offset />
-      <last-pattern>cover</last-pattern>
+      <last-pattern>house</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
