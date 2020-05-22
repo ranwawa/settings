@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>template</entry>
-        <entry>cover</entry>
         <entry>发送验证码</entry>
         <entry>发关</entry>
         <entry>is_bind_other</entry>
@@ -25,6 +23,8 @@
         <entry>base-house::after</entry>
         <entry>base-house</entry>
         <entry>location.href</entry>
+        <entry>is_kike</entry>
+        <entry>is_like</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -173,12 +173,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590143202162">
-        <mark key="'" line="687" column="28" />
-        <mark key="[" line="551" column="0" />
-        <mark key="]" line="551" column="0" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590145737204">
+        <mark key="'" line="536" column="41" />
+        <mark key="[" line="318" column="29" />
+        <mark key="]" line="318" column="29" />
         <mark key="^" line="10" column="120" />
-        <mark key="." line="551" column="0" />
+        <mark key="." line="318" column="29" />
       </file>
       <file name="E:/video/weixin_platform/live-player/audience.html" timestamp="1589959444981">
         <mark key="p" line="1" column="15" />
@@ -232,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="845" column="42" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="846" column="37" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="847" column="37" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="848" column="37" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
@@ -332,18 +331,19 @@
       <jump line="4" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="687" column="28" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="84" column="22" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-detail.html" />
+      <jump line="536" column="41" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>prevue-goods</text>
+        <text encoding="base64">IHskd2FpdC5pc19saWtlfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>prevue-goods</text>
+        <text encoding="base64">IHskd2FpdC5pc19saWtlfQ==</text>
       </register>
       <register name="/" type="4">
-        <text>location.href</text>
+        <text>is_like</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmF1LWhvdXNlX196YW4gewo=</text>
@@ -379,9 +379,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>location.href</last-search>
+      <last-search>is_like</last-search>
       <last-offset />
-      <last-pattern>location.href</last-pattern>
+      <last-pattern>is_like</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
