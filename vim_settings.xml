@@ -22,9 +22,9 @@
         <entry>time()</entry>
         <entry>base-player</entry>
         <entry>fixed</entry>
-        <entry>created</entry>
         <entry>base-player.css</entry>
         <entry>goBack</entry>
+        <entry>created</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,10 +119,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590411705231">
+      <file name="/Dummy.txt" timestamp="1590414808716">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="E:/video/weixin_platform/train/Public/train/product/js/common.js" timestamp="1590401758309" />
       <file name="/a.dummy" timestamp="1590059576125">
@@ -167,12 +167,12 @@
         <mark key="." line="75" column="32" />
         <mark key="^" line="75" column="33" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590412586028">
-        <mark key="'" line="343" column="16" />
-        <mark key="[" line="166" column="32" />
-        <mark key="]" line="166" column="46" />
-        <mark key="." line="166" column="45" />
-        <mark key="^" line="166" column="46" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590415156428">
+        <mark key="'" line="368" column="10" />
+        <mark key="[" line="354" column="35" />
+        <mark key="]" line="355" column="30" />
+        <mark key="." line="355" column="29" />
+        <mark key="^" line="355" column="30" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/document/problem/工程化/webpack.md" timestamp="1590106786439">
         <mark key="[" line="135" column="29" />
@@ -204,8 +204,6 @@
       <file name="E:/video/weixin_platform/train/app/User/View/Java/previewLiveGoods.html" timestamp="1590401797196" />
     </filemarks>
     <jumps>
-      <jump line="411" column="1" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="4" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="687" column="28" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="84" column="22" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-detail.html" />
       <jump line="290" column="24" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
@@ -304,56 +302,58 @@
       <jump line="61" column="30" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
       <jump line="75" column="31" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
       <jump line="343" column="16" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="375" column="19" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="368" column="10" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>isBackToApp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFZDb25zb2xlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>isBackToApp</text>
+        <text>自定义js文件添加时间戳</text>
       </register>
       <register name="/" type="4">
-        <text>goBack</text>
+        <text>created</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYWxlcnQoaGlzdG9yeS5sZW5ndGgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFZDb25zb2xlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF0Zm9ybUZ1bmMuZ29CYWNrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZXRQbGF5aW5nTGlzdCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoaGlzdG9yeS5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoaGlzdG9yeS5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwbGF0Zm9ybUZ1bmMuZ29CYWNrKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgWURVSS5kaWFsb2cudG9hc3QoLCAibm9uZSIsIDUwMDApOwo=</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoaGlzdG9yeS5sZW5ndGgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgWURVSS5kaWFsb2cudG9hc3QoaGlzdG9yeS5sZW5ndGgsICJub25lIiwgNTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoaGlzdG9yeS5sZW5ndGgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgWURVSS5kaWFsb2cudG9hc3QoLCAibm9uZSIsIDUwMDApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgWURVSS5kaWFsb2cudG9hc3QoaGlzdG9yeS5sZW5ndGgsICJub25lIiwgNTAwMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgWURVSS5kaWFsb2cudG9hc3QoaGlzdG9yeS5sZW5ndGgsICJub25lIiwgNTAwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>goBack</last-search>
+      <last-search>created</last-search>
       <last-offset />
-      <last-pattern>goBack</last-pattern>
+      <last-pattern>created</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
