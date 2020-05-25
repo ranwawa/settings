@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onclick</entry>
         <entry>canvas</entry>
         <entry encoding="base64">XDxhdVw+</entry>
         <entry>bookP</entry>
@@ -25,6 +24,7 @@
         <entry>modal</entry>
         <entry>Y</entry>
         <entry>20</entry>
+        <entry>8082</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590165951789">
+      <file name="/Dummy.txt" timestamp="1590375064359">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -134,10 +134,17 @@
         <mark key="." line="225" column="0" />
         <mark key="^" line="221" column="46" />
       </file>
-      <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1590375044091">
+      <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1590387370796">
+        <mark key="[" line="197" column="8" />
         <mark key="]" line="133" column="11" />
         <mark key="^" line="133" column="11" />
         <mark key="." line="133" column="10" />
+      </file>
+      <file name="E:/jxgh5/vue.config.js" timestamp="1590387694315">
+        <mark key="'" line="13" column="18" />
+        <mark key="[" line="187" column="12" />
+        <mark key="]" line="187" column="12" />
+        <mark key="." line="187" column="12" />
       </file>
       <file name="E:/video/weixin_platform/train/app/User/View/Java/prevue-list.html" timestamp="1590172462671">
         <mark key="'" line="103" column="18" />
@@ -159,12 +166,6 @@
         <mark key="." line="421" column="4" />
         <mark key="^" line="421" column="4" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/test.html" timestamp="1590051589060">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="17" column="53" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="33" column="20" />
-      </file>
       <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590172549551">
         <mark key="'" line="144" column="29" />
         <mark key="[" line="163" column="0" />
@@ -184,7 +185,7 @@
         <mark key="^" line="902" column="9" />
         <mark key="." line="903" column="0" />
       </file>
-      <file name="E:/jxgh5/package.json" timestamp="1590107203316">
+      <file name="E:/jxgh5/package.json" timestamp="1590379434384">
         <mark key="'" line="1" column="11" />
       </file>
       <file name="E:/video/weixin_platform/train/Public/train/product/js/vue-infinite-scroll.js" timestamp="1590165145678">
@@ -215,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="483" column="5" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="495" column="11" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="527" column="21" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="543" column="11" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
@@ -315,18 +315,19 @@
       <jump line="144" column="29" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="80" column="21" filename="E:/video/weixin_platform/train/Public/train/product/css/base-player.css" />
       <jump line="105" column="18" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-list.html" />
+      <jump line="13" column="18" filename="E:/jxgh5/vue.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgaWYob3JpZ2lucz09PSdsaXZlJyl7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIG1lbWJlcklkID0gdGhpcy4kcm91dGUucXVlcnkubWVtYmVySWR8fCcnCiAgICAgICAgICAgICAgICAgICAgcHJveHlUeXBlID0gdGhpcy4kcm91dGUucXVlcnkubWVtYmVySWR8fCcxJwogICAgICAgICAgICAgICAgICAgIHRva2VuID0gdGhpcy4kcm91dGUucXVlcnkudG9rZW58fCcnCiAgICAgICAgICAgICAgICAgICAgbG9nID0gdGhpcy4kcm91dGUucXVlcnkubG9nfHwwCiAgICAgICAgICAgICAgICAgICAgbGV0IGF1dGhzQm9vbCA9IG1lbWJlcklkJiZwcm94eVR5cGUmJnRva2VuCiAgICAgICAgICAgICAgICAgICAgaWYoIWF1dGhzQm9vbCl7CiAgICAgICAgICAgICAgICAgICAgICAgIGxldCBpbmZvciA9IGdldGxvY2FsKCdoNU1lbWJlckluZm9yJykKICAgICAgICAgICAgICAgICAgICAgICAgaWYoaW5mb3IpewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5mb3IgPSBKU09OLnBhcnNlKGdldGxvY2FsKCdoNU1lbWJlckluZm9yJykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2cgPSAxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZW1iZXJJZCA9IGluZm9yWyd1c2VyX2lkJ10KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb3h5VHlwZSA9IFN0cmluZyhpbmZvclsndHlwZSddKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9rZW4gPSBDb29raWVzLmdldCgnaDVUb2tlbicpCiAgICAgICAgICAgICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29va2llcy5yZW1vdmUoJ2g1VG9rZW4nKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVtb3ZlbG9jYWwoJ2g1TWVtYmVySW5mb3InKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nID0gMAogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICAgICAgICAgIGxldCBtZW1iZXJJbmZvciA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJfaWQ6IHRoaXMuJHJvdXRlLnF1ZXJ5Lm1lbWJlcklkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWNjZXNzX3Rva2VuOiB0aGlzLiRyb3V0ZS5xdWVyeS50b2tlbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU6IHRoaXMuJHJvdXRlLnF1ZXJ5LnByb3h5VHlwZQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIHNldGxvY2FsKCJoNU1lbWJlckluZm9yIiwgSlNPTi5zdHJpbmdpZnkobWVtYmVySW5mb3IpKQogICAgICAgICAgICAgICAgICAgICAgICBDb29raWVzLnNldCgiaDVUb2tlbiIsJ2JlYXJlciAnK21lbWJlckluZm9yWyJhY2Nlc3NfdG9rZW4iXSx7IGV4cGlyZXM6IDkwIH0pCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgICAgICAgICAgICAgICBsb2cgPSAwCiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3IsJ7vxyKHWsbKltcfCvNDFz6KxqLTtJykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICB0b2tlbiA9IENvb2tpZXMuZ2V0KCdoNVRva2VuJykKICAgICAgICAgICAgICAgIGxldCBpbmZvciA9IGdldGxvY2FsKCdoNU1lbWJlckluZm9yJykKICAgICAgICAgICAgICAgIGlmKHRva2VuJiZpbmZvcil7CiAgICAgICAgICAgICAgICAgICAgbG9nID0gMQogICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGluZm9yID0gSlNPTi5wYXJzZShnZXRsb2NhbCgnaDVNZW1iZXJJbmZvcicpKQogICAgICAgICAgICAgICAgICAgICAgICBtZW1iZXJJZCA9IGluZm9yWyd1c2VyX2lkJ10KICAgICAgICAgICAgICAgICAgICAgICAgcHJveHlUeXBlID0gU3RyaW5nKGluZm9yWyd0eXBlJ10pCiAgICAgICAgICAgICAgICAgICAgICAgIGlmKCFtZW1iZXJJZCl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2cgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChlcnJvcikgewogICAgICAgICAgICAgICAgICAgICAgICBsb2cgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCe31s/t0rOz9cq8u69tZW1iZXJJZCBwcm94eVR5cGWxqLTtJykKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICBDb29raWVzLnJlbW92ZSgnaDVUb2tlbicpCiAgICAgICAgICAgICAgICAgICAgcmVtb3ZlbG9jYWwoJ2g1TWVtYmVySW5mb3InKQogICAgICAgICAgICAgICAgICAgIGxvZyA9IDAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICA=</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>20</text>
+        <text>8082</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy5pc1Nob3dTa2VsZXRvbiA9IGZhbHNlOwo=</text>
@@ -362,9 +363,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>20</last-search>
+      <last-search>8082</last-search>
       <last-offset />
-      <last-pattern>20</last-pattern>
+      <last-pattern>8082</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
