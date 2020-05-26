@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Y</entry>
-        <entry>20</entry>
-        <entry>8082</entry>
-        <entry>浏览器暂时</entry>
         <entry>直播回放</entry>
         <entry>?</entry>
         <entry>time</entry>
@@ -25,6 +21,10 @@
         <entry>回放</entry>
         <entry>prevueList</entry>
         <entry>data</entry>
+        <entry>prevue-head</entry>
+        <entry>prevueHead</entry>
+        <entry>player-row</entry>
+        <entry>auHouse</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -144,8 +144,8 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1590489406467">
-        <mark key="'" line="390" column="3" />
+      <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1590493678876">
+        <mark key="'" line="275" column="44" />
         <mark key="[" line="120" column="20" />
         <mark key="]" line="120" column="20" />
         <mark key="." line="120" column="20" />
@@ -158,11 +158,12 @@
         <mark key="." line="374" column="27" />
         <mark key="^" line="372" column="17" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" timestamp="1590488420393">
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" timestamp="1590493816392">
         <mark key="'" line="18" column="48" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
+        <mark key="[" line="130" column="23" />
+        <mark key="]" line="130" column="23" />
+        <mark key="^" line="136" column="28" />
+        <mark key="." line="130" column="23" />
       </file>
       <file name="E:/video/weixin_platform/train/app/User/View/Java/aggrement.html" timestamp="1590481037774">
         <mark key="[" line="19" column="0" />
@@ -170,7 +171,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="35" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590488860565">
+      <file name="/Dummy.txt" timestamp="1590492521599">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -222,9 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="15" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="165" column="19" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-detail.html" />
-      <jump line="361" column="11" filename="E:/video/weixin_platform/train/Public/train/product/css/base-player.css" />
       <jump line="8" column="34" filename="$USER_HOME$/WebstormProjects/document/problem/软件/WebStorm.md" />
       <jump line="189" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="507" column="10" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
@@ -322,56 +320,59 @@
       <jump line="219" column="37" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="368" column="25" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="374" column="26" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="115" column="25" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
+      <jump line="227" column="22" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
+      <jump line="275" column="44" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.item</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>.item</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>auHouse</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvdHJhaW4vUHVibGljL3RyYWluL3Byb2R1Y3QvanMvYmFzZS1wbGF5ZXIuanM/dD08P3BocCBlY2hvIHRpbWUoKTs/PiI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg1rGypcTayN296cnc1rGypcTayN296cncxNoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbGlnbi1pdGVtczogY2VudGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAg1rGypcTayN296cnc1rGypcTayN296cnc1rGypcTayN296cnc1rGypcTayN296cnc1rEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmbGV4LXdyYXA6IG5vd3JhcDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAg1rGypcTayN296cnc1rGypcTayN296cnc1rGypcTayN296cnc1rGypcTayN296cncsqUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmbGV4LWRpcmVjdGlvbjogcm93Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAg1rGypbHqzOIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
+        <text encoding="base64">IiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBlbGUubGl2ZV9zdGFydHRpbWUgPSBgJHtkYXRlfSAke3RpbWV9YDsK</text>
+        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkYXRlID0K</text>
+        <text encoding="base64">ICBhbGlnbi1pdGVtczogY2VudGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgW2RhdGUsIHRpbWVdID0gZWxlLi5zcGxpdCgnICcpOwo=</text>
+        <text encoding="base64">ICBmbGV4LXdyYXA6IG5vd3JhcDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICBmbGV4LWRpcmVjdGlvbjogcm93Owo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>data</last-search>
+      <last-search>auHouse</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>auHouse</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
