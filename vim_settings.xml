@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>直播回放</entry>
         <entry>?</entry>
         <entry>time</entry>
         <entry>time()</entry>
@@ -25,6 +24,7 @@
         <entry>prevueHead</entry>
         <entry>player-row</entry>
         <entry>auHouse</entry>
+        <entry>port</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -130,15 +130,9 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="E:/jxgh5/src/api/api.ts" timestamp="1590542299149" />
       <file name="E:/video/weixin_platform/train/Public/train/product/js/swiper.min.js" timestamp="1590486063516">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/prevue-detail.html" timestamp="1590411691062">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="0" />
-        <mark key="." line="210" column="0" />
-        <mark key="^" line="210" column="10" />
       </file>
       <file name="E:/video/weixin_platform/train/Public/train/product/css/swiper.min.css" timestamp="1590486108071">
         <mark key="[" line="0" column="0" />
@@ -164,8 +158,9 @@
         <mark key="^" line="5" column="93583" />
         <mark key="." line="5" column="93582" />
       </file>
-      <file name="E:/jxgh5/vue.config.js" timestamp="1590387694315">
-        <mark key="'" line="13" column="18" />
+      <file name="E:/jxgh5/src/api/interface.ts" timestamp="1590541087212" />
+      <file name="E:/jxgh5/vue.config.js" timestamp="1590564035789">
+        <mark key="'" line="105" column="16" />
         <mark key="[" line="187" column="12" />
         <mark key="]" line="187" column="12" />
         <mark key="." line="187" column="12" />
@@ -202,7 +197,7 @@
         <mark key="]" line="39" column="13" />
         <mark key="." line="39" column="13" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590538567263">
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590563903302">
         <mark key="'" line="371" column="26" />
         <mark key="[" line="337" column="0" />
         <mark key="]" line="337" column="0" />
@@ -216,6 +211,7 @@
         <mark key="^" line="136" column="28" />
         <mark key="." line="130" column="23" />
       </file>
+      <file name="E:/jxgh5/src/mixin/wechatApi.ts" timestamp="1590542215406" />
       <file name="E:/video/weixin_platform/train/Public/train/product/css/base-player.css" timestamp="1590492408885">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
@@ -223,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="34" filename="$USER_HOME$/WebstormProjects/document/problem/软件/WebStorm.md" />
       <jump line="189" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="507" column="10" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="645" column="3" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
@@ -323,6 +318,7 @@
       <jump line="115" column="25" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
       <jump line="227" column="22" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
       <jump line="275" column="44" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
+      <jump line="105" column="16" filename="E:/jxgh5/vue.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,7 +330,7 @@
         <text>.item</text>
       </register>
       <register name="/" type="4">
-        <text>auHouse</text>
+        <text>port</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvdHJhaW4vUHVibGljL3RyYWluL3Byb2R1Y3QvanMvYmFzZS1wbGF5ZXIuanM/dD08P3BocCBlY2hvIHRpbWUoKTs/PiI+PC9zY3JpcHQ+Cg==</text>
@@ -370,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>auHouse</last-search>
+      <last-search>port</last-search>
       <last-offset />
-      <last-pattern>auHouse</last-pattern>
+      <last-pattern>port</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
