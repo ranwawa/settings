@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>jquery</entry>
         <entry>vue</entry>
         <entry>http</entry>
         <entry>回放</entry>
@@ -25,6 +24,7 @@
         <entry>catch</entry>
         <entry encoding="base64">MSwg</entry>
         <entry>console.log(1</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,14 +119,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgh5/src/api/api.ts" timestamp="1590574859938">
-        <mark key="'" line="59" column="33" />
+      <file name="E:/jxgh5/src/api/api.ts" timestamp="1590578119556">
+        <mark key="'" line="88" column="56" />
         <mark key="[" line="141" column="36" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="170" column="23" />
-        <mark key="." line="23" column="0" />
+        <mark key="]" line="88" column="57" />
+        <mark key="^" line="88" column="57" />
+        <mark key="." line="88" column="56" />
       </file>
-      <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1590575702621">
+      <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1590575733417">
         <mark key="'" line="503" column="62" />
         <mark key="[" line="1085" column="29" />
         <mark key="]" line="1085" column="38" />
@@ -154,7 +154,13 @@
         <mark key="^" line="136" column="28" />
         <mark key="." line="130" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590572263920">
+      <file name="E:/jxgh5/src/views/userData/components/userdataCard.vue" timestamp="1590579036623">
+        <mark key="[" line="30" column="107" />
+        <mark key="]" line="31" column="52" />
+        <mark key="^" line="31" column="52" />
+        <mark key="." line="31" column="51" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590575765019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -170,9 +176,6 @@
         <mark key="]" line="62" column="56" />
         <mark key="^" line="62" column="56" />
         <mark key="." line="62" column="55" />
-      </file>
-      <file name="E:/jxgh5/dist/index.html" timestamp="1590569495894">
-        <mark key="[" line="891" column="6" />
       </file>
       <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1590570801686">
         <mark key="'" line="52" column="70" />
@@ -197,14 +200,8 @@
         <mark key="." line="42" column="15" />
       </file>
       <file name="E:/jxgh5/src/views/shareH5/oneCent/index.vue" timestamp="1590570779761" />
-      <file name="E:/video/weixin_platform/train/Public/train/product/css/base-player.css" timestamp="1590492408885">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="9" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-list.html" />
       <jump line="9" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-list.html" />
       <jump line="261" column="40" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="8" column="22" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
@@ -304,18 +301,19 @@
       <jump line="30" column="18" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="56" column="17" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="503" column="62" filename="E:/jxgh5/src/plugin/commonData.ts" />
+      <jump line="88" column="56" filename="E:/jxgh5/src/api/api.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluUGFnZVNrdUNvZGUgJiYK</text>
+      <register name="&quot;" type="4">
+        <text>/static/userData</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/static/userData</text>
       </register>
       <register name="/" type="4">
-        <text>console.log(1</text>
+        <text>static</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYWluUGFnZVNrdUNvZGUgJiYK</text>
@@ -353,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>console.log(1</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern>console.log(1</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
