@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>?</entry>
         <entry>time</entry>
         <entry>time()</entry>
         <entry>base-player</entry>
@@ -25,6 +24,7 @@
         <entry>auHouse</entry>
         <entry>port</entry>
         <entry>created</entry>
+        <entry>goodsList</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,12 +119,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/video/weixin_platform/train/Public/train/product/js/swiper.min.js" timestamp="1590486063516">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/video/weixin_platform/train/Public/train/product/css/swiper.min.css" timestamp="1590486108071">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1590566851208">
         <mark key="'" line="942" column="17" />
         <mark key="[" line="197" column="8" />
@@ -158,7 +152,7 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="E:/jxgh5/src/components/goodsList/goodsTool.vue" timestamp="1590566830667">
+      <file name="E:/jxgh5/src/components/goodsList/goodsTool.vue" timestamp="1590569146486">
         <mark key="[" line="62" column="53" />
         <mark key="]" line="62" column="56" />
         <mark key="^" line="62" column="56" />
@@ -166,6 +160,9 @@
       </file>
       <file name="E:/video/weixin_platform/train/Public/train/product/js/axios.min.js" timestamp="1590486179976">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/jxgh5/dist/index.html" timestamp="1590569495894">
+        <mark key="[" line="891" column="6" />
       </file>
       <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1590566703179" />
       <file name="E:/video/weixin_platform/train/app/User/View/Java/prevue-list.html" timestamp="1590488422750">
@@ -181,12 +178,18 @@
         <mark key="^" line="0" column="10967" />
         <mark key="." line="0" column="10966" />
       </file>
-      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1590567104342">
-        <mark key="'" line="841" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="18" />
-        <mark key="^" line="26" column="18" />
-        <mark key="." line="26" column="17" />
+      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1590569382071">
+        <mark key="'" line="339" column="38" />
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="24" />
+        <mark key="^" line="33" column="24" />
+        <mark key="." line="33" column="23" />
+      </file>
+      <file name="E:/jxgh5/src/components/goodsList/goodsTitle.vue" timestamp="1590569570071">
+        <mark key="[" line="41" column="11" />
+        <mark key="]" line="42" column="16" />
+        <mark key="^" line="42" column="16" />
+        <mark key="." line="42" column="15" />
       </file>
       <file name="E:/video/weixin_platform/train/Public/train/product/css/base-player.css" timestamp="1590492408885">
         <mark key="[" line="98" column="0" />
@@ -195,16 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="470" column="37" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="471" column="8" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="472" column="8" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="473" column="8" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="474" column="8" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="475" column="8" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="476" column="8" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="24" column="18" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="186" column="12" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="268" column="16" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="278" column="9" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="339" column="9" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="610" column="9" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
@@ -295,6 +288,16 @@
       <jump line="942" column="17" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="381" column="36" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
       <jump line="841" column="0" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="10" column="40" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="361" column="38" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="356" column="36" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="355" column="38" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="352" column="39" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="346" column="36" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="345" column="37" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="343" column="39" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="340" column="37" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="339" column="38" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,7 +309,7 @@
         <text>.item</text>
       </register>
       <register name="/" type="4">
-        <text>created</text>
+        <text>goodsList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvdHJhaW4vUHVibGljL3RyYWluL3Byb2R1Y3QvanMvYmFzZS1wbGF5ZXIuanM/dD08P3BocCBlY2hvIHRpbWUoKTs/PiI+PC9zY3JpcHQ+Cg==</text>
@@ -342,9 +345,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>created</last-search>
+      <last-search>goodsList</last-search>
       <last-offset />
-      <last-pattern>created</last-pattern>
+      <last-pattern>goodsList</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
