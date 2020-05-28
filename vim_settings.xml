@@ -130,6 +130,13 @@
         <mark key="^" line="46" column="13" />
         <mark key="." line="46" column="12" />
       </file>
+      <file name="E:/jxgh5/src/views/shareH5/buyNow/components/couponPopup.vue" timestamp="1590636501529">
+        <mark key="'" line="315" column="47" />
+        <mark key="[" line="1" column="60" />
+        <mark key="]" line="1" column="64" />
+        <mark key="^" line="1" column="64" />
+        <mark key="." line="1" column="63" />
+      </file>
       <file name="E:/jxgh5/src/api/api.ts" timestamp="1590578119556">
         <mark key="'" line="88" column="56" />
         <mark key="[" line="141" column="36" />
@@ -176,12 +183,12 @@
         <mark key="^" line="369" column="17" />
         <mark key="." line="337" column="0" />
       </file>
-      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1590580622045">
-        <mark key="'" line="747" column="29" />
-        <mark key="[" line="475" column="28" />
-        <mark key="]" line="475" column="33" />
-        <mark key="^" line="475" column="33" />
-        <mark key="." line="475" column="32" />
+      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1590636802073">
+        <mark key="'" line="157" column="40" />
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="45" />
+        <mark key="." line="36" column="44" />
+        <mark key="^" line="36" column="45" />
       </file>
       <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1590574583187">
         <mark key="'" line="675" column="13" />
@@ -211,9 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="212" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
-      <jump line="18" column="59" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-detail.html" />
-      <jump line="439" column="18" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="144" column="29" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="80" column="21" filename="E:/video/weixin_platform/train/Public/train/product/css/base-player.css" />
       <jump line="105" column="18" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-list.html" />
@@ -311,15 +315,18 @@
       <jump line="154" column="19" filename="E:/jxgh5/vue.config.js" />
       <jump line="747" column="29" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
       <jump line="17" column="17" filename="$USER_HOME$/WebstormProjects/document/problem/基础语法/HTTP.md" />
+      <jump line="200" column="42" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
+      <jump line="157" column="40" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
+      <jump line="315" column="47" filename="E:/jxgh5/src/views/shareH5/buyNow/components/couponPopup.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>coupleList.length</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>coupleList.length</text>
       </register>
       <register name="/" type="4">
         <text>getCoupleList</text>
@@ -328,31 +335,31 @@
         <text encoding="base64">fHdpbmRvd3N8LXxpcGNvbmZpZyAvZGlzcGxheWRuc3xpcGNvbmZpZyAvZmx1c2hkbnN8Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21wdXRlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Mi4gCg==</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogI0Q5RDlEOSAhaW1wb3J0YW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MS4gt/7O8bbLt7W72LXEyv2+3crHb2JqZWN0LL/Nu6e2y73TytW1vbXEyLTKx9fWt/u0rgo=</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC9kZWVwLyAuZGlzYWJsZSAuZGl2MS1yaWdodCB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyC/qrei1tDT9rW9tcTOysziIGh0dHAK</text>
+        <text encoding="base64">ICAgICFpdGVtLmNhblVzZSAmJiByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IHR5cGVvZiBpdGVtLmNhblVzZSB9fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZnJpZW5kcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogMCAycHg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmaXJlbmRzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDQwMDsK</text>
       </register>
     </registers>
   </component>
