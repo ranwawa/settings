@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>prevueHead</entry>
         <entry>player-row</entry>
         <entry>auHouse</entry>
         <entry>goodsList</entry>
@@ -23,8 +22,9 @@
         <entry>console.log</entry>
         <entry>dialog</entry>
         <entry>分享</entry>
-        <entry>radial</entry>
         <entry>port</entry>
+        <entry>radio</entry>
+        <entry>radial</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590649989840">
+      <file name="/Dummy.txt" timestamp="1590659597103">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -130,12 +130,12 @@
         <mark key="^" line="46" column="13" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="E:/jxgh5/src/views/shareH5/buyNow/components/couponPopup.vue" timestamp="1590655524386">
-        <mark key="'" line="311" column="19" />
-        <mark key="[" line="217" column="20" />
-        <mark key="]" line="217" column="20" />
-        <mark key="^" line="1" column="64" />
-        <mark key="." line="217" column="20" />
+      <file name="E:/jxgh5/src/views/shareH5/buyNow/components/couponPopup.vue" timestamp="1590659548768">
+        <mark key="'" line="314" column="20" />
+        <mark key="[" line="314" column="26" />
+        <mark key="]" line="314" column="26" />
+        <mark key="^" line="313" column="20" />
+        <mark key="." line="314" column="26" />
       </file>
       <file name="E:/async-validator/src/test.js" timestamp="1590587008074">
         <mark key="[" line="9" column="0" />
@@ -216,11 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="25" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-detail.html" />
-      <jump line="180" column="76" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-detail.html" />
-      <jump line="112" column="81" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-detail.html" />
-      <jump line="167" column="21" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="332" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="173" column="54" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="286" column="42" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="15" column="21" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
@@ -316,56 +311,67 @@
       <jump line="311" column="19" filename="E:/jxgh5/src/views/shareH5/buyNow/components/couponPopup.vue" />
       <jump line="116" column="0" filename="E:/jxgh5/vue.config.js" />
       <jump line="26" column="19" filename="E:/jxgh5/src/api/api.ts" />
+      <jump line="252" column="0" filename="E:/jxgh5/src/views/shareH5/buyNow/components/couponPopup.vue" />
+      <jump line="295" column="19" filename="E:/jxgh5/src/views/shareH5/buyNow/components/couponPopup.vue" />
+      <jump line="298" column="13" filename="E:/jxgh5/src/views/shareH5/buyNow/components/couponPopup.vue" />
+      <jump line="310" column="18" filename="E:/jxgh5/src/views/shareH5/buyNow/components/couponPopup.vue" />
+      <jump line="314" column="20" filename="E:/jxgh5/src/views/shareH5/buyNow/components/couponPopup.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzWzBdWyJwcm9jZXNzLmVudiJdLkJBU0VfQVBJID0gJyJodHRwOi8vMTkyLjE2OC4xLjIyMSInOyAvL7f+zvHG97XY1rcK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>port</text>
+        <text>radial</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhcmdzWzBdWyJwcm9jZXNzLmVudiJdLkJBU0VfQVBJID0gJyJodHRwOi8vMTkyLjE2OC4xLjIyMiInOyAvL7f+zvHG97XY1rcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAkcGluayA5OSUsCiAgICAgICAgICAgICAgdHJhbnNwYXJlbnQgMTAwJSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzWzBdWyJwcm9jZXNzLmVudiJdLkJBU0VfQVBJID0gJyJodHRwOi8vMTkyLjE2OC4xLjIyMSInOyAvL7f+zvHG97XY1rcK</text>
+        <text encoding="base64">ICAgICAgICBAaW5jbHVkZSBiaXMxKCIuLi9pbWFnZXMvY2FyZCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmQ6IHJhZGlhbC1ncmFkaWVudHk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy5pc1Nob3dTa2VsZXRvbiA9IGZhbHNlOwo=</text>
+      <register name="3" type="4">
+        <text>(
+              circle .18rem,
+              $pink 0,
+              $pink 100%,
+              transparent
+          ) 100% 0 / 12px 10px repeat-</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+      <register name="4" type="4">
+        <text>,
+          linear-gradient(to right, #de0c10, #f14c30)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">ICAgICAgICBhcmdzWzBdWyJwcm9jZXNzLmVudiJdLkJBU0VfQVBJID0gJyJodHRwOi8vMTkyLjE2OC4xLjIyMSInOyAvL7f+zvHG97XY1rcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coIs+1zbPS7LOjLMfrydS68yIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coIs+1zbPS7LOjLMfrydS68yIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy5pc1Nob3dTa2VsZXRvbiA9IGZhbHNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5wcmV2dWVMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>port</last-search>
+      <last-search>radial</last-search>
       <last-offset />
-      <last-pattern>port</last-pattern>
+      <last-pattern>radial</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
