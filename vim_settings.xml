@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590747758548">
+      <file name="/Dummy.txt" timestamp="1590750784961">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -196,12 +196,12 @@
         <mark key="." line="42" column="15" />
       </file>
       <file name="/base-player.js" timestamp="1590746184129" />
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" timestamp="1590748683608">
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" timestamp="1590750783857">
         <mark key="'" line="255" column="18" />
-        <mark key="[" line="290" column="18" />
-        <mark key="]" line="290" column="32" />
-        <mark key="^" line="290" column="32" />
-        <mark key="." line="290" column="31" />
+        <mark key="[" line="232" column="34" />
+        <mark key="]" line="232" column="35" />
+        <mark key="^" line="232" column="35" />
+        <mark key="." line="232" column="34" />
       </file>
       <file name="E:/jxgh5/src/views/userData/components/userdataCard.vue" timestamp="1590579036623">
         <mark key="[" line="30" column="107" />
@@ -222,7 +222,7 @@
         <mark key="." line="108" column="19" />
         <mark key="^" line="108" column="20" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/previewLiveGoods.html" timestamp="1590747832379">
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/previewLiveGoods.html" timestamp="1590751025312">
         <mark key="'" line="115" column="8" />
       </file>
     </filemarks>
@@ -332,10 +332,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>clearTimeout</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>clearTimeout</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
@@ -344,38 +344,34 @@
         <text encoding="base64">ICAgICAgICAgICAgOnJlYWRpbmdzPSJpdGVtLmxpa2VfY291bnQgfHwgMTY4Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aW1lLCBub3cpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygyLCBub3cpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyB0b2RvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygxLCB0aW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aW1lLCBub3cpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0idGVzdCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygyLCBub3cpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygxLCB0aW1lKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0idGVzdCIK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCBwYWRTdGFydCA9IHRoaXMucGFkU3RhcnQ7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>padStart(num) {
               num += '';
               return num.padStart(2, '0');
             },</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIDpyZWFkaW5ncz0iaXRlbS5yZWFkaW5ncyIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>if (this.isPlaying) {
-      } else {
-        return {
-        };
-      }</text>
       </register>
     </registers>
   </component>
