@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>dialog</entry>
-        <entry>分享</entry>
         <entry>port</entry>
         <entry>radio</entry>
         <entry>radial</entry>
@@ -16,8 +14,6 @@
         <entry>debugger</entry>
         <entry>12</entry>
         <entry>预约成功</entry>
-        <entry>auHouse</entry>
-        <entry>au-house</entry>
         <entry>已预约</entry>
         <entry>log</entry>
         <entry>.log</entry>
@@ -25,6 +21,10 @@
         <entry>关联</entry>
         <entry>预告</entry>
         <entry>playingSquare</entry>
+        <entry>is_like</entry>
+        <entry>auHouse</entry>
+        <entry>au-house</entry>
+        <entry>replayHead</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,10 +119,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590734239120">
+      <file name="/Dummy.txt" timestamp="1590747531916">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="E:/jxgh5/src/components/login/checkLogin.vue" timestamp="1590572213377">
         <mark key="[" line="46" column="12" />
@@ -156,25 +156,31 @@
       <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1590570801686">
         <mark key="'" line="52" column="70" />
       </file>
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/prevue-list.html" timestamp="1590747344095">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="37" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="E:/jxgh5/src/api/auth.ts" timestamp="1590572769738">
         <mark key="[" line="76" column="32" />
         <mark key="]" line="77" column="13" />
         <mark key="." line="77" column="12" />
         <mark key="^" line="77" column="13" />
       </file>
-      <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1590741889135">
-        <mark key="'" line="214" column="12" />
-        <mark key="[" line="116" column="4" />
-        <mark key="]" line="116" column="5" />
-        <mark key="." line="116" column="4" />
-        <mark key="^" line="116" column="5" />
+      <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1590747338972">
+        <mark key="'" line="168" column="6" />
+        <mark key="[" line="48" column="1" />
+        <mark key="]" line="48" column="1" />
+        <mark key="." line="48" column="1" />
+        <mark key="^" line="45" column="9" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590743844725">
-        <mark key="'" line="416" column="25" />
-        <mark key="[" line="423" column="35" />
-        <mark key="]" line="469" column="7" />
-        <mark key="^" line="469" column="7" />
-        <mark key="." line="469" column="6" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1590745879671">
+        <mark key="'" line="403" column="41" />
+        <mark key="[" line="229" column="32" />
+        <mark key="]" line="229" column="34" />
+        <mark key="^" line="229" column="34" />
+        <mark key="." line="229" column="33" />
       </file>
       <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1590636802073">
         <mark key="'" line="157" column="40" />
@@ -189,12 +195,13 @@
         <mark key="^" line="42" column="16" />
         <mark key="." line="42" column="15" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" timestamp="1590741659112">
-        <mark key="'" line="38" column="9" />
-        <mark key="[" line="264" column="68" />
-        <mark key="]" line="265" column="70" />
-        <mark key="^" line="265" column="70" />
-        <mark key="." line="265" column="69" />
+      <file name="/base-player.js" timestamp="1590746184129" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" timestamp="1590747737549">
+        <mark key="'" line="13" column="5" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="^" line="307" column="41" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="E:/jxgh5/src/views/userData/components/userdataCard.vue" timestamp="1590579036623">
         <mark key="[" line="30" column="107" />
@@ -217,9 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="8" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
-      <jump line="0" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
-      <jump line="53" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-list.html" />
       <jump line="0" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-list.html" />
       <jump line="18" column="48" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="18" column="48" filename="E:/video/weixin_platform/train/app/User/View/Java/prevue-list.html" />
@@ -317,56 +321,66 @@
       <jump line="38" column="9" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="416" column="25" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="214" column="12" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
+      <jump line="403" column="41" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
+      <jump line="168" column="6" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
+      <jump line="13" column="5" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0idGVzdCIK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>playingSquare</text>
+        <text>replayHead</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aWYgKHdpbmRvdy5pc0FwcCAmJiAhdXJsU2VhcmNoLnRva2VuKSB7CiAgICAgICAgICAgICAgICBwbGF0Zm9ybUZ1bmMudG9Mb2dpbigpOwogICAgICAgICAgICAgIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOnJlYWRpbmdzPSJpdGVtLmxpa2VfY291bnQgfHwgMTY4Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0idGVzdCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCBwYWRTdGFydCA9IHRoaXMucGFkU3RhcnQ7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aWYgKHdpbmRvdy5pc0FwcCAmJiAhdXJsU2VhcmNoLnRva2VuKSB7CiAgICAgICAgICAgICAgICBwbGF0Zm9ybUZ1bmMudG9Mb2dpbigpOwogICAgICAgICAgICAgIH0gZWxzZSB7</text>
+        <text>padStart(num) {
+              num += '';
+              return num.padStart(2, '0');
+            },</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDpyZWFkaW5ncz0iaXRlbS5yZWFkaW5ncyIK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgIDwhLS08ZGl2LS0+CiAgICAgICAgICAgICAgICAgICAgICA8IS0tICBjbGFzcz0icGxheWluZy1zcXVhcmUiLS0+CiAgICAgICAgICAgICAgICAgICAgICA8IS0tICA6c3R5bGU9IidiYWNrZ3JvdW5kLWltYWdlOiB1cmwoXCcnICsgaXRlbS5jb3ZlciArICdcJ30pOyciLS0+CiAgICAgICAgICAgICAgICAgICAgICA8IS0tJmd0Oy0tPgogICAgICAgICAgICAgICAgICAgICAgPCEtLSAgPGRpdiBjbGFzcz0icGxheWluZy1zcXVhcmVfX3RhZyI+1KS45jwvZGl2Pi0tPgogICAgICAgICAgICAgICAgICAgICAgPCEtLSAgPGRpdiBjbGFzcz0icGxheWluZy1zcXVhcmVfX3N1YnMiPi0tPgogICAgICAgICAgICAgICAgICAgICAgPCEtLSAgICB7eyBpdGVtLnJlYWRpbmdzIH19yMvS0bap1MQtLT4KICAgICAgICAgICAgICAgICAgICAgIDwhLS0gIDwvZGl2Pi0tPgogICAgICAgICAgICAgICAgICAgICAgPCEtLTwvZGl2Pi0tPg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIHRvZG8gLS0+Cg==</text>
+      <register name="6" type="4">
+        <text>if (this.isPlaying) {
+      } else {
+        return {
+        };
+      }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLml0ZW0uaXNfbGlrZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcmVEaWN0aW9uUGxheWluZzogeyB0YWc6ICLUpLjmIiwgc3ViczogIiIgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRhZzogIrvYt8UiLAogICAgICAgICAgc3ViczogIsjLudu/tCIsCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>playingSquare</last-search>
+      <last-search>replayHead</last-search>
       <last-offset />
-      <last-pattern>playingSquare</last-pattern>
+      <last-pattern>replayHead</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
