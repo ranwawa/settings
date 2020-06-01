@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>auHouse</entry>
-        <entry>au-house</entry>
         <entry>replayHead</entry>
         <entry encoding="base64">PGE=</entry>
         <entry>clearTimer</entry>
@@ -25,6 +23,8 @@
         <entry>proxy</entry>
         <entry>setL</entry>
         <entry>created</entry>
+        <entry>console.log</entry>
+        <entry>args</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,11 +119,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1590991518208">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+      </file>
       <file name="C:/project/document/project/bem.md" timestamp="1590928125077">
         <mark key="[" line="81" column="47" />
         <mark key="]" line="81" column="48" />
         <mark key="." line="81" column="48" />
         <mark key="^" line="81" column="0" />
+      </file>
+      <file name="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" timestamp="1590990405413">
+        <mark key="'" line="3284" column="21" />
+        <mark key="." line="2926" column="58" />
       </file>
       <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1590986964122">
         <mark key="[" line="1610" column="0" />
@@ -136,8 +145,15 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="14" />
       </file>
-      <file name="E:/jxgh5/vue.config.js" timestamp="1590993432619">
-        <mark key="'" line="165" column="23" />
+      <file name="E:/jxgh5/src/views/userData/components/incomeTab.vue" timestamp="1590978244275">
+        <mark key="'" line="4" column="38" />
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="23" />
+      </file>
+      <file name="E:/jxgh5/vue.config.js" timestamp="1590996800138">
+        <mark key="'" line="137" column="10" />
         <mark key="[" line="195" column="36" />
         <mark key="]" line="195" column="37" />
         <mark key="^" line="148" column="49" />
@@ -150,42 +166,19 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1590990209816">
+      <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1590994944066">
         <mark key="'" line="168" column="6" />
         <mark key="[" line="48" column="1" />
         <mark key="]" line="48" column="1" />
         <mark key="." line="48" column="1" />
         <mark key="^" line="45" column="9" />
       </file>
-      <file name="E:/jxgh5/src/main.ts" timestamp="1590992505522">
-        <mark key="'" line="2" column="21" />
-        <mark key="[" line="174" column="15" />
-        <mark key="]" line="174" column="22" />
-        <mark key="^" line="174" column="22" />
-        <mark key="." line="174" column="21" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590991518208">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="36" />
-      </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" timestamp="1590990405413">
-        <mark key="'" line="3284" column="21" />
-        <mark key="." line="2926" column="58" />
-      </file>
-      <file name="E:/jxgh5/src/views/userData/components/incomeTab.vue" timestamp="1590978244275">
-        <mark key="'" line="4" column="38" />
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="23" />
-      </file>
-      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1590994215885">
-        <mark key="'" line="988" column="2" />
-        <mark key="[" line="354" column="27" />
-        <mark key="]" line="354" column="34" />
-        <mark key="^" line="354" column="34" />
-        <mark key="." line="354" column="33" />
+      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1590996441886">
+        <mark key="'" line="991" column="25" />
+        <mark key="[" line="1015" column="29" />
+        <mark key="]" line="1015" column="41" />
+        <mark key="^" line="1015" column="41" />
+        <mark key="." line="1015" column="40" />
       </file>
       <file name="E:/jxgh5/src/store/modules/app-shell.ts" timestamp="1590992743914">
         <mark key="[" line="71" column="7" />
@@ -193,16 +186,29 @@
         <mark key="^" line="71" column="15" />
         <mark key="." line="71" column="14" />
       </file>
-      <file name="E:/jxgh5/src/components/liveFloat.vue" timestamp="1590994709010">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
+      <file name="E:/jxgh5/package.json" timestamp="1590996877807" />
+      <file name="E:/jxgh5/src/main.ts" timestamp="1590992505522">
+        <mark key="'" line="2" column="21" />
+        <mark key="[" line="174" column="15" />
+        <mark key="]" line="174" column="22" />
+        <mark key="^" line="174" column="22" />
+        <mark key="." line="174" column="21" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/previewLiveGoods.html" timestamp="1590986359692" />
+      <file name="E:/jxgh5/src/components/liveFloat.vue" timestamp="1590997190875">
+        <mark key="[" line="24" column="52" />
+        <mark key="]" line="24" column="52" />
+        <mark key="." line="24" column="52" />
+        <mark key="^" line="22" column="68" />
+      </file>
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/previewLiveGoods.html" timestamp="1590996177019">
+        <mark key="[" line="183" column="45" />
+        <mark key="]" line="183" column="57" />
+        <mark key="." line="183" column="56" />
+        <mark key="^" line="183" column="57" />
+      </file>
+      <file name="E:/video/weixin_platform/train/Public/train/product/css/base-player.css" timestamp="1590995600182" />
     </filemarks>
     <jumps>
-      <jump line="415" column="0" filename="E:/jxgh5/src/plugin/commonData.ts" />
-      <jump line="1104" column="46" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="1112" column="25" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="1224" column="52" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="125" column="38" filename="E:/jxgh5/src/plugin/commonData.ts" />
@@ -301,56 +307,58 @@
       <jump line="12" column="20" filename="E:/jxgh5/src/store.ts" />
       <jump line="538" column="2" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
       <jump line="988" column="2" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="991" column="25" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="137" column="10" filename="E:/jxgh5/vue.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>回</text>
+        <text>Java/index</text>
       </register>
       <register name="-" type="4">
-        <text>回</text>
+        <text>Java/index</text>
       </register>
       <register name="/" type="4">
-        <text>created</text>
+        <text>args</text>
       </register>
       <register name="0" type="4">
-        <text>liveGoodInfo.goodsId === this.goodsId</text>
+        <text>https://livejxg.jixugou.cn/train/index.php/User/Java/index?server_id=2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpdmVHb29kSW5mbywgbGl2ZUdvb2RJbmZvLmdvb2RzSWQsIHRoaXMuZ29vZHNJZCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgY29tcHV0ZWRMaXZlR29vZEluZm8gfSA9IHRoaXM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnZXQgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbGl2ZUdvb2RJbmZvIH0gPSB0aGlzLiRzdG9yZS5zdGF0ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjcmVhdGVkKCkgewogICAgY29uc29sZS5sb2coMjIyMjIyMiwgdGhpcy4kc3RvcmUuc3RhdGUubGl2ZUdvb2RJbmZvKTsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnZXQgY29tcHV0ZWRJc1Nob3dGbG9hdCgpIHsKICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbGl2ZUdvb2RJbmZvIH0gPSB0aGlzLiRzdG9yZS5zdGF0ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLiRzdG9yZS5zdGF0ZS5pc1MK</text>
+        <text encoding="base64">ICAgICc/bGl2ZV9yb29tPTMyOSZzZXJ2ZXJfaWQ9MiZ0eXBlPTImYW5jaG9yX3NoYXJlX2lkX2VuPVVXUT0mZnJvbT1ncm91cG1lc3NhZ2UmbG9nPTEmdG9rZW49dW5kZWZpbmVkJm1lbWJlcklkPXVuZGVmaW5lZCZwcm94eVR5cGU9dW5kZWZpbmVkJmNvZGU9MDIxUjdzSk0xaENBVDkxdGFtS00xN01tSk0xUjdzSnomc3RhdGU9JmNvZGU9MDcxSjlqMksxcEpuZDIwdlI5MksxQUp5MksxSjlqMk8mc3RhdGU9Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuZW52Lk1PREUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGF0ZTogewogICAgbGl2ZUdvb2RJbmZvOiB7IGE6ICIiIH0sCiAgfSwKICBtdXRhdGlvbnM6IHsKICAgIHNldExpdmVHb29kSW5mbyhzdGF0ZSwgdmFsdWUpIHsKICAgICAgc3RhdGUubGl2ZUdvb2RJbmZvID0gdmFsdWU7CiAgICB9LAogIH0s</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHF1ZXJ5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcXVlcnkgPSB7fSB9ID0gdGhpcy4kcm91dGU7Cg==</text>
+        <text encoding="base64">ICBib3gtc2hhZG93OiAwIDVweCA1cHggOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>created</last-search>
+      <last-search>args</last-search>
       <last-offset />
-      <last-pattern>created</last-pattern>
+      <last-pattern>args</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
