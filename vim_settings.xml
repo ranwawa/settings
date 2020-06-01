@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getDate</entry>
-        <entry>getHour</entry>
         <entry>debugger</entry>
         <entry>12</entry>
         <entry>预约成功</entry>
@@ -25,6 +23,8 @@
         <entry>clearTimer</entry>
         <entry>clearInter</entry>
         <entry>clear</entry>
+        <entry>.type</entry>
+        <entry>\.type</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590750784961">
+      <file name="/Dummy.txt" timestamp="1590981350472">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -169,11 +169,12 @@
         <mark key="^" line="33" column="6" />
         <mark key="." line="9" column="64" />
       </file>
-      <file name="E:/jxgh5/src/views/userData/components/newIncomeDetailCard.vue" timestamp="1590979986792">
-        <mark key="[" line="74" column="14" />
-        <mark key="]" line="74" column="20" />
-        <mark key="." line="74" column="19" />
-        <mark key="^" line="74" column="20" />
+      <file name="E:/jxgh5/src/views/userData/components/newIncomeDetailCard.vue" timestamp="1590981696263">
+        <mark key="'" line="45" column="3" />
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="32" />
+        <mark key="." line="43" column="31" />
+        <mark key="^" line="43" column="32" />
       </file>
       <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1590747338972">
         <mark key="'" line="168" column="6" />
@@ -219,13 +220,8 @@
       <file name="E:/video/weixin_platform/train/app/User/View/Java/previewLiveGoods.html" timestamp="1590755000853">
         <mark key="'" line="115" column="8" />
       </file>
-      <file name="E:/jxgh5/src/router/index.ts" timestamp="1590978149459" />
     </filemarks>
     <jumps>
-      <jump line="390" column="3" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
-      <jump line="219" column="37" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="368" column="25" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="374" column="26" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="115" column="25" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
       <jump line="227" column="22" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
       <jump line="275" column="44" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
@@ -322,65 +318,71 @@
       <jump line="115" column="8" filename="E:/video/weixin_platform/train/app/User/View/Java/previewLiveGoods.html" />
       <jump line="255" column="18" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="4" column="38" filename="E:/jxgh5/src/views/userData/components/incomeTab.vue" />
+      <jump line="14" column="11" filename="E:/jxgh5/src/views/userData/components/newIncomeDetailCard.vue" />
+      <jump line="34" column="3" filename="E:/jxgh5/src/views/userData/components/newIncomeDetailCard.vue" />
+      <jump line="38" column="3" filename="E:/jxgh5/src/views/userData/components/newIncomeDetailCard.vue" />
+      <jump line="46" column="3" filename="E:/jxgh5/src/views/userData/components/newIncomeDetailCard.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>：</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>时间：</text>
+        <text>间</text>
       </register>
       <register name="/" type="4">
-        <text>clear</text>
+        <text>\.type</text>
       </register>
       <register name="0" type="4">
-        <text>：</text>
+        <text>this.cardItem['type']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW51bSBUSU1FX0xBQkVMIHsKICAnssbO8ci3yM/KsbzkJwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW51bSBUSU1FX0xBQkVMID0gewogICfKsbzkJzoKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZXQgY29tcHV0ZWRJdGVtVHlwZSgpIHsKICAgIHJldHVybiB0aGlzLmNhcmRJdGVtLnR5cGU7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
         <text>case 1:
-      case 2:
-      case 5:
-      case 6:
-      case 7:
-      case 8:
-      case 9:
-      case 10:
-      case 11:
-      case 12:</text>
+            case 2:
+            case 5:
+            case 6:
+            case 7:
+            case 8:
+            case 9:
+            case 10:
+            case 11:
+            case 12:
+                return '订单号'
+                break;</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDEyMzEyMzIxMzEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
+        <text encoding="base64">ZW51bSBUSU1FX0xBQkVMIHsKICAnssbO8ci3yM/KsbzkJwp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIraptaW6xSI7Cg==</text>
+        <text encoding="base64">ZW51bSBUSU1FX0xBQkVMID0gewogICfKsbzkJzoKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICBnZXQgY29tcHV0ZWRJdGVtVHlwZSgpIHsKICAgIHJldHVybiB0aGlzLmNhcmRJdGVtLnR5cGU7CiAgfQo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>clear</last-search>
+      <last-search>\.type</last-search>
       <last-offset />
-      <last-pattern>clear</last-pattern>
+      <last-pattern>\.type</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
