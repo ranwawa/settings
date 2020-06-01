@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>clear</entry>
-        <entry>.type</entry>
         <entry>\.type</entry>
         <entry>new</entry>
         <entry>new Vue</entry>
@@ -18,13 +16,15 @@
         <entry>123</entry>
         <entry>proxy</entry>
         <entry>setL</entry>
-        <entry>created</entry>
         <entry>console.log</entry>
         <entry>args</entry>
         <entry>Vcons</entry>
         <entry>console</entry>
         <entry>VC</entry>
         <entry>ajax</entry>
+        <entry>return</entry>
+        <entry>created</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -128,10 +128,12 @@
         <mark key="'" line="3284" column="21" />
         <mark key="." line="2926" column="58" />
       </file>
-      <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1590986964122">
-        <mark key="[" line="1610" column="0" />
-        <mark key="]" line="1610" column="0" />
-        <mark key="." line="1610" column="0" />
+      <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1591000802804">
+        <mark key="'" line="119" column="10" />
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="31" />
       </file>
       <file name="E:/jxgh5/src/views/userData/components/incomeTab.vue" timestamp="1590978244275">
         <mark key="'" line="4" column="38" />
@@ -167,18 +169,19 @@
         <mark key="^" line="162" column="18" />
         <mark key="." line="162" column="17" />
       </file>
-      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1590997821825">
+      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1591000590724">
+        <mark key="'" line="294" column="4" />
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
         <mark key="^" line="139" column="14" />
       </file>
-      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1590997349304">
-        <mark key="'" line="578" column="0" />
-        <mark key="[" line="353" column="0" />
-        <mark key="]" line="354" column="49" />
-        <mark key="^" line="1015" column="41" />
-        <mark key="." line="1015" column="40" />
+      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1591000898267">
+        <mark key="'" line="794" column="2" />
+        <mark key="[" line="1013" column="19" />
+        <mark key="]" line="1014" column="25" />
+        <mark key="^" line="1014" column="25" />
+        <mark key="." line="1014" column="24" />
       </file>
       <file name="E:/jxgh5/src/store/modules/app-shell.ts" timestamp="1590992743914">
         <mark key="[" line="71" column="7" />
@@ -204,13 +207,6 @@
       <file name="E:/video/weixin_platform/train/Public/train/product/css/base-player.css" timestamp="1590995600182" />
     </filemarks>
     <jumps>
-      <jump line="129" column="49" filename="E:/jxgh5/src/plugin/commonData.ts" />
-      <jump line="130" column="23" filename="E:/jxgh5/src/plugin/commonData.ts" />
-      <jump line="131" column="31" filename="E:/jxgh5/src/plugin/commonData.ts" />
-      <jump line="98" column="6" filename="E:/jxgh5/src/api/api.ts" />
-      <jump line="105" column="0" filename="E:/jxgh5/src/api/api.ts" />
-      <jump line="59" column="33" filename="E:/jxgh5/src/api/api.ts" />
-      <jump line="1089" column="45" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="30" column="18" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="56" column="17" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="503" column="62" filename="E:/jxgh5/src/plugin/commonData.ts" />
@@ -304,56 +300,63 @@
       <jump line="0" column="21" filename="E:/jxgh5/src/main.ts" />
       <jump line="176" column="0" filename="E:/jxgh5/src/main.ts" />
       <jump line="163" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/previewLiveGoods.html" />
+      <jump line="291" column="2" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
+      <jump line="294" column="4" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
+      <jump line="794" column="2" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="22" column="11" filename="E:/jxgh5/src/plugin/commonData.ts" />
+      <jump line="111" column="8" filename="E:/jxgh5/src/plugin/commonData.ts" />
+      <jump line="117" column="6" filename="E:/jxgh5/src/plugin/commonData.ts" />
+      <jump line="119" column="10" filename="E:/jxgh5/src/plugin/commonData.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>ajax</text>
+        <text>token</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHJlY2VpdmVBZGRyIGZyb20gIi4vY29tcG9uZW50cy9yZWNlaXZlQWRkci52dWUiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNnb29kc2xpc3QnKS5hcHBlbmQodHBsSHRtbCk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNJb3MgPSA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIK</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNBbmRyb2lkID0gOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgIGlmICgpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgKG5hckJhcnBhZGRpbmdUb3ApIHsKICAgICAgLy8gICAkKCIuZml4ZWQiKS5jc3MoInBhZGRpbmctdG9wIiwgbmFyQmFycGFkZGluZ1RvcCArICJweCIpOwogICAgICAvLyAgICQoIi5nLXNjcm9sbHZpZXciKS5jc3MoIm1hcmdpbi10b3AiLCAkKCIuZml4ZWQiKS5oZWlnaHQoKSArIG5hckJhcnBhZGRpbmdUb3AgKyAicHgiKTsKICAgICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgw+jK9tTdyrHEvtPQLNDo0qpwaHDM4bmp19a2zgo=</text>
+        <text encoding="base64">ICAgIGlmICgpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNnb29kc2xpc3QnKS5hcHBlbmQodHBsSHRtbCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0gt7W72NaxsqW85ND8uKGwtMWlIC0tPgogICAgPGxpdmUtZmxvYXQgOmdvb2RzLWlkPSJnb29kc0lkIj48L2xpdmUtZmxvYXQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHJlY2VpdmVBZGRyIGZyb20gIkAvY29tcG9uZW50cy9yZWNlaXZlQWRkci52dWUiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ajax</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern>ajax</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
