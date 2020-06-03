@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>toast</entry>
         <entry>ydui</entry>
         <entry>share</entry>
         <entry>分享</entry>
@@ -25,6 +24,7 @@
         <entry>vertical</entry>
         <entry>goodsDetail</entry>
         <entry>221</entry>
+        <entry>axios</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591171268014">
+      <file name="/Dummy.txt" timestamp="1591184469545">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -135,12 +135,12 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="E:/jxgh5/src/api/api.ts" timestamp="1591082521713">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="197" column="34" />
-        <mark key="]" line="197" column="34" />
-        <mark key="^" line="197" column="30" />
-        <mark key="." line="197" column="34" />
+      <file name="E:/jxgh5/src/api/api.ts" timestamp="1591184509499">
+        <mark key="'" line="2" column="19" />
+        <mark key="[" line="106" column="21" />
+        <mark key="]" line="106" column="22" />
+        <mark key="^" line="106" column="27" />
+        <mark key="." line="106" column="22" />
       </file>
       <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1591180747106">
         <mark key="'" line="884" column="2" />
@@ -199,11 +199,10 @@
         <mark key="." line="138" column="39" />
         <mark key="^" line="138" column="40" />
       </file>
-      <file name="E:/jxgh5/src/mixin/wechatApi.ts" timestamp="1591176341252">
-        <mark key="[" line="99" column="22" />
-        <mark key="]" line="99" column="33" />
-        <mark key="^" line="99" column="33" />
-        <mark key="." line="99" column="32" />
+      <file name="E:/jxgh5/src/mixin/wechatApi.ts" timestamp="1591184396140">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="E:/jxgh5/src/main.ts" timestamp="1591170701144">
         <mark key="'" line="0" column="0" />
@@ -224,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="399" column="43" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="173" column="17" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="103" column="20" filename="E:/video/weixin_platform/train/app/User/View/Java/previewLiveGoods.html" />
       <jump line="132" column="61" filename="E:/jxgh5/vue.config.js" />
       <jump line="462" column="10" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
@@ -324,56 +321,58 @@
       <jump line="421" column="59" filename="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" />
       <jump line="157" column="19" filename="E:/jxgh5/vue.config.js" />
       <jump line="195" column="34" filename="E:/jxgh5/vue.config.js" />
+      <jump line="177" column="6" filename="E:/jxgh5/src/api/api.ts" />
+      <jump line="2" column="19" filename="E:/jxgh5/src/api/api.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMywgcmVzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>myThis</text>
       </register>
       <register name="/" type="4">
-        <text>221</text>
+        <text>axios</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iX19QVUJMSUNfXy90cmFpbi91c2VyL2xpdmUvanMvanF1ZXJ5LnFyY29kZS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMywgcmVzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmJ1eUdvb2RzTGlzdEFyci5sZW5ndGggPD0gMCkgewogICAgICBteVRoaXMuJG15VG9hc3QoIsfrz8jRodTx0qq5usLytcTJzMa3Iik7CiAgICAgIHJldHVybjsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmJ1eUdvb2RzTGlzdEFyci5sZW5ndGggPD0gMCkgewogICAgICBteVRoaXMuJG15VG9hc3QoIsfrz8jRodTx0qq5usLytcTJzMa3Iik7CiAgICAgIHJldHVybjsKICAgIH0=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGxldCBteVRoaXM6IGFueSA9IHRoaXM7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy5nYWluKHRydWUpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy5nYWluKHRydWUpOwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>221</last-search>
+      <last-search>axios</last-search>
       <last-offset />
-      <last-pattern>221</last-pattern>
+      <last-pattern>axios</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
