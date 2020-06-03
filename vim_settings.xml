@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>show</entry>
-        <entry>console.log</entry>
-        <entry>intl</entry>
         <entry>toast</entry>
         <entry>ydui</entry>
         <entry>share</entry>
@@ -25,6 +22,9 @@
         <entry>$toast</entry>
         <entry>$myToast</entry>
         <entry>去支付</entry>
+        <entry>vertical</entry>
+        <entry>goodsDetail</entry>
+        <entry>221</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,12 +119,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1591171268014">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" timestamp="1591178764118">
+        <mark key="'" line="421" column="59" />
+        <mark key="[" line="2913" column="0" />
+        <mark key="]" line="2913" column="97" />
+      </file>
+      <file name="E:/video/weixin_platform/train/Public/train/product/js/common.js" timestamp="1591177527268">
+        <mark key="[" line="1" column="64" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="1" />
+      </file>
       <file name="E:/jxgh5/src/api/api.ts" timestamp="1591082521713">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="197" column="34" />
         <mark key="]" line="197" column="34" />
         <mark key="^" line="197" column="30" />
         <mark key="." line="197" column="34" />
+      </file>
+      <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1591180747106">
+        <mark key="'" line="884" column="2" />
+        <mark key="[" line="1140" column="0" />
+        <mark key="]" line="1140" column="0" />
+        <mark key="^" line="662" column="20" />
+        <mark key="." line="1140" column="0" />
+      </file>
+      <file name="E:/jxgh5/vue.config.js" timestamp="1591183819477">
+        <mark key="'" line="195" column="34" />
+        <mark key="[" line="125" column="20" />
+        <mark key="]" line="125" column="31" />
+        <mark key="^" line="125" column="31" />
+        <mark key="." line="125" column="30" />
       </file>
       <file name="E:/jxgh5/src/components/login/captchaDialog.vue" timestamp="1591100628297">
         <mark key="'" line="59" column="0" />
@@ -143,12 +173,24 @@
         <mark key="^" line="257" column="13" />
         <mark key="." line="273" column="136" />
       </file>
+      <file name="E:/jxgh5/src/shims-vue.d.ts" timestamp="1591170820660">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="12" />
+        <mark key="^" line="17" column="12" />
+        <mark key="." line="17" column="11" />
+      </file>
       <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1591176351673">
         <mark key="'" line="90" column="9" />
         <mark key="[" line="787" column="0" />
         <mark key="]" line="787" column="0" />
         <mark key="." line="787" column="0" />
         <mark key="^" line="787" column="17" />
+      </file>
+      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1591179197029">
+        <mark key="[" line="1012" column="0" />
+        <mark key="]" line="1012" column="0" />
+        <mark key="." line="1012" column="0" />
+        <mark key="^" line="1013" column="19" />
       </file>
       <file name="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" timestamp="1591106550656">
         <mark key="'" line="98" column="26" />
@@ -157,52 +199,14 @@
         <mark key="." line="138" column="39" />
         <mark key="^" line="138" column="40" />
       </file>
-      <file name="E:/jxgh5/src/main.ts" timestamp="1591170701144">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591171268014">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" timestamp="1591105693378">
-        <mark key="'" line="1096" column="2" />
-        <mark key="[" line="2109" column="0" />
-        <mark key="]" line="2109" column="97" />
-        <mark key="." line="993" column="0" />
-      </file>
-      <file name="E:/video/weixin_platform/train/Public/train/product/js/common.js" timestamp="1591077493588">
-        <mark key="[" line="1" column="103" />
-        <mark key="]" line="1" column="104" />
-        <mark key="^" line="1" column="104" />
-        <mark key="." line="1" column="103" />
-      </file>
-      <file name="/login.html" timestamp="1591162928560" />
-      <file name="E:/jxgh5/src/plugin/wxshareConfig.ts" timestamp="1591170033769" />
-      <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1591082569932">
-        <mark key="'" line="884" column="2" />
-        <mark key="[" line="1140" column="0" />
-        <mark key="]" line="1140" column="0" />
-        <mark key="^" line="662" column="20" />
-        <mark key="." line="1140" column="0" />
-      </file>
-      <file name="E:/jxgh5/src/shims-vue.d.ts" timestamp="1591170820660">
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="17" column="12" />
-        <mark key="^" line="17" column="12" />
-        <mark key="." line="17" column="11" />
-      </file>
-      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1591170477511">
-        <mark key="[" line="1012" column="0" />
-        <mark key="]" line="1012" column="0" />
-        <mark key="." line="1012" column="0" />
-        <mark key="^" line="1013" column="19" />
-      </file>
       <file name="E:/jxgh5/src/mixin/wechatApi.ts" timestamp="1591176341252">
         <mark key="[" line="99" column="22" />
         <mark key="]" line="99" column="33" />
         <mark key="^" line="99" column="33" />
         <mark key="." line="99" column="32" />
+      </file>
+      <file name="E:/jxgh5/src/main.ts" timestamp="1591170701144">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/video/weixin_platform/train/app/User/View/Java/login.html" timestamp="1591169928297">
         <mark key="'" line="354" column="24" />
@@ -220,14 +224,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="994" column="9" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
-      <jump line="386" column="38" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="395" column="18" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="399" column="43" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="173" column="17" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="103" column="20" filename="E:/video/weixin_platform/train/app/User/View/Java/previewLiveGoods.html" />
-      <jump line="157" column="19" filename="E:/jxgh5/vue.config.js" />
-      <jump line="195" column="20" filename="E:/jxgh5/vue.config.js" />
       <jump line="132" column="61" filename="E:/jxgh5/vue.config.js" />
       <jump line="462" column="10" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
       <jump line="3" column="41" filename="E:/jxgh5/src/main.ts" />
@@ -320,6 +319,11 @@
       <jump line="544" column="19" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
       <jump line="0" column="0" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
       <jump line="90" column="9" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
+      <jump line="461" column="61" filename="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" />
+      <jump line="462" column="31" filename="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" />
+      <jump line="421" column="59" filename="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" />
+      <jump line="157" column="19" filename="E:/jxgh5/vue.config.js" />
+      <jump line="195" column="34" filename="E:/jxgh5/vue.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,7 +335,7 @@
         <text>myThis</text>
       </register>
       <register name="/" type="4">
-        <text>去支付</text>
+        <text>221</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iX19QVUJMSUNfXy90cmFpbi91c2VyL2xpdmUvanMvanF1ZXJ5LnFyY29kZS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
@@ -367,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>去支付</last-search>
+      <last-search>221</last-search>
       <last-offset />
-      <last-pattern>去支付</last-pattern>
+      <last-pattern>221</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
