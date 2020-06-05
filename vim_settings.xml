@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>share</entry>
-        <entry>id=&quot;data</entry>
-        <entry>上架</entry>
         <entry>zan</entry>
         <entry>确认操作</entry>
         <entry>pic-wrap</entry>
@@ -25,6 +22,9 @@
         <entry>standState</entry>
         <entry>from</entry>
         <entry>status</entry>
+        <entry>push</entry>
+        <entry>ajax</entry>
+        <entry>上架</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -185,12 +185,12 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" timestamp="1591369235675">
-        <mark key="'" line="171" column="44" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="^" line="130" column="15" />
-        <mark key="." line="132" column="0" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" timestamp="1591371368788">
+        <mark key="'" line="205" column="34" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="21" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="E:/video/weixin_platform/train/Public/train/product/css/goods_list.css" timestamp="1591341300523" />
       <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1591367562409">
@@ -219,9 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="19" filename="E:/jxgh5/vue.config.js" />
-      <jump line="195" column="34" filename="E:/jxgh5/vue.config.js" />
-      <jump line="177" column="6" filename="E:/jxgh5/src/api/api.ts" />
       <jump line="2" column="19" filename="E:/jxgh5/src/api/api.ts" />
       <jump line="27" column="0" filename="C:/project/front-project-doc/jxg-h5(集需购h5版)/集需购-相关资源-后台.md" />
       <jump line="38" column="3" filename="C:/project/front-project-doc/jxg-mini(集需购小程序版)/小程序直播-相关资源-前端.md" />
@@ -319,62 +316,61 @@
       <jump line="117" column="74" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
       <jump line="119" column="23" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
       <jump line="171" column="44" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
+      <jump line="133" column="40" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
+      <jump line="170" column="19" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
+      <jump line="205" column="34" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDI0cHg7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>standState</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>上架</text>
       </register>
-      <register name="0" type="4">
-        <text>getlocal(&quot;goodsDetailBuyParams&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmVfaWQ6IGdldFF1ZXJ5U3RyKCJzZXJ2ZV9pZCIpLAogICAgICAgICAgICByZXNfaWQ6IGdldFF1ZXJ5U3RyKCJyZXNfaWQiKSwKICAgICAgICAgICAgcHJvZHVjdF9pZDogc3RyLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDI0cHg7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coSlNPTi5wYXJzZShkYXRhT2JqKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI3Rlc3QyJykudGV4dChKU09OLnN0cmluZ2lmeShyZXMpICsKICAgICAgICAgICAgICAnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJyArIEpTT04uc3RyaW5naWZ5KHsKICAgICAgICAgICAgICBzZXJ2ZV9pZDogZ2V0UXVlcnlTdHIoInNlcnZlX2lkIiksCiAgICAgICAgICAgICAgcmVzX2lkOiBnZXRRdWVyeVN0cigicmVzX2lkIiksCiAgICAgICAgICAgICAgcHJvZHVjdF9pZDogSlNPTi5zdHJpbmdpZnkoc3RyKSwKICAgICAgICAgICAgfSkp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaXN0T2JqKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMywgSlNPTi5wYXJzZShnZXRsb2NhbCgiaDVNZW1iZXJJbmZvciIpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuJHN0b3JlLmNvbW1pdCgnZ29vZHNEZXRhaWxCdXlQYXJhbXMnLAogICAgICBKOwo=</text>
+      <register name="7" type="4">
+        <text>DUI.dialog.toast(&quot;操作成功&quot;, &quot;success&quot;, 50000, function () {
+              
+            };</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcGFyYW0gPSB7CiAgICAgICAgdXNlcl9pZDogcXVlcnkuamF2YV9tZW1iZXJfaWQsCiAgICAgICAgdHlwZTogMiwKICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgYSA9IEpTT04uc3RyCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      isFromLive: query.origins === &quot;live&quot;, // 是否来自直播间
-      liveGoodsId: query.goodsId, // 直播间点击的商品id
-      liveRoomId: query.liveroom, // 直播间id
-      pusherId: query.user_id, // 主播id
-      liveToken: query.token, // 直播间token
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>status</last-search>
+      <last-search>上架</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>上架</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
