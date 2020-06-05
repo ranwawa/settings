@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>123123</entry>
-        <entry>edit</entry>
-        <entry>Btn</entry>
-        <entry>cancelBtn</entry>
         <entry>Height</entry>
         <entry>height</entry>
         <entry>excel</entry>
@@ -25,6 +21,10 @@
         <entry>book</entry>
         <entry>base-player</entry>
         <entry>share</entry>
+        <entry>id=&quot;data</entry>
+        <entry>上架</entry>
+        <entry>zan</entry>
+        <entry>确认操作</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -125,6 +125,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="E:/video/weixin_platform/train/Public/train/user/Video/js/video_vertical.js" timestamp="1591358488182" />
       <file name="/liveFloat.vue" timestamp="1591348303149" />
       <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1591350124103">
         <mark key="'" line="18" column="8" />
@@ -152,7 +153,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/project/backend-h5/src/views/jxglive/goods/index.vue" timestamp="1591322465640" />
-      <file name="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" timestamp="1591338483014" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" timestamp="1591358410491">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="C:/project/backend-h5/src/views/jxglive/goods/options.js" timestamp="1591321794381" />
       <file name="C:/project/backend-h5/src/router/router.js" timestamp="1591325180177">
         <mark key="[" line="19" column="0" />
@@ -166,25 +169,25 @@
         <mark key="^" line="38" column="87" />
         <mark key="." line="41" column="28" />
       </file>
-      <file name="E:/video/weixin_platform/train/Public/train/user/live/js/vertical.js" timestamp="1591343554859">
+      <file name="E:/video/weixin_platform/train/Public/train/user/live/js/vertical.js" timestamp="1591358281982">
         <mark key="'" line="5672" column="0" />
         <mark key="[" line="5707" column="0" />
         <mark key="]" line="5707" column="0" />
         <mark key="^" line="6287" column="38" />
         <mark key="." line="5707" column="0" />
       </file>
-      <file name="C:/project/backend-h5/src/views/jxglive/room/options.js" timestamp="1591321782512">
-        <mark key="'" line="80" column="10" />
-        <mark key="[" line="117" column="26" />
-        <mark key="]" line="117" column="27" />
-        <mark key="^" line="117" column="27" />
-        <mark key="." line="117" column="26" />
-      </file>
       <file name="C:/project/backend-h5/src/views/jxglive/user/index.vue" timestamp="1591325246863">
         <mark key="[" line="15" column="74" />
         <mark key="]" line="16" column="20" />
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="20" />
+      </file>
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" timestamp="1591359342876">
+        <mark key="'" line="166" column="6" />
+        <mark key="[" line="170" column="72" />
+        <mark key="]" line="170" column="72" />
+        <mark key="^" line="170" column="69" />
+        <mark key="." line="170" column="72" />
       </file>
       <file name="E:/video/weixin_platform/train/Public/train/product/css/goods_list.css" timestamp="1591341300523" />
       <file name="E:/video/weixin_platform/train/app/User/View/Java/previewLiveGoods.html" timestamp="1591349573425">
@@ -195,15 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="46" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
-      <jump line="483" column="19" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
-      <jump line="615" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
-      <jump line="630" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
-      <jump line="743" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
-      <jump line="806" column="11" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
-      <jump line="922" column="18" filename="E:/video/weixin_platform/train/app/User/View/Java/login.html" />
-      <jump line="251" column="17" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
-      <jump line="0" column="0" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
       <jump line="174" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="434" column="23" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="337" column="26" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
@@ -295,59 +289,67 @@
       <jump line="16" column="4" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
       <jump line="18" column="8" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
       <jump line="357" column="48" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
+      <jump line="92" column="30" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
+      <jump line="73" column="65" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
+      <jump line="71" column="25" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
+      <jump line="57" column="61" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
+      <jump line="72" column="7" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
+      <jump line="53" column="28" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
+      <jump line="98" column="16" filename="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" />
+      <jump line="0" column="0" filename="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" />
+      <jump line="166" column="6" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>{{=it[i].refGoodsId}}</text>
+        <text>.join(',')</text>
       </register>
       <register name="-" type="4">
-        <text>上</text>
+        <text>.join(',')</text>
       </register>
       <register name="/" type="4">
-        <text>share</text>
+        <text>确认操作</text>
       </register>
-      <register name="0" type="4">
-        <text>{{=it[i].refGoodsId}}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQodG8gcmlnaHQsICNFMDIwMjAsICNFMDIwOTkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PCEtLSA8ZGl2IGNsYXNzPSJnb29kc196dWFuIj4KICAgICAgICA8ZGl2IGNsYXNzPSJ6dWFuIj7XrDwvZGl2PgogICAgICAgPGRpdiBjbGFzcz0iY29tbWlzc2lvbiI+CiAgICAgICAgIDxkaXYgc3R5bGU9ImhlaWdodDogMC4wNXJlbSI+PC9kaXY+CiAgICAgICAgIDxpPqOke3s9aXRbaV0uc2hvcGtlZXBlckluY29tZX19PC9pPgogICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PiAtLT4=</text>
+        <text encoding="base64">aWYgKGxpc3RPYmoubGVuZ3RoID4gMCkgewogICAgICAgICAgJC5lYWNoKCQoIi5nb29kX2l0ZW0iKSwgZnVuY3Rpb24gKGksIHYpIHsKICAgICAgICAgICAgYXJyRGF0YS5wdXNoKCQodikuYXR0cigiZGF0YS1pZCIpKTsKICAgICAgICAgIH0pOwogICAgICAgICAgc3RyID0gYXJyRGF0YS5qb2luKCIsIik7CiAgICAgICAgfQogICAgICAgIGNvbnNvbGUubG9nKHN0cik7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1peGluczogW21peGluc1Z1ZV0sCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYXJyRGF0YSA9IFtdOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>{
+          
+        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gdnVlu+y6zwp2YXIgbWl4aW5zVnVlID0gewogIGNyZWF0ZWQoKSB7CiAgICAvLyDS0dSk1LzB0LHtCiAgICBsZXQgYm9va2VkSWRzID0gc2Vzc2lvblN0b3JhZ2UuZ2V0SXRlbSgiYm9va2VkSWRzIik7CiAgICBib29rZWRJZHMgPSBib29rZWRJZHMgPyBKU09OLnBhcnNlKGJvb2tlZElkcykgOiBbXTsKICAgIHRoaXMuYm9va2VkSWRzID0gbmV3IFNldChib29rZWRJZHMpOwogIH0sCn07Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQodG8gcmlnaHQsICNFMDIwMjAsICNFMDIwOTkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
-      <register name="8" type="4">
-        <text>var toastText = '取消预约成功';
-                  if (isLikeResult === 1) {
-                    toastText = '预约成功';
-                  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFyIHRvYXN0VGV4dCA9ICLIoc/71KTUvLPJuaYiOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZXZhbFRleHQgPSBkb1QudGVtcGxhdGUoJCgiI2dvb2RzLXRtcGwiKS50ZXh0KCkpOwogICAgICAgIHZhciB0cGxIdG1sID0gZXZhbFRleHQobGlzdE9iaik7CiAgICAgICAgJCgiI2dvb2RzbGlzdCIpLmFwcGVuZCh0cGxIdG1sKTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>share</last-search>
+      <last-search>确认操作</last-search>
       <last-offset />
-      <last-pattern>share</last-pattern>
+      <last-pattern>确认操作</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
