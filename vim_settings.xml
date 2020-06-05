@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>date</entry>
-        <entry>&quot;load&quot;</entry>
         <entry>11111111</entry>
         <entry>成功</entry>
         <entry>预约直播</entry>
@@ -25,6 +23,8 @@
         <entry>margin-bottom: 20</entry>
         <entry>margin-bottom: 30</entry>
         <entry>au-title</entry>
+        <entry>mounted</entry>
+        <entry>script</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -127,12 +127,12 @@
       </file>
       <file name="E:/video/weixin_platform/train/Public/train/user/Video/js/video_vertical.js" timestamp="1591358488182" />
       <file name="/liveFloat.vue" timestamp="1591348303149" />
-      <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1591350124103">
+      <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1591363256715">
         <mark key="'" line="18" column="8" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="55" column="4" />
+        <mark key="[" line="87" column="6" />
+        <mark key="]" line="87" column="11" />
+        <mark key="." line="87" column="10" />
+        <mark key="^" line="87" column="11" />
       </file>
       <file name="E:/video/weixin_platform/train/app/User/View/Java/index.html" timestamp="1591348552300">
         <mark key="'" line="16" column="44" />
@@ -142,8 +142,8 @@
         <mark key="." line="347" column="76" />
       </file>
       <file name="E:/video/weixin_platform/train/Public/train/product/css/ydui.css" timestamp="1591341306220" />
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" timestamp="1591361205038">
-        <mark key="'" line="143" column="8" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" timestamp="1591363091001">
+        <mark key="'" line="148" column="30" />
         <mark key="[" line="143" column="23" />
         <mark key="]" line="143" column="24" />
         <mark key="." line="143" column="23" />
@@ -153,12 +153,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/project/backend-h5/src/views/jxglive/goods/index.vue" timestamp="1591322465640" />
-      <file name="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" timestamp="1591362053697">
-        <mark key="'" line="2077" column="20" />
-        <mark key="[" line="1177" column="36" />
-        <mark key="]" line="1177" column="40" />
-        <mark key="." line="1177" column="79" />
-        <mark key="^" line="1177" column="40" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" timestamp="1591363425783">
+        <mark key="'" line="1242" column="55" />
+        <mark key="[" line="2652" column="39" />
+        <mark key="]" line="2652" column="40" />
+        <mark key="." line="2652" column="40" />
+        <mark key="^" line="2652" column="49" />
       </file>
       <file name="C:/project/backend-h5/src/router/router.js" timestamp="1591325180177">
         <mark key="[" line="19" column="0" />
@@ -205,9 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="25" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
-      <jump line="253" column="11" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
-      <jump line="395" column="41" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="552" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="257" column="17" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="665" column="8" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
@@ -305,56 +302,59 @@
       <jump line="232" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="237" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="143" column="8" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
+      <jump line="148" column="30" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
+      <jump line="1205" column="22" filename="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" />
+      <jump line="1242" column="55" filename="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGhlYWQtbWVzc2FnZQ==</text>
+        <text>plat === platformList.android</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGhlYWQtbWVzc2FnZQ==</text>
+        <text>plat === platformList.android</text>
       </register>
       <register name="/" type="4">
-        <text>au-title</text>
+        <text>script</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwYWRkaW5nLXRvcDogY29uc3RhbnQoc2FmZS1hcmVhLWluc2V0LXRvcCk7CiAgcGFkZGluZy10b3A6IGVudihzYWZlLWFyZWEtaW5zZXQtdG9wKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvLyBpZigkKHdpbmRvdykud2lkdGgoKT49NDE0KXsKICAgIC8vICAgICAkKCIubWVzMDEiKS5jc3MoIm1pbi13aWR0aCIsIjQwJSIpCiAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAvLyB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigibG9hZCIsIGZ1bmN0aW9uKGV2ZW50KSB7CiAgICAvLyAgICAgJC5hamF4KHsKICAgIC8vICAgICAgICAgdXJsOiAiL3RyYWluL2luZGV4LnBocC9ob21lL2FwaS90cmFpbl9tZW1iZXIiLAogICAgLy8gICAgICAgICBtZXRob2Q6ICJQT1NUIiwKICAgIC8vICAgICAgICAgZGF0YVR5cGU6J2pzb24nLAogICAgLy8gICAgICAgICBhc3luYzpmYWxzZSwKICAgIC8vICAgICAgICAgZGF0YTogeydsaXZlX2lkJzpyb29tX2lkLCJhcGl0eXBlIjoiZ2V0X2xpdmVfbXNnIn0sCiAgICAvLyAgICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKGRhdGEpewogICAgLy8gICAgICAgICAgICAgJCgndGl0bGUnKS50ZXh0KGRhdGFbJ3RpdGxlJ10pOy8v1vfSqtPDwLTQ3rjEserM4qOs0+vOotDFzt652AogICAgLy8gICAgICAgICAgICAgJCgnLmRldGFpbF9ib3ggZGl2JykudGV4dChkYXRhWydsaXZlaW50cm8nXSk7CiAgICAvLyAgICAgICAgICAgICB0aXRsZSA9IGRhdGFbJ3RpdGxlJ107Ly/OotDFt9bP7bHqzOIKICAgIC8vICAgICAgICAgICAgIGltZ1VybCA9IGRhdGFbJ2NvdmVyJ107Ly/OotDFt9bP7c28xqwKICAgIC8vICAgICAgICAgICAgIGRlc2MgPSBkYXRhWydsaXZlaW50cm8nXTsKICAgIC8vICAgICAgICAgICAgIG5ld19zaGFyZShmYWxzZSxhcHBJZCx0aW1lc3RhbXAsbm9uY2VTdHIsc2lnbmF0dXJlLHNoYXJlX3VybCx0aXRsZSxkZXNjLGltZ1VybCxzaGFyZV90eXBlLCcnKTsKICAgIC8vCiAgICAvLyAgICAgICAgIH0KICAgIC8vICAgICB9KTsKICAgIC8vIH0pOwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdG9wOiAyMHB4OwogICAgICAgICAgICBwYWRkaW5nLXRvcDogY29uc3RhbnQoc2FmZS1hcmVhLWluc2V0LXRvcCk7CiAgICAgICAgICAgIHBhZGRpbmctdG9wOiBlbnYoc2FmZS1hcmVhLWluc2V0LXRvcCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMxMjMxMjMsIHdpbmRvdy5fX3d4anNfZW52aXJvbm1lbnQpOwo=</text>
+        <text encoding="base64">CiAgICAvLyBpZigkKHdpbmRvdykud2lkdGgoKT49NDE0KXsKICAgIC8vICAgICAkKCIubWVzMDEiKS5jc3MoIm1pbi13aWR0aCIsIjQwJSIpCiAgICAvLyB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAvLyB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigibG9hZCIsIGZ1bmN0aW9uKGV2ZW50KSB7CiAgICAvLyAgICAgJC5hamF4KHsKICAgIC8vICAgICAgICAgdXJsOiAiL3RyYWluL2luZGV4LnBocC9ob21lL2FwaS90cmFpbl9tZW1iZXIiLAogICAgLy8gICAgICAgICBtZXRob2Q6ICJQT1NUIiwKICAgIC8vICAgICAgICAgZGF0YVR5cGU6J2pzb24nLAogICAgLy8gICAgICAgICBhc3luYzpmYWxzZSwKICAgIC8vICAgICAgICAgZGF0YTogeydsaXZlX2lkJzpyb29tX2lkLCJhcGl0eXBlIjoiZ2V0X2xpdmVfbXNnIn0sCiAgICAvLyAgICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKGRhdGEpewogICAgLy8gICAgICAgICAgICAgJCgndGl0bGUnKS50ZXh0KGRhdGFbJ3RpdGxlJ10pOy8v1vfSqtPDwLTQ3rjEserM4qOs0+vOotDFzt652AogICAgLy8gICAgICAgICAgICAgJCgnLmRldGFpbF9ib3ggZGl2JykudGV4dChkYXRhWydsaXZlaW50cm8nXSk7CiAgICAvLyAgICAgICAgICAgICB0aXRsZSA9IGRhdGFbJ3RpdGxlJ107Ly/OotDFt9bP7bHqzOIKICAgIC8vICAgICAgICAgICAgIGltZ1VybCA9IGRhdGFbJ2NvdmVyJ107Ly/OotDFt9bP7c28xqwKICAgIC8vICAgICAgICAgICAgIGRlc2MgPSBkYXRhWydsaXZlaW50cm8nXTsKICAgIC8vICAgICAgICAgICAgIG5ld19zaGFyZShmYWxzZSxhcHBJZCx0aW1lc3RhbXAsbm9uY2VTdHIsc2lnbmF0dXJlLHNoYXJlX3VybCx0aXRsZSxkZXNjLGltZ1VybCxzaGFyZV90eXBlLCcnKTsKICAgIC8vCiAgICAvLyAgICAgICAgIH0KICAgIC8vICAgICB9KTsKICAgIC8vIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMxMjMxMjMsIHdpbmRvdy5fX3d4anNfZW52aXJvbm1lbnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAyMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAyMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdHIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMTBweDsK</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAyMHB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogNXB4Owo=</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAyMHB4Owo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>au-title</last-search>
+      <last-search>script</last-search>
       <last-offset />
-      <last-pattern>au-title</last-pattern>
+      <last-pattern>script</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
