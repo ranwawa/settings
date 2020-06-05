@@ -148,7 +148,7 @@
         <mark key="." line="357" column="51" />
         <mark key="^" line="357" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591350248130">
+      <file name="/Dummy.txt" timestamp="1591352475835">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/project/backend-h5/src/views/jxglive/goods/index.vue" timestamp="1591322465640" />
@@ -300,46 +300,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>none</text>
+        <text>{{=it[i].refGoodsId}}</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>上</text>
       </register>
       <register name="/" type="4">
         <text>share</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICBzaGFyZTogZnVuY3Rpb24gKCkgewogICAgICAkKCIuc2hhcmUtd3JhcCIpLnNob3coKTsKICAgICAgJCgiLm1hc2stYmxhY2siKS5jc3MoImRpc3BsYXkiLCAiZmxleCIpOwogICAgfSwKICA=</text>
+        <text>{{=it[i].refGoodsId}}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1peGluczogW21peGluc1Z1ZV0sCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PCEtLSA8ZGl2IGNsYXNzPSJnb29kc196dWFuIj4KICAgICAgICA8ZGl2IGNsYXNzPSJ6dWFuIj7XrDwvZGl2PgogICAgICAgPGRpdiBjbGFzcz0iY29tbWlzc2lvbiI+CiAgICAgICAgIDxkaXYgc3R5bGU9ImhlaWdodDogMC4wNXJlbSI+PC9kaXY+CiAgICAgICAgIDxpPqOke3s9aXRbaV0uc2hvcGtlZXBlckluY29tZX19PC9pPgogICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PiAtLT4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1peGluczogW21peGluc1Z1ZV0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gdnVlu+y6zwp2YXIgbWl4aW5zVnVlID0gewogIGNyZWF0ZWQoKSB7CiAgICAvLyDS0dSk1LzB0LHtCiAgICBsZXQgYm9va2VkSWRzID0gc2Vzc2lvblN0b3JhZ2UuZ2V0SXRlbSgiYm9va2VkSWRzIik7CiAgICBib29rZWRJZHMgPSBib29rZWRJZHMgPyBKU09OLnBhcnNlKGJvb2tlZElkcykgOiBbXTsKICAgIHRoaXMuYm9va2VkSWRzID0gbmV3IFNldChib29rZWRJZHMpOwogIH0sCn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gdnVlu+y6zwp2YXIgbWl4aW5zVnVlID0gewogIGNyZWF0ZWQoKSB7CiAgICAvLyDS0dSk1LzB0LHtCiAgICBsZXQgYm9va2VkSWRzID0gc2Vzc2lvblN0b3JhZ2UuZ2V0SXRlbSgiYm9va2VkSWRzIik7CiAgICBib29rZWRJZHMgPSBib29rZWRJZHMgPyBKU09OLnBhcnNlKGJvb2tlZElkcykgOiBbXTsKICAgIHRoaXMuYm9va2VkSWRzID0gbmV3IFNldChib29rZWRJZHMpOwogIH0sCn07Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>var toastText = '取消预约成功';
                   if (isLikeResult === 1) {
                     toastText = '预约成功';
                   }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFyIHRvYXN0VGV4dCA9ICLIoc/71KTUvLPJuaYiOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKCkgewogICAgICAgICAgICAgICAgICAgIHRvYXN0VGV4dCA9ICfUpNS8s8m5pic7CiAgICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFyIHRvYXN0VGV4dCA9ICLIoc/71KTUvLPJuaYiOwo=</text>
       </register>
     </registers>
   </component>
