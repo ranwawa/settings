@@ -119,16 +119,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/backend-h5/src/views/jxglive/room/index.vue" timestamp="1591321449162">
-        <mark key="'" line="7" column="2" />
-        <mark key="[" line="28" column="73" />
-        <mark key="]" line="28" column="74" />
-        <mark key="^" line="28" column="74" />
-        <mark key="." line="28" column="73" />
-      </file>
       <file name="/Dummy.txt" timestamp="1591262650672">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/project/backend-h5/src/views/jxglive/goods/index.vue" timestamp="1591322465640" />
+      <file name="C:/project/backend-h5/src/views/jxglive/goods/options.js" timestamp="1591321794381" />
       <file name="C:/project/front-project-doc/jxg-h5(集需购h5版)/集需购-相关资源-后台.md" timestamp="1591256668577">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="11" column="39" />
@@ -140,11 +135,25 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="C:/project/backend-h5/src/router/views/jxglive.js" timestamp="1591260025838">
-        <mark key="[" line="38" column="76" />
-        <mark key="]" line="38" column="80" />
-        <mark key="^" line="38" column="80" />
-        <mark key="." line="38" column="79" />
+      <file name="C:/project/backend-h5/src/router/views/jxglive.js" timestamp="1591322611990">
+        <mark key="[" line="38" column="81" />
+        <mark key="]" line="38" column="87" />
+        <mark key="^" line="38" column="87" />
+        <mark key="." line="38" column="86" />
+      </file>
+      <file name="C:/project/backend-h5/src/views/jxglive/room/options.js" timestamp="1591321782512">
+        <mark key="'" line="80" column="10" />
+        <mark key="[" line="117" column="26" />
+        <mark key="]" line="117" column="27" />
+        <mark key="^" line="117" column="27" />
+        <mark key="." line="117" column="26" />
+      </file>
+      <file name="C:/project/backend-h5/src/views/jxglive/room/index.vue" timestamp="1591322509197">
+        <mark key="'" line="7" column="2" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="13" />
       </file>
       <file name="E:/jxgh5/src/components/liveFloat.vue" timestamp="1591262411393">
         <mark key="[" line="62" column="11" />
@@ -152,20 +161,12 @@
         <mark key="." line="62" column="13" />
         <mark key="^" line="62" column="14" />
       </file>
-      <file name="C:/project/backend-h5/src/views/jxglive/room/options.js" timestamp="1591321424270">
-        <mark key="'" line="80" column="10" />
-        <mark key="[" line="117" column="26" />
-        <mark key="]" line="117" column="27" />
-        <mark key="^" line="117" column="27" />
-        <mark key="." line="117" column="26" />
-      </file>
       <file name="C:/project/backend-h5/src/views/jxglive/sensitive/options.js" timestamp="1591264005785">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1022" column="40" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="1028" column="13" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="1060" column="13" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="1179" column="21" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
@@ -265,60 +266,54 @@
       <jump line="59" column="22" filename="C:/project/backend-h5/src/views/jxglive/room/options.js" />
       <jump line="62" column="10" filename="C:/project/backend-h5/src/views/jxglive/room/options.js" />
       <jump line="80" column="10" filename="C:/project/backend-h5/src/views/jxglive/room/options.js" />
+      <jump line="7" column="2" filename="C:/project/backend-h5/src/views/jxglive/room/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>直播</text>
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text>直播</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
       <register name="0" type="4">
-        <text>{
-                    label: '直播',
-                    value: 2,
-                }</text>
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgcGF0aDogInJvb20iLAogICAgICAgICAgICAgICAgbmFtZTogItaxsqW85MHQse0iLAogICAgICAgICAgICAgICAgY29tcG9uZW50OiAoKSA9PgogICAgICAgICAgICAgICAgICBpbXBvcnQoLyogd2VicGFja0NodW5rTmFtZTogImp4Z2xpdmUiICovICJAL3ZpZXdzL2p4Z2xpdmUvcm9vbS9pbmRleCIpCiAgICAgICAgICAgIH0s</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">PHNjcmlwdD4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>export default {
+  name: &quot;detail&quot;
+}</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>[
                 ]</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkOiBmYWxzZSwKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogInNlbGVjdCIK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>{
                     searchPlaceholder: &quot;1231231&quot;
                 }</text>
-      </register>
-      <register name="6" type="4">
-        <text>searchRules: [
-                    {
-                        required: true,
-                        message: &quot;请输入房间号&quot;,
-                        trigger: &quot;blur&quot;
-                    }
-                ]</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93SW5kZXg6IHRydWUsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93SW5kZXg6IHRydWUsCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQ6ICJhdXRvIiwgLy8gse248bjftsgK</text>
       </register>
     </registers>
   </component>
