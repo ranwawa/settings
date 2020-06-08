@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ajax</entry>
-        <entry>上架</entry>
-        <entry>1111111111</entry>
         <entry>11111111111</entry>
         <entry>status</entry>
         <entry>222</entry>
@@ -25,6 +22,9 @@
         <entry>signKey</entry>
         <entry>appid</entry>
         <entry>url</entry>
+        <entry>content: ''</entry>
+        <entry>content:</entry>
+        <entry encoding="base64">XDxiZWZvcmVcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -153,17 +153,17 @@
         <mark key="]" line="35" column="20" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591616714205">
+        <mark key="'" line="7" column="2" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="18" column="19" />
+      </file>
       <file name="E:/jxgwxapp/package.json" timestamp="1591595300809">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
-      </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" timestamp="1591594720696">
-        <mark key="'" line="635" column="15" />
-        <mark key="[" line="496" column="15" />
-        <mark key="]" line="497" column="37" />
-        <mark key="." line="497" column="36" />
-        <mark key="^" line="497" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1591608842970">
         <mark key="[" line="0" column="0" />
@@ -182,17 +182,18 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="E:/jxgwxapp/src/pages.json" timestamp="1591595205351">
-        <mark key="[" line="46" column="2" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="46" column="2" />
-        <mark key="." line="46" column="2" />
+      <file name="E:/jxgwxapp/src/pages.json" timestamp="1591617013722">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="29" column="4" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="29" column="3" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/goods/detail.vue" timestamp="1591611511858">
-        <mark key="[" line="177" column="5" />
-        <mark key="]" line="179" column="24" />
-        <mark key="." line="179" column="23" />
-        <mark key="^" line="179" column="24" />
+      <file name="E:/jxgwxapp/src/pages/goods/detail.vue" timestamp="1591616536904">
+        <mark key="'" line="210" column="9" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="34" />
+        <mark key="." line="234" column="17" />
+        <mark key="^" line="234" column="18" />
       </file>
       <file name="E:/jxgwxapp/src/util/basicSet.ts" timestamp="1591606443348" />
       <file name="E:/jxgwxapp/node_modules/@dcloudio/uni-ui/lib/uni-swiper-dot/uni-swiper-dot.vue" timestamp="1591597324782">
@@ -207,12 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="443" column="42" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
-      <jump line="884" column="3" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
-      <jump line="452" column="12" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
-      <jump line="403" column="45" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="344" column="66" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
-      <jump line="0" column="0" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="16" column="44" filename="E:/video/weixin_platform/train/app/User/View/Java/index.html" />
       <jump line="846" column="25" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
       <jump line="16" column="4" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
@@ -307,57 +302,71 @@
       <jump line="19" column="2" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="16" column="20" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="40" column="0" filename="E:/jxgwxapp/src/assets/font/jxgfont.scss" />
+      <jump line="192" column="11" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
+      <jump line="222" column="6" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
+      <jump line="176" column="6" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
+      <jump line="211" column="19" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
+      <jump line="210" column="9" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
+      <jump line="7" column="2" filename="E:/jxgwxapp/src/pages/user/login.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text encoding="base64">XDxiZWZvcmVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx2aWV3PiAxM7TnIMnuv9W70iA8L3ZpZXc+Cg==</text>
+      <register name="0" type="4">
+        <text>{
+    &quot;root&quot;: &quot;pages/goods&quot;,
+    &quot;pages&quot;: [
+      {
+        &quot;page&quot;: &quot;detail&quot;,
+        &quot;style&quot;: {}
+      }
+    ]
+  }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIGZsZXgtcm93Owo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgewogICAgICAicm9vdCI6ICJwYWdlcy91c2VyIiwKICAgICAgInBhZ2VzIjogWwogICAgICAgIHsKICAgICAgICAgICJwYWdlIjogImxvZ2luIiwKICAgICAgICAgICJzdHlsZSI6IHt9CiAgICAgICAgfQogICAgICBdCiAgICB9CiAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogIG5hbWU6ICJsb2dpbiIKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6ICRmei1tZDsK</text>
+        <text encoding="base64">LyogKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFnZSB7CiAgY29sb3I6ICRjLWJhc2U7Cn0K</text>
+        <text encoding="base64">ICAgICAgJjo6YmVmb3JlIHsKICAgICAgICBjb250ZW50OiAiIjsKICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb2xvcjogJGMtYmFzZTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAvKiDS/rLYvP3NtyAqLwogICAgJl91bmljb24gewogICAgICAmOjpiZWZvcmUgewogICAgICAgIGNvbnRlbnQ6ICIiOwogICAgICB9CiAgICB9CiA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAmX191bmljb24gewogICAgJjo6YmVmb3JlIHsKICAgICAgY29udGVudDogIiIgIWltcG9ydGFudDsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAkcy1zbSAwOwo=</text>
+        <text encoding="base64">ICAmX191bmljb24gewogICAgJjo6YmVmb3JlIHsKICAgICAgY29udGVudDogIiIgIWltcG9ydGFudDsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnRlCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>url</last-search>
+      <last-search encoding="base64">XDxiZWZvcmVcPg==</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxiZWZvcmVcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
