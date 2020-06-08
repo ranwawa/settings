@@ -156,20 +156,18 @@
         <mark key="^" line="24" column="18" />
       </file>
       <file name="E:/jxgwxapp/node_modules/rww-sass/lib/_border.scss" timestamp="1591609819704" />
-      <file name="E:/jxgwxapp/src/assets/font/jxgfont.scss" timestamp="1591611424841">
-        <mark key="'" line="40" column="0" />
-      </file>
+      <file name="E:/jxgwxapp/src/assets/font/jxgfont.scss" timestamp="1591621545597" />
       <file name="E:/jxgwxapp/src/App.vue" timestamp="1591617693073">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591619022506">
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591621518450">
         <mark key="'" line="7" column="2" />
-        <mark key="[" line="46" column="26" />
-        <mark key="]" line="47" column="19" />
-        <mark key="^" line="47" column="19" />
-        <mark key="." line="47" column="18" />
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="2" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1591618461657">
         <mark key="[" line="0" column="0" />
@@ -194,12 +192,11 @@
         <mark key="^" line="33" column="43" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/goods/detail.vue" timestamp="1591616536904">
-        <mark key="'" line="210" column="9" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="34" />
-        <mark key="." line="234" column="17" />
-        <mark key="^" line="234" column="18" />
+      <file name="E:/jxgwxapp/src/pages/goods/detail.vue" timestamp="1591623527931">
+        <mark key="[" line="102" column="17" />
+        <mark key="]" line="103" column="19" />
+        <mark key="." line="103" column="18" />
+        <mark key="^" line="103" column="19" />
       </file>
       <file name="E:/jxgwxapp/src/util/basicSet.ts" timestamp="1591606443348" />
       <file name="E:/jxgwxapp/src/assets/sass/index.scss" timestamp="1591610318287">
@@ -322,52 +319,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>-top</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>-top</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
       <register name="0" type="4">
-        <text>code2SessionAuth(params: any) {
-    return apiAxios({
-      params: {
-        account: ACCOUNT,
-        ...params,
-      },
-      url: &quot;/blade-openapi/wxapi/frontend/code2SessionAuth&quot;,
-      method: HTTP_METHOD.GET,
-    });
-  }</text>
+        <text encoding="base64">IGNsYXNzOiAiZ29vZHMtZmxvd19faXRlbV93aWRlIg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAga2wK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyLXJpZ2h0OiAxcHggc29saWQgcmVkOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IC8vILvxyKHTw7unY29kZQogIGFzeW5jIGdldEpzQ29kZSgpIHsKICAgIGNvbnN0IFtlcnIsIGRhdGFdID0gYXdhaXQgdW5pLmxvZ2luKCk7CiAgICBpZiAoZXJyKSB7CiAgICAgIHJldHVybjsKICAgIH0KICAgIHRoaXMuanNDb2RlID0gZGF0YS5jb2RlOwogIH0KICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgIzAwMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGVudDogJyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvbkxvYWQoKSB7CiAgICB0aGlzLmdldEpzQ29kZSgpOwogIH0K</text>
+        <text encoding="base64">ICAgIG1heC13aWR0aDogMzVlbTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGVudDogIlxlNjM0IjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGVudDogJyc7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICBjb21wbGV0ZShtZXM6IGFueSkgewogICAgICAgIC8vIL3Tv9q199PDveHK+LXEu9i197qvyv2jqLX308OzybmmoaLKp7Dctry74da00NCjqQogICAgICAgIHVuaS5oaWRlTG9hZGluZygpOwogICAgICAgIGxldCBib29sID0gdG9UeXBlKG1lcykgPT09ICJvYmplY3QiICYmIG1lc1sibWVzIl0gIT09IDIwMDsKICAgICAgICBpZiAoYm9vbCkgewogICAgICAgICAgaWYgKG1lc1siZGF0YSJdICYmIG1lc1siZGF0YSJdWyJtc2ciXSkgewogICAgICAgICAgICB1bmkuc2hvd1RvYXN0KHsKICAgICAgICAgICAgICB0aXRsZTogbWVzWyJkYXRhIl1bIm1zZyJdLAogICAgICAgICAgICAgIGljb246ICJub25lIiwKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9CiAgICAgICAgICBpZiAoZmFpbHVyZSAmJiB0eXBlb2YgZmFpbHVyZSA9PT0gImZ1bmN0aW9uIikgewogICAgICAgICAgICBmYWlsdXJlKG1lcyk7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9LAogIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiBweDJycHgoMTgpOwo=</text>
       </register>
     </registers>
   </component>
