@@ -149,11 +149,11 @@
         <mark key="]" line="84" column="4" />
         <mark key="." line="84" column="4" />
       </file>
-      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1591617553055">
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="41" />
-        <mark key="^" line="20" column="42" />
+      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1591618934992">
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="E:/jxgwxapp/node_modules/rww-sass/lib/_border.scss" timestamp="1591609819704" />
       <file name="E:/jxgwxapp/src/assets/font/jxgfont.scss" timestamp="1591611424841">
@@ -164,12 +164,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591618134902">
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591619022506">
         <mark key="'" line="7" column="2" />
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="35" />
-        <mark key="^" line="28" column="35" />
-        <mark key="." line="28" column="34" />
+        <mark key="[" line="46" column="26" />
+        <mark key="]" line="47" column="19" />
+        <mark key="^" line="47" column="19" />
+        <mark key="." line="47" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1591618461657">
         <mark key="[" line="0" column="0" />
@@ -321,44 +321,53 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>goGoodDetail</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>goGoodDetail</text>
+        <text>立即登录</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGdvR29vZERldGFpbDogZnVuY3Rpb24gKHVybCkgewogICAgICBsb2NhdGlvbi5ocmVmID0gdXJsOwogICAgfSwK</text>
+      <register name="0" type="4">
+        <text>code2SessionAuth(params: any) {
+    return apiAxios({
+      params: {
+        account: ACCOUNT,
+        ...params,
+      },
+      url: &quot;/blade-openapi/wxapi/frontend/code2SessionAuth&quot;,
+      method: HTTP_METHOD.GET,
+    });
+  }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICBjb21wbGV0ZShtZXM6IGFueSkgewogICAgICAgIC8vIL3Tv9q199PDveHK+LXEu9i197qvyv2jqLX308OzybmmoaLKp7Dctry74da00NCjqQogICAgICAgIHVuaS5oaWRlTG9hZGluZygpOwogICAgICAgIGxldCBib29sID0gdG9UeXBlKG1lcykgPT09ICJvYmplY3QiICYmIG1lc1sibWVzIl0gIT09IDIwMDsKICAgICAgICBpZiAoYm9vbCkgewogICAgICAgICAgaWYgKG1lc1siZGF0YSJdICYmIG1lc1siZGF0YSJdWyJtc2ciXSkgewogICAgICAgICAgICB1bmkuc2hvd1RvYXN0KHsKICAgICAgICAgICAgICB0aXRsZTogbWVzWyJkYXRhIl1bIm1zZyJdLAogICAgICAgICAgICAgIGljb246ICJub25lIiwKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9CiAgICAgICAgICBpZiAoZmFpbHVyZSAmJiB0eXBlb2YgZmFpbHVyZSA9PT0gImZ1bmN0aW9uIikgewogICAgICAgICAgICBmYWlsdXJlKG1lcyk7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9LAogIA==</text>
+        <text encoding="base64">IC8vILvxyKHTw7unY29kZQogIGFzeW5jIGdldEpzQ29kZSgpIHsKICAgIGNvbnN0IFtlcnIsIGRhdGFdID0gYXdhaXQgdW5pLmxvZ2luKCk7CiAgICBpZiAoZXJyKSB7CiAgICAgIHJldHVybjsKICAgIH0KICAgIHRoaXMuanNDb2RlID0gZGF0YS5jb2RlOwogIH0KICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtZXMsICJtZXMiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMTEsIHJlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBvbkxvYWQoKSB7CiAgICB0aGlzLmdldEpzQ29kZSgpOwogIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYgKHJlcy5kYXRhWyJjb2RlIl0gPT09ICIyMDAiKSB7CiAgICAgICAgICBzdWNjZXNzICYmIHN1Y2Nlc3MocmVzLmRhdGEpOwogICAgICAgICAgcmVzb2x2ZShbbnVsbCwgcmVzLmRhdGFdKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgdW5pLnNob3dUb2FzdCh7CiAgICAgICAgICAgIHRpdGxlOiByZXMuZGF0YS5tZXNzYWdlLAogICAgICAgICAgfSk7CiAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc29sdmUoW3Jlcy5kYXRhLCBudWxsXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3cK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICBjb21wbGV0ZShtZXM6IGFueSkgewogICAgICAgIC8vIL3Tv9q199PDveHK+LXEu9i197qvyv2jqLX308OzybmmoaLKp7Dctry74da00NCjqQogICAgICAgIHVuaS5oaWRlTG9hZGluZygpOwogICAgICAgIGxldCBib29sID0gdG9UeXBlKG1lcykgPT09ICJvYmplY3QiICYmIG1lc1sibWVzIl0gIT09IDIwMDsKICAgICAgICBpZiAoYm9vbCkgewogICAgICAgICAgaWYgKG1lc1siZGF0YSJdICYmIG1lc1siZGF0YSJdWyJtc2ciXSkgewogICAgICAgICAgICB1bmkuc2hvd1RvYXN0KHsKICAgICAgICAgICAgICB0aXRsZTogbWVzWyJkYXRhIl1bIm1zZyJdLAogICAgICAgICAgICAgIGljb246ICJub25lIiwKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9CiAgICAgICAgICBpZiAoZmFpbHVyZSAmJiB0eXBlb2YgZmFpbHVyZSA9PT0gImZ1bmN0aW9uIikgewogICAgICAgICAgICBmYWlsdXJlKG1lcyk7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9LAogIA==</text>
       </register>
     </registers>
   </component>
