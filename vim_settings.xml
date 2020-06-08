@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry>state</entry>
         <entry>standState</entry>
         <entry>from</entry>
@@ -25,6 +24,7 @@
         <entry>create</entry>
         <entry>console.log</entry>
         <entry>11111</entry>
+        <entry>uni-ui</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -128,11 +128,10 @@
       <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1591394267397">
         <mark key="'" line="35" column="27" />
       </file>
-      <file name="E:/jxgwxapp/package.json" timestamp="1591591985467">
-        <mark key="[" line="89" column="40" />
-        <mark key="]" line="89" column="47" />
-        <mark key="^" line="89" column="47" />
-        <mark key="." line="89" column="46" />
+      <file name="E:/jxgwxapp/package.json" timestamp="1591595300809">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" timestamp="1591594720696">
         <mark key="'" line="635" column="15" />
@@ -147,7 +146,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591594968071">
+      <file name="/Dummy.txt" timestamp="1591595369074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" timestamp="1591390410325">
@@ -189,23 +188,22 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="C:/project/backend-h5/src/views/jxglive/room/options.js" timestamp="1591380073062">
-        <mark key="'" line="80" column="10" />
-        <mark key="[" line="132" column="31" />
-        <mark key="]" line="132" column="32" />
-        <mark key="^" line="117" column="27" />
-        <mark key="." line="132" column="32" />
-      </file>
       <file name="C:/project/backend-h5/src/views/components/bindAddgoods.vue" timestamp="1591380833025">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/goods/detail.vue" timestamp="1591591875792">
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="6" />
-        <mark key="^" line="9" column="7" />
+      <file name="E:/jxgwxapp/src/pages.json" timestamp="1591595205351">
+        <mark key="[" line="46" column="2" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="46" column="2" />
+        <mark key="." line="46" column="2" />
+      </file>
+      <file name="E:/jxgwxapp/src/pages/goods/detail.vue" timestamp="1591595467353">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="28" column="6" />
       </file>
       <file name="C:/project/learning-react/src/home.jsx" timestamp="1591577335106">
         <mark key="[" line="7" column="21" />
@@ -341,51 +339,56 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPC91bmktc3dpcGVyLWRvdD4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>580rpx</text>
       </register>
       <register name="/" type="4">
-        <text>11111</text>
+        <text>uni-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNsYXNzPSJqeGctYmFubmVyX19pdGVtIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC91bmktc3dpcGVyLWRvdD4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHVuaS1zd2lwZXItZG90Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC91bmktc3dpcGVyLWRvdD4K</text>
+        <text encoding="base64">ICAgIDwvdW5pLXN3aXBlci1kb3Q+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IHB4MnJweCgyOTApOwo=</text>
+        <text encoding="base64">ICAgIDx1bmktYmFkZ2UgdGV4dD0iMzMzIj48L3VuaS1iYWRnZT4KICAgIDEyMwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLS0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>&quot;easycom&quot;: {
+    &quot;autoscan&quot;: true,
+    &quot;custom&quot;: {
+      &quot;uni-(.*)&quot;: &quot;@dcloudio/uni-ui/lib/uni-$1/uni-$1.vue&quot;
+    }
+  },</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgPC91bmktc3dpcGVyLWRvdD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHN3aWVwci1pdGVtPgogICAgICAgIAogICAgICA8L3N3aWVwci1pdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgPHVuaS1zd2lwZXItZG90Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0tLT4K</text>
+        <text encoding="base64">ICAgICAgPC91bmktc3dpcGVyLWRvdD4K</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>11111</last-search>
+      <last-search>uni-ui</last-search>
       <last-offset />
-      <last-pattern>11111</last-pattern>
+      <last-pattern>uni-ui</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
