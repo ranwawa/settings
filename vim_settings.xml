@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>status</entry>
-        <entry>222</entry>
         <entry>getData</entry>
         <entry>1111111</entry>
         <entry>is_live</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxiZWZvcmVcPg==</entry>
         <entry>111</entry>
         <entry>console.log</entry>
+        <entry>预约</entry>
+        <entry>padStart</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,58 +119,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1591667880296">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/jxgwxapp/src/assets/constant/http.ts" timestamp="1591618252166">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="31" />
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="30" />
       </file>
-      <file name="E:/jxgwxapp/node_modules/rww-sass/lib/_function.scss" timestamp="1591600790967" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" timestamp="1591668547384" />
       <file name="E:/jxgwxapp/src/config.ts" timestamp="1591609661953">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="1" />
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="E:/jxgh5/src/api/api.ts" timestamp="1591603406132">
-        <mark key="'" line="33" column="2" />
-      </file>
-      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1591607070992">
-        <mark key="'" line="5" column="22" />
-        <mark key="[" line="55" column="14" />
-        <mark key="]" line="55" column="32" />
-        <mark key="^" line="55" column="32" />
-        <mark key="." line="55" column="31" />
-      </file>
-      <file name="E:/jxgwxapp/src/api/goods.ts" timestamp="1591601267059" />
-      <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1591618742525">
-        <mark key="'" line="40" column="27" />
-        <mark key="[" line="84" column="4" />
-        <mark key="]" line="84" column="4" />
-        <mark key="." line="84" column="4" />
-      </file>
-      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1591620350394">
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="23" column="3" />
-        <mark key="." line="23" column="3" />
-        <mark key="^" line="24" column="18" />
-      </file>
-      <file name="E:/jxgwxapp/node_modules/rww-sass/lib/_border.scss" timestamp="1591609819704" />
-      <file name="E:/jxgwxapp/src/assets/font/jxgfont.scss" timestamp="1591621545597" />
-      <file name="E:/jxgwxapp/src/App.vue" timestamp="1591617693073">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591621518450">
-        <mark key="'" line="7" column="2" />
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="21" column="2" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="2" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591618461657">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1591618452426">
         <mark key="'" line="71" column="17" />
@@ -178,6 +141,13 @@
         <mark key="]" line="73" column="22" />
         <mark key="^" line="73" column="22" />
         <mark key="." line="73" column="21" />
+      </file>
+      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1591607070992">
+        <mark key="'" line="5" column="22" />
+        <mark key="[" line="55" column="14" />
+        <mark key="]" line="55" column="32" />
+        <mark key="^" line="55" column="32" />
+        <mark key="." line="55" column="31" />
       </file>
       <file name="E:/jxgwxapp/vue.config.js" timestamp="1591607810883">
         <mark key="'" line="26" column="33" />
@@ -198,7 +168,31 @@
         <mark key="." line="103" column="18" />
         <mark key="^" line="103" column="19" />
       </file>
-      <file name="E:/jxgwxapp/src/util/basicSet.ts" timestamp="1591606443348" />
+      <file name="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" timestamp="1591669673452">
+        <mark key="'" line="40" column="27" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="96" column="44" />
+      </file>
+      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1591620350394">
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+        <mark key="^" line="24" column="18" />
+      </file>
+      <file name="E:/jxgwxapp/src/App.vue" timestamp="1591617693073">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591621518450">
+        <mark key="'" line="7" column="2" />
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="2" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="2" />
+      </file>
       <file name="E:/jxgwxapp/src/assets/sass/index.scss" timestamp="1591610318287">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="30" column="28" />
@@ -206,19 +200,21 @@
         <mark key="." line="30" column="28" />
         <mark key="^" line="30" column="29" />
       </file>
-      <file name="E:/video/weixin_platform/train/app/User/View/Java/previewLiveGoods.html" timestamp="1591618747849">
-        <mark key="[" line="108" column="35" />
-        <mark key="]" line="108" column="36" />
-        <mark key="^" line="108" column="36" />
-        <mark key="." line="108" column="35" />
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" timestamp="1591669351881">
+        <mark key="'" line="421" column="11" />
+        <mark key="[" line="454" column="53" />
+        <mark key="]" line="455" column="27" />
+        <mark key="^" line="455" column="27" />
+        <mark key="." line="455" column="26" />
+      </file>
+      <file name="E:/video/weixin_platform/train/app/User/View/Java/previewLiveGoods.html" timestamp="1591667411259">
+        <mark key="[" line="43" column="22" />
+        <mark key="]" line="43" column="23" />
+        <mark key="^" line="43" column="23" />
+        <mark key="." line="43" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="4" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
-      <jump line="18" column="8" filename="E:/video/weixin_platform/train/Public/train/product/js/base-player.js" />
-      <jump line="357" column="48" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
-      <jump line="92" column="30" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
-      <jump line="73" column="65" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
       <jump line="71" column="25" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
       <jump line="72" column="7" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
       <jump line="53" column="28" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
@@ -314,56 +310,65 @@
       <jump line="7" column="2" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="77" column="7" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="71" column="17" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="547" column="27" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
+      <jump line="438" column="38" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
+      <jump line="543" column="53" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
+      <jump line="437" column="60" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
+      <jump line="421" column="11" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>-top</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>-top</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>padStart</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGNsYXNzOiAiZ29vZHMtZmxvd19faXRlbV93aWRlIg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAga2wK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLXJpZ2h0OiAxcHggc29saWQgcmVkOwo=</text>
+      <register name="2" type="4">
+        <text>if (num.padStart) {
+    return num.padStart(2, &quot;0&quot;);
+  } else {
+    return 
+  }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgIzAwMDsK</text>
+        <text encoding="base64">ICByZXR1cm4gbnVtLnBhZFN0YXJ0KDIsICIwIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29udGVudDogJyc7Cg==</text>
+        <text encoding="base64">ICAgICAga2wK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1heC13aWR0aDogMzVlbTsK</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyLXJpZ2h0OiAxcHggc29saWQgcmVkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29udGVudDogIlxlNjM0IjsK</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgIzAwMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29udGVudDogJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiBweDJycHgoMTgpOwo=</text>
+        <text encoding="base64">ICAgICAgY29udGVudDogJyc7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>console.log</last-search>
+      <last-search>padStart</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>padStart</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
