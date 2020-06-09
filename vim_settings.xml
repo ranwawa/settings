@@ -144,20 +144,20 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="E:/jxgwxapp/src/api/requestModel.ts" timestamp="1591684190899">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="0" />
+      <file name="E:/jxgwxapp/src/api/requestModel.ts" timestamp="1591685165605">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="24" />
       </file>
       <file name="E:/jxgwxapp/src/App.vue" timestamp="1591617693073">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591673930381">
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591685234617">
         <mark key="'" line="7" column="2" />
-        <mark key="[" line="17" column="30" />
+        <mark key="[" line="16" column="24" />
         <mark key="]" line="17" column="43" />
         <mark key="^" line="17" column="43" />
         <mark key="." line="17" column="42" />
@@ -173,11 +173,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/video/weixin_platform/train/app/User/View/Live/live_vertical.html" timestamp="1591668547384" />
-      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1591683966694">
+      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1591685195125">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
+        <mark key="^" line="47" column="55" />
         <mark key="." line="13" column="0" />
-        <mark key="^" line="22" column="17" />
       </file>
       <file name="E:/jxgwxapp/vue.config.js" timestamp="1591607810883">
         <mark key="'" line="26" column="33" />
@@ -319,43 +319,48 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhdHRlcm46IHBob25lUmVnLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Name is required</text>
+        <text>请输入手机号码</text>
       </register>
       <register name="/" type="4">
         <text>电话</text>
       </register>
-      <register name="0" type="4">
-        <text>validator.validate(data)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgbWVzc2FnZTogIsfryuTI68rWu/q6xcLrIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhdHRlcm46IHBob25lUmVnLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRvcjogKHJ1bGU6IGFueSwgdmFsdWU6IGFueSkgPT4gcGhvbmVSZWcudGVzdCh2YWx1ZSksCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoZXJyb3JzLCBmaWVsZHMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygxMTExMSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMSwgcmVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXF1ZXN0TW9kZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgbWVzc2FnZTogIsrWu/q6xcLruPHKvdPQzvMiLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGhvZCwgcmVxdWVzdE1vZGVsKTsK</text>
+      <register name="5" type="4">
+        <text>{
+      type: LANG_TYPE.STRING,
+      required: true,
+      pattern: phoneReg,
+      message: &quot;手机号码格式有误&quot;,
+    },</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RNb2RlbCA9IG1ldGhvZC5yZXF1ZXN0TW9kZWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcXVlc3RNb2RlbCk7Cg==</text>
+        <text encoding="base64">ICB2YWxpZGF0b3IKICAgIC52YWxpZGF0ZShkYXRhKQogICAgLnRoZW4oKCkgPT4ge30pCiAgICAuY2F0Y2goKGUpID0+IGNvbnNvbGUubG9nKGUpKTs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIHBhdHRlcm46IHBob25lUmVnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRvcjogKHJ1bGU6IGFueSwgdmFsdWU6IGFueSkgPT4gcGhvbmVSZWcudGVzdCh2YWx1ZSksCg==</text>
       </register>
     </registers>
   </component>
