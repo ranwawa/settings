@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>handleClick</entry>
-        <entry>alert</entry>
-        <entry>res_id</entry>
-        <entry>wait_info</entry>
-        <entry>wait_</entry>
         <entry>proxy</entry>
         <entry>goPay</entry>
         <entry>加入购物车</entry>
@@ -22,9 +17,14 @@
         <entry>预约</entry>
         <entry>confirm</entry>
         <entry>caretd</entry>
-        <entry>created</entry>
         <entry>slice</entry>
         <entry>video</entry>
+        <entry>field</entry>
+        <entry>props</entry>
+        <entry>created</entry>
+        <entry>ajax</entry>
+        <entry>aysnc: true</entry>
+        <entry>async: false</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -138,11 +138,11 @@
         <mark key="]" line="345" column="27" />
         <mark key="." line="345" column="27" />
       </file>
-      <file name="C:/project/front-project-doc/jxg-h5(集需购h5版)/集需购-相关资源-前端.md" timestamp="1591751829521">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
+      <file name="E:/jxgwxapp/src/config.ts" timestamp="1591799138950">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="29" />
       </file>
       <file name="E:/jxgh5/src/api/api.ts" timestamp="1591793091255">
         <mark key="'" line="198" column="21" />
@@ -151,17 +151,20 @@
         <mark key="^" line="94" column="24" />
         <mark key="." line="94" column="23" />
       </file>
-      <file name="C:/project/learning-react/src/StateComponent.jsx" timestamp="1591749288053">
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="28" column="29" />
-        <mark key="." line="28" column="28" />
-        <mark key="^" line="28" column="29" />
-      </file>
       <file name="E:/jxgh5/vue.config.js" timestamp="1591781628788">
         <mark key="'" line="148" column="23" />
         <mark key="[" line="132" column="63" />
         <mark key="]" line="132" column="64" />
         <mark key="." line="132" column="64" />
+      </file>
+      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1591798636719">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591798907025">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1591780915198">
         <mark key="[" line="90" column="52" />
@@ -169,18 +172,13 @@
         <mark key="^" line="90" column="52" />
         <mark key="." line="90" column="52" />
       </file>
-      <file name="E:/video2/train/Public/train/user/live/js/vertical.js" timestamp="1591794499089">
-        <mark key="'" line="1361" column="0" />
-        <mark key="[" line="1911" column="0" />
-        <mark key="]" line="1911" column="0" />
-        <mark key="." line="1911" column="0" />
-      </file>
+      <file name="E:/video2/train/Public/train/user/live/js/vertical.js" timestamp="1591799829680" />
       <file name="E:/jxgh5/src/components/grass/goodsCard.vue" timestamp="1591768075613">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="E:/video2/train/vertical.js" timestamp="1591795472908" />
+      <file name="E:/video2/train/vertical.js" timestamp="1591799291169" />
       <file name="E:/jxgh5/src/components/goodsList/goodsTool.vue" timestamp="1591789766001">
         <mark key="'" line="42" column="12" />
         <mark key="[" line="72" column="48" />
@@ -188,13 +186,16 @@
         <mark key="^" line="72" column="49" />
         <mark key="." line="72" column="48" />
       </file>
+      <file name="E:/jxgwxapp/node_modules/uni-vant/lib/field.vue" timestamp="1591798944536">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1591791879575">
         <mark key="[" line="1018" column="22" />
         <mark key="]" line="1018" column="45" />
         <mark key="^" line="1018" column="45" />
         <mark key="." line="1018" column="44" />
       </file>
-      <file name="E:/video2/train/app/User/View/Live/live_vertical.html" timestamp="1591796152586">
+      <file name="E:/video2/train/app/User/View/Live/live_vertical.html" timestamp="1591799270257">
         <mark key="'" line="174" column="20" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -206,35 +207,12 @@
         <mark key="." line="61" column="23" />
         <mark key="^" line="61" column="24" />
       </file>
-      <file name="E:/jxgh5/node_modules/vant/package.json" timestamp="1591767722834">
-        <mark key="'" line="3" column="20" />
-      </file>
       <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1591791822433">
         <mark key="'" line="444" column="48" />
-      </file>
-      <file name="C:/project/learning-react/src/app.jsx" timestamp="1591748687198">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="5" column="22" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="21" />
       </file>
       <file name="E:/jxgh5/src/router/index.ts" timestamp="1591789233773" />
     </filemarks>
     <jumps>
-      <jump line="543" column="53" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
-      <jump line="437" column="60" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
-      <jump line="421" column="11" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
-      <jump line="127" column="25" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
-      <jump line="208" column="30" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
-      <jump line="238" column="6" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
-      <jump line="146" column="8" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
-      <jump line="218" column="11" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
-      <jump line="46" column="15" filename="E:/jxgwxapp/src/api/api.ts" />
-      <jump line="30" column="15" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="60" column="17" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="97" column="5" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="101" column="32" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="0" column="0" filename="E:/video2/train/Public/train/product/css/base-player.css" />
       <jump line="42" column="23" filename="E:/video2/train/Public/train/product/css/base-player.css" />
       <jump line="349" column="12" filename="E:/video2/train/Public/train/product/css/base-player.css" />
       <jump line="6658" column="26" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
@@ -321,21 +299,35 @@
       <jump line="1133" column="14" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
       <jump line="1142" column="0" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
       <jump line="174" column="20" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
+      <jump line="53" column="44" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="0" column="0" filename="E:/jxgwxapp/node_modules/uni-vant/lib/field.vue" />
+      <jump line="3457" column="8" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
+      <jump line="0" column="0" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
+      <jump line="2506" column="13" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
+      <jump line="1666" column="20" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
+      <jump line="1695" column="21" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
+      <jump line="1756" column="26" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
+      <jump line="1784" column="10" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
+      <jump line="1811" column="8" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
+      <jump line="1829" column="14" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
+      <jump line="2009" column="10" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
+      <jump line="2040" column="10" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KDEyMyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>222</text>
       </register>
       <register name="-" type="4">
-        <text>{AppVersionh5test&quot;</text>
+        <text>222</text>
       </register>
       <register name="/" type="4">
-        <text>video</text>
+        <text>async: false</text>
       </register>
-      <register name="0" type="4">
-        <text>this.$route.query.origins</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0eXBlPSJudW1iZXIiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFsZXJ0KDEyMyk7Cg==</text>
@@ -368,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>video</last-search>
+      <last-search>async: false</last-search>
       <last-offset />
-      <last-pattern>video</last-pattern>
+      <last-pattern>async: false</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
