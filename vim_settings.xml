@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>手机</entry>
         <entry>电话</entry>
         <entry>发送</entry>
         <entry>title</entry>
@@ -21,10 +20,11 @@
         <entry>进入</entry>
         <entry>share</entry>
         <entry>handleClick</entry>
-        <entry>wait_</entry>
         <entry>alert</entry>
         <entry>res_id</entry>
         <entry>wait_info</entry>
+        <entry>wait_</entry>
+        <entry>proxy</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,8 +119,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/video2/train/app/User/View/Java/wait_info.html" timestamp="1591777967245">
-        <mark key="'" line="605" column="8" />
+      <file name="E:/video2/train/app/User/View/Java/wait_info.html" timestamp="1591778034764">
+        <mark key="'" line="579" column="75" />
         <mark key="[" line="354" column="47" />
         <mark key="]" line="354" column="51" />
         <mark key="." line="354" column="50" />
@@ -128,6 +128,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1591768528714">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/jxgh5/src/views/mine/orderDetail.vue" timestamp="1591780469244">
+        <mark key="'" line="458" column="8" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="E:/video2/train/Public/train/product/js/base-player.js" timestamp="1591772023581">
         <mark key="'" line="18" column="8" />
@@ -141,12 +147,6 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/config.ts" timestamp="1591693718110">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="20" />
-        <mark key="^" line="19" column="20" />
-        <mark key="." line="19" column="19" />
-      </file>
       <file name="E:/video2/train/Public/train/product/css/base-player.css" timestamp="1591703792091">
         <mark key="'" line="50" column="10" />
         <mark key="[" line="47" column="17" />
@@ -158,6 +158,9 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="E:/jxgh5/src/api/api.ts" timestamp="1591781614285">
+        <mark key="'" line="197" column="21" />
       </file>
       <file name="E:/video2/train/app/User/View/Java/index.html" timestamp="1591706305447">
         <mark key="'" line="474" column="0" />
@@ -171,11 +174,11 @@
         <mark key="." line="28" column="28" />
         <mark key="^" line="28" column="29" />
       </file>
-      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1591698211619">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="28" />
+      <file name="E:/jxgh5/vue.config.js" timestamp="1591781628788">
+        <mark key="'" line="148" column="23" />
+        <mark key="[" line="132" column="63" />
+        <mark key="]" line="132" column="64" />
+        <mark key="." line="132" column="64" />
       </file>
       <file name="E:/jxgwxapp/src/api/requestModel.ts" timestamp="1591698219897">
         <mark key="[" line="32" column="17" />
@@ -209,7 +212,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="20" column="8" />
       </file>
-      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1591768576146">
+      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1591780915198">
         <mark key="[" line="90" column="52" />
         <mark key="]" line="90" column="67" />
         <mark key="^" line="90" column="52" />
@@ -231,10 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="45" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
-      <jump line="172" column="44" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
-      <jump line="0" column="0" filename="C:/project/backend-h5/vue.config.js" />
-      <jump line="216" column="38" filename="C:/project/backend-h5/src/views/components/waitBindgoods.vue" />
       <jump line="293" column="17" filename="C:/project/backend-h5/src/views/components/waitBindgoods.vue" />
       <jump line="301" column="17" filename="C:/project/backend-h5/src/views/components/waitBindgoods.vue" />
       <jump line="309" column="17" filename="C:/project/backend-h5/src/views/components/waitBindgoods.vue" />
@@ -329,58 +328,66 @@
       <jump line="569" column="11" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
       <jump line="486" column="70" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
       <jump line="496" column="46" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
-      <jump line="579" column="62" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
       <jump line="603" column="8" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
+      <jump line="344" column="15" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
+      <jump line="579" column="75" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
+      <jump line="461" column="8" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="148" column="23" filename="E:/jxgh5/vue.config.js" />
+      <jump line="197" column="21" filename="E:/jxgh5/src/api/api.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>block</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSA8ZGl2IGNsYXNzPSJvcmRlckRldGFpbC1jYW5jZWxPcmRlci13cmFwIiB2LWlmPSJuZXdPcmRlclN0YXRlPT0xfHxuZXdPcmRlclN0YXRlPT0yIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHZhbi1idXR0b24gQGNsaWNrLnN0b3A9ImNhbmNlbFNob3c9dHJ1ZSIgY2xhc3M9Im9yZGVyRGV0YWlsLWNhbmNlbE9yZGVyIiB0eXBlPSJkZWZhdWx0Ij7Ioc/7tqm1pTwvdmFuLWJ1dHRvbj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4gLS0+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>block</text>
+        <text>, Getter, Action, Mutation</text>
       </register>
       <register name="/" type="4">
-        <text>wait_info</text>
+        <text>proxy</text>
       </register>
       <register name="0" type="4">
         <text>res.data.jump_url</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBqdW1wVXJsICs9ICImcmVzXyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSA8ZGl2IGNsYXNzPSJvcmRlckRldGFpbC1jYW5jZWxPcmRlci13cmFwIiB2LWlmPSJuZXdPcmRlclN0YXRlPT0xfHxuZXdPcmRlclN0YXRlPT0yIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHZhbi1idXR0b24gQGNsaWNrLnN0b3A9ImNhbmNlbFNob3c9dHJ1ZSIgY2xhc3M9Im9yZGVyRGV0YWlsLWNhbmNlbE9yZGVyIiB0eXBlPSJkZWZhdWx0Ij7Ioc/7tqm1pTwvdmFuLWJ1dHRvbj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4gLS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoMTExKTsK</text>
+        <text encoding="base64">ICBXYXRjaCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmlzU2hvd1RpbWUpOwo=</text>
+      <register name="4" type="4">
+        <text>Emit,
+  Inject,
+  Model,
+  Prop,
+  Provide,</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBqdW1wVXJsICs9ICImcmVzXyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoMTExKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcHV0ZWRJc0JlZ2luKCkgewogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcHV0ZWRJc1Nob3dUaW1lKCkgewogICAgICAgICAgICAgIGNvbnN0IGhvdXIgPSB0aGlzLmNvdW50RG93bi5ob3VyOwogICAgICAgICAgICAgIHJldHVybiBob3VyICYmIGhvdXIgIT09ICIwMCI7CiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmlzU2hvd1RpbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gdGhpcy5pdGVtLmxpdmVfc3RhcnR0aW1lLnJlcGxhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>wait_info</last-search>
+      <last-search>proxy</last-search>
       <last-offset />
-      <last-pattern>wait_info</last-pattern>
+      <last-pattern>proxy</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
