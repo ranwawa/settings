@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>console.log</entry>
-        <entry>预约</entry>
-        <entry>padStart</entry>
         <entry>bd-</entry>
         <entry>-top</entry>
         <entry>手机</entry>
@@ -23,8 +20,11 @@
         <entry>divi</entry>
         <entry>1184</entry>
         <entry>version</entry>
-        <entry>handleClick</entry>
         <entry>进入</entry>
+        <entry>share</entry>
+        <entry>handleClick</entry>
+        <entry>wait_</entry>
+        <entry>alert</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,15 +119,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/video2/train/app/User/View/Java/wait_info.html" timestamp="1591770818866">
-        <mark key="'" line="564" column="11" />
-        <mark key="[" line="541" column="18" />
-        <mark key="]" line="541" column="19" />
-        <mark key="." line="541" column="18" />
-        <mark key="^" line="541" column="19" />
+      <file name="E:/video2/train/app/User/View/Java/wait_info.html" timestamp="1591772326506">
+        <mark key="'" line="568" column="11" />
+        <mark key="[" line="453" column="0" />
+        <mark key="]" line="453" column="0" />
+        <mark key="." line="453" column="0" />
+        <mark key="^" line="580" column="40" />
       </file>
-      <file name="E:/video2/train/Public/train/product/js/base-player.js" timestamp="1591697939367">
-        <mark key="'" line="306" column="28" />
+      <file name="E:/video2/train/Public/train/product/js/base-player.js" timestamp="1591772023581">
+        <mark key="'" line="18" column="8" />
         <mark key="[" line="345" column="27" />
         <mark key="]" line="345" column="27" />
         <mark key="." line="345" column="27" />
@@ -231,17 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="23" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
-      <jump line="171" column="44" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
-      <jump line="133" column="40" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
-      <jump line="170" column="19" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
-      <jump line="205" column="34" filename="E:/video/weixin_platform/train/app/User/View/Java/res_product.html" />
-      <jump line="1345" column="15" filename="E:/video/weixin_platform/train/Public/train/user/live/js/vertical.js" />
-      <jump line="1912" column="35" filename="E:/video/weixin_platform/train/Public/train/user/live/js/vertical.js" />
-      <jump line="5709" column="20" filename="E:/video/weixin_platform/train/Public/train/user/live/js/vertical.js" />
-      <jump line="5673" column="0" filename="E:/video/weixin_platform/train/Public/train/user/live/js/vertical.js" />
-      <jump line="5708" column="0" filename="E:/video/weixin_platform/train/Public/train/user/live/js/vertical.js" />
-      <jump line="6394" column="0" filename="E:/video/weixin_platform/train/Public/train/user/live/js/vertical.js" />
       <jump line="6287" column="11" filename="E:/video/weixin_platform/train/Public/train/user/live/js/vertical.js" />
       <jump line="6409" column="2" filename="E:/video/weixin_platform/train/Public/train/user/live/js/vertical.js" />
       <jump line="5628" column="21" filename="E:/video/weixin_platform/train/Public/train/user/live/js/vertical.js" />
@@ -331,56 +320,67 @@
       <jump line="395" column="48" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
       <jump line="538" column="12" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
       <jump line="564" column="11" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
+      <jump line="274" column="3" filename="E:/video2/train/Public/train/product/js/base-player.js" />
+      <jump line="1" column="1" filename="E:/video2/train/Public/train/product/js/base-player.js" />
+      <jump line="16" column="4" filename="E:/video2/train/Public/train/product/js/base-player.js" />
+      <jump line="18" column="8" filename="E:/video2/train/Public/train/product/js/base-player.js" />
+      <jump line="646" column="16" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
+      <jump line="544" column="53" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
+      <jump line="324" column="22" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
+      <jump line="332" column="26" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
+      <jump line="340" column="26" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
+      <jump line="574" column="56" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
+      <jump line="569" column="11" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoMTExKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>进入</text>
+        <text>alert</text>
       </register>
       <register name="0" type="4">
         <text>{ class: &quot;detail-fix__btn-muted&quot;, text: &quot;已预约&quot; }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmlzU2hvd1RpbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoMTExKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmlzU2hvd1RpbWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcHV0ZWRJc0JlZ2luKCkgewogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcHV0ZWRJc1Nob3dUaW1lKCkgewogICAgICAgICAgICAgIGNvbnN0IGhvdXIgPSB0aGlzLmNvdW50RG93bi5ob3VyOwogICAgICAgICAgICAgIHJldHVybiBob3VyICYmIGhvdXIgIT09ICIwMCI7CiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gdGhpcy5pdGVtLmxpdmVfc3RhcnR0aW1lLnJlcGxhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcHV0ZWRJc0JlZ2luKCkgewogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcHV0ZWRJc1Nob3dUaW1lKCkgewogICAgICAgICAgICAgIGNvbnN0IGhvdXIgPSB0aGlzLmNvdW50RG93bi5ob3VyOwogICAgICAgICAgICAgIHJldHVybiBob3VyICYmIGhvdXIgIT09ICIwMCI7CiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gdGhpcy5pdGVtLmxpdmVfc3RhcnR0aW1lLnJlcGxhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgY2xhc3M6ICIiLCB0ZXh0OiAi1KTUvNaxsqUiIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZigpCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>进入</last-search>
+      <last-search>alert</last-search>
       <last-offset />
-      <last-pattern>进入</last-pattern>
+      <last-pattern>alert</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
