@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>version</entry>
-        <entry>进入</entry>
         <entry>share</entry>
         <entry>handleClick</entry>
         <entry>alert</entry>
@@ -17,7 +15,6 @@
         <entry>goPay</entry>
         <entry>加入购物车</entry>
         <entry>goodsTool</entry>
-        <entry>confirm</entry>
         <entry>购买</entry>
         <entry>console.log</entry>
         <entry>id=&quot;app</entry>
@@ -25,6 +22,9 @@
         <entry>video</entry>
         <entry encoding="base64">PHZpZGVv</entry>
         <entry>预约</entry>
+        <entry>confirm</entry>
+        <entry>caretd</entry>
+        <entry>created</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -171,16 +171,13 @@
         <mark key="]" line="1911" column="0" />
         <mark key="." line="1911" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591791354722">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/jxgh5/src/components/grass/goodsCard.vue" timestamp="1591768075613">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="E:/video2/train/app/User/View/Java/index.html" timestamp="1591706305447">
-        <mark key="'" line="474" column="0" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
       </file>
       <file name="E:/jxgh5/src/components/goodsList/goodsTool.vue" timestamp="1591789766001">
         <mark key="'" line="42" column="12" />
@@ -189,12 +186,11 @@
         <mark key="^" line="72" column="49" />
         <mark key="." line="72" column="48" />
       </file>
-      <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1591790771765">
-        <mark key="'" line="705" column="6" />
-        <mark key="[" line="1020" column="16" />
-        <mark key="]" line="1020" column="23" />
-        <mark key="^" line="1020" column="23" />
-        <mark key="." line="1020" column="22" />
+      <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1591791879575">
+        <mark key="[" line="1018" column="22" />
+        <mark key="]" line="1018" column="45" />
+        <mark key="^" line="1018" column="45" />
+        <mark key="." line="1018" column="44" />
       </file>
       <file name="E:/video2/train/app/User/View/Live/live_vertical.html" timestamp="1591790324930">
         <mark key="'" line="433" column="12" />
@@ -218,6 +214,9 @@
       <file name="E:/jxgh5/node_modules/vant/package.json" timestamp="1591767722834">
         <mark key="'" line="3" column="20" />
       </file>
+      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1591791822433">
+        <mark key="'" line="444" column="48" />
+      </file>
       <file name="C:/project/learning-react/src/app.jsx" timestamp="1591748687198">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="5" column="22" />
@@ -227,9 +226,6 @@
       <file name="E:/jxgh5/src/router/index.ts" timestamp="1591789233773" />
     </filemarks>
     <jumps>
-      <jump line="176" column="6" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
-      <jump line="211" column="19" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
-      <jump line="210" column="9" filename="E:/jxgwxapp/src/pages/goods/detail.vue" />
       <jump line="7" column="2" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="77" column="7" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="71" column="17" filename="E:/jxgwxapp/src/api/api.ts" />
@@ -327,56 +323,59 @@
       <jump line="419" column="46" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
       <jump line="433" column="12" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
       <jump line="640" column="10" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
+      <jump line="661" column="42" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
+      <jump line="1020" column="26" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
+      <jump line="444" column="48" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+      <register name="&quot;" type="4">
+        <text>this.$route.query.origins</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>this.$route.query.origins</text>
       </register>
       <register name="/" type="4">
-        <text>预约</text>
+        <text>created</text>
       </register>
       <register name="0" type="4">
-        <text>res.data.jump_url</text>
+        <text>this.$route.query.origins</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzIxMzEyMywgcGFyYW0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyMjIpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChwYXJhbS5hY3RpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyMjIpOwo=</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyMjIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMTExMTExMTExMSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyMjIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyMjIpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PCEtLSA8dHJhbnNpdGlvbiBuYW1lPSJtb3ZlRG93biI+CiAgICAgICAgICAgIDxoZWFkZXIKICAgICAgICAgICAgICAgIDpjbGFzcz0ieydnb29kc0RldGFpbC1oZWFkZXInOnRydWUsJ2hlaWdodHNzJzohaXNJcHN9IgogICAgICAgICAgICAgICAgdi1zaG93PSJ3cmFwZXJTY3JvbGxUb3A+MTAmJiFsb2FkaW5nIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8ZGl2IDpjbGFzcz0ieydnb29kc0RldGFpbC1oZWFkZXItdGFiJzp0cnVlLCdoZWlnaHRzczEnOiFpc0lwc30iPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIEBjbGljay5zdG9wPSJoZWFkZXJDbGljaygxKSI+PGEgOmNsYXNzPSJ7J2JvdGVzJzpoZWFkVHlwZT09PTF9IiBocmVmPSJqYXZhc2NyaXB0OjsiPsnMxrc8L2E+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIEBjbGljay5zdG9wPSJoZWFkZXJDbGljaygyKSI+PGEgOmNsYXNzPSJ7J2JvdGVzJzpoZWFkVHlwZT09PTJ9IiBocmVmPSJqYXZhc2NyaXB0OjsiPsbAvNs8L2E+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxhIEBjbGljay5zdG9wPSJoZWFkZXJDbGljayg0KSI+PGEgOmNsYXNzPSJ7J2JvdGVzJzpoZWFkVHlwZT09PTR9IiBocmVmPSJqYXZhc2NyaXB0OjsiPs3GvPY8L2E+PC9zcGFuPiAKICAgICAgICAgICAgICAgICAgICA8c3BhbiBAY2xpY2suc3RvcD0iaGVhZGVyQ2xpY2soMykiPjxhIDpjbGFzcz0ieydib3Rlcyc6aGVhZFR5cGU9PT0zfSIgaHJlZj0iamF2YXNjcmlwdDo7Ij7P6sfpPC9hPjwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2hlYWRlcj4KICAgICAgICA8L3RyYW5zaXRpb24+LS0+</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMTExMTExMTExMSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDExMTExMTExMTExMTExMQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSA8ZGl2IGNsYXNzPSJvcmRlckRldGFpbC1jYW5jZWxPcmRlci13cmFwIiB2LWlmPSJuZXdPcmRlclN0YXRlPT0xfHxuZXdPcmRlclN0YXRlPT0yIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHZhbi1idXR0b24gQGNsaWNrLnN0b3A9ImNhbmNlbFNob3c9dHJ1ZSIgY2xhc3M9Im9yZGVyRGV0YWlsLWNhbmNlbE9yZGVyIiB0eXBlPSJkZWZhdWx0Ij7Ioc/7tqm1pTwvdmFuLWJ1dHRvbj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4gLS0+Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PCEtLSA8dHJhbnNpdGlvbiBuYW1lPSJtb3ZlRG93biI+CiAgICAgICAgICAgIDxoZWFkZXIKICAgICAgICAgICAgICAgIDpjbGFzcz0ieydnb29kc0RldGFpbC1oZWFkZXInOnRydWUsJ2hlaWdodHNzJzohaXNJcHN9IgogICAgICAgICAgICAgICAgdi1zaG93PSJ3cmFwZXJTY3JvbGxUb3A+MTAmJiFsb2FkaW5nIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8ZGl2IDpjbGFzcz0ieydnb29kc0RldGFpbC1oZWFkZXItdGFiJzp0cnVlLCdoZWlnaHRzczEnOiFpc0lwc30iPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIEBjbGljay5zdG9wPSJoZWFkZXJDbGljaygxKSI+PGEgOmNsYXNzPSJ7J2JvdGVzJzpoZWFkVHlwZT09PTF9IiBocmVmPSJqYXZhc2NyaXB0OjsiPsnMxrc8L2E+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIEBjbGljay5zdG9wPSJoZWFkZXJDbGljaygyKSI+PGEgOmNsYXNzPSJ7J2JvdGVzJzpoZWFkVHlwZT09PTJ9IiBocmVmPSJqYXZhc2NyaXB0OjsiPsbAvNs8L2E+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxhIEBjbGljay5zdG9wPSJoZWFkZXJDbGljayg0KSI+PGEgOmNsYXNzPSJ7J2JvdGVzJzpoZWFkVHlwZT09PTR9IiBocmVmPSJqYXZhc2NyaXB0OjsiPs3GvPY8L2E+PC9zcGFuPiAKICAgICAgICAgICAgICAgICAgICA8c3BhbiBAY2xpY2suc3RvcD0iaGVhZGVyQ2xpY2soMykiPjxhIDpjbGFzcz0ieydib3Rlcyc6aGVhZFR5cGU9PT0zfSIgaHJlZj0iamF2YXNjcmlwdDo7Ij7P6sfpPC9hPjwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2hlYWRlcj4KICAgICAgICA8L3RyYW5zaXRpb24+LS0+</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>预约</last-search>
+      <last-search>created</last-search>
       <last-offset />
-      <last-pattern>预约</last-pattern>
+      <last-pattern>created</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
