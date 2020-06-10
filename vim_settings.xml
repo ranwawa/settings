@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>share</entry>
         <entry>handleClick</entry>
         <entry>alert</entry>
         <entry>res_id</entry>
@@ -19,12 +18,13 @@
         <entry>console.log</entry>
         <entry>id=&quot;app</entry>
         <entry>new Vue</entry>
-        <entry>video</entry>
         <entry encoding="base64">PHZpZGVv</entry>
         <entry>预约</entry>
         <entry>confirm</entry>
         <entry>caretd</entry>
         <entry>created</entry>
+        <entry>slice</entry>
+        <entry>video</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -169,8 +169,8 @@
         <mark key="^" line="90" column="52" />
         <mark key="." line="90" column="52" />
       </file>
-      <file name="E:/video2/train/Public/train/user/live/js/vertical.js" timestamp="1591790265370">
-        <mark key="'" line="1601" column="3" />
+      <file name="E:/video2/train/Public/train/user/live/js/vertical.js" timestamp="1591794499089">
+        <mark key="'" line="1361" column="0" />
         <mark key="[" line="1911" column="0" />
         <mark key="]" line="1911" column="0" />
         <mark key="." line="1911" column="0" />
@@ -180,6 +180,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="E:/video2/train/vertical.js" timestamp="1591795472908" />
       <file name="E:/jxgh5/src/components/goodsList/goodsTool.vue" timestamp="1591789766001">
         <mark key="'" line="42" column="12" />
         <mark key="[" line="72" column="48" />
@@ -193,18 +194,11 @@
         <mark key="^" line="1018" column="45" />
         <mark key="." line="1018" column="44" />
       </file>
-      <file name="E:/video2/train/app/User/View/Live/live_vertical.html" timestamp="1591790324930">
-        <mark key="'" line="433" column="12" />
-        <mark key="[" line="1222" column="9" />
-        <mark key="]" line="1222" column="9" />
-        <mark key="." line="1222" column="9" />
-        <mark key="^" line="2142" column="8" />
-      </file>
-      <file name="C:/project/learning-react/src/home.jsx" timestamp="1591747822375">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="23" />
+      <file name="E:/video2/train/app/User/View/Live/live_vertical.html" timestamp="1591796152586">
+        <mark key="'" line="174" column="20" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="E:/jxgh5/src/views/shareH5/buyNow/components/goodsCard.vue" timestamp="1591768555621">
         <mark key="[" line="61" column="15" />
@@ -227,11 +221,6 @@
       <file name="E:/jxgh5/src/router/index.ts" timestamp="1591789233773" />
     </filemarks>
     <jumps>
-      <jump line="7" column="2" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="77" column="7" filename="E:/jxgwxapp/src/api/api.ts" />
-      <jump line="71" column="17" filename="E:/jxgwxapp/src/api/api.ts" />
-      <jump line="547" column="27" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
-      <jump line="438" column="38" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="543" column="53" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="437" column="60" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
       <jump line="421" column="11" filename="E:/video/weixin_platform/train/app/User/View/Java/wait_info.html" />
@@ -327,36 +316,41 @@
       <jump line="661" column="42" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
       <jump line="1020" column="26" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
       <jump line="444" column="48" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="1361" column="0" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
+      <jump line="1268" column="80" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
+      <jump line="1133" column="14" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
+      <jump line="1142" column="0" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
+      <jump line="174" column="20" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>{AppVersionh5test&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KDEyMyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{AppVersionh5test&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>created</text>
+        <text>video</text>
       </register>
       <register name="0" type="4">
         <text>this.$route.query.origins</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnNbIkFwcFBhcmFtZXRlciJdID0gIkFwcFZlcnNpb25oNXRlc3QiOwo=</text>
+        <text encoding="base64">ICAgIGFsZXJ0KDEyMyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzIxMzEyMywgcGFyYW0pOwo=</text>
+        <text encoding="base64">ICAgIGhlYWRlcnNbIkFwcFBhcmFtZXRlciJdID0gIkFwcFZlcnNpb25oNXRlc3QiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChwYXJhbS5hY3RpKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzIxMzEyMywgcGFyYW0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgIGlmIChwYXJhbS5hY3RpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyMjIpOwo=</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyMjIpOwo=</text>
@@ -365,18 +359,18 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyMjIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMTExMTExMTExMSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyMjIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMTExMTExMTExMSk7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>created</last-search>
+      <last-search>video</last-search>
       <last-offset />
-      <last-pattern>created</last-pattern>
+      <last-pattern>video</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
