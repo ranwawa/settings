@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>proxy</entry>
         <entry>goPay</entry>
         <entry>加入购物车</entry>
         <entry>goodsTool</entry>
@@ -25,6 +24,7 @@
         <entry>ajax</entry>
         <entry>aysnc: true</entry>
         <entry>async: false</entry>
+        <entry>验证码</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -163,8 +163,18 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591798907025">
-        <mark key="'" line="0" column="0" />
+      <file name="E:/jxgwxapp/src/api/requestModel.ts" timestamp="1591800778728">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="32" column="28" />
+      </file>
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591800750685">
+        <mark key="'" line="63" column="16" />
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+        <mark key="." line="23" column="19" />
       </file>
       <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1591780915198">
         <mark key="[" line="90" column="52" />
@@ -173,11 +183,6 @@
         <mark key="." line="90" column="52" />
       </file>
       <file name="E:/video2/train/Public/train/user/live/js/vertical.js" timestamp="1591799829680" />
-      <file name="E:/jxgh5/src/components/grass/goodsCard.vue" timestamp="1591768075613">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="E:/video2/train/vertical.js" timestamp="1591799291169" />
       <file name="E:/jxgh5/src/components/goodsList/goodsTool.vue" timestamp="1591789766001">
         <mark key="'" line="42" column="12" />
@@ -213,8 +218,6 @@
       <file name="E:/jxgh5/src/router/index.ts" timestamp="1591789233773" />
     </filemarks>
     <jumps>
-      <jump line="42" column="23" filename="E:/video2/train/Public/train/product/css/base-player.css" />
-      <jump line="349" column="12" filename="E:/video2/train/Public/train/product/css/base-player.css" />
       <jump line="6658" column="26" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
       <jump line="6679" column="12" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
       <jump line="7213" column="3" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
@@ -313,18 +316,20 @@
       <jump line="1829" column="14" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
       <jump line="2009" column="10" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
       <jump line="2040" column="10" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
+      <jump line="24" column="20" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="63" column="16" filename="E:/jxgwxapp/src/pages/user/login.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>222</text>
+        <text>, LANG_TYPE.NUMBER</text>
       </register>
       <register name="-" type="4">
-        <text>222</text>
+        <text>, LANG_TYPE.NUMBER</text>
       </register>
       <register name="/" type="4">
-        <text>async: false</text>
+        <text>验证码</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0eXBlPSJudW1iZXIiCg==</text>
@@ -360,9 +365,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>async: false</last-search>
+      <last-search>验证码</last-search>
       <last-offset />
-      <last-pattern>async: false</last-pattern>
+      <last-pattern>验证码</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
