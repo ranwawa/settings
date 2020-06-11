@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>&quot;load&quot;</entry>
-        <entry>ajax</entry>
         <entry>get_resourse_type</entry>
         <entry>Vue</entry>
         <entry>ypos</entry>
@@ -25,6 +23,8 @@
         <entry>goods-card</entry>
         <entry>remark</entry>
         <entry>updateGoodR</entry>
+        <entry>售后单号</entry>
+        <entry>v-for</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,8 +119,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgh5/src/views/mine/orderDetail.vue" timestamp="1591887531566">
-        <mark key="." line="23" column="85" />
+      <file name="E:/jxgh5/src/views/mine/orderDetail.vue" timestamp="1591889155313">
+        <mark key="'" line="66" column="10" />
+        <mark key="[" line="217" column="14" />
+        <mark key="]" line="217" column="14" />
+        <mark key="." line="217" column="14" />
+        <mark key="^" line="93" column="63" />
       </file>
       <file name="E:/jxgwxapp/src/config.ts" timestamp="1591877410083">
         <mark key="[" line="24" column="35" />
@@ -163,7 +167,7 @@
       <file name="E:/video2/train/Public/train/user/live/js/vertical.js" timestamp="1591862055518">
         <mark key="'" line="6330" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591884210107">
+      <file name="/Dummy.txt" timestamp="1591888581849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" timestamp="1591875415797">
@@ -204,13 +208,9 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="E:/jxgh5/src/router/index.ts" timestamp="1591886041975" />
+      <file name="E:/jxgh5/src/router/index.ts" timestamp="1591887936330" />
     </filemarks>
     <jumps>
-      <jump line="2009" column="10" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="2040" column="10" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="24" column="20" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="63" column="16" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="1025" column="17" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
       <jump line="2304" column="40" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
       <jump line="1016" column="67" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
@@ -307,56 +307,64 @@
       <jump line="2" column="1" filename="E:/jxgh5/src/views/shareH5/buyNow/components/goodsCard.vue" />
       <jump line="876" column="0" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
       <jump line="0" column="0" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
+      <jump line="4" column="14" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="75" column="12" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="70" column="13" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="66" column="10" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>[&quot;skuCode&quot;]</text>
+        <text>, Getter, Action, Mutation</text>
       </register>
       <register name="-" type="4">
-        <text>[&quot;skuCode&quot;]</text>
+        <text>, Getter, Action, Mutation</text>
       </register>
       <register name="/" type="4">
-        <text>updateGoodR</text>
+        <text>v-for</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGdvb2RzTGlzdHNbaV1bInNrdUNvZGUiXSA9IHZhbFsic2VsZWN0ZWRTa3VDb21iIl1bInNrdUNvZGUiXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5idXlHb29kc0xpc3RBcnIpOwo=</text>
+        <text encoding="base64">ICBXYXRjaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5mcm9tVHlwZSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0pOwo=</text>
+      <register name="3" type="4">
+        <text>Emit,
+  Inject,
+  Model,
+  Prop,
+  Provide,</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZGV4LCB2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZhbi1jZWxsPgogICAgICAgICAgICAgIAogICAgICAgICAgICA8L3Zhbi1jZWxsPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5idXlHb29kc0xpc3RBcnIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5mcm9tVHlwZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfWJ1eUdvb2RzTGlzdEFycgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0eXBlOgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZGV4LCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>updateGoodR</last-search>
+      <last-search>v-for</last-search>
       <last-offset />
-      <last-pattern>updateGoodR</last-pattern>
+      <last-pattern>v-for</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
