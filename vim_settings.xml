@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>预约</entry>
-        <entry>confirm</entry>
-        <entry>caretd</entry>
         <entry>slice</entry>
         <entry>video</entry>
         <entry>field</entry>
@@ -25,6 +22,9 @@
         <entry>ajax</entry>
         <entry>get_resourse_type</entry>
         <entry>Vue</entry>
+        <entry>ypos</entry>
+        <entry>scaleRate</entry>
+        <entry>offsetX</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -171,12 +171,12 @@
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="31" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" timestamp="1591851466772">
-        <mark key="'" line="109" column="13" />
-        <mark key="[" line="71" column="11" />
-        <mark key="]" line="71" column="11" />
-        <mark key="." line="71" column="11" />
-        <mark key="^" line="25" column="25" />
+      <file name="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" timestamp="1591855971890">
+        <mark key="'" line="107" column="36" />
+        <mark key="[" line="107" column="25" />
+        <mark key="]" line="107" column="25" />
+        <mark key="^" line="153" column="18" />
+        <mark key="." line="107" column="25" />
       </file>
       <file name="E:/video2/train/app/User/View/Java/index.html" timestamp="1591839406300">
         <mark key="'" line="21" column="16" />
@@ -205,14 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="923" column="15" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
-      <jump line="0" column="0" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
-      <jump line="339" column="15" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
-      <jump line="496" column="68" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
-      <jump line="800" column="25" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
-      <jump line="819" column="8" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
-      <jump line="827" column="0" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
-      <jump line="846" column="6" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
       <jump line="952" column="14" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
       <jump line="962" column="16" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
       <jump line="975" column="6" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
@@ -305,56 +297,64 @@
       <jump line="141" column="29" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="92" column="13" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
       <jump line="63" column="0" filename="E:/jxgwxapp/src/pages.json" />
+      <jump line="71" column="13" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
+      <jump line="91" column="26" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
+      <jump line="101" column="15" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
+      <jump line="28" column="25" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
+      <jump line="89" column="26" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
+      <jump line="70" column="2" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
+      <jump line="106" column="12" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
+      <jump line="107" column="36" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>Vue</text>
+        <text>offsetX</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IGAke3NyY0ltYWdlV2lkdGh9cHhgLAo=</text>
+        <text encoding="base64">ICBnZXQgeFBvc2l0aW9uICgpIHsKICAgICAgcmV0dXJuIHRoaXMuY2FwdGNoT2JqLnhwb3NpdGlvbjsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAmX19vcmlnaW4ge30K</text>
+        <text encoding="base64">ICAgIGV2ID0gZXYgfHwgZXZlbnQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yaWdodDogOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1c3RvbS1zdHlsZT0iZGlzcGxheTogZmxleDsgYWxpZ24taXRlbTogZmxleC1lbmQ7IHdpZHRoOiA0ZW07IHRleHQtYWxpZ246IHJpZ2h0OyIK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAvLyDQoc28tdjWtwogIGdldCBjdXRJbWFnZSgpIHsKICAgIHJldHVybiB0aGlzLmNhcHRjaE9iai5jdXRJbWFnZTsKICB9CiA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1c3QK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC92aWV3Pgo=</text>
+        <text encoding="base64">ICBvZmZzZXRYID0gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2coZXJyLCBkYXRhKTsKICAgIGlmIChyZXMuc3RhdHVzID09PSAyMDAgJiYgcmVzLmRhdGEuZXJyb3JfY29kZSA9PT0gMCkgewogICAgICB0aGlzLmNhcHRjaE9iaiA9IHJlcy5kYXRhLmRhdGE7CiAgICAgIHRoaXMuJHJlZnMuY2FwdGNoYURpYWxvZy5pc1Nob3cgPSB0cnVlOwogICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH1weGA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy55UG9zaXRpb24gLyAoKQo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Vue</last-search>
+      <last-search>offsetX</last-search>
       <last-offset />
-      <last-pattern>Vue</last-pattern>
+      <last-pattern>offsetX</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
