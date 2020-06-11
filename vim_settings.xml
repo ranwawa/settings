@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>field</entry>
-        <entry>props</entry>
-        <entry>created</entry>
         <entry>aysnc: true</entry>
         <entry>async: false</entry>
         <entry>验证码</entry>
@@ -25,6 +22,9 @@
         <entry>touchStart</entry>
         <entry>touchstart</entry>
         <entry>console.log</entry>
+        <entry>showModal</entry>
+        <entry>log</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,8 +119,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591837145801">
-        <mark key="[" line="3" column="2" />
+      <file name="/Dummy.txt" timestamp="1591878006865">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/project/learning-react/src/lifecircleComponent.jsx" timestamp="1591837105765">
         <mark key="'" line="22" column="0" />
@@ -140,11 +140,11 @@
         <mark key="." line="14" column="49" />
         <mark key="^" line="14" column="50" />
       </file>
-      <file name="E:/jxgwxapp/src/config.ts" timestamp="1591799138950">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="29" />
+      <file name="E:/jxgwxapp/src/config.ts" timestamp="1591877410083">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="51" />
+        <mark key="^" line="24" column="51" />
+        <mark key="." line="24" column="50" />
       </file>
       <file name="/a.dummy" timestamp="1591835120950">
         <mark key="[" line="0" column="1" />
@@ -161,11 +161,12 @@
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1591875002803">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="94" column="45" />
+      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1591878292767">
+        <mark key="'" line="67" column="29" />
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="7" />
       </file>
       <file name="E:/jxgwxapp/node_modules/uni-vant/lib/field.vue" timestamp="1591798944536">
         <mark key="'" line="0" column="0" />
@@ -173,7 +174,7 @@
       <file name="E:/jxgwxapp/src/pages.json" timestamp="1591845024073">
         <mark key="'" line="63" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1591876050515">
+      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1591876141982">
         <mark key="[" line="9" column="46" />
       </file>
       <file name="E:/jxgwxapp/src/api/requestModel.ts" timestamp="1591876073154">
@@ -189,13 +190,25 @@
         <mark key="." line="2311" column="0" />
         <mark key="^" line="2313" column="25" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591875728618">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="43" />
-        <mark key="." line="192" column="0" />
+      <file name="E:/jxgwxapp/src/App.vue" timestamp="1591877340765">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="23" />
+      </file>
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591878003711">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="E:/video2/train/Public/train/user/live/js/vertical.js" timestamp="1591862055518">
         <mark key="'" line="6330" column="14" />
+      </file>
+      <file name="E:/jxgwxapp/src/assets/constant/lang.ts" timestamp="1591878354613">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="21" />
       </file>
       <file name="C:/project/learning-react/src/app.jsx" timestamp="1591837024942">
         <mark key="[" line="10" column="0" />
@@ -205,16 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1601" column="3" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="2136" column="76" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
-      <jump line="2518" column="12" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
-      <jump line="0" column="0" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
-      <jump line="13" column="30" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
-      <jump line="419" column="46" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
-      <jump line="433" column="12" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
-      <jump line="640" column="10" filename="E:/video2/train/app/User/View/Java/wait_info.html" />
-      <jump line="661" column="42" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
-      <jump line="1020" column="26" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
       <jump line="444" column="48" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
       <jump line="1361" column="0" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
       <jump line="1268" column="80" filename="E:/video2/train/app/User/View/Live/live_vertical.html" />
@@ -305,60 +308,66 @@
       <jump line="176" column="11" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="188" column="4" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="122" column="4" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="9" column="15" filename="E:/jxgwxapp/src/App.vue" />
+      <jump line="49" column="0" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="53" column="6" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="9" column="9" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="10" column="6" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="61" column="0" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="8" column="36" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="42" column="6" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="57" column="18" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="67" column="29" filename="E:/jxgwxapp/src/api/api.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>isShow = false</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>token</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmNvZGVCdG5UZXh0ID0gYCgke3RpbWV9cym689bYt6JgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5pc1Nob3dWZXJpZnlJbWFnZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICBsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0Q291bnREb3duKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY29udGVudFR5cGUgfSBmcm9tICIuL2NvbnRlbnRUeXBlIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>const [err] = await userApi.sendCode({ phone });
-    if (!err) {
-      uni.showToast({ title: &quot;短信发送成功&quot;, icon: &quot;none&quot; });
-      this.setCountDown();
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0VmVyaWZ5SW1hZ2VzKCk7Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBoZWFkZXJzWyJibGFkZS1hdXRoIl07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHQK</text>
+        <text encoding="base64">ICBpZiAoID09IDApIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpc1Nob3cgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICBsZXQgbG9nID0gMDsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>console.log</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
