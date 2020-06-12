@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>touchStart</entry>
-        <entry>touchstart</entry>
-        <entry>console.log</entry>
         <entry>showModal</entry>
         <entry>log</entry>
         <entry>token</entry>
@@ -25,6 +22,9 @@
         <entry>v-for</entry>
         <entry>created</entry>
         <entry>toPay</entry>
+        <entry>money</entry>
+        <entry>article</entry>
+        <entry>margin-bottom</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,15 +119,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591925675429">
+      <file name="/Dummy.txt" timestamp="1591928209543">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
-      <file name="E:/jxgh5/src/views/mine/orderDetail.vue" timestamp="1591926225175">
-        <mark key="'" line="65" column="29" />
-        <mark key="[" line="91" column="14" />
-        <mark key="]" line="65" column="30" />
-        <mark key="." line="65" column="29" />
-        <mark key="^" line="65" column="30" />
+      <file name="E:/jxgh5/src/views/mine/orderDetail.vue" timestamp="1591928093164">
+        <mark key="'" line="722" column="6" />
+        <mark key="[" line="731" column="25" />
+        <mark key="]" line="731" column="30" />
+        <mark key="." line="731" column="29" />
+        <mark key="^" line="731" column="30" />
       </file>
       <file name="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" timestamp="1591875415797">
         <mark key="'" line="15" column="12" />
@@ -142,11 +144,11 @@
         <mark key="^" line="24" column="51" />
         <mark key="." line="24" column="50" />
       </file>
-      <file name="E:/jxgh5/src/api/api.ts" timestamp="1591926428817">
+      <file name="E:/jxgh5/src/api/api.ts" timestamp="1591928206017">
         <mark key="'" line="81" column="11" />
-        <mark key="[" line="96" column="134" />
-        <mark key="]" line="96" column="135" />
-        <mark key="." line="96" column="134" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
         <mark key="^" line="96" column="45" />
       </file>
       <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1591883958066">
@@ -157,6 +159,7 @@
         <mark key="^" line="121" column="38" />
       </file>
       <file name="E:/jxgh5/src/api/interface.ts" timestamp="1591926329737" />
+      <file name="/commonData.ts" timestamp="1591928503880" />
       <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1591883815491">
         <mark key="[" line="75" column="12" />
         <mark key="]" line="75" column="13" />
@@ -169,12 +172,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="43" column="37" />
       </file>
-      <file name="E:/video2/train/app/User/View/Live/live_vertical.html" timestamp="1591862000492">
+      <file name="E:/video2/train/app/User/View/Live/live_vertical.html" timestamp="1591928633497">
         <mark key="'" line="1176" column="62" />
-        <mark key="[" line="2311" column="0" />
-        <mark key="]" line="2311" column="0" />
-        <mark key="." line="2311" column="0" />
-        <mark key="^" line="2313" column="25" />
+        <mark key="[" line="2305" column="81" />
+        <mark key="]" line="2305" column="39" />
+        <mark key="." line="2305" column="38" />
+        <mark key="^" line="2305" column="39" />
       </file>
       <file name="E:/jxgwxapp/src/App.vue" timestamp="1591877340765">
         <mark key="[" line="11" column="20" />
@@ -215,25 +218,9 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
+      <file name="E:/jxgh5/src/router/index.ts" timestamp="1591926818271" />
     </filemarks>
     <jumps>
-      <jump line="3930" column="6" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="4095" column="6" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="4189" column="6" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="4273" column="6" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="4403" column="6" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="4451" column="8" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="4560" column="32" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="4728" column="10" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="4918" column="7" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="4993" column="4" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="5046" column="12" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="5114" column="6" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="5115" column="7" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="5338" column="5" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="1775" column="47" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="1748" column="31" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="1999" column="28" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
       <jump line="2033" column="26" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
       <jump line="5387" column="24" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
       <jump line="5538" column="11" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
@@ -317,65 +304,73 @@
       <jump line="65" column="29" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
       <jump line="586" column="33" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
       <jump line="91" column="26" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
+      <jump line="845" column="28" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="109" column="44" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="731" column="20" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="791" column="6" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="44" column="24" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="45" column="24" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="46" column="30" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="49" column="16" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="50" column="53" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="52" column="16" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="110" column="13" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="113" column="14" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="505" column="6" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="548" column="6" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="571" column="12" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="641" column="14" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="722" column="6" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
-        <text>toPay</text>
+        <text>margin-bottom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdvb2RzTGlzdHNbaV1bInNrdUNvZGUiXSA9IHZhbFsic2VsZWN0ZWRTa3VDb21iIl1bInNrdUNvZGUiXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJnb29kLXJlbWFya19fbGFiZWwiPrG416I8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTEsIGVycik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoZWFkZXJzWyJBcHBQYXJhbWV0ZXIiXSA9IHsiQXBwVmVyc2lvbiI6IjEuMy41IiwiUGhvbmVNb2RlbCI6ImlQaG9uZV84X1BsdXMiLCJQbGF0Zm9ybSI6ImlPUyIsIlBob25lU3lzdGVtIjoiMTMuMyJ9Owo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygyMjIyMiwgcm9vdCwgdXJsKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>JSON.stringify({
-    AppVersion: &quot;1.4.1&quot;,
-    PhoneModel: &quot;iPhone7Plus&quot;,
-    Platform: &quot;ios&quot;,
-    PhoneSystem: &quot;13.5.1&quot;,
-  })</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">ICAgIGZnMSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGRrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKHRoaXMub3JkZXJJZCkgewogICAgICBhbGVydCh0aGlzLm9yZGVySWQpOwogICAgICByZXR1cm47CiAgICB9</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBXYXRjaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgaXRlbVsicmVtYXJrIl0gfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Emit,
-  Inject,
-  Model,
-  Prop,
-  Provide,</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>toPay</last-search>
+      <last-search>margin-bottom</last-search>
       <last-offset />
-      <last-pattern>toPay</last-pattern>
+      <last-pattern>margin-bottom</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
