@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591923363006">
+      <file name="/Dummy.txt" timestamp="1591925645119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgh5/src/views/mine/orderDetail.vue" timestamp="1591923941820">
@@ -142,8 +142,12 @@
         <mark key="^" line="24" column="51" />
         <mark key="." line="24" column="50" />
       </file>
-      <file name="E:/jxgh5/src/api/api.ts" timestamp="1591923962764">
+      <file name="E:/jxgh5/src/api/api.ts" timestamp="1591925669042">
         <mark key="'" line="81" column="11" />
+        <mark key="[" line="95" column="28" />
+        <mark key="]" line="95" column="117" />
+        <mark key="." line="95" column="116" />
+        <mark key="^" line="95" column="117" />
       </file>
       <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1591883958066">
         <mark key="'" line="96" column="8" />
@@ -316,11 +320,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;{\&quot;AppVersion\&quot;:\&quot;1.4.1\&quot;,\&quot;PhoneModel\&quot;:\&quot;iPhone7Plus\&quot;,\&quot;Platform\&quot;:\&quot;ios\&quot;,\&quot;PhoneSystem\&quot;:\&quot;13.5.1\&quot;}&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>, Getter, Action, Mutation</text>
+        <text>&quot;{\&quot;AppVersion\&quot;:\&quot;1.4.1\&quot;,\&quot;PhoneModel\&quot;:\&quot;iPhone7Plus\&quot;,\&quot;Platform\&quot;:\&quot;ios\&quot;,\&quot;PhoneSystem\&quot;:\&quot;13.5.1\&quot;}&quot;</text>
       </register>
       <register name="/" type="4">
         <text>v-for</text>
@@ -328,36 +332,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGdvb2RzTGlzdHNbaV1bInNrdUNvZGUiXSA9IHZhbFsic2VsZWN0ZWRTa3VDb21iIl1bInNrdUNvZGUiXTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+      <register name="1" type="4">
+        <text>JSON.stringify({
+    AppVersion: &quot;1.4.1&quot;,
+    PhoneModel: &quot;iPhone7Plus&quot;,
+    Platform: &quot;ios&quot;,
+    PhoneSystem: &quot;13.5.1&quot;,
+  })</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKHRoaXMub3JkZXJJZCkgewogICAgICBhbGVydCh0aGlzLm9yZGVySWQpOwogICAgICByZXR1cm47CiAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBXYXRjaAo=</text>
+        <text encoding="base64">ICAgIGlmKHRoaXMub3JkZXJJZCkgewogICAgICBhbGVydCh0aGlzLm9yZGVySWQpOwogICAgICByZXR1cm47CiAgICB9</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBXYXRjaAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Emit,
   Inject,
   Model,
   Prop,
   Provide,</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHZhbi1jZWxsPgogICAgICAgICAgICAgIAogICAgICAgICAgICA8L3Zhbi1jZWxsPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5idXlHb29kc0xpc3RBcnIpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5mcm9tVHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5idXlHb29kc0xpc3RBcnIpOwo=</text>
       </register>
     </registers>
   </component>
