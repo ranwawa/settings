@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>token</entry>
         <entry>switch</entry>
         <entry>去支付</entry>
         <entry>去</entry>
@@ -25,6 +24,7 @@
         <entry>margin-bottom</entry>
         <entry>500</entry>
         <entry>500毫秒</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -157,10 +157,11 @@
         <mark key="." line="173" column="0" />
         <mark key="^" line="96" column="45" />
       </file>
-      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1591943642723">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1591944277043">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1591932682445">
         <mark key="[" line="81" column="16" />
@@ -194,11 +195,11 @@
         <mark key="^" line="61" column="21" />
         <mark key="." line="61" column="20" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591943630847">
-        <mark key="[" line="167" column="41" />
-        <mark key="]" line="167" column="42" />
-        <mark key="." line="167" column="41" />
-        <mark key="^" line="167" column="42" />
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1591944389966">
+        <mark key="[" line="167" column="7" />
+        <mark key="]" line="168" column="27" />
+        <mark key="." line="168" column="26" />
+        <mark key="^" line="168" column="27" />
       </file>
       <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1591926255635">
         <mark key="'" line="91" column="26" />
@@ -253,7 +254,6 @@
       <jump line="9" column="9" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="10" column="6" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="61" column="0" filename="E:/jxgwxapp/src/api/api.ts" />
-      <jump line="8" column="36" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="42" column="6" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="57" column="18" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="67" column="29" filename="E:/jxgwxapp/src/api/api.ts" />
@@ -324,56 +324,57 @@
       <jump line="89" column="0" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="5" column="0" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="24" column="43" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="8" column="0" filename="E:/jxgwxapp/src/api/api.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>500毫秒</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="4">
         <text>vm.liveGoodsTimer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBCT09MRUFOID0gImJvb2xlYW4iLAo=</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoXy5pc09iamVjdChkYXRhW2tleV0pKSB7CiAgICAgICAgICBjbGVhblJlc3BvbnNlRGF0YSgpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhoZWFkZXJzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBCT09MRUFOID0gImJvb2xlYW4iLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoXy5pc09iamVjdChkYXRhW2tleV0pKSBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoXy5pc09iamVjdChkYXRhW2tleV0pKSB7CiAgICAgICAgICBjbGVhblJlc3BvbnNlRGF0YSgpCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW51bSBMQU5HX09SSUdJTl9UWVBFIHsKICBPQkpFQ1QgPSAiW29iamVjdCBPYmplY3QiLAogIEFSUkFZID0gIltvYmplY3QgQXJyYXldIgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogMCwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLi4udGhpcy5TTVNGb3JtLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoXy5pc09iamVjdChkYXRhW2tleV0pKSBicmVhazsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>500毫秒</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>500毫秒</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
