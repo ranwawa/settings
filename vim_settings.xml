@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>offsetX</entry>
         <entry>touchStart</entry>
         <entry>touchstart</entry>
         <entry>console.log</entry>
@@ -21,10 +20,11 @@
         <entry>updateGoodR</entry>
         <entry>售后单号</entry>
         <entry>item[</entry>
-        <entry>created</entry>
         <entry>get</entry>
         <entry>headers</entry>
         <entry>v-for</entry>
+        <entry>created</entry>
+        <entry>toPay</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,15 +119,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591925645119">
+      <file name="/Dummy.txt" timestamp="1591925675429">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/jxgh5/src/views/mine/orderDetail.vue" timestamp="1591923941820">
-        <mark key="'" line="3" column="31" />
+      <file name="E:/jxgh5/src/views/mine/orderDetail.vue" timestamp="1591926225175">
+        <mark key="'" line="65" column="29" />
         <mark key="[" line="91" column="14" />
-        <mark key="]" line="92" column="28" />
-        <mark key="." line="92" column="27" />
-        <mark key="^" line="92" column="28" />
+        <mark key="]" line="65" column="30" />
+        <mark key="." line="65" column="29" />
+        <mark key="^" line="65" column="30" />
       </file>
       <file name="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" timestamp="1591875415797">
         <mark key="'" line="15" column="12" />
@@ -142,12 +142,12 @@
         <mark key="^" line="24" column="51" />
         <mark key="." line="24" column="50" />
       </file>
-      <file name="E:/jxgh5/src/api/api.ts" timestamp="1591925669042">
+      <file name="E:/jxgh5/src/api/api.ts" timestamp="1591926428817">
         <mark key="'" line="81" column="11" />
-        <mark key="[" line="95" column="28" />
-        <mark key="]" line="95" column="117" />
-        <mark key="." line="95" column="116" />
-        <mark key="^" line="95" column="117" />
+        <mark key="[" line="96" column="134" />
+        <mark key="]" line="96" column="135" />
+        <mark key="." line="96" column="134" />
+        <mark key="^" line="96" column="45" />
       </file>
       <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1591883958066">
         <mark key="'" line="96" column="8" />
@@ -156,6 +156,7 @@
         <mark key="." line="121" column="37" />
         <mark key="^" line="121" column="38" />
       </file>
+      <file name="E:/jxgh5/src/api/interface.ts" timestamp="1591926329737" />
       <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1591883815491">
         <mark key="[" line="75" column="12" />
         <mark key="]" line="75" column="13" />
@@ -194,8 +195,8 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="170" column="6" />
       </file>
-      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1591885885507">
-        <mark key="'" line="0" column="0" />
+      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1591926255635">
+        <mark key="'" line="91" column="26" />
         <mark key="[" line="599" column="49" />
         <mark key="]" line="599" column="49" />
         <mark key="." line="599" column="49" />
@@ -216,9 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3534" column="7" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="3769" column="6" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
-      <jump line="3838" column="11" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
       <jump line="3930" column="6" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
       <jump line="4095" column="6" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
       <jump line="4189" column="6" filename="E:/video2/train/Public/train/user/live/js/vertical.js" />
@@ -316,23 +314,32 @@
       <jump line="75" column="6" filename="E:/jxgh5/src/api/api.ts" />
       <jump line="81" column="11" filename="E:/jxgh5/src/api/api.ts" />
       <jump line="3" column="31" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="65" column="29" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="586" column="33" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
+      <jump line="91" column="26" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;{\&quot;AppVersion\&quot;:\&quot;1.4.1\&quot;,\&quot;PhoneModel\&quot;:\&quot;iPhone7Plus\&quot;,\&quot;Platform\&quot;:\&quot;ios\&quot;,\&quot;PhoneSystem\&quot;:\&quot;13.5.1\&quot;}&quot;</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;{\&quot;AppVersion\&quot;:\&quot;1.4.1\&quot;,\&quot;PhoneModel\&quot;:\&quot;iPhone7Plus\&quot;,\&quot;Platform\&quot;:\&quot;ios\&quot;,\&quot;PhoneSystem\&quot;:\&quot;13.5.1\&quot;}&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>v-for</text>
+        <text>toPay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGdvb2RzTGlzdHNbaV1bInNrdUNvZGUiXSA9IHZhbFsic2VsZWN0ZWRTa3VDb21iIl1bInNrdUNvZGUiXTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBoZWFkZXJzWyJBcHBQYXJhbWV0ZXIiXSA9IHsiQXBwVmVyc2lvbiI6IjEuMy41IiwiUGhvbmVNb2RlbCI6ImlQaG9uZV84X1BsdXMiLCJQbGF0Zm9ybSI6ImlPUyIsIlBob25lU3lzdGVtIjoiMTMuMyJ9Owo=</text>
+      </register>
+      <register name="3" type="4">
         <text>JSON.stringify({
     AppVersion: &quot;1.4.1&quot;,
     PhoneModel: &quot;iPhone7Plus&quot;,
@@ -340,41 +347,35 @@
     PhoneSystem: &quot;13.5.1&quot;,
   })</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGlmKHRoaXMub3JkZXJJZCkgewogICAgICBhbGVydCh0aGlzLm9yZGVySWQpOwogICAgICByZXR1cm47CiAgICB9</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBXYXRjaAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>Emit,
   Inject,
   Model,
   Prop,
   Provide,</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZhbi1jZWxsPgogICAgICAgICAgICAgIAogICAgICAgICAgICA8L3Zhbi1jZWxsPgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5idXlHb29kc0xpc3RBcnIpOwo=</text>
-      </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>v-for</last-search>
+      <last-search>toPay</last-search>
       <last-offset />
-      <last-pattern>v-for</last-pattern>
+      <last-pattern>toPay</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
