@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>参数</entry>
-        <entry>show</entry>
         <entry>display</entry>
         <entry>color</entry>
         <entry>background</entry>
@@ -25,6 +23,8 @@
         <entry>rww-sass</entry>
         <entry>lint</entry>
         <entry>dev:h5</entry>
+        <entry>anytype</entry>
+        <entry>any</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,32 +119,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592191253226">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
       <file name="C:/project/vant-weapp/packages/skeleton/index.less" timestamp="1592200158092">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
       </file>
-      <file name="C:/project/uni-vant/src/components/result.vue" timestamp="1592193365974">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="22" />
-      </file>
-      <file name="E:/jxgwxapp/tsconfig.json" timestamp="1592204016285">
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="38" column="35" />
-        <mark key="." line="38" column="35" />
-        <mark key="^" line="38" column="46" />
+      <file name="E:/jxgwxapp/tsconfig.json" timestamp="1592204179167">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="39" column="46" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="E:/jxgwxapp/tslint.config.js" timestamp="1592203280161">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="28" />
+      </file>
+      <file name="E:/jxgh5/tsconfig.json" timestamp="1592204118598">
+        <mark key="'" line="11" column="12" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="27" />
       </file>
       <file name="E:/jxgwxapp/src/assets/scss/index.scss" timestamp="1592202678459">
         <mark key="'" line="5" column="44" />
@@ -160,9 +155,23 @@
         <mark key="." line="166" column="2" />
         <mark key="^" line="166" column="3" />
       </file>
+      <file name="E:/jxgwxapp/src/pages/index/index.vue" timestamp="1592204340301">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="62" column="16" />
+        <mark key="]" line="62" column="22" />
+        <mark key="^" line="62" column="23" />
+        <mark key="." line="62" column="22" />
+      </file>
       <file name="C:/project/uni-vant/src/pages/result.vue" timestamp="1592199727216">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="47" />
+      </file>
+      <file name="E:/jxgwxapp/src/live/pages/liveroom.vue" timestamp="1592204299879">
+        <mark key="'" line="373" column="13" />
+        <mark key="[" line="372" column="13" />
+        <mark key="]" line="372" column="22" />
+        <mark key="^" line="372" column="23" />
+        <mark key="." line="372" column="22" />
       </file>
       <file name="E:/jxgwxapp/vue.config.js" timestamp="1592203270927">
         <mark key="[" line="7" column="0" />
@@ -184,6 +193,12 @@
         <mark key="]" line="13" column="31" />
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="31" />
+      </file>
+      <file name="E:/jxgwxapp/src/util/basicSet.ts" timestamp="1592204403172">
+        <mark key="[" line="561" column="11" />
+        <mark key="]" line="561" column="18" />
+        <mark key="^" line="561" column="18" />
+        <mark key="." line="561" column="17" />
       </file>
       <file name="E:/jxgwxapp/package.json" timestamp="1592203810593">
         <mark key="'" line="5" column="22" />
@@ -207,10 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="29" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
-      <jump line="586" column="33" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
-      <jump line="91" column="26" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
-      <jump line="845" column="28" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
       <jump line="109" column="44" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
       <jump line="731" column="20" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
       <jump line="791" column="6" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
@@ -307,56 +318,60 @@
       <jump line="85" column="5" filename="E:/jxgwxapp/package.json" />
       <jump line="21" column="25" filename="E:/jxgwxapp/package.json" />
       <jump line="5" column="22" filename="E:/jxgwxapp/package.json" />
+      <jump line="11" column="12" filename="E:/jxgh5/tsconfig.json" />
+      <jump line="0" column="0" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
+      <jump line="373" column="13" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
+      <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/index/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/src/app.ts</text>
+        <text>: any[]</text>
       </register>
       <register name="-" type="4">
-        <text>/src/app.ts</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dev:h5</text>
+        <text>any</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
+      <register name="0" type="4">
+        <text>: any[]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAibm9JbXBsaWNpdEFueSI6IGZhbHNlLAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3IK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiZGVmYXVsdFNldmVyaXR5IjogIm5vbmUiLAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3IK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAiZGVmYXVsdFNldmVyaXR5IjogIm5vbmUiLAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbWUobWFyZ2luLXRvcCwgJ0Bza2VsZXRvbi1yb3ctbWFyZ2luLXRvcCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW1lKGhlaWdodCwgJ0Bza2VsZXRvbi1yb3ctaGVpZ2h0Jyk7CiAgICAgIC50aGVtZShiYWNrZ3JvdW5kLWNvbG9yLCAnQHNrZWxldG9uLXJvdy1iYWNrZ3JvdW5kLWNvbG9yJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbWUobWFyZ2luLXRvcCwgJ0Bza2VsZXRvbi1yb3ctbWFyZ2luLXRvcCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW1lKHBhZGRpbmctdG9wLCAnQHBhZGRpbmcteHMnKTsK</text>
+        <text encoding="base64">ICAgICAgLnRoZW1lKGhlaWdodCwgJ0Bza2VsZXRvbi1yb3ctaGVpZ2h0Jyk7CiAgICAgIC50aGVtZShiYWNrZ3JvdW5kLWNvbG9yLCAnQHNrZWxldG9uLXJvdy1iYWNrZ3JvdW5kLWNvbG9yJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgLnRoZW1lKHBhZGRpbmctdG9wLCAnQHBhZGRpbmcteHMnKTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>dev:h5</last-search>
+      <last-search>any</last-search>
       <last-offset />
-      <last-pattern>dev:h5</last-pattern>
+      <last-pattern>any</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
