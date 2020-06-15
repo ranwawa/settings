@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>#333</entry>
-        <entry>:after</entry>
         <entry>参数</entry>
         <entry>show</entry>
         <entry>display</entry>
@@ -25,6 +23,8 @@
         <entry>$design</entry>
         <entry>深空灰</entry>
         <entry>rww-sass</entry>
+        <entry>lint</entry>
+        <entry>dev:h5</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,39 +119,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgwxapp/node_modules/rww-sass/lib/_size.scss" timestamp="1592202605148" />
-      <file name="E:/jxgwxapp/tslint.config.js" timestamp="1592203280161">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="1" column="28" />
-      </file>
-      <file name="E:/jxgwxapp/src/assets/scss/index.scss" timestamp="1592202678459">
-        <mark key="'" line="5" column="44" />
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="18" />
-      </file>
-      <file name="C:/project/uni-vant/src/pages/result.vue" timestamp="1592199727216">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="47" />
-      </file>
-      <file name="C:/project/uni-vant/src/components/sass/_variables.scss" timestamp="1592200204731">
-        <mark key="'" line="12" column="22" />
-        <mark key="[" line="204" column="22" />
-        <mark key="]" line="204" column="31" />
-        <mark key="^" line="204" column="31" />
-        <mark key="." line="204" column="30" />
-      </file>
-      <file name="C:/project/vant-weapp/lib/skeleton/index.wxml" timestamp="1592191912401" />
-      <file name="C:/project/vant-weapp/lib/skeleton/index.wxss" timestamp="1592200005385" />
-      <file name="E:/jxgwxapp/package.json" timestamp="1592202918237">
-        <mark key="'" line="85" column="5" />
-        <mark key="[" line="85" column="5" />
-        <mark key="]" line="85" column="6" />
-        <mark key="." line="85" column="6" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592191253226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -167,12 +134,24 @@
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="22" />
       </file>
-      <file name="C:/project/vant-weapp/packages/common/style/var.less" timestamp="1592200210545" />
-      <file name="E:/jxgwxapp/tsconfig.json" timestamp="1592203147582">
-        <mark key="[" line="37" column="24" />
-        <mark key="]" line="38" column="46" />
-        <mark key="." line="38" column="45" />
+      <file name="E:/jxgwxapp/tsconfig.json" timestamp="1592204016285">
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="38" column="35" />
+        <mark key="." line="38" column="35" />
         <mark key="^" line="38" column="46" />
+      </file>
+      <file name="E:/jxgwxapp/tslint.config.js" timestamp="1592203280161">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="28" />
+      </file>
+      <file name="E:/jxgwxapp/src/assets/scss/index.scss" timestamp="1592202678459">
+        <mark key="'" line="5" column="44" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="18" />
       </file>
       <file name="C:/project/uni-vant/src/components/skeleton.vue" timestamp="1592200429960">
         <mark key="'" line="91" column="23" />
@@ -181,10 +160,20 @@
         <mark key="." line="166" column="2" />
         <mark key="^" line="166" column="3" />
       </file>
-      <file name="E:/video2/train/app/User/View/Java/index.html" timestamp="1592192595222" />
+      <file name="C:/project/uni-vant/src/pages/result.vue" timestamp="1592199727216">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="47" />
+      </file>
       <file name="E:/jxgwxapp/vue.config.js" timestamp="1592203270927">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="18" />
+      </file>
+      <file name="C:/project/uni-vant/src/components/sass/_variables.scss" timestamp="1592200204731">
+        <mark key="'" line="12" column="22" />
+        <mark key="[" line="204" column="22" />
+        <mark key="]" line="204" column="31" />
+        <mark key="^" line="204" column="31" />
+        <mark key="." line="204" column="30" />
       </file>
       <file name="C:/project/uni-vant/src/components/popup.vue" timestamp="1592193384987">
         <mark key="'" line="30" column="9" />
@@ -195,6 +184,12 @@
         <mark key="]" line="13" column="31" />
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="31" />
+      </file>
+      <file name="E:/jxgwxapp/package.json" timestamp="1592203810593">
+        <mark key="'" line="5" column="22" />
+        <mark key="[" line="85" column="5" />
+        <mark key="]" line="85" column="6" />
+        <mark key="." line="85" column="6" />
       </file>
       <file name="C:/project/uni-vant/src/pages.json" timestamp="1592199678536">
         <mark key="'" line="0" column="0" />
@@ -212,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="31" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
       <jump line="65" column="29" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
       <jump line="586" column="33" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
       <jump line="91" column="26" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
@@ -309,21 +303,22 @@
       <jump line="48" column="56" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="54" column="50" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="58" column="50" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="5" column="29" filename="E:/jxgwxapp/package.json" />
       <jump line="84" column="28" filename="E:/jxgwxapp/package.json" />
       <jump line="85" column="5" filename="E:/jxgwxapp/package.json" />
+      <jump line="21" column="25" filename="E:/jxgwxapp/package.json" />
+      <jump line="5" column="22" filename="E:/jxgwxapp/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/src/app.ts</text>
       </register>
       <register name="-" type="4">
-        <text>750 / $design-width</text>
+        <text>/src/app.ts</text>
       </register>
       <register name="/" type="4">
-        <text>rww-sass</text>
+        <text>dev:h5</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
@@ -359,9 +354,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>rww-sass</last-search>
+      <last-search>dev:h5</last-search>
       <last-offset />
-      <last-pattern>rww-sass</last-pattern>
+      <last-pattern>dev:h5</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
