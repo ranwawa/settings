@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>created</entry>
         <entry>#333</entry>
         <entry>:after</entry>
         <entry>参数</entry>
@@ -25,6 +24,7 @@
         <entry>bem</entry>
         <entry>$design</entry>
         <entry>深空灰</entry>
+        <entry>rww-sass</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -120,6 +120,12 @@
     <globalmarks />
     <filemarks>
       <file name="E:/jxgwxapp/node_modules/rww-sass/lib/_size.scss" timestamp="1592202605148" />
+      <file name="E:/jxgwxapp/tslint.config.js" timestamp="1592203280161">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="28" />
+      </file>
       <file name="E:/jxgwxapp/src/assets/scss/index.scss" timestamp="1592202678459">
         <mark key="'" line="5" column="44" />
         <mark key="[" line="4" column="18" />
@@ -131,12 +137,6 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="47" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1592191189041">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="13" column="31" />
-        <mark key="." line="13" column="30" />
-        <mark key="^" line="13" column="31" />
-      </file>
       <file name="C:/project/uni-vant/src/components/sass/_variables.scss" timestamp="1592200204731">
         <mark key="'" line="12" column="22" />
         <mark key="[" line="204" column="22" />
@@ -144,20 +144,14 @@
         <mark key="^" line="204" column="31" />
         <mark key="." line="204" column="30" />
       </file>
-      <file name="C:/project/rww-sass/lib/_index.scss" timestamp="1592190290542">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="16" />
-        <mark key="^" line="24" column="16" />
-        <mark key="." line="24" column="15" />
-      </file>
       <file name="C:/project/vant-weapp/lib/skeleton/index.wxml" timestamp="1592191912401" />
-      <file name="C:/project/rww-sass/lib/mixins.scss" timestamp="1592190277790">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="25" />
-      </file>
       <file name="C:/project/vant-weapp/lib/skeleton/index.wxss" timestamp="1592200005385" />
+      <file name="E:/jxgwxapp/package.json" timestamp="1592202918237">
+        <mark key="'" line="85" column="5" />
+        <mark key="[" line="85" column="5" />
+        <mark key="]" line="85" column="6" />
+        <mark key="." line="85" column="6" />
+      </file>
       <file name="/Dummy.txt" timestamp="1592191253226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -174,6 +168,12 @@
         <mark key="]" line="66" column="22" />
       </file>
       <file name="C:/project/vant-weapp/packages/common/style/var.less" timestamp="1592200210545" />
+      <file name="E:/jxgwxapp/tsconfig.json" timestamp="1592203147582">
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="38" column="46" />
+        <mark key="." line="38" column="45" />
+        <mark key="^" line="38" column="46" />
+      </file>
       <file name="C:/project/uni-vant/src/components/skeleton.vue" timestamp="1592200429960">
         <mark key="'" line="91" column="23" />
         <mark key="[" line="165" column="5" />
@@ -182,10 +182,9 @@
         <mark key="^" line="166" column="3" />
       </file>
       <file name="E:/video2/train/app/User/View/Java/index.html" timestamp="1592192595222" />
-      <file name="C:/project/rww-sass/package.json" timestamp="1592190424388">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+      <file name="E:/jxgwxapp/vue.config.js" timestamp="1592203270927">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="18" />
       </file>
       <file name="C:/project/uni-vant/src/components/popup.vue" timestamp="1592193384987">
         <mark key="'" line="30" column="9" />
@@ -213,9 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="1" filename="E:/jxgh5/src/api/api.ts" />
-      <jump line="75" column="6" filename="E:/jxgh5/src/api/api.ts" />
-      <jump line="81" column="11" filename="E:/jxgh5/src/api/api.ts" />
       <jump line="3" column="31" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
       <jump line="65" column="29" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
       <jump line="586" column="33" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
@@ -313,56 +309,59 @@
       <jump line="48" column="56" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="54" column="50" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="58" column="50" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="5" column="29" filename="E:/jxgwxapp/package.json" />
+      <jump line="84" column="28" filename="E:/jxgwxapp/package.json" />
+      <jump line="85" column="5" filename="E:/jxgwxapp/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>750 / $design-width</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>750 / $design-width</text>
       </register>
       <register name="/" type="4">
-        <text>深空灰</text>
+        <text>rww-sass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHV2UmVzdWx0IGZyb20gJ0AvY29tcG9uZW50cy9yZXN1bHQudnVlJzsK</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbWUobWFyZ2luLXRvcCwgJ0Bza2VsZXRvbi1yb3ctbWFyZ2luLXRvcCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW1lKGhlaWdodCwgJ0Bza2VsZXRvbi1yb3ctaGVpZ2h0Jyk7CiAgICAgIC50aGVtZShiYWNrZ3JvdW5kLWNvbG9yLCAnQHNrZWxldG9uLXJvdy1iYWNrZ3JvdW5kLWNvbG9yJyk7Cg==</text>
+        <text encoding="base64">ZXhwb3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW1lKHBhZGRpbmctdG9wLCAnQHBhZGRpbmcteHMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAiZGVmYXVsdFNldmVyaXR5IjogIm5vbmUiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcAo=</text>
+        <text encoding="base64">ICAgICAgICAudGhlbWUobWFyZ2luLXRvcCwgJ0Bza2VsZXRvbi1yb3ctbWFyZ2luLXRvcCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgLnRoZW1lKGhlaWdodCwgJ0Bza2VsZXRvbi1yb3ctaGVpZ2h0Jyk7CiAgICAgIC50aGVtZShiYWNrZ3JvdW5kLWNvbG9yLCAnQHNrZWxldG9uLXJvdy1iYWNrZ3JvdW5kLWNvbG9yJyk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgLnRoZW1lKHBhZGRpbmctdG9wLCAnQHBhZGRpbmcteHMnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW1lKGJhY2tncm91bmQtY29sb3IsICdAc2tlbGV0b24tYXZhdGFyLWJhY2tncm91bmQtY29sb3InKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>深空灰</last-search>
+      <last-search>rww-sass</last-search>
       <last-offset />
-      <last-pattern>深空灰</last-pattern>
+      <last-pattern>rww-sass</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
