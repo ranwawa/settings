@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>bem</entry>
         <entry>$design</entry>
         <entry>深空灰</entry>
         <entry>rww-sass</entry>
@@ -25,6 +24,7 @@
         <entry>skip</entry>
         <entry>created</entry>
         <entry>onLoad</entry>
+        <entry>customEnv</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -136,6 +136,12 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="17" />
       </file>
+      <file name="E:/jxgwxapp/src/config.ts" timestamp="1592273599790">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="11" />
+      </file>
       <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1592229771285">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
@@ -147,6 +153,13 @@
         <mark key="]" line="52" column="17" />
         <mark key="." line="52" column="16" />
         <mark key="^" line="52" column="17" />
+      </file>
+      <file name="E:/jxgwxapp/vue.config.js" timestamp="1592273693986">
+        <mark key="'" line="32" column="5" />
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="47" />
+        <mark key="^" line="26" column="47" />
+        <mark key="." line="26" column="46" />
       </file>
       <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1592270440633" />
       <file name="C:/project/document/study/Typescript官方文档/4_类.md" timestamp="1592268870486">
@@ -168,6 +181,7 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="24" />
       </file>
+      <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1592273092709" />
       <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1592228426127">
         <mark key="'" line="34" column="1" />
         <mark key="[" line="28" column="0" />
@@ -206,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="17" column="4" filename="E:/jxgwxapp/src/pages.json" />
       <jump line="7" column="3" filename="E:/jxgwxapp/src/App.vue" />
       <jump line="1" column="21" filename="E:/jxgwxapp/src/App.vue" />
@@ -306,36 +319,37 @@
       <jump line="34" column="1" filename="E:/jxgwxapp/src/api/user.ts" />
       <jump line="326" column="0" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
       <jump line="239" column="12" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="31" column="5" filename="E:/jxgwxapp/vue.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygxMjMxMjMpOwo=</text>
+        <text encoding="base64">ICBQTEFURk9STS5NUF9XRUlYSU46IHt9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>customEnv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygxMjMxMjMpOwo=</text>
+        <text encoding="base64">ICBQTEFURk9STS5NUF9XRUlYSU46IHt9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UExBVEZPUk0uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBuYW1lOiBzdHJpbmc7Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygxMjMxMjMpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuYW1lOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -353,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>customEnv</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>customEnv</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
