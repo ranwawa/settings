@@ -136,11 +136,12 @@
         <mark key="^" line="37" column="33" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1592384025055">
-        <mark key="[" line="62" column="9" />
-        <mark key="]" line="62" column="10" />
-        <mark key="." line="62" column="9" />
-        <mark key="^" line="62" column="10" />
+      <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1592387508927">
+        <mark key="'" line="85" column="60" />
+        <mark key="[" line="85" column="59" />
+        <mark key="]" line="85" column="59" />
+        <mark key="^" line="85" column="22" />
+        <mark key="." line="85" column="59" />
       </file>
       <file name="E:/jxgwxapp/src/manifest.json" timestamp="1592378443624">
         <mark key="[" line="86" column="14" />
@@ -154,10 +155,11 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/api/master.ts" timestamp="1592384756392">
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="28" />
+      <file name="E:/jxgwxapp/src/components/live/LiveItem.vue" timestamp="1592387408655" />
+      <file name="E:/jxgwxapp/src/api/master.ts" timestamp="1592386824618">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="29" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592385831608">
@@ -225,9 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="15" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="154" column="38" filename="E:/jxgwxapp/src/pages.json" />
-      <jump line="33" column="10" filename="E:/jxgwxapp/src/pages/master/index.vue" />
       <jump line="152" column="31" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="7" column="2" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="7" column="2" filename="C:/project/uni-vant/src/components/skeleton.vue" />
@@ -325,57 +324,51 @@
       <jump line="50" column="18" filename="E:/jxgwxapp/src/config.ts" />
       <jump line="148" column="32" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="79" column="30" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="63" column="16" filename="E:/jxgwxapp/src/pages/master/index.vue" />
+      <jump line="84" column="48" filename="E:/jxgwxapp/src/pages/master/index.vue" />
+      <jump line="85" column="60" filename="E:/jxgwxapp/src/pages/master/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBqeGcuIGNvcHkoZGF0YSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>xxxx</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>LOGIN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBJTkRFWCA9ICIvIiwK</text>
+        <text encoding="base64">ICAvLyDWsbKl1tDB0LHtCiAgZ2V0IGNvbXB1dGVkUGxheWluZ0xpc3QoKSB7CiAgICByZXR1cm4gdGhpcy5saXZlTGlzdFsxXSB8fCBbXTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqeGcuIGNvcHkoZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVyciwgZGF0YSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>const xxx = await uni.setClipboardData({
-          data,
-          success: function (res) {
-            console.log(222, res);
-          },
-          fail: function (res) {
-            console.log(333, res);
-          }
-        })
-        console.log(123, xxx);</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIF8uZ3JvdXBCeShkYXRhLmxpc3QsICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2tpcEhhbmRsZVJlc3BvbnNlT2s6IHRydWUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbWFzdGVyQXBpIH0gZnJvbSAiQC9hcGkvbWFzdGVyIjsKaW1wb3J0IHsgYmFzZVVzZXIgfSBmcm9tICJAL2Fzc2V0cy9qcy9iYXNlVXNlciI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygxMjMxMjMsIGJhc2VVc2VyKTsK</text>
+        <text encoding="base64">ICAgICAgbG9kYXNoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhoZWFkZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgXwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9uTG8K</text>
+        <text encoding="base64">ICAgICAgYW5jaG9ySWQ6IDEyMywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0VmlkZW9JbmZvKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBqeGcuIGNvcHkoZGF0YSk7Cg==</text>
       </register>
     </registers>
   </component>
