@@ -162,12 +162,12 @@
         <mark key="]" line="36" column="38" />
         <mark key="." line="36" column="38" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592373839594">
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592375128896">
         <mark key="'" line="15" column="13" />
-        <mark key="[" line="48" column="12" />
-        <mark key="]" line="48" column="21" />
-        <mark key="." line="48" column="20" />
-        <mark key="^" line="48" column="21" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="53" column="34" />
       </file>
       <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1592373703915">
         <mark key="[" line="19" column="0" />
@@ -314,52 +314,46 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdldFRva2VuRnJvbUFQSTogKCkgPT4gewogICAgICBuYXZpZ2F0ZVRvVVJMKFJPVVRFLkxPR0lOKTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>ignore</text>
       </register>
-      <register name="0" type="4">
-        <text>if (!baseUser.token) {
-      const [, data] = await baseUser.getTokenFromApi(e);
-      if (data) {
-        await baseUser.setUserToken(data);
-        await this.getVideoInfo();
-      }
-    } else {
-      await this.getVideoInfo();
-    }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGdldFRva2VuRnJvbUFQSTogYXN5bmMgKCkgPT4gewogICAgICBhd2FpdCBuYXZpZ2F0ZVRvVVJMKFJPVVRFLkxPR0lOKTsKICAgICAgcmV0dXJuIHVuVG9rZW47CiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdldEN1cnJlbnRQYWdlUm91dGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGdldFRva2VuRnJvbUFQSTogKCkgPT4gewogICAgICBuYXZpZ2F0ZVRvVVJMKFJPVVRFLkxPR0lOKTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFJPVVRFWycvcGFnZXMvdXNlci9sb2dpbiddKTsK</text>
+      <register name="5" type="4">
+        <text>getTokenFromAPI() {
+    
+  }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldEN1cnJlbnRQYWdlUm91dGUK</text>
+        <text encoding="base64">ICAgIGdldFRva2VuRnJvbUFQSTogYXN5bmMgKCkgPT4gewogICAgICBhd2FpdCBuYXZpZ2F0ZVRvVVJMKFJPVVRFLkxPR0lOKTsKICAgICAgcmV0dXJuIHVuVG9rZW47CiAgICB9LAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGdldFVzZXJJbmZvRnJvbUFQSTogKHF1ZXJ5OiBhbnkpID0+IHsKICAgICAgCiAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5nZXRWaWRlb0luZm8oKTsK</text>
+        <text encoding="base64">Y29uc3QgbG9vcCA9IGZ1bmN0aW9uICgpIHt9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlkLmdldFZpZGVvSW5mbygpOwo=</text>
+        <text encoding="base64">ICAgIC8vILvxyKF0b2tlbgo=</text>
       </register>
     </registers>
   </component>
