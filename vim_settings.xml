@@ -215,16 +215,14 @@
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="42" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1592464064515">
-        <mark key="'" line="4321" column="9" />
-        <mark key="[" line="2133" column="55" />
-        <mark key="]" line="2133" column="56" />
-        <mark key="^" line="2133" column="56" />
-        <mark key="." line="2133" column="55" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1592468943566">
+        <mark key="[" line="2120" column="21" />
+        <mark key="]" line="2120" column="22" />
+        <mark key="." line="2120" column="21" />
+        <mark key="^" line="2120" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
       <jump line="373" column="13" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
       <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/index/index.vue" />
       <jump line="83" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -324,48 +322,49 @@
       <jump line="135" column="6" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="143" column="6" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="144" column="6" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="2133" column="57" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKF8uZW50cmllcyh0aGlzLnNlbGVjdGVkQXR0cikubWFwKChba2V5LCB2YWx1ZV0pID0+IGBrZXk6dmFsdWVgKS5qb2luKCc7JykpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hdHRyTGlzdCA9IG1vY2tEYXRhLnNrdUJhc2UucHJvcHM7Cg==</text>
+      <register name="0" type="4">
+        <text>attrIndex, attrChildIndex</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hdHRyTGlzdCA9IG1vY2tEYXRhLnNrdUJhc2UucHJvcHM7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKF8uZW50cmllcyh0aGlzLnNlbGVjdGVkQXR0cikubWFwKChba2V5LCB2YWx1ZV0pID0+IGBrZXk6dmFsdWVgKS5qb2luKCc7JykpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobGlzdCk7Cg==</text>
+        <text encoding="base64">Ly8KZnVuY3Rpb24gcHJvY2Vzc1NrdUxpc3Qoc2t1TGlzdCkgewogIHJldHVybiBza3VMaXN0Lm1hcCgoZWxlKSA9PiB7CiAgICAvLyBza3W52MGqtcTX07nmuPFpZCwgscjI57rsyasseGwKICAgIGVsZS5yZWZBdHRyVmFsdWVJZExpc3QgPSBlbGUubGlzdEdvb2RzU2t1R29vZHNBdHRyVmFsdWVSc3BWTy5tYXAoCiAgICAgIChhdHRyVmFsdWUpID0+IGF0dHJWYWx1ZS5pZAogICAgKTsKICAgIHJldHVybiBfLnBpY2soZWxlLCBbCiAgICAgICJyZWZBdHRyVmFsdWVJZExpc3QiLAogICAgICAic2t1Q29kZSIsCiAgICAgICJza3VOYW1lIiwKICAgICAgInNrdVBpYyIsCiAgICAgICJpbnZlbnRvcnkiLAogICAgXSk7CiAgfSk7Cn0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdG9yYWdlUHJvZHVjdExpc3QpOwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gcHJvY2Vzc0F0dHJMaXN0KGF0dHJMaXN0LCBza3VMaXN0KSB7CiAgY29uc3QgcmVzOiBhbnlbXSA9IFtdOwogIGZvciAobGV0IGl0ZW0gb2YgYXR0ckxpc3QpIHsKICAgIGNvbnN0IGNoaWxkcmVuID0gaXRlbS5saXN0R29vZHNBdHRyVmFsdWVEYXRhaWxWTzsKICAgIGlmIChjaGlsZHJlbiAmJiBjaGlsZHJlbi5sZW5ndGgpIHsKICAgICAgcmVzLnB1c2goeyBjaGlsZHJlbiwgLi4uXy5waWNrKGl0ZW0sIFsiaWQiLCAiYXR0ck5hbWUiXSkgfSk7CiAgICB9CiAgfQogIHJldHVybiByZXM7Cn0KLy8gudjBqsnMxre55rjxtcS/4rTmudjPtQpmdW5jdGlvbiBhc3NvY2lhdGVBdHRyKGF0dHJDaGlsZCwgc2t1TGlzdCkge30=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdG9yYWdlUHJvZHVjdExpc3QpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wcm9kdWN0TGlzdCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdG9yYWdlUHJvZHVjdExpc3QuZm9yRWFjaChlbGUgPT4gewogICAgICAgIAogICAgICB9KQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGN1cnJlbnRWaWQsIHZhbC52aWQpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsYWNrSW52ZW50b3J5TWFwW2Ake3BpZH06JHt2YWwudmlkfWBdKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhY2tJbnZlbnRvcnlNYXApOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIDEyMy5sb2NhbFN0b3JhZ2UK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vILu6tObRodbQvM3CvAo=</text>
       </register>
     </registers>
   </component>
