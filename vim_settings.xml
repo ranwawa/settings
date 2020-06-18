@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>品牌</entry>
         <entry>送至</entry>
         <entry>goods-detail</entry>
         <entry>items</entry>
@@ -25,6 +24,7 @@
         <entry>color</entry>
         <entry>info</entry>
         <entry>console.log</entry>
+        <entry>上下架</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -141,7 +141,8 @@
         <mark key="." line="91" column="41" />
         <mark key="^" line="86" column="16" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1592463523422">
+      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1592472277758">
+        <mark key="'" line="1" column="13" />
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
         <mark key="^" line="135" column="5" />
@@ -215,15 +216,14 @@
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="42" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1592470678404">
-        <mark key="[" line="2161" column="0" />
-        <mark key="]" line="2161" column="0" />
-        <mark key="^" line="2129" column="34" />
-        <mark key="." line="2161" column="0" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1592472733931">
+        <mark key="[" line="2138" column="51" />
+        <mark key="]" line="2138" column="51" />
+        <mark key="." line="2138" column="51" />
+        <mark key="^" line="2138" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="13" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
       <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/index/index.vue" />
       <jump line="83" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="126" column="34" filename="E:/jxgwxapp/src/api/api.ts" />
@@ -317,62 +317,63 @@
       <jump line="7" column="27" filename="E:/jxgwxapp/src/pages/master/components/GoodItem.vue" />
       <jump line="73" column="7" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="51" column="15" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
-      <jump line="83" column="28" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="141" column="2" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="135" column="6" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="143" column="6" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="144" column="6" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="2133" column="57" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="83" column="16" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="1" column="13" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>上下架</text>
       </register>
       <register name="0" type="4">
         <text>attrIndex, attrChildIndex</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhrZXksIHZhbHVlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyCy6dGv0aHU8bXEc2t1CiAgZ2V0U2VsZWN0ZWRTa3UoKSB7CiAgICAvLyB0b2RvINXiwO/Su7ao0qq87LLp0rvPwizHsLrztsu1xNfpus/Ls9Dyyse38dK71sIKICAgIHJldHVybiBtb2NrRGF0YS5za3VDb3JlLnNrdTJpbmZvW10KICB9</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vY2tEYXRhLnByb3BzLnNrdXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgYXR0ckxpc3QsIHNlbGVjdGVkQXR0ciB9ID0gdGhpczsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29uc3Qgc2VsZWN0ZWRQcm9wVmFsdWUgPSBgJHtzZWxlY3RlZFByb3BJZH06JHtzZWxlY3RlZFZhbElkfWA7CiAgICBjb25zdCBzZWxlY3RlZFByb3BQYXRoID0gXy5lbnRyaWVzKHRoaXMuc2VsZWN0ZWRBdHRyKS5tYXAoKFtrZXksIHZhbHVlXSkgPT4KICAgICAgYCR7a2V5fToke3ZhbHVlfWApLmpvaW4oJzsnKTsKICAgIGNvbnN0IHsgYXR0ckxpc3QsIHNlbGVjdGVkQXR0ciB9ID0gdGhpczs=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb3BQYXRoID0gXy5lbnRyaWVzKHRoaXMuc2VsZWN0ZWRBdHRyKS5tYXAoKFtrZXksIHZhbHVlXSkgPT4KICAgICAgYCR7a2V5fToke3ZhbHVlfWApLmpvaW4oJzsnKTsK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyCy6dGv0aHU8bXEc2t1CiAgZ2V0U2VsZWN0ZWRTa3UoKSB7CiAgICAvLyB0b2RvINXiwO/Su7ao0qq87LLp0rvPwizHsLrztsu1xNfpus/Ls9Dyyse38dK71sIKICAgIHJldHVybiBtb2NrRGF0YS5za3VDb3JlLnNrdTJpbmZvW10KICB9</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgYXR0ckxpc3QsIHNlbGVjdGVkQXR0ciB9ID0gdGhpczsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Y29uc3Qgc2VsZWN0ZWRQcm9wVmFsdWUgPSBgJHtzZWxlY3RlZFByb3BJZH06JHtzZWxlY3RlZFZhbElkfWA7CiAgICBjb25zdCBzZWxlY3RlZFByb3BQYXRoID0gXy5lbnRyaWVzKHRoaXMuc2VsZWN0ZWRBdHRyKS5tYXAoKFtrZXksIHZhbHVlXSkgPT4KICAgICAgYCR7a2V5fToke3ZhbHVlfWApLmpvaW4oJzsnKTsKICAgIGNvbnN0IHsgYXR0ckxpc3QsIHNlbGVjdGVkQXR0ciB9ID0gdGhpczs=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>console.log</last-search>
+      <last-search>上下架</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>上下架</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
