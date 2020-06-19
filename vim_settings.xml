@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>skuCode</entry>
         <entry>skuId</entry>
         <entry>购买返</entry>
         <entry>v-if</entry>
@@ -25,6 +24,7 @@
         <entry>我要开通</entry>
         <entry>vip</entry>
         <entry>liveapp</entry>
+        <entry>item['skuPic']</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,22 +119,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgh5/src/views/mine/orderDetail.vue" timestamp="1592545418018" />
-      <file name="E:/jxgwxapp/src/config.ts" timestamp="1592485985696">
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="11" column="32" />
-        <mark key="^" line="11" column="40" />
-        <mark key="." line="11" column="32" />
+      <file name="E:/jxgh5/src/views/mine/orderDetail.vue" timestamp="1592546739382">
+        <mark key="'" line="107" column="6" />
+        <mark key="[" line="939" column="1" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1592537453651">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
-      </file>
-      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1592485995200">
-        <mark key="[" line="91" column="40" />
-        <mark key="]" line="91" column="41" />
-        <mark key="." line="91" column="41" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1592535909568">
         <mark key="'" line="162" column="14" />
@@ -186,7 +178,7 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592535381251">
+      <file name="/Dummy.txt" timestamp="1592546742815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1592535370262">
@@ -220,20 +212,8 @@
         <mark key="^" line="39" column="78" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1592485137815">
-        <mark key="'" line="66" column="39" />
-        <mark key="[" line="412" column="29" />
-        <mark key="]" line="412" column="35" />
-        <mark key="." line="412" column="34" />
-        <mark key="^" line="412" column="35" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="13" filename="E:/jxgwxapp/src/api/api.ts" />
-      <jump line="6" column="42" filename="E:/jxgwxapp/src/api/api.ts" />
-      <jump line="135" column="6" filename="E:/jxgwxapp/src/api/api.ts" />
-      <jump line="26" column="21" filename="E:/jxgwxapp/src/main.ts" />
-      <jump line="26" column="0" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="15" column="13" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="40" column="22" filename="E:/jxgwxapp/src/config.ts" />
       <jump line="37" column="32" filename="E:/jxgwxapp/src/config.ts" />
@@ -329,29 +309,37 @@
       <jump line="26" column="12" filename="E:/jxgwxapp/src/api/master.ts" />
       <jump line="35" column="12" filename="E:/jxgwxapp/src/api/master.ts" />
       <jump line="44" column="12" filename="E:/jxgwxapp/src/api/master.ts" />
+      <jump line="861" column="4" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="461" column="12" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="502" column="12" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="512" column="14" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
+      <jump line="107" column="6" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://images.jixugou.cn/2ac8544e-a35c-49bc-b0d7-8cf96e8ed290.jpg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>https://images.jixugou.cn/2ac8544e-a35c-49bc-b0d7-8cf96e8ed290.jpg</text>
       </register>
       <register name="/" type="4">
-        <text>liveapp</text>
+        <text>item['skuPic']</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICY6bnRoLWNoaWxkKDYpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAmWVkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>background: radial-gradient(
         60px at 90% 20%,
         rgba(255, 255, 255, 0.05),
@@ -366,31 +354,28 @@
       ),
       linear-gradient(to right, #e62564, #f7695a);</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgwbS908u90/LB98G/Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGJyIC8+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXRlbS5jbwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAg0ru8/L+qxvTU2s/f1rGypQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAguPbIy8u90/LXqMr01rGypbzkCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAguPbIy8u90/LXqMr01rGypbzkCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>liveapp</last-search>
+      <last-search>item['skuPic']</last-search>
       <last-offset />
-      <last-pattern>liveapp</last-pattern>
+      <last-pattern>item['skuPic']</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
