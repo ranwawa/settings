@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592568519849">
+      <file name="/Dummy.txt" timestamp="1592572146015">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/components/GoodItem.vue" timestamp="1592559464193">
@@ -139,12 +139,6 @@
         <mark key="^" line="60" column="11" />
         <mark key="." line="60" column="10" />
       </file>
-      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1592549333206">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="109" column="37" />
-      </file>
       <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1592563803097">
         <mark key="'" line="5" column="17" />
         <mark key="[" line="12" column="20" />
@@ -156,6 +150,13 @@
         <mark key="[" line="72" column="48" />
         <mark key="]" line="72" column="48" />
         <mark key="." line="72" column="48" />
+      </file>
+      <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1592572158995">
+        <mark key="'" line="60" column="21" />
+        <mark key="[" line="113" column="20" />
+        <mark key="]" line="114" column="19" />
+        <mark key="." line="114" column="18" />
+        <mark key="^" line="114" column="19" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1592560205205">
         <mark key="'" line="161" column="14" />
@@ -202,19 +203,18 @@
         <mark key="." line="17" column="29" />
         <mark key="^" line="17" column="30" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/live/list.vue" timestamp="1592566333827">
-        <mark key="'" line="116" column="6" />
+      <file name="E:/jxgwxapp/src/pages/live/list.vue" timestamp="1592570557091">
+        <mark key="'" line="8" column="36" />
         <mark key="[" line="113" column="22" />
         <mark key="]" line="114" column="24" />
         <mark key="." line="114" column="23" />
         <mark key="^" line="114" column="24" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1592568980598">
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1592570034803">
         <mark key="'" line="187" column="0" />
-        <mark key="[" line="194" column="26" />
-        <mark key="]" line="195" column="19" />
-        <mark key="." line="195" column="18" />
-        <mark key="^" line="195" column="19" />
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/components/shares.vue" timestamp="1592557421838">
         <mark key="[" line="74" column="0" />
@@ -239,8 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="289" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="416" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="422" column="30" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="448" column="57" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -339,44 +337,49 @@
       <jump line="26" column="7" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
       <jump line="37" column="9" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
       <jump line="187" column="0" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="8" column="36" filename="E:/jxgwxapp/src/pages/live/list.vue" />
+      <jump line="60" column="21" filename="E:/jxgwxapp/src/pages/master/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nZXRKc0NvZGUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>this.realNameAuthCode</text>
       </register>
       <register name="-" type="4">
-        <text>loading</text>
+        <text>this.realNameAuthCode</text>
       </register>
       <register name="/" type="4">
         <text>uv-</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFV2SWNvbiBmcm9tICJ1bmktdmFudC9saWIvaWNvbi52dWUiOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZ1bmMgPSBjaGVja1B1c2hlclJ1bGVGdW5jW3RoaXMucmVhbE5hbWVBdXRoQ29kZV07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nZXRKc0NvZGUoKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFV2SWNvbiBmcm9tICJ1bmktdmFudC9saWIvaWNvbi52dWUiOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nZXRKc0NvZGUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8L3V2LW92ZXJsYXk+Cg==</text>
+        <text encoding="base64">aW1wb3J0IFV2SWNvbiBmcm9tICJ1bmktdmFudC9saWIvaWNvbi52dWUiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8dXYtb3ZlcmxheSA6c2hvdz0idHJ1ZSI+Cg==</text>
+        <text encoding="base64">ICA8L3V2LW92ZXJsYXk+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICA8dXYtb3ZlcmxheSA6c2hvdz0idHJ1ZSI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmICghdGhpcy5pc0NoZWNrQWdyZWVtZW50KSB7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>if (!this.isCheckAgreement) {
         //@ts-ignore
         uni.showToast({
@@ -386,9 +389,6 @@
         this.isBounceAgreement = true;
         return;
       }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNDaGVja0FncmVlbWVudAo=</text>
       </register>
     </registers>
   </component>
