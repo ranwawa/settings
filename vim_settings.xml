@@ -138,13 +138,6 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1592572158995">
-        <mark key="'" line="60" column="21" />
-        <mark key="[" line="113" column="20" />
-        <mark key="]" line="114" column="19" />
-        <mark key="." line="114" column="18" />
-        <mark key="^" line="114" column="19" />
-      </file>
       <file name="E:/jxgwxapp/src/live/pages/liveroom.vue" timestamp="1592574462925">
         <mark key="'" line="270" column="9" />
         <mark key="[" line="387" column="16" />
@@ -175,17 +168,22 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="E:/jxgwxapp/src/api/requestModel.ts" timestamp="1592646275972">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="E:/jxgwxapp/src/App.vue" timestamp="1592634905474">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="^" line="71" column="21" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/api/order.ts" timestamp="1592639890253">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="54" />
-        <mark key="^" line="10" column="27" />
-        <mark key="." line="15" column="0" />
+      <file name="E:/jxgwxapp/src/api/order.ts" timestamp="1592645413890">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1592638045874">
         <mark key="[" line="0" column="0" />
@@ -193,12 +191,12 @@
       <file name="E:/jxgwxapp/node_modules/uni-vant/lib/cell.vue" timestamp="1592641841927">
         <mark key="'" line="325" column="16" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1592644028909">
+      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1592646317062">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="208" column="29" />
-        <mark key="]" line="208" column="73" />
-        <mark key="." line="208" column="72" />
-        <mark key="^" line="208" column="73" />
+        <mark key="[" line="225" column="31" />
+        <mark key="]" line="226" column="13" />
+        <mark key="." line="226" column="12" />
+        <mark key="^" line="226" column="13" />
       </file>
       <file name="E:/jxgwxapp/src/pages.json" timestamp="1592641774803">
         <mark key="'" line="189" column="34" />
@@ -335,44 +333,48 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Lyogtqm1pc/gudggKi8KY29uc3QgY29uZmlybU9yZGVyID0gewogIGdvb2RzOiB2YWxSZXF1aXJlZCgix+u0q8jryczGt2lkIiksCn07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>goodsId</text>
       </register>
       <register name="/" type="4">
         <text>221</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNldFByZUdvb2RMaXN0KHN0YXRlOiBhbnksIHZhbHVlKSB7CiAgICAgIHN0YXRlLnByZUdvb2RMaXN0ID0gdmFsdWU7CiAgICB9LAo=</text>
+      <register name="0" type="4">
+        <text>const detail = {
+  goodsId: valRequired(&quot;请传入商品id&quot;),
+};</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwo=</text>
+        <text encoding="base64">Lyogtqm1pc/gudggKi8KY29uc3QgY29uZmlybU9yZGVyID0gewogIGdvb2RzOiB2YWxSZXF1aXJlZCgix+u0q8jryczGt2lkIiksCn07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogcHgycnB4KDEwKSAwOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobywgbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMSwgbywgbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgc2hpcHBpbmdSZWdpb246Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6ICRmei1zbTsK</text>
+        <text encoding="base64">ICAgICAgaGFuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiBweDJycHgoMTgpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gtdjWt7eiyfqx5LuvuvPSqtbY0MK8xsvj0rvPwtTLt9EKICAgICAgdGhpcy5nZXRMb2dpc3RpY3NGZWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2V0TG9naXN0aWNzRmVlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuX3VzZXJJbmZvKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhZGRyZXNzLnBob25lCiAgICAgID8ge30KICAgICAgOiAiIjsK</text>
+      <register name="9" type="4">
+        <text>{
+      
+    }</text>
       </register>
     </registers>
   </component>
