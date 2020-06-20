@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>立即购买</entry>
-        <entry>popupType</entry>
         <entry>onLoad</entry>
         <entry>emit</entry>
         <entry>good-number</entry>
@@ -25,6 +23,8 @@
         <entry>appPa</entry>
         <entry>appp</entry>
         <entry>221</entry>
+        <entry>goodsId</entry>
+        <entry>submit</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -179,7 +179,7 @@
         <mark key="^" line="71" column="21" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/api/order.ts" timestamp="1592645413890">
+      <file name="E:/jxgwxapp/src/api/order.ts" timestamp="1592646397953">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="18" column="11" />
@@ -191,12 +191,12 @@
       <file name="E:/jxgwxapp/node_modules/uni-vant/lib/cell.vue" timestamp="1592641841927">
         <mark key="'" line="325" column="16" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1592646317062">
+      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1592647506350">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="225" column="31" />
-        <mark key="]" line="226" column="13" />
-        <mark key="." line="226" column="12" />
-        <mark key="^" line="226" column="13" />
+        <mark key="[" line="244" column="54" />
+        <mark key="]" line="244" column="67" />
+        <mark key="." line="244" column="66" />
+        <mark key="^" line="244" column="67" />
       </file>
       <file name="E:/jxgwxapp/src/pages.json" timestamp="1592641774803">
         <mark key="'" line="189" column="34" />
@@ -220,16 +220,15 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="12" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1592640443574">
-        <mark key="'" line="190" column="12" />
-        <mark key="[" line="137" column="69" />
-        <mark key="]" line="137" column="69" />
-        <mark key="." line="137" column="69" />
-        <mark key="^" line="247" column="29" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1592647491627">
+        <mark key="'" line="137" column="69" />
+        <mark key="[" line="581" column="42" />
+        <mark key="]" line="582" column="33" />
+        <mark key="." line="582" column="32" />
+        <mark key="^" line="582" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="5" filename="E:/jxgwxapp/src/pages.json" />
       <jump line="179" column="27" filename="E:/jxgwxapp/src/pages.json" />
       <jump line="78" column="10" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
       <jump line="107" column="34" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
@@ -329,18 +328,19 @@
       <jump line="189" column="34" filename="E:/jxgwxapp/src/pages.json" />
       <jump line="80" column="18" filename="E:/jxgwxapp/src/manifest.json" />
       <jump line="8" column="0" filename="E:/jxgwxapp/src/config.ts" />
+      <jump line="137" column="69" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Lyogtqm1pc/gudggKi8KY29uc3QgY29uZmlybU9yZGVyID0gewogIGdvb2RzOiB2YWxSZXF1aXJlZCgix+u0q8jryczGt2lkIiksCn07Cg==</text>
+      <register name="&quot;" type="4">
+        <text>remark&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>goodsId</text>
+        <text>remark&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>221</text>
+        <text>submit</text>
       </register>
       <register name="0" type="4">
         <text>const detail = {
@@ -348,41 +348,39 @@
 };</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lyogtqm1pc/gudggKi8KY29uc3QgY29uZmlybU9yZGVyID0gewogIGdvb2RzOiB2YWxSZXF1aXJlZCgix+u0q8jryczGt2lkIiksCn07Cg==</text>
+        <text encoding="base64">ICAgICAgLy8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobywgbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMSwgbywgbik7Cg==</text>
+        <text encoding="base64">ICAgICAgXy5waWNrKGVsZSwgWyJwcmljZSIsICJudW0iLCAic2t1Q29kZSIsICJyZW1hcmsiXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2hpcHBpbmdSZWdpb246Cg==</text>
+        <text encoding="base64">ICAgICAgb3JkZXJUeXBlOiAxLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaGFuCg==</text>
+        <text encoding="base64">Lyogtqm1pc/gudggKi8KY29uc3QgY29uZmlybU9yZGVyID0gewogIGdvb2RzOiB2YWxSZXF1aXJlZCgix+u0q8jryczGt2lkIiksCn07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gtdjWt7eiyfqx5LuvuvPSqtbY0MK8xsvj0rvPwtTLt9EKICAgICAgdGhpcy5nZXRMb2dpc3RpY3NGZWUoKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobywgbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0TG9naXN0aWNzRmVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMSwgbywgbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuX3VzZXJJbmZvKTsK</text>
+        <text encoding="base64">ICAgICAgc2hpcHBpbmdSZWdpb246Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgaGFuCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>221</last-search>
+      <last-search>submit</last-search>
       <last-offset />
-      <last-pattern>221</last-pattern>
+      <last-pattern>submit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
