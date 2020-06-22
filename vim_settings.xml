@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>goodsId</entry>
         <entry>运费</entry>
         <entry>icon</entry>
         <entry>领</entry>
@@ -25,6 +24,7 @@
         <entry>开通</entry>
         <entry>register</entry>
         <entry>max</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,12 +119,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1592827404443">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/jxgwxapp/src/pages/user/mixins.ts" timestamp="1592827151029">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="30" column="43" />
+        <mark key="." line="30" column="42" />
+        <mark key="^" line="30" column="43" />
+      </file>
       <file name="E:/jxgwxapp/src/config.ts" timestamp="1592826502174">
         <mark key="'" line="17" column="56" />
         <mark key="[" line="65" column="61" />
         <mark key="]" line="65" column="71" />
         <mark key="." line="65" column="70" />
         <mark key="^" line="65" column="71" />
+      </file>
+      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1592827707371">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="25" column="6" />
+      </file>
+      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1592828180932">
+        <mark key="[" line="109" column="16" />
+        <mark key="]" line="109" column="36" />
+        <mark key="^" line="109" column="36" />
+        <mark key="." line="109" column="35" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1592821826426">
         <mark key="'" line="94" column="8" />
@@ -139,20 +162,36 @@
         <mark key="^" line="84" column="41" />
         <mark key="." line="84" column="40" />
       </file>
-      <file name="E:/jxgh5/src/api/interface.ts" timestamp="1592827302565" />
       <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1592821871591">
         <mark key="[" line="190" column="0" />
         <mark key="]" line="190" column="29" />
         <mark key="." line="190" column="0" />
       </file>
+      <file name="E:/jxgwxapp/src/main.ts" timestamp="1592825831006">
+        <mark key="'" line="18" column="34" />
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="26" />
+      </file>
       <file name="E:/jxgh5/src/mixin/appFun.ts" timestamp="1592818845080">
         <mark key="'" line="34" column="50" />
       </file>
-      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1592820802682" />
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592828231839" />
+      <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1592826955852">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="E:/jxgwxapp/src/api/requestModel.ts" timestamp="1592827088201">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="E:/jxgwxapp/src/util/basicSet.ts" timestamp="1592827648756">
+        <mark key="[" line="524" column="16" />
+        <mark key="]" line="524" column="16" />
+        <mark key="." line="524" column="16" />
       </file>
       <file name="E:/jxgwxapp/src/App.vue" timestamp="1592818735825">
         <mark key="[" line="73" column="0" />
@@ -167,49 +206,12 @@
         <mark key="^" line="153" column="62" />
         <mark key="." line="153" column="4" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1592817798897">
-        <mark key="'" line="216" column="9" />
-        <mark key="[" line="173" column="4" />
-        <mark key="]" line="173" column="17" />
-        <mark key="." line="173" column="16" />
-        <mark key="^" line="173" column="17" />
-      </file>
       <file name="E:/jxgwxapp/package.json" timestamp="1592825809585">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="12" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592825838898">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/jxgwxapp/src/pages/user/mixins.ts" timestamp="1592827151029">
-        <mark key="'" line="5" column="2" />
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="30" column="43" />
-        <mark key="." line="30" column="42" />
-        <mark key="^" line="30" column="43" />
-      </file>
-      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1592827129399">
-        <mark key="'" line="17" column="6" />
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="7" />
-        <mark key="^" line="25" column="7" />
-        <mark key="." line="25" column="6" />
-      </file>
-      <file name="E:/jxgwxapp/src/main.ts" timestamp="1592825831006">
-        <mark key="'" line="18" column="34" />
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="27" />
-        <mark key="^" line="13" column="27" />
-        <mark key="." line="13" column="26" />
-      </file>
-      <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1592826955852">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="E:/jxgh5/src/mixin/wechatApi.ts" timestamp="1592817558627" />
     </filemarks>
     <jumps>
       <jump line="304" column="12" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -316,41 +318,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBwaG9uZTogdmFsUGhvbmUsCg==</text>
+      <register name="&quot;" type="4">
+        <text>res.data.msg || res.data.error_description || &quot;未知异常&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>res.data.msg || res.data.error_description || &quot;未知异常&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>max</text>
+        <text>token</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiYnVpbGQ6aDUiOiAiY3Jvc3MtZW52IE5PREVfRU5WPXByb2R1Y3Rpb24gVU5JX1BMQVRGT1JNPWg1IHZ1ZS1jbGktc2VydmljZSB1bmktYnVpbGQiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBwaG9uZTogdmFsUGhvbmUsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBbUk9VVEUuTElWRV9ST09NXTogdHJ1ZSwK</text>
+        <text encoding="base64">ICByZXR1cm4gZGF0YS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBbUk9VVEUuTElWRV9ST09NXTogdHJ1ZSwK</text>
+        <text encoding="base64">ICAvLyBwaG9uZTogdmFsUGhvbmUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNvbik7Cg==</text>
+        <text encoding="base64">ICBbUk9VVEUuTElWRV9ST09NXTogdHJ1ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb3VySnhnLmVkaXRMaXZlR29vZHMoKTsK</text>
+        <text encoding="base64">ICBbUk9VVEUuTElWRV9ST09NXTogdHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hZGRMaXZlR29vZHMoKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNvbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb3VySnhnLmVkaXRMaXZlR29vZHMoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hZGRMaXZlR29vZHMoKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -359,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>max</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern>max</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
