@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>border-bottom</entry>
         <entry>uv-cell</entry>
         <entry>after</entry>
         <entry>border-color</entry>
@@ -25,6 +24,7 @@
         <entry>icon</entry>
         <entry>领</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
+        <entry>主播</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -138,13 +138,6 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="E:/jxgwxapp/src/live/pages/liveroom.vue" timestamp="1592574462925">
-        <mark key="'" line="270" column="9" />
-        <mark key="[" line="387" column="16" />
-        <mark key="]" line="387" column="27" />
-        <mark key="^" line="387" column="27" />
-        <mark key="." line="387" column="26" />
-      </file>
       <file name="E:/jxgwxapp/src/manifest.json" timestamp="1592650418551">
         <mark key="'" line="80" column="18" />
         <mark key="[" line="91" column="38" />
@@ -162,6 +155,13 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="61" />
       </file>
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592791124570">
+        <mark key="'" line="26" column="21" />
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="62" column="25" />
+        <mark key="." line="62" column="25" />
+        <mark key="^" line="61" column="23" />
+      </file>
       <file name="E:/jxgwxapp/node_modules/@dcloudio/uni-ui/lib/uni-number-box/uni-number-box.vue" timestamp="1592632801167">
         <mark key="'" line="60" column="16" />
         <mark key="[" line="56" column="0" />
@@ -173,7 +173,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/App.vue" timestamp="1592634905474">
+      <file name="E:/jxgwxapp/src/App.vue" timestamp="1592790675578">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="^" line="71" column="21" />
@@ -213,7 +213,7 @@
         <mark key="." line="32" column="41" />
         <mark key="^" line="32" column="42" />
       </file>
-      <file name="E:/jxgwxapp/src/components/market/GoodNumber.vue" timestamp="1592651396877">
+      <file name="E:/jxgwxapp/src/components/market/GoodNumber.vue" timestamp="1592789698728">
         <mark key="[" line="48" column="7" />
         <mark key="]" line="48" column="14" />
         <mark key="^" line="48" column="14" />
@@ -228,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="861" column="4" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
       <jump line="461" column="12" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
       <jump line="502" column="12" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
       <jump line="512" column="14" filename="E:/jxgh5/src/views/mine/orderDetail.vue" />
@@ -328,57 +327,58 @@
       <jump line="654" column="9" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="199" column="8" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="26" column="21" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8L3ZpZXc+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>token</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWx1ZVw+</text>
+        <text>主播</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHV2LWNlbGwKICAgICAgICB2LWlmPSJjb21wdXRlZERlZmF1bHRBZGRyZXNzIgogICAgICAgIHRpdGxlPSLLzdbBo7oiCiAgICAgICAgOnZhbHVlPSJjb21wdXRlZERlZmF1bHRBZGRyZXNzIgogICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8L3ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8dmlldyBjbGFzcz0ianhnLXNrdV9fbnVtYmVyIj4K</text>
+        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHdpbmRvdy53ZWJraXQubWVzc2FnZUhhbmRsZXJzLmp4Zy5wb3N0TWVzc2FnZSh7IGNhbGxBcHBQYXk6IGpzb24gfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAaW5jbHVkZSBmbGV4LXJvdzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92eHMgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICA8L3ZpZXc+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICA8dmlldyBjbGFzcz0ianhnLXNrdV9fbnVtYmVyIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC92aWV3Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZSk7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
+      <last-search>主播</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>主播</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
