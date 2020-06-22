@@ -150,11 +150,10 @@
         <mark key="^" line="76" column="19" />
         <mark key="." line="76" column="8" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592813028696">
-        <mark key="[" line="116" column="39" />
-        <mark key="]" line="116" column="47" />
-        <mark key="^" line="116" column="47" />
-        <mark key="." line="116" column="46" />
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592814954065">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/api/goods.ts" timestamp="1592807278540">
         <mark key="[" line="17" column="26" />
@@ -192,7 +191,7 @@
         <mark key="^" line="155" column="32" />
         <mark key="." line="155" column="31" />
       </file>
-      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1592812010182">
+      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1592814758606">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -213,12 +212,8 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/register.ts" timestamp="1592797050518">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="E:/jxgh5/src/mixin/wechatApi.ts" timestamp="1592813011334" />
+      <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1592814783106" />
       <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1592807325522">
         <mark key="'" line="121" column="16" />
         <mark key="[" line="694" column="4" />
@@ -332,11 +327,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>`${location.origin}/${location.pathname}/#/${ROUTE.LOGIN}`</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
@@ -345,35 +340,31 @@
         <text encoding="base64">Ly8g1veypbbLyczGt8HQse0KICBsaXZlUm9vbUdvb2RzKHBhcmFtczogYW55ID0ge30pIHsKICAgIHJldHVybiBhcGlBeGlvcyh7CiAgICAgIHBhcmFtcywKICAgICAgdXJsOiBgL2xpdmVfcm9vbV9nb29kcy5jZ2lgLAogICAgICBtZXRob2Q6IEhUVFBfTUVUSE9ELlBPU1QsCiAgICAgIGJhc2VVcmw6IFJFUVVFU1RfQkFTRV9VUkwubGl2ZVB1c2hlciwKICAgIH0pOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nb1RvTG9naW5QYWdlKCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>gzhAppId: { // 公众号appId
-      dev: &quot;wx9cd2aa1105f5d752&quot;,
-      test: &quot;wx9cd2aa1105f5d752&quot;,
-      build: &quot;wx9cd2aa1105f5d752&quot;,
-    },</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYXdhaXQgbmF2aWdhdGVUb1VSTChST1VURS5MT0dJTik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBbUk9VVEUuSU5ERVhdOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG9jYXRpb24sIGxvY2F0aW9uLmhhc2gpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVkaXJlY3RVcmwpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXJsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTExMTExKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUk9VVEUgfSBmcm9tICJAL2Fzc2V0cy9jb25zdGFudC9jb21tb24iOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
   </component>
