@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>send</entry>
         <entry>goToLogin</entry>
         <entry>submit</entry>
         <entry>绑定手机</entry>
@@ -25,6 +24,7 @@
         <entry>title</entry>
         <entry>console.log</entry>
         <entry>click</entry>
+        <entry>refs</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -158,19 +158,20 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1592831331507">
-        <mark key="'" line="188" column="0" />
+      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1592831952035">
+        <mark key="'" line="90" column="10" />
         <mark key="[" line="88" column="26" />
         <mark key="]" line="88" column="26" />
         <mark key="." line="88" column="25" />
         <mark key="^" line="88" column="26" />
       </file>
       <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1592829814263" />
-      <file name="E:/jxgwxapp/src/components/PayH5.vue" timestamp="1592831350950">
-        <mark key="'" line="6" column="9" />
-        <mark key="[" line="41" column="24" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="E:/jxgwxapp/src/components/PayH5.vue" timestamp="1592833059572">
+        <mark key="'" line="67" column="7" />
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1592827404443">
         <mark key="[" line="0" column="0" />
@@ -214,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="539" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="102" column="7" filename="E:/jxgwxapp/node_modules/@dcloudio/uni-ui/lib/uni-number-box/uni-number-box.vue" />
       <jump line="60" column="16" filename="E:/jxgwxapp/node_modules/@dcloudio/uni-ui/lib/uni-number-box/uni-number-box.vue" />
       <jump line="7" column="2" filename="E:/jxgwxapp/src/components/market/GoodNumber.vue" />
       <jump line="6" column="9" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -314,18 +313,20 @@
       <jump line="185" column="14" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
       <jump line="189" column="0" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
       <jump line="6" column="9" filename="E:/jxgwxapp/src/components/PayH5.vue" />
+      <jump line="90" column="10" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
+      <jump line="67" column="7" filename="E:/jxgwxapp/src/components/PayH5.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>click</text>
+        <text>refs</text>
       </register>
       <register name="0" type="4">
         <text>// 微信h5支付
@@ -338,39 +339,50 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRpdGxlPSLRodTx1qe4tre9yr0iCg==</text>
+      <register name="2" type="4">
+        <text>dto: {
+        idempotentKey: Date.now(),
+        _</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuJHJlZnMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMyk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVyciwgZGF0YSk7Cg==</text>
+      <register name="4" type="4">
+        <text>{
+      dto: {
+        idempotentKey: Date.now(),
+        _.pick(this, ['totalAmount', 'orderId', 'payInfoType', 'body',
+          'payOrderType', 'refMemberId', 'subject'])
+      }
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbS1zdHlsZT0icGFkZGluZzogNTBycHggMCA2NHJweDsiCg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5OiB0aGlzLmJvZHksCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRpdGxlPSLRodTx1qe4tre9yr0iCg==</text>
+      <register name="6" type="4">
+        <text>payOrderType: { // 支付信息类型:1-订单;2-购买店铺 3直播套餐
+      type: Number,
+      default: 1,
+    },</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRpCg==</text>
+        <text encoding="base64">ICBwYXlPcmRlclR5cGUgPSAwOyAvLyDWp7i2tqm1pcDg0M0gMMrHycy80s/CtaW2qbWlIDHM4c/Wtqm1pQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDp6LWluZGV4PSI1NTAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpzaG93PSJpc1Nob3ciCg==</text>
+        <text encoding="base64">ICAgIHByb3BOYW1lOiB7CiAgICAgIHR5cGU6IE51bWJlciwKICAgICAgZGVmYXVsdDogMAogICAgfSwK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>click</last-search>
+      <last-search>refs</last-search>
       <last-offset />
-      <last-pattern>click</last-pattern>
+      <last-pattern>refs</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
