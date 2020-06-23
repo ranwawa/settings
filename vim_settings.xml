@@ -142,12 +142,14 @@
         <mark key="." line="808" column="0" />
         <mark key="^" line="1032" column="25" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1592913282235">
-        <mark key="'" line="153" column="37" />
-        <mark key="^" line="163" column="4" />
+      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1592914494539">
+        <mark key="[" line="153" column="20" />
+        <mark key="]" line="153" column="34" />
+        <mark key="^" line="153" column="34" />
+        <mark key="." line="153" column="33" />
       </file>
       <file name="E:/jxgwxapp/src/components/live/LiveItem.vue" timestamp="1592903964537" />
-      <file name="E:/jxgwxapp/src/api/master.ts" timestamp="1592904849950">
+      <file name="E:/jxgwxapp/src/api/master.ts" timestamp="1592914004099">
         <mark key="'" line="14" column="37" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="43" />
@@ -324,11 +326,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>不必要</text>
       </register>
       <register name="-" type="4">
-        <text>ache</text>
+        <text>不必要</text>
       </register>
       <register name="/" type="4">
         <text>123456</text>
@@ -337,36 +339,35 @@
         <text>JSON.stringify(json)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucHJvZHVjdExpc3Quc3BsaWNlKGluZGV4LCAxLCBlbGUpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>try {
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzNDU2LCB0aGlzLnByb2R1Y3RMaXN0KTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZGF0YS5mb3JFYWNoKChlbGUsIGluZGV4KSA9PiB7CiAgICAgICAgCiAgICAgIH0pOw==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="5" type="4">
+        <text>if (item) {
+          item.isSelected = true;
+          item.isUped = !!ele.status;
+          this.productList.splice(index, 1, item);
+        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0ucmVmR29vZHNJZCwgaW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpdGVtID0gcHJvZHVjdExpc3QuZmluZCgKICAgICAgICAgIChwcm9kdWN0KSA9PiBwcm9kdWN0LnJlZkdvb2RzSWQgPT09IGVsZS5nb29kc0lkCiAgICAgICAgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>return {
-          ...item,
-          isSelected: true,
-          isUped: !!ele.status,
-        };</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
   </component>
