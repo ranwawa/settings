@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>title</entry>
         <entry>click</entry>
         <entry>refs</entry>
         <entry>sit</entry>
@@ -24,6 +23,7 @@
         <entry>48</entry>
         <entry>submit</entry>
         <entry>callPay</entry>
+        <entry>333</entry>
         <entry>console.log</entry>
       </history-search>
       <history-cmd />
@@ -142,21 +142,17 @@
         <mark key="]" line="73" column="19" />
         <mark key="." line="73" column="19" />
       </file>
-      <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1592882124170">
-        <mark key="'" line="1211" column="10" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1592883760697">
+        <mark key="'" line="763" column="16" />
+        <mark key="[" line="994" column="55" />
+        <mark key="]" line="994" column="63" />
+        <mark key="." line="994" column="62" />
+        <mark key="^" line="994" column="63" />
       </file>
       <file name="E:/jxgh5/vue.config.js" timestamp="1592835175618">
         <mark key="'" line="16" column="28" />
       </file>
-      <file name="E:/jxgwxapp/src/components/payH5.vue" timestamp="1592830118092">
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="28" column="31" />
-        <mark key="." line="28" column="30" />
-        <mark key="^" line="28" column="31" />
-      </file>
+      <file name="E:/jxgwxapp/src/api/master.ts" timestamp="1592884113060" />
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592880423286">
         <mark key="'" line="115" column="4" />
         <mark key="[" line="70" column="0" />
@@ -168,6 +164,12 @@
         <mark key="]" line="17" column="29" />
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="29" />
+      </file>
+      <file name="E:/jxgwxapp/src/pages/master/anchorAuth.vue" timestamp="1592884881877">
+        <mark key="[" line="103" column="11" />
+        <mark key="]" line="103" column="12" />
+        <mark key="^" line="103" column="12" />
+        <mark key="." line="103" column="11" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1592879932561">
         <mark key="'" line="76" column="16" />
@@ -185,7 +187,7 @@
         <mark key="." line="76" column="49" />
         <mark key="^" line="76" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592879970028">
+      <file name="/Dummy.txt" timestamp="1592883764772">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1592833981374">
@@ -204,7 +206,7 @@
       <file name="E:/jxgh5/src/views/shareH5/paySuccess/index.vue" timestamp="1592835695600">
         <mark key="'" line="78" column="2" />
       </file>
-      <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1592881965726" />
+      <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1592883187111" />
       <file name="E:/jxgwxapp/src/main.ts" timestamp="1592878794379">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="36" />
@@ -213,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="110" column="26" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="121" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="17" column="56" filename="E:/jxgwxapp/src/config.ts" />
       <jump line="110" column="0" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
@@ -291,9 +291,6 @@
       <jump line="69" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="115" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="416" column="21" filename="E:/jxgh5/src/plugin/commonData.ts" />
-      <jump line="704" column="10" filename="E:/jxgh5/src/plugin/commonData.ts" />
-      <jump line="721" column="8" filename="E:/jxgh5/src/plugin/commonData.ts" />
-      <jump line="763" column="16" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="376" column="6" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="705" column="10" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="722" column="8" filename="E:/jxgh5/src/plugin/commonData.ts" />
@@ -301,7 +298,6 @@
       <jump line="1025" column="0" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="1209" column="10" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="1028" column="0" filename="E:/jxgh5/src/plugin/commonData.ts" />
-      <jump line="95" column="0" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="94" column="6" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="96" column="8" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="99" column="8" filename="E:/jxgh5/src/plugin/commonData.ts" />
@@ -313,48 +309,54 @@
       <jump line="724" column="8" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="766" column="16" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="1211" column="10" filename="E:/jxgh5/src/plugin/commonData.ts" />
+      <jump line="95" column="33" filename="E:/jxgh5/src/plugin/commonData.ts" />
+      <jump line="987" column="8" filename="E:/jxgh5/src/plugin/commonData.ts" />
+      <jump line="427" column="0" filename="E:/jxgh5/src/plugin/commonData.ts" />
+      <jump line="704" column="10" filename="E:/jxgh5/src/plugin/commonData.ts" />
+      <jump line="721" column="8" filename="E:/jxgh5/src/plugin/commonData.ts" />
+      <jump line="763" column="16" filename="E:/jxgh5/src/plugin/commonData.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmVhcm5Nb25leSwgMjIyMjIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgPHZpZXcgY2xhc3M9ImNlbGwtaXRlbSI+CiAgICAgICAgPHZpZXcgY2xhc3M9ImNlbGwtbGVmdCI+warPtbXnu7A8L3ZpZXc+CiAgICAgICAgPHZpZXcgY2xhc3M9ImNlbGwtcmlnaHQiPgogICAgICAgICAgPGlucHV0CiAgICAgICAgICAgIHR5cGU9Im51bWJlciIKICAgICAgICAgICAgY2xhc3M9ImNlbGwtaW5wdXQiCiAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLH68rkyOvK1rv6usUiCiAgICAgICAgICAgIDp2YWx1ZT0icGhvbmUiCiAgICAgICAgICAgIEBpbnB1dD0iZ2V0UGhvbmUiCiAgICAgICAgICAvPgogICAgICAgIDwvdmlldz4KICAgICAgPC92aWV3PgogICA=</text>
       </register>
       <register name="-" type="4">
-        <text>123123123</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvcGtlZXBlckluY29tZTogYXJyc1swXVsic2hvcGtlZXBlckluY29tZSJdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNpemU9ImxhcmdlIgogICAgICAgICAgdGl0bGUtd2lkdGg9IjZlbSIKICAgICAgICAgIGNsZWFyYWJsZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmVhcm5Nb25leSwgMjIyMjIpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgPHZpZXcgY2xhc3M9ImNlbGwtaXRlbSI+CiAgICAgICAgPHZpZXcgY2xhc3M9ImNlbGwtbGVmdCI+warPtbXnu7A8L3ZpZXc+CiAgICAgICAgPHZpZXcgY2xhc3M9ImNlbGwtcmlnaHQiPgogICAgICAgICAgPGlucHV0CiAgICAgICAgICAgIHR5cGU9Im51bWJlciIKICAgICAgICAgICAgY2xhc3M9ImNlbGwtaW5wdXQiCiAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLH68rkyOvK1rv6usUiCiAgICAgICAgICAgIDp2YWx1ZT0icGhvbmUiCiAgICAgICAgICAgIEBpbnB1dD0iZ2V0UGhvbmUiCiAgICAgICAgICAvPgogICAgICAgIDwvdmlldz4KICAgICAgPC92aWV3PgogICA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5pc0FjdGl2aXR5LCB0aGlzLmVhcm5Nb25leSwgMTIzMTIzKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIDx2aWV3IGNsYXNzPSJjZWxsLWl0ZW0iPgogICAgICAgIDx2aWV3IGNsYXNzPSJjZWxsLWxlZnQiPtXmyrXQ1cP7PC92aWV3PgogICAgICAgIDx2aWV3IGNsYXNzPSJjZWxsLXJpZ2h0Ij4KICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICBjbGFzcz0iY2VsbC1pbnB1dCIKICAgICAgICAgICAgcGxhY2Vob2xkZXI9ItDo0+vJ7bfd1qTQ1cP70rvWwiIKICAgICAgICAgICAgOnZhbHVlPSJuYW1lIgogICAgICAgICAgICBAaW5wdXQ9ImdldE5hbWUiCiAgICAgICAgICAvPgogICAgICAgIDwvdmlldz4KICAgICAgPC92aWV3PgogICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhteVRoaXMuZWFybk1vbmV5LCA2NjYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlucHV0LWFsaWduPSJyaWdodCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXNSZWFsT2JqZWN0KHNrdTBEYXRhWyJhY3Rpdml0eVNrdSJdKSwgNTU1KTsK</text>
+        <text encoding="base64">aW1wb3J0IFV2Q2VsbEdyb3VwIGZyb20gJ3VuaS12YW50L2xpYi9jZWxsLWdyb3VwLnZ1ZSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMTEsIHNrdTBEYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICA8dXYtY2VsbCBpPjwvdXYtY2VsbD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhza3VEYXRhLCAxMjMxMjMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyB0aGlzLmVhcm5Nb25leSA9IE1hdGguZmxvb3IodGhpcy5wcm94eVByaWNlKmNob29zZVNrdURhdGFbJ3NlbGVjdGVkU2t1Q29tYiddWydzaG9wa2VlcGVySW5jb21lUmF0ZSddKS8xMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGlkLCByZWZHb29kc0F0dHJWYWx1ZUlkLCAxMjMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmFjdGl2aXR5RWFybk1vbmV5ID0gTWF0aC5mbG9vcih0aGlzLmFjdGl2aXR5UHJpY2UqY2hvb3NlU2t1RGF0YVsnc2VsZWN0ZWRTa3VDb21iJ11bJ2FjdGl2aXR5U2t1J11bJ2FjdGl2aXR5UmF0aW8nXSowLjkpLzEwMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1iZXJJZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5hY3Rpdml0eUVhcm5Nb25leSA9IE1hdGguZmxvb3IodGhpcy5hY3Rpdml0eVByaWNlKmNob29zZVNrdURhdGFbJ3NlbGVjdGVkU2t1Q29tYiddWydhY3Rpdml0eVNrdSddWydhY3Rpdml0eVJhdGlvJ10qMC45KS8xMDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1iZXJJZCwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmVhcm5Nb25leSwgMjIyMjIpOwo=</text>
       </register>
     </registers>
   </component>
