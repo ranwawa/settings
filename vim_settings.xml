@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592875170953">
+      <file name="/Dummy.txt" timestamp="1592876530525">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/user/mixins.ts" timestamp="1592827151029">
@@ -160,8 +160,11 @@
         <mark key="]" line="73" column="19" />
         <mark key="." line="73" column="19" />
       </file>
-      <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1592876512687">
+      <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1592877916926">
         <mark key="'" line="71" column="6" />
+        <mark key="[" line="480" column="0" />
+        <mark key="]" line="481" column="50" />
+        <mark key="." line="480" column="0" />
       </file>
       <file name="E:/jxgh5/vue.config.js" timestamp="1592835175618">
         <mark key="'" line="16" column="28" />
@@ -314,8 +317,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2t1RGF0YVsic2t1Il1bImxpc3QiXVtpXVsic2hvcGtlZXBlckluY29tZSJdID0KICAgICAgICAgICAgICAgICAgICAgICAgICB2YWxbInNob3BrZWVwZXJJbmNvbWUiXTsK</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -323,15 +326,8 @@
       <register name="/" type="4">
         <text>earn</text>
       </register>
-      <register name="0" type="4">
-        <text>// 微信h5支付
-  h5WeixinPay(params: any) {
-    return apiAxios({
-      params,
-      url: &quot;/blade-pay/pay/wxpay/doWapPay&quot;,
-      method: HTTP_METHOD.POST,
-    });
-  }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2t1RGF0YVsic2t1Il1bImxpc3QiXVtpXVsic2hvcGtlZXBlckluY29tZSJdID0KICAgICAgICAgICAgICAgICAgICAgICAgICB2YWxbInNob3BrZWVwZXJJbmNvbWUiXTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgaWYgKHF1ZXJ5ICYmIHF1ZXJ5LmFuY2hvcklkKSB7CiAgICAgICAgcmV0dXJuIFtudWxsLCBxdWVyeS5hbmNob3JJZF07CiAgICAgIH0KICAgICAgcmV0dXJuIHVuVG9rZW47Cg==</text>
