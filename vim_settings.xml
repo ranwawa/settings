@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>goodsTitle</entry>
         <entry>goodsTool</entry>
         <entry>submit</entry>
         <entry>this.roomId</entry>
@@ -25,6 +24,7 @@
         <entry>import</entry>
         <entry>TIM</entry>
         <entry>on(</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -129,12 +129,12 @@
         <mark key="." line="106" column="51" />
         <mark key="^" line="106" column="52" />
       </file>
-      <file name="E:/jxgwxapp/src/live/pages/liveroom.vue" timestamp="1592925344207">
-        <mark key="'" line="978" column="2" />
-        <mark key="[" line="610" column="11" />
-        <mark key="]" line="610" column="33" />
-        <mark key="." line="610" column="32" />
-        <mark key="^" line="610" column="33" />
+      <file name="E:/jxgwxapp/src/live/pages/liveroom.vue" timestamp="1592927394607">
+        <mark key="'" line="435" column="32" />
+        <mark key="[" line="610" column="16" />
+        <mark key="]" line="610" column="45" />
+        <mark key="." line="610" column="44" />
+        <mark key="^" line="610" column="45" />
       </file>
       <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1592900520748">
         <mark key="'" line="104" column="6" />
@@ -212,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="2" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="14" column="37" filename="E:/jxgwxapp/src/api/master.ts" />
       <jump line="222" column="0" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="140" column="6" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
@@ -312,18 +311,19 @@
       <jump line="432" column="28" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
       <jump line="992" column="76" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
       <jump line="979" column="2" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
+      <jump line="435" column="32" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>TIM.EVENT.MESSAGE_RECEIVED</text>
+        <text>123</text>
       </register>
       <register name="-" type="4">
-        <text>TIM.EVENT.MESSAGE_RECEIVED</text>
+        <text>123</text>
       </register>
       <register name="/" type="4">
-        <text>on(</text>
+        <text>new</text>
       </register>
       <register name="0" type="4">
         <text>(data.orderPrice / 100).toFixed(2)</text>
@@ -363,9 +363,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>on(</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>on(</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
