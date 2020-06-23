@@ -131,12 +131,12 @@
       <file name="E:/jxgh5/src/components/goodsList/goodsSeckill.vue" timestamp="1592899297151">
         <mark key="'" line="61" column="2" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1592912769109">
+      <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1592918162180">
         <mark key="'" line="95" column="42" />
-        <mark key="[" line="115" column="37" />
-        <mark key="]" line="115" column="21" />
-        <mark key="." line="115" column="20" />
-        <mark key="^" line="115" column="21" />
+        <mark key="[" line="106" column="38" />
+        <mark key="]" line="106" column="52" />
+        <mark key="." line="106" column="51" />
+        <mark key="^" line="106" column="52" />
       </file>
       <file name="E:/jxgh5/src/components/goodsList/goodsTool.vue" timestamp="1592900502880">
         <mark key="'" line="132" column="16" />
@@ -172,13 +172,6 @@
         <mark key="^" line="389" column="24" />
         <mark key="." line="389" column="23" />
       </file>
-      <file name="E:/jxgwxapp/src/main.ts" timestamp="1592891582496">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="32" column="25" />
-      </file>
       <file name="E:/jxgwxapp/src/api/master.ts" timestamp="1592914004099">
         <mark key="'" line="14" column="37" />
         <mark key="[" line="55" column="0" />
@@ -207,6 +200,12 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1592918405040">
+        <mark key="[" line="165" column="70" />
+        <mark key="]" line="165" column="71" />
+        <mark key="^" line="165" column="71" />
+        <mark key="." line="165" column="70" />
       </file>
       <file name="E:/jxgwxapp/package.json" timestamp="1592894915577">
         <mark key="'" line="39" column="39" />
@@ -325,7 +324,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>不必要</text>
+        <text>this.liveList[ROOM_STATE.NO_START]</text>
       </register>
       <register name="-" type="4">
         <text>不必要</text>
@@ -334,7 +333,7 @@
         <text>onLoad</text>
       </register>
       <register name="0" type="4">
-        <text>JSON.stringify(json)</text>
+        <text>this.liveList[ROOM_STATE.NO_START]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHRoaXMucHJvZHVjdExpc3Quc3BsaWNlKGluZGV4LCAxLCBlbGUpOwo=</text>
