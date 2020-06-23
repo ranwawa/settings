@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>orderId</entry>
-        <entry>getA</entry>
-        <entry>分享</entry>
-        <entry>ourJxg</entry>
         <entry>callAppPay</entry>
         <entry>48</entry>
         <entry>submit</entry>
@@ -25,6 +21,10 @@
         <entry>console.log</entry>
         <entry>赚</entry>
         <entry>earn</entry>
+        <entry>earns</entry>
+        <entry>返</entry>
+        <entry>goodsTitle</entry>
+        <entry>立即购买</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,15 +119,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgh5/src/components/goodsList/goodsSeckill.vue" timestamp="1592898075582">
+      <file name="E:/jxgh5/src/components/goodsList/goodsSeckill.vue" timestamp="1592899297151">
         <mark key="'" line="61" column="2" />
-      </file>
-      <file name="E:/jxgwxapp/src/api/pay.ts" timestamp="1592880470399">
-        <mark key="'" line="31" column="42" />
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="27" column="12" />
-        <mark key="^" line="27" column="12" />
-        <mark key="." line="27" column="11" />
       </file>
       <file name="E:/jxgwxapp/src/manifest.json" timestamp="1592893284944">
         <mark key="[" line="84" column="38" />
@@ -135,7 +128,7 @@
         <mark key="^" line="84" column="39" />
         <mark key="." line="84" column="38" />
       </file>
-      <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1592898246626">
+      <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1592899322503">
         <mark key="'" line="104" column="6" />
         <mark key="[" line="808" column="0" />
         <mark key="]" line="808" column="0" />
@@ -145,6 +138,7 @@
       <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1592894395108">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="E:/jxgwxapp/src/components/live/LiveItem.vue" timestamp="1592898586686" />
       <file name="E:/jxgwxapp/src/api/master.ts" timestamp="1592894427696">
         <mark key="'" line="14" column="37" />
         <mark key="[" line="75" column="5" />
@@ -152,7 +146,7 @@
         <mark key="." line="75" column="8" />
         <mark key="^" line="75" column="9" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592897006250">
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592898618365">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -164,13 +158,6 @@
         <mark key="^" line="103" column="12" />
         <mark key="." line="103" column="11" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1592879932561">
-        <mark key="'" line="76" column="16" />
-        <mark key="[" line="76" column="18" />
-        <mark key="]" line="76" column="49" />
-        <mark key="." line="76" column="48" />
-        <mark key="^" line="76" column="49" />
-      </file>
       <file name="E:/jxgwxapp/src/components/PayH5.vue" timestamp="1592880723863">
         <mark key="[" line="76" column="49" />
         <mark key="]" line="76" column="50" />
@@ -180,7 +167,7 @@
       <file name="E:/jxgwxapp/package.json" timestamp="1592894915577">
         <mark key="'" line="39" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592898284821">
+      <file name="/Dummy.txt" timestamp="1592899330244">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" timestamp="1592895075701">
@@ -190,7 +177,8 @@
         <mark key="^" line="29" column="14" />
       </file>
       <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1592893659451" />
-      <file name="E:/jxgh5/src/components/goodsList/goodsTool.vue" timestamp="1592896308293">
+      <file name="E:/jxgh5/src/components/goodsList/goodsTool.vue" timestamp="1592899561566">
+        <mark key="'" line="132" column="16" />
         <mark key="[" line="61" column="44" />
         <mark key="]" line="61" column="51" />
         <mark key="^" line="61" column="51" />
@@ -202,7 +190,7 @@
         <mark key="." line="280" column="43" />
         <mark key="^" line="280" column="44" />
       </file>
-      <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1592898276726">
+      <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1592898737986">
         <mark key="'" line="429" column="46" />
         <mark key="[" line="388" column="19" />
         <mark key="]" line="389" column="24" />
@@ -221,18 +209,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1592899325645">
+        <mark key="'" line="406" column="4" />
+      </file>
       <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1592890747871" />
     </filemarks>
     <jumps>
-      <jump line="208" column="23" filename="E:/jxgh5/src/views/shareH5/paySuccess/index.vue" />
-      <jump line="106" column="11" filename="E:/jxgh5/src/views/shareH5/paySuccess/index.vue" />
-      <jump line="148" column="23" filename="E:/jxgh5/src/views/shareH5/paySuccess/index.vue" />
-      <jump line="168" column="20" filename="E:/jxgh5/src/views/shareH5/paySuccess/index.vue" />
-      <jump line="78" column="2" filename="E:/jxgh5/src/views/shareH5/paySuccess/index.vue" />
-      <jump line="184" column="24" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="40" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="22" column="11" filename="E:/jxgh5/src/plugin/commonData.ts" />
-      <jump line="71" column="6" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="96" column="37" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
       <jump line="182" column="4" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
       <jump line="95" column="9" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
@@ -324,6 +306,15 @@
       <jump line="388" column="17" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
       <jump line="389" column="11" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
       <jump line="429" column="46" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
+      <jump line="394" column="45" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="79" column="42" filename="E:/jxgh5/src/components/goodsList/goodsTool.vue" />
+      <jump line="61" column="39" filename="E:/jxgh5/src/components/goodsList/goodsTool.vue" />
+      <jump line="322" column="21" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="375" column="47" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="406" column="4" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="134" column="16" filename="E:/jxgh5/src/components/goodsList/goodsTool.vue" />
+      <jump line="138" column="16" filename="E:/jxgh5/src/components/goodsList/goodsTool.vue" />
+      <jump line="132" column="16" filename="E:/jxgh5/src/components/goodsList/goodsTool.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,7 +326,7 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>earn</text>
+        <text>立即购买</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmluaXRpYWxTa3VbImFjdGl2aXR5U2t1Il0pOwo=</text>
@@ -371,9 +362,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>earn</last-search>
+      <last-search>立即购买</last-search>
       <last-offset />
-      <last-pattern>earn</last-pattern>
+      <last-pattern>立即购买</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
