@@ -5,13 +5,10 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>cgi.cgi</entry>
-        <entry>compute</entry>
         <entry>确认操作</entry>
         <entry>earnMoney</entry>
         <entry>computed</entry>
         <entry>share</entry>
-        <entry>console.log</entry>
         <entry>赚</entry>
         <entry>earn</entry>
         <entry>earns</entry>
@@ -25,6 +22,9 @@
         <entry>selectedProductList</entry>
         <entry>123456</entry>
         <entry>onLoad</entry>
+        <entry>confirm</entry>
+        <entry>推荐</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592915759905">
+      <file name="/Dummy.txt" timestamp="1592918751577">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" timestamp="1592895075701">
@@ -201,11 +201,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1592918405040">
-        <mark key="[" line="165" column="70" />
-        <mark key="]" line="165" column="71" />
-        <mark key="^" line="165" column="71" />
-        <mark key="." line="165" column="70" />
+      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1592920112008">
+        <mark key="'" line="183" column="0" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="^" line="14" column="24" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="E:/jxgwxapp/package.json" timestamp="1592894915577">
         <mark key="'" line="39" column="39" />
@@ -219,11 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1209" column="10" filename="E:/jxgh5/src/plugin/commonData.ts" />
-      <jump line="1028" column="0" filename="E:/jxgh5/src/plugin/commonData.ts" />
-      <jump line="94" column="6" filename="E:/jxgh5/src/plugin/commonData.ts" />
-      <jump line="99" column="8" filename="E:/jxgh5/src/plugin/commonData.ts" />
-      <jump line="127" column="10" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="142" column="10" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="156" column="10" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="174" column="8" filename="E:/jxgh5/src/plugin/commonData.ts" />
@@ -319,60 +315,65 @@
       <jump line="153" column="37" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="148" column="19" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="58" column="26" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="168" column="23" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
+      <jump line="180" column="45" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
+      <jump line="177" column="2" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
+      <jump line="11" column="38" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
+      <jump line="183" column="0" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.liveList[ROOM_STATE.NO_START]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKChkYXRhLm9yZGVyUHJpY2UgLyAxMDApLnRvRml4ZWQoMikpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>不必要</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="4">
-        <text>this.liveList[ROOM_STATE.NO_START]</text>
+        <text>(data.orderPrice / 100).toFixed(2)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucHJvZHVjdExpc3Quc3BsaWNlKGluZGV4LCAxLCBlbGUpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKChkYXRhLm9yZGVyUHJpY2UgLyAxMDApLnRvRml4ZWQoMikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzNDU2LCB0aGlzLnByb2R1Y3RMaXN0KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVyciwgZGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucHJvZHVjdExpc3Quc3BsaWNlKGluZGV4LCAxLCBlbGUpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzNDU2LCB0aGlzLnByb2R1Y3RMaXN0KTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ZGF0YS5mb3JFYWNoKChlbGUsIGluZGV4KSA9PiB7CiAgICAgICAgCiAgICAgIH0pOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>if (item) {
           item.isSelected = true;
           item.isUped = !!ele.status;
           this.productList.splice(index, 1, item);
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpdGVtID0gcHJvZHVjdExpc3QuZmluZCgKICAgICAgICAgIChwcm9kdWN0KSA9PiBwcm9kdWN0LnJlZkdvb2RzSWQgPT09IGVsZS5nb29kc0lkCiAgICAgICAgKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpdGVtID0gcHJvZHVjdExpc3QuZmluZCgKICAgICAgICAgIChwcm9kdWN0KSA9PiBwcm9kdWN0LnJlZkdvb2RzSWQgPT09IGVsZS5nb29kc0lkCiAgICAgICAgKTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
