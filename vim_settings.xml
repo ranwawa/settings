@@ -122,7 +122,7 @@
       <file name="E:/jxgh5/src/components/goodsList/goodsSeckill.vue" timestamp="1592899297151">
         <mark key="'" line="61" column="2" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1592903136393">
+      <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1592903544275">
         <mark key="'" line="95" column="42" />
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -149,7 +149,7 @@
         <mark key="." line="131" column="46" />
         <mark key="^" line="131" column="47" />
       </file>
-      <file name="E:/jxgwxapp/src/components/live/LiveItem.vue" timestamp="1592898586686" />
+      <file name="E:/jxgwxapp/src/components/live/LiveItem.vue" timestamp="1592903964537" />
       <file name="E:/jxgwxapp/src/api/master.ts" timestamp="1592894427696">
         <mark key="'" line="14" column="37" />
         <mark key="[" line="75" column="5" />
@@ -157,11 +157,12 @@
         <mark key="." line="75" column="8" />
         <mark key="^" line="75" column="9" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592900310510">
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592903956255">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="31" />
-        <mark key="." line="65" column="0" />
+        <mark key="[" line="113" column="21" />
+        <mark key="]" line="114" column="22" />
+        <mark key="." line="114" column="21" />
+        <mark key="^" line="114" column="22" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/anchorAuth.vue" timestamp="1592884881877">
         <mark key="[" line="103" column="11" />
@@ -328,11 +329,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMTEsIFtdLmNvbmNhdChsaXZpbmcsIHN1c3BlbmQsIGludGVycnVwdCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>json.roomId</text>
       </register>
       <register name="-" type="4">
-        <text>, 111</text>
+        <text>json.roomId</text>
       </register>
       <register name="/" type="4">
         <text>onLoad</text>
@@ -341,35 +342,40 @@
         <text>ROOM_STATE.INTERRUPT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMTEsIFtdLmNvbmNhdChsaXZpbmcsIHN1c3BlbmQsIGludGVycnVwdCkpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFJPT01fU1RBVEUuTElWSU5HLCBST09NX1NUQVRFLlNVU1BFTkQsIFJPT01fU1RBVEUuSU5URVJSVVBUKTsK</text>
+      <register name="2" type="4">
+        <text>{
+        roomId: item.roomId,
+          liveType: item.liveType,
+        roomOpenType: item.roomOpenType,
+        roomLiveState: item.roomLiveState,
+      }</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMTEsIFtdLmNvbmNhdChsaXZpbmcsIHN1c3BlbmQsIGludGVycnVwdCkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFJPT01fU1RBVEUuTElWSU5HLCBST09NX1NUQVRFLlNVU1BFTkQsIFJPT01fU1RBVEUuSU5URVJSVVBUKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubGl2ZUxpc3QpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>(
        ||
        ||
       ]
     )</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGUucWV1cnkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNvbi5yb29tSWQpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygyMjIsIHRoaXMuaW5pdGlhbFNrdVsiYWN0aXZpdHlTa3UiXSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygyMjIsIHNrdTBEYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNvbi5yb29tSWQpOwo=</text>
       </register>
     </registers>
   </component>
