@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>开通</entry>
-        <entry>register</entry>
         <entry>max</entry>
         <entry>token</entry>
         <entry>callAppPay</entry>
@@ -25,6 +23,8 @@
         <entry>mixins</entry>
         <entry>orderId</entry>
         <entry>getA</entry>
+        <entry>分享</entry>
+        <entry>earn</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,63 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgwxapp/node_modules/uni-vant/lib/popup.vue" timestamp="1592831072008" />
-      <file name="E:/jxgwxapp/src/api/pay.ts" timestamp="1592834783276">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="10" />
-        <mark key="^" line="20" column="10" />
-        <mark key="." line="20" column="9" />
-      </file>
-      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1592874113422">
-        <mark key="[" line="84" column="39" />
-        <mark key="]" line="84" column="41" />
-        <mark key="^" line="84" column="41" />
-        <mark key="." line="84" column="40" />
-      </file>
-      <file name="E:/jxgh5/src/views/shareH5/buyNow/components/payMethods.vue" timestamp="1592835037605">
-        <mark key="[" line="73" column="19" />
-        <mark key="]" line="73" column="19" />
-        <mark key="." line="73" column="19" />
-      </file>
-      <file name="E:/jxgh5/vue.config.js" timestamp="1592835175618">
-        <mark key="'" line="16" column="28" />
-      </file>
-      <file name="E:/jxgwxapp/src/components/payH5.vue" timestamp="1592830118092">
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="28" column="31" />
-        <mark key="." line="28" column="30" />
-        <mark key="^" line="28" column="31" />
-      </file>
-      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592875037205">
-        <mark key="'" line="40" column="4" />
-        <mark key="[" line="75" column="28" />
-        <mark key="]" line="75" column="28" />
-        <mark key="." line="75" column="28" />
-        <mark key="^" line="76" column="41" />
-      </file>
-      <file name="E:/jxgwxapp/src/api/goods.ts" timestamp="1592829436030" />
-      <file name="E:/jxgwxapp/src/api/requestModel.ts" timestamp="1592827088201">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1592834527442">
-        <mark key="'" line="90" column="10" />
-        <mark key="[" line="88" column="60" />
-        <mark key="]" line="96" column="41" />
-        <mark key="." line="96" column="40" />
-        <mark key="^" line="96" column="41" />
-      </file>
-      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1592834999764">
-        <mark key="'" line="74" column="45" />
-      </file>
-      <file name="E:/jxgwxapp/src/components/PayH5.vue" timestamp="1592834865182">
-        <mark key="[" line="76" column="49" />
-        <mark key="]" line="76" column="50" />
-        <mark key="." line="76" column="49" />
-        <mark key="^" line="76" column="36" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592827404443">
+      <file name="/Dummy.txt" timestamp="1592875170953">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/user/mixins.ts" timestamp="1592827151029">
@@ -198,23 +142,74 @@
         <mark key="^" line="119" column="45" />
         <mark key="." line="119" column="44" />
       </file>
+      <file name="E:/jxgwxapp/src/api/pay.ts" timestamp="1592834783276">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="10" />
+        <mark key="^" line="20" column="10" />
+        <mark key="." line="20" column="9" />
+      </file>
+      <file name="E:/jxgh5/src/components/goodsList/goodsTool.vue" timestamp="1592876256449" />
+      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1592874113422">
+        <mark key="[" line="84" column="39" />
+        <mark key="]" line="84" column="41" />
+        <mark key="^" line="84" column="41" />
+        <mark key="." line="84" column="40" />
+      </file>
+      <file name="E:/jxgh5/src/views/shareH5/buyNow/components/payMethods.vue" timestamp="1592835037605">
+        <mark key="[" line="73" column="19" />
+        <mark key="]" line="73" column="19" />
+        <mark key="." line="73" column="19" />
+      </file>
+      <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1592876512687">
+        <mark key="'" line="71" column="6" />
+      </file>
+      <file name="E:/jxgh5/vue.config.js" timestamp="1592835175618">
+        <mark key="'" line="16" column="28" />
+      </file>
+      <file name="E:/jxgwxapp/src/components/payH5.vue" timestamp="1592830118092">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="28" column="31" />
+        <mark key="." line="28" column="30" />
+        <mark key="^" line="28" column="31" />
+      </file>
       <file name="E:/jxgh5/src/views/shareH5/paySuccess/index.vue" timestamp="1592835695600">
         <mark key="'" line="78" column="2" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1592826955852">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1592875085694">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="28" />
+        <mark key="." line="75" column="28" />
+        <mark key="^" line="76" column="41" />
+      </file>
+      <file name="E:/jxgwxapp/src/api/requestModel.ts" timestamp="1592827088201">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/util/basicSet.ts" timestamp="1592827648756">
         <mark key="[" line="524" column="16" />
         <mark key="]" line="524" column="16" />
         <mark key="." line="524" column="16" />
       </file>
+      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1592834527442">
+        <mark key="'" line="90" column="10" />
+        <mark key="[" line="88" column="60" />
+        <mark key="]" line="96" column="41" />
+        <mark key="." line="96" column="40" />
+        <mark key="^" line="96" column="41" />
+      </file>
+      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1592834999764">
+        <mark key="'" line="74" column="45" />
+      </file>
+      <file name="E:/jxgwxapp/src/components/PayH5.vue" timestamp="1592834865182">
+        <mark key="[" line="76" column="49" />
+        <mark key="]" line="76" column="50" />
+        <mark key="." line="76" column="49" />
+        <mark key="^" line="76" column="36" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="13" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="163" column="19" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="176" column="19" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="180" column="2" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="31" column="27" filename="E:/jxgwxapp/src/order/pages/index.vue" />
@@ -313,6 +308,8 @@
       <jump line="78" column="2" filename="E:/jxgh5/src/views/shareH5/paySuccess/index.vue" />
       <jump line="184" column="24" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="40" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="22" column="11" filename="E:/jxgh5/src/plugin/commonData.ts" />
+      <jump line="71" column="6" filename="E:/jxgh5/src/plugin/commonData.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,7 +321,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>getA</text>
+        <text>earn</text>
       </register>
       <register name="0" type="4">
         <text>// 微信h5支付
@@ -367,9 +364,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getA</last-search>
+      <last-search>earn</last-search>
       <last-offset />
-      <last-pattern>getA</last-pattern>
+      <last-pattern>earn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
