@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>@</entry>
         <entry>我要开通</entry>
         <entry>bem</entry>
         <entry>nav-bar</entry>
@@ -25,6 +24,7 @@
         <entry>avatar</entry>
         <entry>husky</entry>
         <entry>uni-vant</entry>
+        <entry>vant</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592989992060">
+      <file name="/Dummy.txt" timestamp="1592990487392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/components/nav-bar.vue" timestamp="1592986744795">
@@ -200,8 +200,8 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="36" />
       </file>
-      <file name="E:/jxgwxapp/package.json" timestamp="1592990086077">
-        <mark key="'" line="56" column="9" />
+      <file name="E:/jxgwxapp/package.json" timestamp="1592990650982">
+        <mark key="'" line="57" column="13" />
       </file>
       <file name="C:/project/uni-vant/src/pages/index.vue" timestamp="1592989616124">
         <mark key="[" line="58" column="26" />
@@ -211,9 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="33" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
-      <jump line="270" column="29" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
-      <jump line="536" column="7" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
       <jump line="468" column="36" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
       <jump line="877" column="11" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
       <jump line="896" column="30" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
@@ -311,6 +308,9 @@
       <jump line="54" column="18" filename="E:/jxgwxapp/package.json" />
       <jump line="56" column="9" filename="E:/jxgwxapp/package.json" />
       <jump line="12" column="3" filename="C:/project/uni-vant/package.json" />
+      <jump line="34" column="25" filename="E:/jxgwxapp/package.json" />
+      <jump line="58" column="29" filename="E:/jxgwxapp/package.json" />
+      <jump line="57" column="13" filename="E:/jxgwxapp/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,7 +322,7 @@
         <text>粘性布局</text>
       </register>
       <register name="/" type="4">
-        <text>uni-vant</text>
+        <text>vant</text>
       </register>
       <register name="0" type="4">
         <text>展示组件: [
@@ -362,9 +362,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>uni-vant</last-search>
+      <last-search>vant</last-search>
       <last-offset />
-      <last-pattern>uni-vant</last-pattern>
+      <last-pattern>vant</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
