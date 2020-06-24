@@ -17,7 +17,6 @@
         <entry>TIM</entry>
         <entry>on(</entry>
         <entry>new</entry>
-        <entry>onLoad</entry>
         <entry>@</entry>
         <entry>我要开通</entry>
         <entry>bem</entry>
@@ -25,6 +24,7 @@
         <entry>border</entry>
         <entry>console.log</entry>
         <entry>created</entry>
+        <entry>onLoad</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -126,8 +126,8 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="113" column="52" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1592917235114">
-        <mark key="'" line="58" column="26" />
+      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1592977504699">
+        <mark key="'" line="9" column="12" />
         <mark key="[" line="57" column="22" />
         <mark key="]" line="58" column="27" />
         <mark key="^" line="58" column="27" />
@@ -170,12 +170,12 @@
       <file name="/Dummy.txt" timestamp="1592971078745">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/components/nav-bar.vue" timestamp="1592977337696">
+      <file name="E:/jxgwxapp/src/pages/master/components/nav-bar.vue" timestamp="1592978038578">
         <mark key="'" line="149" column="11" />
-        <mark key="[" line="123" column="22" />
-        <mark key="]" line="123" column="39" />
-        <mark key="." line="123" column="38" />
-        <mark key="^" line="123" column="39" />
+        <mark key="[" line="124" column="26" />
+        <mark key="]" line="124" column="43" />
+        <mark key="." line="124" column="42" />
+        <mark key="^" line="124" column="43" />
       </file>
       <file name="C:/project/uni-vant/src/components/skeleton.vue" timestamp="1592969214045">
         <mark key="'" line="49" column="11" />
@@ -215,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="6" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="1018" column="29" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
       <jump line="0" column="0" filename="E:/jxgh5/src/views/goodsList/goodsDetail.vue" />
       <jump line="61" column="2" filename="E:/jxgh5/src/components/goodsList/goodsSeckill.vue" />
@@ -315,6 +314,7 @@
       <jump line="49" column="45" filename="E:/jxgwxapp/src/pages/master/components/nav-bar.vue" />
       <jump line="79" column="4" filename="E:/jxgwxapp/src/pages/master/components/nav-bar.vue" />
       <jump line="148" column="11" filename="E:/jxgwxapp/src/pages/master/components/nav-bar.vue" />
+      <jump line="9" column="12" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,7 +326,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>created</text>
+        <text>onLoad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFV2TmF2QmFyLAo=</text>
@@ -362,9 +362,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>created</last-search>
+      <last-search>onLoad</last-search>
       <last-offset />
-      <last-pattern>created</last-pattern>
+      <last-pattern>onLoad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
