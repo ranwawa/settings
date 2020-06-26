@@ -5,15 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pick</entry>
-        <entry>goToLogoin</entry>
-        <entry>ignore</entry>
-        <entry>goTo</entry>
-        <entry>用其他</entry>
-        <entry>绑定手机</entry>
-        <entry>submit</entry>
-        <entry>qs</entry>
-        <entry>depp</entry>
         <entry>deep</entry>
         <entry>order</entry>
         <entry>import</entry>
@@ -25,6 +16,15 @@
         <entry>hide</entry>
         <entry>display</entry>
         <entry>flex</entry>
+        <entry>price</entry>
+        <entry>size</entry>
+        <entry>NavBar</entry>
+        <entry>nav-bar</entry>
+        <entry>console.log</entry>
+        <entry>__text</entry>
+        <entry>margin-right</entry>
+        <entry>padding-base</entry>
+        <entry>color</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,27 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgwxapp/node_modules/uni-vant/lib/result.vue" timestamp="1593158878047" />
-      <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1593157558396">
-        <mark key="'" line="22" column="44" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="24" column="19" />
-      </file>
-      <file name="C:/project/uni-vant/src/components/button.vue" timestamp="1593164784160">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="353" column="13" />
-        <mark key="]" line="353" column="13" />
-        <mark key="." line="353" column="13" />
-      </file>
-      <file name="E:/jxgwxapp/src/App.vue" timestamp="1593156696007">
-        <mark key="[" line="99" column="12" />
-        <mark key="]" line="99" column="14" />
-        <mark key="^" line="99" column="14" />
-        <mark key="." line="99" column="13" />
-      </file>
-      <file name="E:/jxgwxapp/src/api/order.ts" timestamp="1593159618161" />
+      <file name="/skeleton.vue" timestamp="1593171295310" />
       <file name="C:/project/uni-vant/npm/lib/button.vue" timestamp="1593164528957">
         <mark key="'" line="407" column="6" />
         <mark key="[" line="350" column="0" />
@@ -147,60 +127,33 @@
         <mark key="." line="350" column="0" />
         <mark key="^" line="350" column="2" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/detail.vue" timestamp="1593161935218">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="E:/jxgwxapp/src/order/pages/result.vue" timestamp="1593161938389">
-        <mark key="'" line="6" column="9" />
-        <mark key="[" line="131" column="48" />
-        <mark key="]" line="131" column="49" />
-        <mark key="." line="131" column="48" />
-        <mark key="^" line="131" column="49" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593165116127">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
-      <file name="E:/jxgwxapp/node_modules/uni-vant/lib/button.vue" timestamp="1593161348763">
-        <mark key="'" line="71" column="2" />
-      </file>
       <file name="C:/project/uni-vant/src/components/result.vue" timestamp="1593165095050">
         <mark key="[" line="174" column="15" />
         <mark key="]" line="175" column="0" />
         <mark key="." line="175" column="0" />
         <mark key="^" line="157" column="16" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/list.vue" timestamp="1593160120307" />
-      <file name="C:/project/uni-vant/src/components/skeleton.vue" timestamp="1593168329374">
-        <mark key="'" line="41" column="7" />
-        <mark key="[" line="121" column="20" />
-        <mark key="]" line="121" column="31" />
-        <mark key="." line="121" column="30" />
-        <mark key="^" line="121" column="31" />
+      <file name="C:/project/uni-vant/src/components/common/index.css" timestamp="1593175861248">
+        <mark key="'" line="173" column="28" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="173" column="29" />
       </file>
-      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1593162383104">
-        <mark key="'" line="194" column="20" />
-        <mark key="[" line="181" column="28" />
-        <mark key="]" line="181" column="33" />
-        <mark key="." line="181" column="32" />
-        <mark key="^" line="181" column="33" />
+      <file name="C:/project/uni-vant/src/components/nav-bar.vue" timestamp="1593175600456">
+        <mark key="'" line="167" column="2" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="0" />
+        <mark key="." line="231" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1593161740549">
-        <mark key="'" line="118" column="17" />
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="0" />
-        <mark key="." line="275" column="0" />
-        <mark key="^" line="296" column="43" />
+      <file name="E:/jxgwxapp/node_modules/uni-vant/lib/skeleton.vue" timestamp="1593168604676" />
+      <file name="C:/project/uni-vant/src/pages/nav-bar.vue" timestamp="1593175323687">
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="38" column="11" />
+        <mark key="." line="38" column="10" />
+        <mark key="^" line="38" column="11" />
       </file>
-      <file name="E:/jxgwxapp/src/pages.json" timestamp="1593158252475">
-        <mark key="'" line="32" column="6" />
-        <mark key="[" line="105" column="39" />
-        <mark key="]" line="105" column="43" />
-        <mark key="." line="105" column="42" />
-        <mark key="^" line="105" column="43" />
-      </file>
-      <file name="C:/project/uni-vant/src/pages/skeleton.vue" timestamp="1593168533313">
+      <file name="C:/project/uni-vant/src/pages/skeleton.vue" timestamp="1593168730419">
         <mark key="[" line="23" column="42" />
         <mark key="]" line="23" column="43" />
         <mark key="." line="23" column="42" />
@@ -213,10 +166,17 @@
         <mark key="^" line="35" column="37" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="E:/jxgwxapp/src/components/market/GoodNumber.vue" timestamp="1593156551046">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="C:/project/uni-vant/src/pages.json" timestamp="1593171872416">
+        <mark key="[" line="245" column="5" />
+        <mark key="]" line="245" column="5" />
+        <mark key="." line="245" column="5" />
+      </file>
+      <file name="C:/project/uni-vant/src/pages/price.vue" timestamp="1593171273064">
+        <mark key="'" line="6" column="2" />
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="28" />
+        <mark key="^" line="23" column="28" />
+        <mark key="." line="23" column="27" />
       </file>
       <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593162914592">
         <mark key="'" line="358" column="39" />
@@ -225,29 +185,55 @@
         <mark key="." line="320" column="29" />
         <mark key="^" line="321" column="47" />
       </file>
+      <file name="C:/project/uni-vant/npm/lib/common/index.css" timestamp="1593174527106">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="C:/project/uni-vant/src/components/button.vue" timestamp="1593164784160">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="353" column="13" />
+        <mark key="]" line="353" column="13" />
+        <mark key="." line="353" column="13" />
+      </file>
+      <file name="C:/project/uni-vant/src/components/sass/_variables.scss" timestamp="1593174053649">
+        <mark key="'" line="209" column="8" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="210" column="19" />
+        <mark key="." line="210" column="18" />
+      </file>
+      <file name="C:/project/uni-vant/src/pages/index.vue" timestamp="1593172050318">
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="58" column="23" />
+        <mark key="." line="58" column="22" />
+        <mark key="^" line="58" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593175991828">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="C:/project/uni-vant/src/components/price.vue" timestamp="1593171257877">
+        <mark key="[" line="86" column="6" />
+        <mark key="]" line="86" column="11" />
+        <mark key="." line="86" column="10" />
+        <mark key="^" line="86" column="11" />
+      </file>
+      <file name="C:/project/uni-vant/src/components/skeleton.vue" timestamp="1593169223368">
+        <mark key="'" line="41" column="7" />
+        <mark key="[" line="45" column="11" />
+        <mark key="]" line="45" column="12" />
+        <mark key="." line="45" column="12" />
+        <mark key="^" line="45" column="11" />
+      </file>
+      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1593162383104">
+        <mark key="'" line="194" column="20" />
+        <mark key="[" line="181" column="28" />
+        <mark key="]" line="181" column="33" />
+        <mark key="." line="181" column="32" />
+        <mark key="^" line="181" column="33" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="4" filename="E:/jxgwxapp/src/pages/master/components/nav-bar.vue" />
-      <jump line="162" column="0" filename="E:/jxgwxapp/src/pages/master/index.vue" />
-      <jump line="176" column="19" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
-      <jump line="8" column="4" filename="E:/jxgwxapp/src/pages/master/index.vue" />
-      <jump line="75" column="2" filename="E:/jxgwxapp/src/pages/master/index.vue" />
-      <jump line="101" column="42" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
-      <jump line="132" column="19" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
-      <jump line="164" column="4" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
-      <jump line="141" column="26" filename="E:/jxgwxapp/src/pages/master/index.vue" />
-      <jump line="14" column="19" filename="E:/jxgwxapp/src/pages/master/index.vue" />
-      <jump line="130" column="10" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
-      <jump line="189" column="2" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
-      <jump line="190" column="11" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
-      <jump line="263" column="24" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
-      <jump line="219" column="12" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
-      <jump line="154" column="28" filename="C:/project/uni-vant/src/components/skeleton.vue" />
-      <jump line="25" column="34" filename="C:/project/uni-vant/src/components/skeleton.vue" />
-      <jump line="27" column="30" filename="C:/project/uni-vant/src/components/skeleton.vue" />
-      <jump line="28" column="66" filename="C:/project/uni-vant/src/components/skeleton.vue" />
-      <jump line="41" column="7" filename="C:/project/uni-vant/src/components/skeleton.vue" />
-      <jump line="31" column="0" filename="C:/project/uni-vant/package.json" />
       <jump line="54" column="18" filename="E:/jxgwxapp/package.json" />
       <jump line="56" column="9" filename="E:/jxgwxapp/package.json" />
       <jump line="12" column="3" filename="C:/project/uni-vant/package.json" />
@@ -327,42 +313,63 @@
       <jump line="394" column="6" filename="C:/project/uni-vant/npm/lib/button.vue" />
       <jump line="407" column="6" filename="C:/project/uni-vant/npm/lib/button.vue" />
       <jump line="0" column="0" filename="C:/project/uni-vant/src/components/button.vue" />
+      <jump line="6" column="2" filename="C:/project/uni-vant/src/pages/price.vue" />
+      <jump line="18" column="2" filename="C:/project/uni-vant/src/components/price.vue" />
+      <jump line="0" column="0" filename="C:/project/uni-vant/src/components/price.vue" />
+      <jump line="28" column="4" filename="C:/project/uni-vant/src/components/price.vue" />
+      <jump line="66" column="7" filename="C:/project/uni-vant/src/components/price.vue" />
+      <jump line="71" column="20" filename="C:/project/uni-vant/src/components/price.vue" />
+      <jump line="80" column="9" filename="C:/project/uni-vant/src/components/price.vue" />
+      <jump line="36" column="12" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
+      <jump line="131" column="0" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
+      <jump line="28" column="33" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
+      <jump line="43" column="27" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
+      <jump line="49" column="10" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
+      <jump line="209" column="8" filename="C:/project/uni-vant/src/components/sass/_variables.scss" />
+      <jump line="191" column="0" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
+      <jump line="228" column="27" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
+      <jump line="166" column="2" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
+      <jump line="0" column="0" filename="C:/project/uni-vant/npm/lib/common/index.css" />
+      <jump line="171" column="16" filename="C:/project/uni-vant/src/components/common/index.css" />
+      <jump line="102" column="30" filename="C:/project/uni-vant/src/components/common/index.css" />
+      <jump line="5" column="0" filename="C:/project/uni-vant/src/components/common/index.css" />
+      <jump line="176" column="28" filename="C:/project/uni-vant/src/components/common/index.css" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>示</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGFnZSB7CiAgZm9udC1mYW1pbHk6IC1hcHBsZS1zeXN0ZW0sIEJsaW5rTWFjU3lzdGVtRm9udCwgJ0hlbHZldGljYSBOZXVlJywgSGVsdmV0aWNhLCBTZWdvZSBVSSwgQXJpYWwsIFJvYm90bywgJ1BpbmdGYW5nIFNDJywgJ0hpcmFnaW5vIFNhbnMgR0InLCAnTWljcm9zb2Z0IFlhaGVpJywgc2Fucy1zZXJpZjsKfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>示</text>
+        <text>nav-bar</text>
       </register>
       <register name="/" type="4">
-        <text>flex</text>
+        <text>color</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFV2U2tlbGV0b24gZnJvbSAnQC9jb21wb25lbnRzL3NrZWxldG9uLnZ1ZSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFV2TmF2QmFyIGZyb20gJy4uL2NvbXBvbmVudHMvbmF2LWJhci52dWUnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHV2LWJ1dHRvbiBAY2xpY2s9ImlzTG9hZGluZ1NrZWxldG9uID0gIWlzTG9hZGluZ1NrZWxldG9uIj7P1Mq+PC91di1idXR0b24+Cg==</text>
+        <text encoding="base64">cGFnZSB7CiAgZm9udC1mYW1pbHk6IC1hcHBsZS1zeXN0ZW0sIEJsaW5rTWFjU3lzdGVtRm9udCwgJ0hlbHZldGljYSBOZXVlJywgSGVsdmV0aWNhLCBTZWdvZSBVSSwgQXJpYWwsIFJvYm90bywgJ1BpbmdGYW5nIFNDJywgJ0hpcmFnaW5vIFNhbnMgR0InLCAnTWljcm9zb2Z0IFlhaGVpJywgc2Fucy1zZXJpZjsKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx1di1zZWN0aW9uIHRpdGxlPSLP1Mq+19PX6bz+Ij4K</text>
+        <text encoding="base64">dmlldywgdGV4dCB7CiAgZm9udC1mYW1pbHk6IGluaGVyaXQ7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICDKtbzKxNrI3Qo=</text>
+        <text encoding="base64">aW1wb3J0IFV2SWNvbiBmcm9tICcuLi9jb21wb25lbnRzL2ljb24udnVlJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDEwMCU7Cg==</text>
+        <text encoding="base64">dmlldywKdGV4dAoudXYtZWxsaXBzaXMgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvdmlldz4K</text>
+        <text encoding="base64">ICAgICAgZm9udC1mYW1pbHk6IC1hcHBsZS1zeXN0ZW0sIEJsaW5rTWFjU3lzdGVtRm9udCwKICAgICAgJ0hlbHZldGljYSBOZXVlJywgSGVsdmV0aWNhLCBTZWdvZSBVSSwgQXJpYWwsIFJvYm90bywgJ1BpbmdGYW5nIFNDJywKICAgICAgJ0hpcmFnaW5vIFNhbnMgR0InLCAnTWljcm9zb2Z0IFlhaGVpJywgc2Fucy1zZXJpZjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx2aWV3IHYtZWxzZSBjbGFzcz0idXYtcmVzdWx0X19idXR0b24iPgo=</text>
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogMTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb2xvcjogIzAwMDsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -374,9 +381,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>flex</last-search>
+      <last-search>color</last-search>
       <last-offset />
-      <last-pattern>flex</last-pattern>
+      <last-pattern>color</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
