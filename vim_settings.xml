@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>proxy</entry>
-        <entry>sticky</entry>
-        <entry>10008</entry>
         <entry>goBack</entry>
         <entry>100</entry>
         <entry>row</entry>
@@ -25,6 +22,9 @@
         <entry>立即登录</entry>
         <entry>onShow</entry>
         <entry>pick</entry>
+        <entry>goT</entry>
+        <entry>goToLogoin</entry>
+        <entry>goTo</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -128,13 +128,6 @@
         <mark key="^" line="56" column="21" />
         <mark key="." line="56" column="20" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/components/nav-bar.vue" timestamp="1592986744795">
-        <mark key="'" line="77" column="4" />
-        <mark key="[" line="178" column="4" />
-        <mark key="]" line="178" column="10" />
-        <mark key="." line="178" column="9" />
-        <mark key="^" line="178" column="10" />
-      </file>
       <file name="C:/project/uni-vant/src/components/skeleton.vue" timestamp="1592989265950">
         <mark key="'" line="41" column="7" />
         <mark key="[" line="121" column="20" />
@@ -166,12 +159,11 @@
         <mark key="." line="141" column="0" />
         <mark key="^" line="141" column="15" />
       </file>
-      <file name="E:/jxgh5/vue.config.js" timestamp="1592986443247">
-        <mark key="'" line="151" column="31" />
-        <mark key="[" line="196" column="25" />
-        <mark key="]" line="196" column="32" />
-        <mark key="." line="196" column="31" />
-        <mark key="^" line="196" column="32" />
+      <file name="E:/jxgwxapp/src/main.ts" timestamp="1593150085257">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="25" column="71" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="C:/project/uni-vant/src/pages/skeleton.vue" timestamp="1592989368404">
         <mark key="[" line="16" column="71" />
@@ -179,12 +171,12 @@
         <mark key="." line="16" column="71" />
         <mark key="^" line="16" column="72" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/anchorAuth.vue" timestamp="1592987709024">
-        <mark key="'" line="131" column="19" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="6" column="17" />
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1593150127861">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="22" column="57" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1593148465914">
         <mark key="[" line="85" column="0" />
@@ -226,6 +218,13 @@
         <mark key="." line="58" column="28" />
         <mark key="^" line="58" column="29" />
       </file>
+      <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1593150193295">
+        <mark key="'" line="45" column="8" />
+        <mark key="[" line="61" column="31" />
+        <mark key="]" line="61" column="33" />
+        <mark key="^" line="61" column="33" />
+        <mark key="." line="61" column="32" />
+      </file>
       <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1592994289666">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="643" column="0" />
@@ -235,15 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="5" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
-      <jump line="117" column="20" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
-      <jump line="120" column="13" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
-      <jump line="126" column="17" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
-      <jump line="139" column="13" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
-      <jump line="140" column="19" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
-      <jump line="141" column="17" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
-      <jump line="151" column="17" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
-      <jump line="152" column="17" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
       <jump line="156" column="17" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
       <jump line="169" column="13" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
       <jump line="1" column="3" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
@@ -335,18 +325,27 @@
       <jump line="160" column="25" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="139" column="26" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="105" column="30" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="45" column="8" filename="E:/jxgwxapp/src/assets/js/baseUser.ts" />
+      <jump line="41" column="21" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="40" column="16" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="23" column="29" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="55" column="25" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="112" column="6" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="166" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="190" column="22" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="0" column="0" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdXNlck5hbWU6IHBob25lTnVtYmVyLAo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IG5hdmlnYXRlVG9VUkwoUk9VVEUuTE9HSU4pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8ICFkYXRhLnBob24=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>pick</text>
+        <text>goTo</text>
       </register>
       <register name="0" type="4">
         <text>// 注册
@@ -367,39 +366,39 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdXNlck5hbWU6IHBob25lTnVtYmVyLAo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IG5hdmlnYXRlVG9VUkwoUk9VVEUuTE9HSU4pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyg0NDQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgdXNlck5hbWU6IHBob25lTnVtYmVyLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGEK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWVzdE1vZGVsOiByZWdpc3RlciwK</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICJCYXNpYyBZVzVrY205cFpEcGhZVGhqWWpnMFkySmpZamt5Wm1VNFkyVmpORFZoWXpRMU1EY3pORGRpT1dSak1qbGtORFl5WmpjNU4ySXhaak16TWpjeVlqTXpabVExTldGbU5HVmgiLAo=</text>
+        <text encoding="base64">ICAgIGRhdGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBQQVlfVFlQRSwK</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdE1vZGVsOiByZWdpc3RlciwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBQQVlfVFlQRSwK</text>
+        <text encoding="base64">ICAgICAgICAgICJCYXNpYyBZVzVrY205cFpEcGhZVGhqWWpnMFkySmpZamt5Wm1VNFkyVmpORFZoWXpRMU1EY3pORGRpT1dSak1qbGtORFl5WmpjNU4ySXhaak16TWpjeVlqTXpabVExTldGbU5HVmgiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBQTEFURk9STSwK</text>
+        <text encoding="base64">ICBQQVlfVFlQRSwK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pick</last-search>
+      <last-search>goTo</last-search>
       <last-offset />
-      <last-pattern>pick</last-pattern>
+      <last-pattern>goTo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
