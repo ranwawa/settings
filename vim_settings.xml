@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>border</entry>
         <entry>proxy</entry>
         <entry>sticky</entry>
         <entry>10008</entry>
@@ -25,6 +24,7 @@
         <entry>register</entry>
         <entry>立即登录</entry>
         <entry>onShow</entry>
+        <entry>pick</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,14 +119,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592994361388">
+      <file name="/Dummy.txt" timestamp="1593147907556">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/mixins.ts" timestamp="1593146067197">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="23" />
-        <mark key="^" line="37" column="20" />
-        <mark key="." line="44" column="0" />
+      <file name="E:/jxgwxapp/src/pages/user/mixins.ts" timestamp="1593149039410">
+        <mark key="[" line="56" column="20" />
+        <mark key="]" line="56" column="21" />
+        <mark key="^" line="56" column="21" />
+        <mark key="." line="56" column="20" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/components/nav-bar.vue" timestamp="1592986744795">
         <mark key="'" line="77" column="4" />
@@ -173,12 +173,6 @@
         <mark key="." line="196" column="31" />
         <mark key="^" line="196" column="32" />
       </file>
-      <file name="E:/jxgwxapp/src/main.ts" timestamp="1592984369541">
-        <mark key="[" line="25" column="67" />
-        <mark key="]" line="25" column="71" />
-        <mark key="^" line="25" column="71" />
-        <mark key="." line="25" column="70" />
-      </file>
       <file name="C:/project/uni-vant/src/pages/skeleton.vue" timestamp="1592989368404">
         <mark key="[" line="16" column="71" />
         <mark key="]" line="16" column="72" />
@@ -192,16 +186,23 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1593148465914">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="11" />
+        <mark key="^" line="82" column="92" />
+        <mark key="." line="85" column="0" />
+      </file>
       <file name="C:/project/uni-vant/package.json" timestamp="1592991419854">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1593145298161">
-        <mark key="[" line="73" column="2" />
-        <mark key="]" line="73" column="2" />
-        <mark key="." line="73" column="2" />
+      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1593149109535">
+        <mark key="[" line="61" column="22" />
+        <mark key="]" line="62" column="21" />
+        <mark key="." line="62" column="20" />
+        <mark key="^" line="62" column="21" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1592988134031">
         <mark key="'" line="263" column="24" />
@@ -210,12 +211,11 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="36" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1593146150783">
-        <mark key="'" line="160" column="25" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="111" column="8" />
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1593149098044">
+        <mark key="[" line="169" column="28" />
+        <mark key="]" line="169" column="29" />
+        <mark key="." line="169" column="28" />
+        <mark key="^" line="169" column="29" />
       </file>
       <file name="E:/jxgwxapp/package.json" timestamp="1592990650982">
         <mark key="'" line="57" column="13" />
@@ -235,8 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="16" filename="E:/jxgwxapp/src/live/pages/liveroom.vue" />
-      <jump line="7" column="2" filename="E:/jxgwxapp/src/pages/master/components/nav-bar.vue" />
       <jump line="57" column="5" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
       <jump line="117" column="20" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
       <jump line="120" column="13" filename="C:/project/uni-vant/src/components/nav-bar.vue" />
@@ -335,56 +333,73 @@
       <jump line="68" column="0" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
       <jump line="47" column="14" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
       <jump line="160" column="25" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="139" column="26" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="105" column="30" filename="E:/jxgwxapp/src/pages/user/login.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBvblJlYWR5KCkge30K</text>
+        <text encoding="base64">ICAgICAgdXNlck5hbWU6IHBob25lTnVtYmVyLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>register</text>
+        <text encoding="base64">IHx8ICFkYXRhLnBob24=</text>
       </register>
       <register name="/" type="4">
-        <text>onShow</text>
+        <text>pick</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PHV2LXNrZWxldG9uCiAgICAgdi1pZj0iaXNMb2FkaW5nRGF0YSIKICAgICBhdmF0YXIKICAgICA6bG9hZGluZz0idHJ1ZSIKICAgICA6cm93PSIyMCIKICAgICA6cm93LXdpZHRoPSJbJzIwJScsICc4MCUnXSIKICAgICBjdXN0b20tc3R5bGU9Im1hcmdpbjogMCAtNTJycHg7IHdpZHRoOiAxMDB2dzsgYmFja2dyb3VuZDogI2ZmZjsgaGVpZ2h0OiAxMDB2aDsgcGFkZGluZzogMzJycHg7IgogICAvPg==</text>
+        <text>// 注册
+  register(params: any) {
+    return apiAxios({
+      params,
+      url: &quot;/blade-auth/oauth/token&quot;,
+      method: HTTP_METHOD.POST,
+      requestModel: register,
+      contentType: HTTP_CONTENT_TYPE.URL_ENCODE,
+      skipHandleResponseOk: true,
+      header: {
+        Authorization:
+          &quot;Basic YW5kcm9pZDphYThjYjg0Y2JjYjkyZmU4Y2VjNDVhYzQ1MDczNDdiOWRjMjlkNDYyZjc5N2IxZjMzMjcyYjMzZmQ1NWFmNGVh&quot;,
+        &quot;Client-Type&quot;: &quot;SMS&quot;,
+      },
+    });
+  }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvblJlYWR5KCkge30K</text>
+        <text encoding="base64">ICAgICAgdXNlck5hbWU6IHBob25lTnVtYmVyLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5nZXRKc0NvZGUoKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVuaS5uYXZpZ2F0ZUJhY2soKTsK</text>
+        <text encoding="base64">ICAgIGRhdGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYmFzZVVybDogUkVRVUVTVF9CQVNFX1VSTC5saXZlUHVzaGVyLAo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdE1vZGVsOiByZWdpc3RlciwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEdvb2RJdGVtLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJCYXNpYyBZVzVrY205cFpEcGhZVGhqWWpnMFkySmpZamt5Wm1VNFkyVmpORFZoWXpRMU1EY3pORGRpT1dSak1qbGtORFl5WmpjNU4ySXhaak16TWpjeVlqTXpabVExTldGbU5HVmgiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0sIDMwMDApOwo=</text>
+        <text encoding="base64">ICBQQVlfVFlQRSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoICgpID0+IHsK</text>
+        <text encoding="base64">ICBQQVlfVFlQRSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIsv509DJzMa3IiwgbGlzdC5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICBQTEFURk9STSwK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onShow</last-search>
+      <last-search>pick</last-search>
       <last-offset />
-      <last-pattern>onShow</last-pattern>
+      <last-pattern>pick</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
