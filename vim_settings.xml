@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZW50RGVzY1w+</entry>
         <entry>showM</entry>
         <entry>onLoad</entry>
         <entry>goT</entry>
@@ -25,6 +24,7 @@
         <entry>van</entry>
         <entry>validator</entry>
         <entry>empty-padding</entry>
+        <entry>a</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -131,11 +131,11 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="C:/project/learning-typescript/webpack.config.js" timestamp="1593247513751">
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="20" column="2" />
-        <mark key="." line="20" column="1" />
-        <mark key="^" line="20" column="2" />
+      <file name="C:/project/learning-typescript/webpack.config.js" timestamp="1593249918078">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="13" />
       </file>
       <file name="C:/project/uni-vant/src/components/common/index.css" timestamp="1593175861248">
         <mark key="'" line="173" column="28" />
@@ -189,6 +189,9 @@
         <mark key="." line="38" column="10" />
         <mark key="^" line="38" column="11" />
       </file>
+      <file name="C:/project/learning-typescript/dist/bundle.js" timestamp="1593249098222">
+        <mark key="'" line="15" column="26" />
+      </file>
       <file name="C:/project/uni-vant/src/components/empty.vue" timestamp="1593180619877">
         <mark key="'" line="15" column="25" />
         <mark key="x" line="104" column="13" />
@@ -203,6 +206,7 @@
         <mark key="." line="56" column="27" />
         <mark key="^" line="56" column="28" />
       </file>
+      <file name="C:/project/learning-typescript/package.json" timestamp="1593249029100" />
       <file name="C:/project/uni-vant/src/pages.json" timestamp="1593180005470">
         <mark key="[" line="248" column="35" />
         <mark key="]" line="248" column="35" />
@@ -218,10 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="12" filename="E:/jxgwxapp/src/pages/master/index.vue" />
-      <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="424" column="23" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="286" column="6" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="327" column="34" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="28" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="265" column="14" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
@@ -318,56 +318,60 @@
       <jump line="15" column="25" filename="C:/project/uni-vant/src/components/empty.vue" />
       <jump line="0" column="3" filename="C:/project/learning-typescript/src/test.ts" />
       <jump line="8" column="17" filename="C:/project/learning-typescript/tsconfig.json" />
+      <jump line="12" column="24" filename="C:/project/learning-typescript/dist/bundle.js" />
+      <jump line="13" column="52" filename="C:/project/learning-typescript/dist/bundle.js" />
+      <jump line="14" column="32" filename="C:/project/learning-typescript/dist/bundle.js" />
+      <jump line="15" column="26" filename="C:/project/learning-typescript/dist/bundle.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBtb29kdQo=</text>
+        <text encoding="base64">ICAgIG1vZGUK</text>
       </register>
       <register name="-" type="4">
         <text>code</text>
       </register>
       <register name="/" type="4">
-        <text>empty-padding</text>
+        <text>a</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHsgbmFtZTogJ1NrZWxldG9uILnHvNzGwScsIGlzQ29tcGxldGU6IHRydWUgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtb29kdQo=</text>
+        <text encoding="base64">ICAgIG1vZGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0cmljdE1vZHVsZUV4Y2VwdGlvbkhhbmRsaW5nOiBmYWxzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJhbGxvd0pzIjogdHJ1ZQo=</text>
+        <text encoding="base64">ICBtb29kdQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">ICAgICJhbGxvd0pzIjogdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1dQo=</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ0YXJnZXQiOiAiRVMzIgogIH0K</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhcmcK</text>
+        <text encoding="base64">ICB1dQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0YXJnZXQiOiAiRVMzIgo=</text>
+        <text encoding="base64">ICAgICJ0YXJnZXQiOiAiRVMzIgogIH0K</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>empty-padding</last-search>
+      <last-search>a</last-search>
       <last-offset />
-      <last-pattern>empty-padding</last-pattern>
+      <last-pattern>a</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
