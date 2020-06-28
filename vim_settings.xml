@@ -119,12 +119,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgwxapp/src/config.ts" timestamp="1593309188276">
+      <file name="E:/jxgwxapp/src/config.ts" timestamp="1593312288383">
         <mark key="'" line="21" column="40" />
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="38" />
-        <mark key="^" line="16" column="19" />
-        <mark key="." line="16" column="38" />
+        <mark key="[" line="45" column="6" />
+        <mark key="]" line="46" column="16" />
+        <mark key="." line="46" column="15" />
+        <mark key="^" line="46" column="16" />
       </file>
       <file name="C:/project/uni-vant/src/pages/field.vue" timestamp="1593179928607">
         <mark key="[" line="1" column="0" />
@@ -156,6 +156,11 @@
         <mark key="]" line="8" column="13" />
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="13" />
+      </file>
+      <file name="E:/jxgwxapp/src/components/market/LiveFloat.vue" timestamp="1593312175987">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1593310070090">
         <mark key="[" line="0" column="0" />
@@ -313,10 +318,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>anchorAuth</text>
+        <text>: LIVE_ROOM_URL</text>
       </register>
       <register name="-" type="4">
-        <text>anchorAuth</text>
+        <text>: LIVE_ROOM_URL</text>
       </register>
       <register name="/" type="4">
         <text>邀请好友开通赚</text>
@@ -325,31 +330,31 @@
         <text encoding="base64">ICBNQVNURVJfVklQID0gIi9wYWdlcy9tYXN0ZXIvYW5jaG9yQXV0aCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGxpdmVQbGF5ZXI6ICJodHRwOi8vMTkyLjE2OC4xLjIxOC9saXZlYXBwYXBpIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGxpdmVQdXNoZXI6ICJodHRwOi8vMTkyLjE2OC4xLjIxOC9saXZlYXBwYXBpIiwK</text>
+        <text encoding="base64">Y29uc3QgTElWRV9ST09NX1VSTCA9IHsKICBkZXY6ICJodHRwczovL2xpdmVqeGcuaml4dWdvdS5jbi90cmFpbi9pbmRleC5waHAvVXNlci9QYXkvbGl2ZXJvb20iLAogIHNpdDogImh0dHBzOi8vbGl2ZWp4Zy5qaXh1Z291LmNuL3RyYWluL2luZGV4LnBocC9Vc2VyL1BheS9saXZlcm9vbSIsCiAgcHJvOiAiaHR0cHM6Ly9saXZlLmppeHVnb3UuY24vdHJhaW4vaW5kZXgucGhwL1VzZXIvUGF5L2xpdmVyb29tIiwKfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICQuYWpheCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0bG9jYWwsIHNldGxvY2FsIH0gZnJvbSAiQC91dGlsL2Jhc2ljU2V0IjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJvdW5kCg==</text>
+        <text encoding="base64">ICAgIC8vIGxpdmVQbGF5ZXI6ICJodHRwOi8vMTkyLjE2OC4xLjIxOC9saXZlYXBwYXBpIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGxpdmVQdXNoZXI6ICJodHRwOi8vMTkyLjE2OC4xLjIxOC9saXZlYXBwYXBpIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICQuYWpheCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC91di1lbXB0eT4K</text>
+        <text encoding="base64">ICAgICAgICAgIHJvdW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcz0iY3VzdG9tLWltYWdlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsaWRhdG9yOiAodmFsdWUpID0+IFBSRVNFVFNbdmFsdWVdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
