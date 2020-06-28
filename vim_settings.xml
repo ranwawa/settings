@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>token =</entry>
         <entry>func</entry>
         <entry encoding="base64">ZnVuYyAmJg==</entry>
         <entry>立即开通</entry>
@@ -25,6 +24,7 @@
         <entry>__slot</entry>
         <entry>callPay</entry>
         <entry>ua</entry>
+        <entry>支付</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -125,21 +125,13 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1593336544362">
-        <mark key="'" line="85" column="8" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+      <file name="E:/jxgwxapp/src/api/pay.ts" timestamp="1593357799990">
+        <mark key="[" line="36" column="2" />
+        <mark key="]" line="36" column="11" />
+        <mark key="." line="36" column="10" />
+        <mark key="^" line="36" column="11" />
       </file>
-      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1593334971943">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="47" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="94" column="45" />
-      </file>
-      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1593330942366">
-        <mark key="'" line="298" column="14" />
-      </file>
+      <file name="E:/jxgh5/src/api/interface.ts" timestamp="1593357474069" />
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1593356332519">
         <mark key="'" line="130" column="4" />
         <mark key="[" line="32" column="10" />
@@ -166,12 +158,10 @@
         <mark key="." line="227" column="9" />
         <mark key="^" line="227" column="10" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/common.ts" timestamp="1593335378642">
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="45" />
-        <mark key="." line="49" column="0" />
+      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1593357696522">
+        <mark key="'" line="775" column="41" />
       </file>
-      <file name="E:/jxgwxapp/src/components/PayH5.vue" timestamp="1593342993103">
+      <file name="E:/jxgwxapp/src/components/PayH5.vue" timestamp="1593357664317">
         <mark key="[" line="74" column="17" />
         <mark key="]" line="74" column="26" />
         <mark key="^" line="74" column="26" />
@@ -216,9 +206,6 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="E:/jxgwxapp/src/main.ts" timestamp="1593335443219">
-        <mark key="'" line="25" column="13" />
-      </file>
       <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1593356456604">
         <mark key="'" line="80" column="2" />
         <mark key="[" line="59" column="0" />
@@ -226,6 +213,10 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="31" column="33" />
       </file>
+      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1593356535197">
+        <mark key="'" line="907" column="23" />
+      </file>
+      <file name="E:/jxgh5/src/mixin/wechatApi.ts" timestamp="1593357566484" />
       <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1593338502972">
         <mark key="'" line="22" column="19" />
         <mark key="[" line="42" column="0" />
@@ -241,10 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="119" column="11" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="93" column="2" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="89" column="6" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="125" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="126" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="197" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
@@ -341,21 +328,32 @@
       <jump line="106" column="21" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="130" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="80" column="2" filename="E:/jxgwxapp/src/assets/constant/common.ts" />
+      <jump line="993" column="31" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="0" column="0" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="907" column="23" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
+      <jump line="775" column="41" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hdmlnYXRvci51c2VyQWdlbnQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>webPay</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>webPay</text>
       </register>
       <register name="/" type="4">
-        <text>ua</text>
+        <text>支付</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAmX19zbG90IHsKICAgIGNvbG9yOiAkYy1iYXNlOwogICAgZm9udC1zaXplOiAkZnotbWQ7CiAgfQo=</text>
+      <register name="0" type="4">
+        <text>// 微信小程序支付
+  mpWeixinPay(params: any) {
+    return apiAxios({
+      params,
+      url: &quot;/blade-pay/pay/wxpay/miniPay&quot;,
+      method: HTTP_METHOD.POST,
+    });
+  }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hdmlnYXRvci51c2VyQWdlbnQpOwo=</text>
@@ -392,9 +390,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ua</last-search>
+      <last-search>支付</last-search>
       <last-offset />
-      <last-pattern>ua</last-pattern>
+      <last-pattern>支付</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
