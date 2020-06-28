@@ -10,7 +10,6 @@
         <entry>立即开通</entry>
         <entry>已选</entry>
         <entry>参数</entry>
-        <entry>我要开通</entry>
         <entry>goTo</entry>
         <entry>redirect</entry>
         <entry>onLoad</entry>
@@ -25,6 +24,7 @@
         <entry>callPay</entry>
         <entry>ua</entry>
         <entry>支付</entry>
+        <entry>我要开通</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -125,25 +125,26 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/api/pay.ts" timestamp="1593359057172">
-        <mark key="[" line="74" column="20" />
-        <mark key="]" line="74" column="38" />
-        <mark key="." line="74" column="37" />
-        <mark key="^" line="74" column="38" />
+      <file name="E:/jxgwxapp/src/api/pay.ts" timestamp="1593360400212">
+        <mark key="[" line="78" column="29" />
+        <mark key="]" line="78" column="29" />
+        <mark key="." line="78" column="29" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="E:/jxgh5/src/api/interface.ts" timestamp="1593357837637" />
-      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1593358590990">
-        <mark key="'" line="130" column="4" />
-        <mark key="[" line="189" column="14" />
-        <mark key="]" line="188" column="19" />
-        <mark key="." line="188" column="18" />
-        <mark key="^" line="188" column="19" />
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1593360405247">
+        <mark key="'" line="195" column="27" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
+        <mark key="^" line="200" column="26" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1593356499223">
-        <mark key="'" line="95" column="9" />
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
+      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1593360203407">
+        <mark key="'" line="209" column="14" />
+        <mark key="[" line="92" column="8" />
+        <mark key="]" line="92" column="8" />
+        <mark key="." line="92" column="8" />
+        <mark key="^" line="92" column="10" />
       </file>
       <file name="E:/jxgwxapp/src/App.vue" timestamp="1593355913113">
         <mark key="[" line="77" column="19" />
@@ -199,7 +200,7 @@
         <mark key="^" line="155" column="27" />
         <mark key="." line="155" column="26" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1593356032829">
+      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1593360326886">
         <mark key="'" line="12" column="29" />
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="37" />
@@ -232,8 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="197" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="34" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="81" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="179" column="21" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
@@ -332,63 +331,58 @@
       <jump line="907" column="23" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
       <jump line="775" column="41" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
       <jump line="24" column="5" filename="E:/jxgwxapp/src/assets/constant/common.ts" />
+      <jump line="195" column="27" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="209" column="14" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>any</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>支付</text>
+        <text>我要开通</text>
       </register>
       <register name="0" type="4">
-        <text>// 微信小程序支付
-  mpWeixinPay(params: any) {
-    return apiAxios({
-      params,
-      url: &quot;/blade-pay/pay/wxpay/miniPay&quot;,
-      method: HTTP_METHOD.POST,
-    });
-  }</text>
+        <text encoding="base64">JHt1cmx9JmFwcGlkPSR7Z3poQXBwSWR9I3dlY2hhdF9yZWRpcmVjdGA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5OiB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ewo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYCR7dXJsfSZhcHBpZD0ke2d6aEFwcElkfSN3ZWNoYXRfcmVkaXJlY3RgKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLy8gdG9kbyDU3cqxus3kr8DAxvfSu9H5LLrzw+bSqrjEs8m5q9bausXWp7i2Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gxMMK</text>
+        <text encoding="base64">ICAgICAgcGFyYW0ucmVmICYmIHBhcmFtLnJlZi50b2dnbGVTaG93ICYmIHBhcmFtLnJlZi50b2dnbGVTaG93KHBhcmFtKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hdmlnYXRvci51c2VyQWdlbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG91ckp4Zyk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWwtY2xhc3M9ImNlbGwtb3JkZXItaW5kZXhfX2xhYmVsIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>支付</last-search>
+      <last-search>我要开通</last-search>
       <last-offset />
-      <last-pattern>支付</last-pattern>
+      <last-pattern>我要开通</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
