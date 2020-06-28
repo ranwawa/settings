@@ -125,19 +125,19 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/api/pay.ts" timestamp="1593357799990">
-        <mark key="[" line="36" column="2" />
-        <mark key="]" line="36" column="11" />
-        <mark key="." line="36" column="10" />
-        <mark key="^" line="36" column="11" />
+      <file name="E:/jxgwxapp/src/api/pay.ts" timestamp="1593359057172">
+        <mark key="[" line="74" column="20" />
+        <mark key="]" line="74" column="38" />
+        <mark key="." line="74" column="37" />
+        <mark key="^" line="74" column="38" />
       </file>
-      <file name="E:/jxgh5/src/api/interface.ts" timestamp="1593357474069" />
-      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1593356332519">
+      <file name="E:/jxgh5/src/api/interface.ts" timestamp="1593357837637" />
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1593358590990">
         <mark key="'" line="130" column="4" />
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="32" column="24" />
-        <mark key="." line="32" column="23" />
-        <mark key="^" line="32" column="24" />
+        <mark key="[" line="189" column="14" />
+        <mark key="]" line="188" column="19" />
+        <mark key="." line="188" column="18" />
+        <mark key="^" line="188" column="19" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1593356499223">
         <mark key="'" line="95" column="9" />
@@ -158,7 +158,7 @@
         <mark key="." line="227" column="9" />
         <mark key="^" line="227" column="10" />
       </file>
-      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1593357696522">
+      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1593358482369">
         <mark key="'" line="775" column="41" />
       </file>
       <file name="E:/jxgwxapp/src/components/PayH5.vue" timestamp="1593357664317">
@@ -206,17 +206,17 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1593356456604">
-        <mark key="'" line="80" column="2" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="31" column="33" />
+      <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1593358901656">
+        <mark key="'" line="24" column="5" />
+        <mark key="[" line="111" column="16" />
+        <mark key="]" line="112" column="17" />
+        <mark key="." line="112" column="16" />
+        <mark key="^" line="112" column="17" />
       </file>
       <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1593356535197">
         <mark key="'" line="907" column="23" />
       </file>
-      <file name="E:/jxgh5/src/mixin/wechatApi.ts" timestamp="1593357566484" />
+      <file name="E:/jxgh5/src/mixin/wechatApi.ts" timestamp="1593358315232" />
       <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1593338502972">
         <mark key="'" line="22" column="19" />
         <mark key="[" line="42" column="0" />
@@ -232,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="126" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="197" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="34" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
@@ -332,15 +331,16 @@
       <jump line="0" column="0" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
       <jump line="907" column="23" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
       <jump line="775" column="41" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
+      <jump line="24" column="5" filename="E:/jxgwxapp/src/assets/constant/common.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>webPay</text>
+        <text>any</text>
       </register>
       <register name="-" type="4">
-        <text>webPay</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text>支付</text>
@@ -356,35 +356,31 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hdmlnYXRvci51c2VyQWdlbnQpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG91ckp4Zyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWwtY2xhc3M9ImNlbGwtb3JkZXItaW5kZXhfX2xhYmVsIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text>/* 下单页面地址样式 */
-.order-index__label {
-  color: $c-base;
-  font-size: $fz-md;
-}</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0b3JlOiAiaHR0cDovLzE5Mi4xNjguMS4yMjEiLAogICAgbGl2ZVB1c2hlcjogImh0dHA6Ly8xOTIuMTY4LjEuMjE4OjgwMDEvbGl2ZWFwcGFwaSIsCiAgICBsaXZlUGxheWVyOiAiaHR0cDovLzE5Mi4xNjguMS4yMTg6ODAwMS9saXZlYXBwYXBpIiwK</text>
+        <text encoding="base64">Ly8gxMMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExLCBwcm9wUGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hdmlnYXRvci51c2VyQWdlbnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2t1cyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG91ckp4Zyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbGFiZWwtY2xhc3M9ImNlbGwtb3JkZXItaW5kZXhfX2xhYmVsIgo=</text>
       </register>
     </registers>
   </component>
