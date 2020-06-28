@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>showM</entry>
         <entry>onLoad</entry>
         <entry>goT</entry>
         <entry>hide</entry>
@@ -25,6 +24,7 @@
         <entry>validator</entry>
         <entry>empty-padding</entry>
         <entry>_</entry>
+        <entry>邀请好友开通赚</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,12 +119,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593310070090">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="E:/jxgwxapp/src/sfc.d.ts" timestamp="1593305277101" />
       <file name="E:/jxgwxapp/src/config.ts" timestamp="1593309188276">
         <mark key="'" line="21" column="40" />
         <mark key="[" line="16" column="38" />
@@ -132,17 +126,43 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="C:/project/uni-vant/src/components/common/index.css" timestamp="1593175861248">
-        <mark key="'" line="173" column="28" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="173" column="29" />
-      </file>
       <file name="C:/project/uni-vant/src/pages/field.vue" timestamp="1593179928607">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="23" />
       </file>
+      <file name="C:/project/uni-vant/src/components/sass/_variables.scss" timestamp="1593180289084">
+        <mark key="'" line="73" column="25" />
+        <mark key="[" line="232" column="26" />
+        <mark key="]" line="232" column="28" />
+        <mark key="^" line="232" column="28" />
+        <mark key="." line="232" column="27" />
+      </file>
+      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1593311385789">
+        <mark key="'" line="12" column="20" />
+        <mark key="[" line="82" column="7" />
+        <mark key="]" line="83" column="31" />
+        <mark key="^" line="83" column="31" />
+        <mark key="." line="83" column="30" />
+      </file>
+      <file name="C:/project/uni-vant/src/pages/index.vue" timestamp="1593180580487">
+        <mark key="[" line="56" column="25" />
+        <mark key="]" line="56" column="28" />
+        <mark key="." line="56" column="27" />
+        <mark key="^" line="56" column="28" />
+      </file>
+      <file name="E:/jxgwxapp/package.json" timestamp="1593309250158">
+        <mark key="'" line="57" column="31" />
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593310070090">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="E:/jxgwxapp/src/sfc.d.ts" timestamp="1593305277101" />
       <file name="C:/project/uni-vant/src/pages/empty.vue" timestamp="1593180526388">
         <mark key="[" line="60" column="12" />
         <mark key="]" line="61" column="13" />
@@ -153,13 +173,6 @@
         <mark key="[" line="293" column="0" />
         <mark key="]" line="293" column="0" />
         <mark key="." line="293" column="0" />
-      </file>
-      <file name="C:/project/uni-vant/src/components/sass/_variables.scss" timestamp="1593180289084">
-        <mark key="'" line="73" column="25" />
-        <mark key="[" line="232" column="26" />
-        <mark key="]" line="232" column="28" />
-        <mark key="^" line="232" column="28" />
-        <mark key="." line="232" column="27" />
       </file>
       <file name="C:/project/uni-vant/src/components/nav-bar.vue" timestamp="1593180142750">
         <mark key="'" line="167" column="2" />
@@ -181,19 +194,6 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="C:/project/uni-vant/src/pages/index.vue" timestamp="1593180580487">
-        <mark key="[" line="56" column="25" />
-        <mark key="]" line="56" column="28" />
-        <mark key="." line="56" column="27" />
-        <mark key="^" line="56" column="28" />
-      </file>
-      <file name="E:/jxgwxapp/package.json" timestamp="1593309250158">
-        <mark key="'" line="57" column="31" />
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="13" />
-      </file>
       <file name="C:/project/uni-vant/src/pages.json" timestamp="1593180005470">
         <mark key="[" line="248" column="35" />
         <mark key="]" line="248" column="35" />
@@ -208,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="6" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="327" column="34" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="28" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="265" column="14" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
@@ -308,6 +307,7 @@
       <jump line="136" column="12" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="21" column="40" filename="E:/jxgwxapp/src/config.ts" />
       <jump line="56" column="31" filename="E:/jxgwxapp/package.json" />
+      <jump line="12" column="20" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,7 +319,7 @@
         <text>anchorAuth</text>
       </register>
       <register name="/" type="4">
-        <text>_</text>
+        <text>邀请好友开通赚</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBNQVNURVJfVklQID0gIi9wYWdlcy9tYXN0ZXIvYW5jaG9yQXV0aCIsCg==</text>
@@ -355,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>_</last-search>
+      <last-search>邀请好友开通赚</last-search>
       <last-offset />
-      <last-pattern>_</last-pattern>
+      <last-pattern>邀请好友开通赚</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
