@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>cell-label</entry>
-        <entry>__slot</entry>
         <entry>callPay</entry>
         <entry>ua</entry>
         <entry>支付</entry>
@@ -25,6 +23,8 @@
         <entry>13883198386</entry>
         <entry>componetns</entry>
         <entry>components</entry>
+        <entry>cts</entry>
+        <entry>ctx</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -161,8 +161,8 @@
         <mark key="." line="148" column="19" />
         <mark key="^" line="148" column="20" />
       </file>
-      <file name="E:/jxgwxapp/src/components/share/ShareImg.vue" timestamp="1593419297749" />
-      <file name="E:/jxgwxapp/src/live/pages/previewLiveDetail.vue" timestamp="1593423091170">
+      <file name="E:/jxgwxapp/src/components/share/ShareImg.vue" timestamp="1593423716519" />
+      <file name="E:/jxgwxapp/src/live/pages/previewLiveDetail.vue" timestamp="1593423705072">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="13" />
       </file>
@@ -215,7 +215,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593423111513">
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593423210873">
         <mark key="'" line="595" column="38" />
         <mark key="[" line="678" column="2" />
         <mark key="]" line="678" column="3" />
@@ -335,7 +335,7 @@
         <text>closeShare</text>
       </register>
       <register name="/" type="4">
-        <text>components</text>
+        <text>ctx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFNoYXJlSW1nLAo=</text>
@@ -371,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>components</last-search>
+      <last-search>ctx</last-search>
       <last-offset />
-      <last-pattern>components</last-pattern>
+      <last-pattern>ctx</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
