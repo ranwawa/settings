@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">ZnVuYyAmJg==</entry>
         <entry>立即开通</entry>
         <entry>已选</entry>
         <entry>参数</entry>
@@ -25,6 +24,7 @@
         <entry>我要开通</entry>
         <entry>onLoad</entry>
         <entry>绑定微信手机号</entry>
+        <entry>split</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -126,7 +126,7 @@
         <mark key="^" line="22" column="23" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1593397029498">
-        <mark key="'" line="138" column="14" />
+        <mark key="'" line="141" column="14" />
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="41" />
         <mark key="." line="13" column="40" />
@@ -141,9 +141,15 @@
       <file name="E:/jxgh5/src/api/interface.ts" timestamp="1593357837637" />
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1593395411393">
         <mark key="[" line="157" column="31" />
-        <mark key="]" line="158" column="38" />
-        <mark key="^" line="158" column="38" />
-        <mark key="." line="158" column="37" />
+        <mark key="]" line="161" column="38" />
+        <mark key="^" line="161" column="38" />
+        <mark key="." line="161" column="37" />
+      </file>
+      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1593401526305">
+        <mark key="[" line="65" column="18" />
+        <mark key="]" line="66" column="22" />
+        <mark key="." line="66" column="21" />
+        <mark key="^" line="66" column="22" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1593396476130">
         <mark key="'" line="212" column="0" />
@@ -158,7 +164,7 @@
         <mark key="^" line="84" column="2" />
         <mark key="." line="84" column="1" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1593400291980">
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1593401595955">
         <mark key="'" line="54" column="40" />
         <mark key="]" line="122" column="10" />
         <mark key="." line="122" column="9" />
@@ -167,13 +173,7 @@
       <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1593358482369">
         <mark key="'" line="775" column="41" />
       </file>
-      <file name="E:/jxgwxapp/src/components/PayH5.vue" timestamp="1593357664317">
-        <mark key="[" line="74" column="17" />
-        <mark key="]" line="74" column="26" />
-        <mark key="^" line="74" column="26" />
-        <mark key="." line="74" column="25" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593360566286">
+      <file name="/Dummy.txt" timestamp="1593401868566">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -214,9 +214,6 @@
         <mark key="." line="112" column="16" />
         <mark key="^" line="112" column="17" />
       </file>
-      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1593356535197">
-        <mark key="'" line="907" column="23" />
-      </file>
       <file name="E:/jxgh5/src/mixin/wechatApi.ts" timestamp="1593358315232" />
       <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1593360501024">
         <mark key="'" line="22" column="19" />
@@ -224,10 +221,15 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593402750973">
+        <mark key="'" line="479" column="30" />
+        <mark key="[" line="512" column="6" />
+        <mark key="]" line="512" column="12" />
+        <mark key="." line="512" column="11" />
+        <mark key="^" line="512" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="2" filename="E:/jxgwxapp/src/api/api.ts" />
-      <jump line="363" column="15" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="86" column="4" filename="E:/jxgwxapp/src/pages/master/index.vue" />
       <jump line="133" column="54" filename="E:/jxgwxapp/src/pages/master/index.vue" />
       <jump line="190" column="4" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
@@ -326,56 +328,58 @@
       <jump line="88" column="21" filename="E:/jxgwxapp/src/pages/master/index.vue" />
       <jump line="137" column="14" filename="E:/jxgwxapp/src/pages/master/index.vue" />
       <jump line="54" column="40" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="277" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="479" column="30" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.split(&quot;?&quot;)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.split(&quot;?&quot;)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>绑定微信手机号</text>
+        <text>split</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LnV2LW5hdi1iYXJfX3dyYXBwZXIgLnZhbi1pY29uLWFycm93LWxlZnQgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcHJvcFBhdGgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdHlwZSA9IHR5cGVvZiB0aGlzLnN0YXR1c0JhckhlaWdodDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdHlwZSA9IHR5cGVvZiB0aGlzLnN0YXR1c0JhckhlaWdodDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U2FmZUFyZWEoKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZVNhZmVBcmVhCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U2FmZUFyZWEoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG9wKTsK</text>
+        <text encoding="base64">ICAgIGVuYWJsZVNhZmVBcmVhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG9wKTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>绑定微信手机号</last-search>
+      <last-search>split</last-search>
       <last-offset />
-      <last-pattern>绑定微信手机号</last-pattern>
+      <last-pattern>split</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
