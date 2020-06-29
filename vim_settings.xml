@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>cts</entry>
-        <entry>ctx</entry>
         <entry>imgUrl</entry>
         <entry>imgSrc</entry>
         <entry>发送验证码</entry>
@@ -16,15 +14,17 @@
         <entry>computedBtnText</entry>
         <entry encoding="base64">XDxtYXJnaW5cPg==</entry>
         <entry>idKey</entry>
-        <entry>submit</entry>
         <entry>运费</entry>
         <entry>v-for</entry>
         <entry>computedUser</entry>
         <entry>分享</entry>
         <entry>on</entry>
         <entry>comtepud</entry>
-        <entry>computed</entry>
         <entry>share-img</entry>
+        <entry>computed</entry>
+        <entry>goods</entry>
+        <entry>submit</entry>
+        <entry>购买</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -125,6 +125,12 @@
         <mark key="." line="800" column="18" />
         <mark key="^" line="800" column="19" />
       </file>
+      <file name="E:/jxgwxapp/src/api/goods.ts" timestamp="1593442552175">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="5" />
+        <mark key="^" line="25" column="13" />
+        <mark key="." line="21" column="5" />
+      </file>
       <file name="E:/jxgwxapp/src/App.vue" timestamp="1593437079181">
         <mark key="'" line="104" column="17" />
       </file>
@@ -142,7 +148,7 @@
         <mark key="^" line="126" column="27" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593438071380">
+      <file name="/Dummy.txt" timestamp="1593440394017">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -156,7 +162,7 @@
         <mark key="." line="393" column="1" />
       </file>
       <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1593426482748" />
-      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1593438023698">
+      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1593441685803">
         <mark key="'" line="33" column="8" />
         <mark key="[" line="94" column="42" />
         <mark key="]" line="94" column="43" />
@@ -198,22 +204,15 @@
       <file name="E:/jxgwxapp/src/components/market/GoodItem.vue" timestamp="1593437259278">
         <mark key="'" line="7" column="48" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593440132415">
-        <mark key="'" line="529" column="18" />
-        <mark key="[" line="529" column="13" />
-        <mark key="]" line="529" column="35" />
-        <mark key="." line="529" column="34" />
-        <mark key="^" line="529" column="35" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593442635248">
+        <mark key="'" line="431" column="40" />
+        <mark key="[" line="700" column="16" />
+        <mark key="]" line="700" column="16" />
+        <mark key="." line="700" column="15" />
+        <mark key="^" line="700" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="775" column="41" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
-      <jump line="24" column="5" filename="E:/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="195" column="27" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="209" column="14" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
-      <jump line="220" column="25" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="210" column="0" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
-      <jump line="88" column="21" filename="E:/jxgwxapp/src/pages/master/index.vue" />
       <jump line="137" column="14" filename="E:/jxgwxapp/src/pages/master/index.vue" />
       <jump line="54" column="40" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="277" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -273,7 +272,6 @@
       <jump line="315" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="33" column="8" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="9" column="15" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="6" column="9" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="39" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="47" column="15" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="67" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -307,21 +305,37 @@
       <jump line="351" column="27" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="509" column="1" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="529" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="6" column="9" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="297" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="675" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="811" column="3" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="103" column="11" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="376" column="31" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="387" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="431" column="40" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>this.lists[index].goodsName</text>
+        <text>获取商品详情</text>
       </register>
       <register name="-" type="4">
-        <text>this.lists[index].goodsName</text>
+        <text>获取商品详情</text>
       </register>
       <register name="/" type="4">
-        <text>share-img</text>
+        <text>购买</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogW051bWJlciwgU3RyaW5nXSwK</text>
+      <register name="0" type="4">
+        <text>// 获取商品详情
+  detail(params: any) {
+    return apiAxios({
+      params,
+      url: &quot;/blade-goods/api/extend/frontend/goodsinfo/detail&quot;,
+      method: HTTP_METHOD.GET,
+      requestModel: detail,
+    });
+  }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcGF0aDogIi9nb29kcy9wYWdlcy9kZXRhaWw/aWQ9IiArIHRoaXMubGlzdHNbaW5kZGRleF0uZ29vZElkLAo=</text>
@@ -354,9 +368,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>share-img</last-search>
+      <last-search>购买</last-search>
       <last-offset />
-      <last-pattern>share-img</last-pattern>
+      <last-pattern>购买</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
