@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>show</entry>
-        <entry>showToast</entry>
-        <entry>onLoad</entry>
-        <entry>13883198386</entry>
-        <entry>componetns</entry>
-        <entry>components</entry>
         <entry>cts</entry>
         <entry>ctx</entry>
         <entry>imgUrl</entry>
@@ -18,13 +12,19 @@
         <entry>发送验证码</entry>
         <entry>user</entry>
         <entry>协议</entry>
-        <entry>share-img</entry>
         <entry>购买省</entry>
         <entry>computedBtnText</entry>
         <entry encoding="base64">XDxtYXJnaW5cPg==</entry>
         <entry>idKey</entry>
         <entry>submit</entry>
         <entry>运费</entry>
+        <entry>v-for</entry>
+        <entry>computedUser</entry>
+        <entry>分享</entry>
+        <entry>on</entry>
+        <entry>comtepud</entry>
+        <entry>computed</entry>
+        <entry>share-img</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -135,10 +135,14 @@
         <mark key="." line="215" column="39" />
         <mark key="^" line="215" column="40" />
       </file>
-      <file name="E:/jxgwxapp/src/components/share/ShareImg.vue" timestamp="1593434212893">
+      <file name="E:/jxgwxapp/src/components/share/ShareImg.vue" timestamp="1593439755641">
         <mark key="'" line="12" column="20" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="126" column="27" />
+        <mark key="." line="118" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593437427737">
+      <file name="/Dummy.txt" timestamp="1593438071380">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -150,13 +154,6 @@
         <mark key="]" line="393" column="2" />
         <mark key="^" line="393" column="2" />
         <mark key="." line="393" column="1" />
-      </file>
-      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1593415164543">
-        <mark key="'" line="9" column="9" />
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="21" />
-        <mark key="^" line="20" column="21" />
-        <mark key="." line="20" column="20" />
       </file>
       <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1593426482748" />
       <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1593438023698">
@@ -179,6 +176,7 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
+      <file name="E:/jxgwxapp/src/index/poster.vue" timestamp="1593439971616" />
       <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1593432321323">
         <mark key="'" line="24" column="5" />
         <mark key="[" line="68" column="16" />
@@ -200,47 +198,15 @@
       <file name="E:/jxgwxapp/src/components/market/GoodItem.vue" timestamp="1593437259278">
         <mark key="'" line="7" column="48" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593437391600">
-        <mark key="[" line="131" column="3" />
-        <mark key="]" line="131" column="3" />
-        <mark key="^" line="131" column="3" />
-        <mark key="." line="131" column="2" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593440132415">
+        <mark key="'" line="529" column="18" />
+        <mark key="[" line="529" column="13" />
+        <mark key="]" line="529" column="35" />
+        <mark key="." line="529" column="34" />
+        <mark key="^" line="529" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="452" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="496" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="539" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="111" column="38" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="156" column="21" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="157" column="44" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="163" column="30" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="166" column="6" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="577" column="67" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="588" column="15" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="593" column="19" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="507" column="14" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="509" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="554" column="10" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="584" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="585" column="12" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="491" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="164" column="29" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="17" column="20" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
-      <jump line="155" column="17" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
-      <jump line="270" column="42" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="11" column="29" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="145" column="15" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="229" column="53" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="367" column="21" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="12" column="29" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="43" column="16" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="106" column="21" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="130" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="80" column="2" filename="E:/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="993" column="31" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
-      <jump line="0" column="0" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
-      <jump line="907" column="23" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
       <jump line="775" column="41" filename="E:/jxgh5/src/views/shareH5/buyNow/index.vue" />
       <jump line="24" column="5" filename="E:/jxgwxapp/src/assets/constant/common.ts" />
       <jump line="195" column="27" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
@@ -270,7 +236,6 @@
       <jump line="119" column="33" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="123" column="12" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="9" column="9" filename="E:/jxgwxapp/src/api/api.ts" />
-      <jump line="499" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="150" column="2" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
       <jump line="388" column="33" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="292" column="25" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -295,7 +260,6 @@
       <jump line="196" column="22" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="212" column="5" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="279" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="467" column="21" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="463" column="21" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="138" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -308,56 +272,91 @@
       <jump line="7" column="48" filename="E:/jxgwxapp/src/components/market/GoodItem.vue" />
       <jump line="315" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="33" column="8" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="9" column="15" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="6" column="9" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="39" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="47" column="15" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="67" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="69" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="74" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="76" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="79" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="135" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="142" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="150" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="161" column="11" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="214" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="219" column="25" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="224" column="20" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="254" column="20" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="257" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="258" column="20" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="265" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="272" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="328" column="19" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="317" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="499" column="33" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="284" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="349" column="34" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="45" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="276" column="9" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="371" column="30" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="434" column="4" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="445" column="26" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="351" column="27" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="509" column="1" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="529" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>this.lists[index].goodsName</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>this.lists[index].goodsName</text>
       </register>
       <register name="/" type="4">
-        <text>运费</text>
+        <text>share-img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Lmdvb2RzLWRldGFpbF9fc2hhcmUgewo=</text>
+        <text encoding="base64">ICAgICAgdHlwZTogW051bWJlciwgU3RyaW5nXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgcGF0aDogIi9nb29kcy9wYWdlcy9kZXRhaWw/aWQ9IiArIHRoaXMubGlzdHNbaW5kZGRleF0uZ29vZElkLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtYXgtd2lkdGg6IHB4MnJweCgxNzIpICFpbXBvcnRhbnQ7CiAgbWluLXdpZHRoOiBweDJycHgoMTcyKSAhaW1wb3J0YW50OwogIHBhZGRpbmc6IDAgIWltcG9ydGFudDsK</text>
+        <text encoding="base64">ICAgICAgdHlwZTogTnVtYmVyLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtYXJnaW4tbGVmdDogcHgycnB4KDcpOwo=</text>
+        <text encoding="base64">ICAgICAgdHlwZTogTnVtYmVyLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAodXNlckluZm8gJiYgdXNlckluZm8uYXZhdGFyKSA/IHVzZXJJbmZvLmF2YXRhciA6IEFWQVRBUl9JTUc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1c3RvbS1zdHlsZT0iIgo=</text>
+        <text encoding="base64">eAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNpemUK</text>
+        <text encoding="base64">ICAgIGlmKHUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICBtYXgtd2lkdGg6IHB4MnJweCgxNzIpICFpbXBvcnRhbnQ7CiAgbWluLXdpZHRoOiBweDJycHgoMTcyKSAhaW1wb3J0YW50OwogIHBhZGRpbmc6IDAgIWltcG9ydGFudDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBtYXJnaW4tbGVmdDogcHgycnB4KDcpOwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>运费</last-search>
+      <last-search>share-img</last-search>
       <last-offset />
-      <last-pattern>运费</last-pattern>
+      <last-pattern>share-img</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
