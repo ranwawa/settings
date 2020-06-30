@@ -5,15 +5,11 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>省</entry>
-        <entry>selectedSku</entry>
-        <entry>仅</entry>
         <entry>this.roomId</entry>
         <entry>roomId</entry>
         <entry>submit</entry>
         <entry>sit</entry>
         <entry>showLoad</entry>
-        <entry>onLoad</entry>
         <entry>MINE</entry>
         <entry>立即登录</entry>
         <entry>登录</entry>
@@ -25,6 +21,10 @@
         <entry>goods-param</entry>
         <entry>show-day</entry>
         <entry>onShow</entry>
+        <entry>微信</entry>
+        <entry>auth</entry>
+        <entry>userInfo =</entry>
+        <entry>onLoad</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -125,16 +125,6 @@
         <mark key="." line="85" column="38" />
         <mark key="^" line="85" column="39" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1593507051059">
-        <mark key="'" line="176" column="17" />
-        <mark key="[" line="284" column="16" />
-        <mark key="]" line="284" column="16" />
-        <mark key="." line="284" column="16" />
-        <mark key="^" line="285" column="22" />
-      </file>
-      <file name="E:/jxgh5/vue.config.js" timestamp="1593509568203">
-        <mark key="'" line="204" column="35" />
-      </file>
       <file name="E:/jxgwxapp/node_modules/uni-vant/lib/sass/_variables.scss" timestamp="1593522682861" />
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1593521953807">
         <mark key="'" line="154" column="17" />
@@ -143,25 +133,31 @@
         <mark key="." line="35" column="6" />
         <mark key="^" line="35" column="13" />
       </file>
-      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1593521984782">
-        <mark key="'" line="96" column="8" />
+      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1593526999833">
+        <mark key="'" line="3" column="4" />
         <mark key="[" line="80" column="2" />
         <mark key="]" line="80" column="2" />
         <mark key="." line="80" column="2" />
         <mark key="^" line="79" column="5" />
       </file>
+      <file name="E:/jxgwxapp/src/api/requestModel.ts" timestamp="1593525821353" />
       <file name="E:/jxgwxapp/src/App.vue" timestamp="1593522698356">
         <mark key="[" line="100" column="19" />
         <mark key="]" line="100" column="21" />
         <mark key="." line="100" column="20" />
         <mark key="^" line="100" column="21" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1593524787410">
-        <mark key="'" line="137" column="4" />
-        <mark key="[" line="150" column="8" />
-        <mark key="]" line="150" column="14" />
-        <mark key="." line="150" column="13" />
-        <mark key="^" line="150" column="14" />
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1593527055282">
+        <mark key="[" line="157" column="8" />
+        <mark key="]" line="157" column="14" />
+        <mark key="." line="157" column="13" />
+        <mark key="^" line="157" column="14" />
+      </file>
+      <file name="E:/jxgwxapp/src/assets/js/common.ts" timestamp="1593527988082">
+        <mark key="[" line="134" column="3" />
+        <mark key="]" line="134" column="3" />
+        <mark key="^" line="142" column="8" />
+        <mark key="." line="134" column="3" />
       </file>
       <file name="E:/jxgwxapp/src/order/pages/detail.vue" timestamp="1593523909670">
         <mark key="'" line="171" column="0" />
@@ -169,7 +165,7 @@
         <mark key="]" line="15" column="45" />
         <mark key="." line="15" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593523919366">
+      <file name="/Dummy.txt" timestamp="1593528250345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -185,15 +181,15 @@
         <mark key="." line="203" column="30" />
         <mark key="^" line="203" column="31" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1593517109558">
-        <mark key="'" line="165" column="21" />
-        <mark key="[" line="315" column="0" />
-        <mark key="]" line="315" column="0" />
-        <mark key="." line="315" column="0" />
-        <mark key="^" line="316" column="26" />
+      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1593524805327">
+        <mark key="'" line="126" column="2" />
       </file>
-      <file name="E:/jxgwxapp/src/pages.json" timestamp="1593516404775">
-        <mark key="'" line="111" column="8" />
+      <file name="/poster.vue" timestamp="1593528015477" />
+      <file name="E:/jxgwxapp/src/index/poster.vue" timestamp="1593528112221">
+        <mark key="[" line="59" column="6" />
+        <mark key="]" line="59" column="26" />
+        <mark key="." line="59" column="25" />
+        <mark key="^" line="59" column="26" />
       </file>
       <file name="E:/jxgwxapp/src/pages/mine/index.vue" timestamp="1593522152349">
         <mark key="'" line="223" column="21" />
@@ -209,23 +205,16 @@
         <mark key="." line="108" column="41" />
         <mark key="^" line="108" column="42" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593523844134">
-        <mark key="'" line="1135" column="23" />
-        <mark key="[" line="1128" column="23" />
-        <mark key="]" line="1132" column="0" />
-        <mark key="." line="1132" column="0" />
-        <mark key="^" line="1132" column="0" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593528430974">
+        <mark key="'" line="124" column="32" />
+        <mark key="[" line="530" column="7" />
+        <mark key="]" line="531" column="17" />
+        <mark key="." line="531" column="16" />
+        <mark key="^" line="531" column="17" />
       </file>
       <file name="/detail.vue" timestamp="1593523269900" />
     </filemarks>
     <jumps>
-      <jump line="169" column="39" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
-      <jump line="119" column="40" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
-      <jump line="71" column="2" filename="E:/jxgwxapp/node_modules/uni-vant/lib/button.vue" />
-      <jump line="760" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="118" column="10" filename="E:/jxgwxapp/src/pages/master/index.vue" />
-      <jump line="133" column="14" filename="E:/jxgwxapp/src/pages/master/index.vue" />
-      <jump line="77" column="27" filename="E:/jxgwxapp/src/pages/master/index.vue" />
       <jump line="755" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="757" column="19" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="816" column="3" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -288,7 +277,6 @@
       <jump line="154" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="204" column="0" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="45" column="34" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="170" column="4" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
       <jump line="76" column="36" filename="E:/jxgwxapp/src/api/user.ts" />
       <jump line="96" column="8" filename="E:/jxgwxapp/src/api/user.ts" />
@@ -303,7 +291,6 @@
       <jump line="78" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="84" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="91" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="124" column="19" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="125" column="21" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="134" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="141" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -319,56 +306,102 @@
       <jump line="1135" column="23" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="171" column="0" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
       <jump line="137" column="4" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="126" column="2" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
+      <jump line="143" column="21" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="161" column="7" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="178" column="20" filename="E:/jxgwxapp/src/api/user.ts" />
+      <jump line="3" column="4" filename="E:/jxgwxapp/src/api/user.ts" />
+      <jump line="185" column="18" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="105" column="2" filename="E:/jxgwxapp/src/pages/user/login.vue" />
+      <jump line="124" column="32" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>这样第2次解密的时候才会生效</text>
+        <text>product.id</text>
       </register>
       <register name="-" type="4">
-        <text>这样第2次解密的时候才会生效</text>
+        <text>product.id</text>
       </register>
       <register name="/" type="4">
-        <text>onShow</text>
+        <text>onLoad</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Lmdvb2RzLWRldGFpbF9fY2VsbCAudXYtY2VsbC10aXRsZSB7Cg==</text>
+      <register name="0" type="4">
+        <text>let params = {
+      account: &quot;JXGLIVEMINI&quot;,
+      page: &quot;/&quot;,
+      scene: this._userInfo.user_id,
+    };
+    const [err, data]: any = await getRecommended.createQRCode(params);
+    if (data) {
+      // let result = JSON.parse(data);
+      if (data.errmsg == &quot;ok&quot;) {
+        let res = uni.arrayBufferToBase64(data.buffer);
+        this.QrSrc = `data:${data.contentType};base64,${res}`;
+        (this as any).$refs.popupShareRef.open();
+      } else {
+        uni.showToast({
+          icon: &quot;none&quot;,
+          title: data.errmsg,
+        });
+      }
+    }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgbWFyZ2luLXJpZ2h0OiBweDJycHgoMTIpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMTExMSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgbWFyZ2luLXJpZ2h0OiBweDJycHgoMTIpOwogICY6OmJlZm9yZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnQ6ICIiOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgdW5pLnNob3dUb2FzdCh7CiAgICAgIGljb246ICJub25lIiwKICAgICAgdGl0bGU6IGRhdGEuZXJybXNnLAogICAgfSk7CiAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICh0aGlzIGFzIGFueSkuJHJlZnMucG9wdXBTaGFyZVJlZi5vcGVuKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvZGVlcC8gLnV2LWNlbGwtdGl0bGUgewogICAgbWF4LXdpZHRoOiA0ZW07CiAgICBjb2xvcjogJGMtbGlnaHQ7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aWR0aDogOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWNvbG9yOiByZ2JhKDI1NSwgMjU1LCAyNTUsIDEpOwo=</text>
+      <register name="7" type="4">
+        <text>let params = {
+      
+      account: &quot;JXGLIVEMINI&quot;,
+      page: &quot;/&quot;,
+      scene: this._userInfo.user_id,
+    };
+    const [err, data]: any = await getRecommended.createQRCode(params);
+    if (data) {
+      // let result = JSON.parse(data);
+      if (data.errmsg == &quot;ok&quot;) {
+        let res = uni.arrayBufferToBase64(data.buffer);
+        this.QrSrc = `data:${data.contentType};base64,${res}`;
+        (this as any).$refs.popupShareRef.open();
+      } else {
+        uni.showToast({
+          icon: &quot;none&quot;,
+          title: data.errmsg,
+        });
+      }
+    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWNvbG9yOiByZ2JhKDI1NSwgMjU1LCAyNTUsIDEpOwo=</text>
+        <text encoding="base64">ICAgICh0aGlzIGFzIGFueSkuJHJlZnMucG9wdXBTaGFyZVJlZi5vcGVuKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF0Zm9ybVR5cGU6IFBMQVRGT1JNX0pBVkEuSlhHTElWRU1JTkksCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onShow</last-search>
+      <last-search>onLoad</last-search>
       <last-offset />
-      <last-pattern>onShow</last-pattern>
+      <last-pattern>onLoad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
