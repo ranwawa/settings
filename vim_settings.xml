@@ -16,7 +16,6 @@
         <entry>onLoad</entry>
         <entry>MINE</entry>
         <entry>立即登录</entry>
-        <entry>onShow</entry>
         <entry>登录</entry>
         <entry>uv-cell</entry>
         <entry>cell-title</entry>
@@ -25,6 +24,7 @@
         <entry>-title</entry>
         <entry>goods-param</entry>
         <entry>show-day</entry>
+        <entry>onShow</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -156,12 +156,12 @@
         <mark key="." line="100" column="20" />
         <mark key="^" line="100" column="21" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1593521945308">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="145" column="8" />
-        <mark key="]" line="145" column="8" />
-        <mark key="." line="145" column="8" />
-        <mark key="^" line="142" column="31" />
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1593524787410">
+        <mark key="'" line="137" column="4" />
+        <mark key="[" line="150" column="8" />
+        <mark key="]" line="150" column="14" />
+        <mark key="." line="150" column="13" />
+        <mark key="^" line="150" column="14" />
       </file>
       <file name="E:/jxgwxapp/src/order/pages/detail.vue" timestamp="1593523909670">
         <mark key="'" line="171" column="0" />
@@ -169,7 +169,7 @@
         <mark key="]" line="15" column="45" />
         <mark key="." line="15" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593523675967">
+      <file name="/Dummy.txt" timestamp="1593523919366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -219,7 +219,6 @@
       <file name="/detail.vue" timestamp="1593523269900" />
     </filemarks>
     <jumps>
-      <jump line="31" column="40" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="169" column="39" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
       <jump line="119" column="40" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
       <jump line="71" column="2" filename="E:/jxgwxapp/node_modules/uni-vant/lib/button.vue" />
@@ -319,18 +318,19 @@
       <jump line="188" column="21" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="1135" column="23" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="171" column="0" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
+      <jump line="137" column="4" filename="E:/jxgwxapp/src/pages/user/login.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>这样第2次解密的时候才会生效</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>这样第2次解密的时候才会生效</text>
       </register>
       <register name="/" type="4">
-        <text>show-day</text>
+        <text>onShow</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Lmdvb2RzLWRldGFpbF9fY2VsbCAudXYtY2VsbC10aXRsZSB7Cg==</text>
@@ -366,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>show-day</last-search>
+      <last-search>onShow</last-search>
       <last-offset />
-      <last-pattern>show-day</last-pattern>
+      <last-pattern>onShow</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
