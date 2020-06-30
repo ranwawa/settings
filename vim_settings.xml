@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>goods-detail</entry>
         <entry>ax-width</entry>
         <entry>-title</entry>
         <entry>goods-param</entry>
@@ -25,6 +24,7 @@
         <entry>33333</entry>
         <entry>console.log</entry>
         <entry>3333</entry>
+        <entry>uv-button</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -206,17 +206,15 @@
         <mark key="]" line="15" column="45" />
         <mark key="." line="15" column="45" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593535482810">
-        <mark key="[" line="564" column="36" />
-        <mark key="]" line="564" column="44" />
-        <mark key="." line="564" column="43" />
-        <mark key="^" line="564" column="44" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593536459027">
+        <mark key="'" line="1142" column="7" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="20" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="0" column="0" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="154" column="16" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="192" column="2" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="143" column="21" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="160" column="22" filename="E:/jxgwxapp/src/order/pages/index.vue" />
@@ -314,56 +312,59 @@
       <jump line="554" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="555" column="4" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="570" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="559" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="112" column="3" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1143" column="7" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>errot</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgOnJvdy13aWR0aD0iWycyMCUnLCAnODAlJ10iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>errot</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>3333</text>
+        <text>uv-button</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImVuYWJsZVB1bGxEb3duUmVmcmVzaCI6IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAgOnJvdy13aWR0aD0iWycyMCUnLCAnODAlJ10iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZS5lcnJvciAK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZS5lcnJvciAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb3BzKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0RGF0YSh7CiAgICAgIGlzTG9hZGluZ0RhdGE6IGZhbHNlCiAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb3BzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMzEyMyk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0RGF0YSh7CiAgICAgIGlzTG9hZGluZ0RhdGE6IGZhbHNlCiAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVyciwgZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMzEyMyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMzMzMzMzMzMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVyciwgZGF0YSk7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>3333</last-search>
+      <last-search>uv-button</last-search>
       <last-offset />
-      <last-pattern>3333</last-pattern>
+      <last-pattern>uv-button</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
