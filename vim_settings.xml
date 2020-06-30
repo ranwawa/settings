@@ -127,7 +127,7 @@
       <file name="E:/jxgwxapp/node_modules/uni-vant/lib/button.vue" timestamp="1593450645767">
         <mark key="'" line="71" column="2" />
       </file>
-      <file name="E:/jxgwxapp/src/config.ts" timestamp="1593480799110">
+      <file name="E:/jxgwxapp/src/config.ts" timestamp="1593481262277">
         <mark key="[" line="32" column="33" />
         <mark key="]" line="32" column="33" />
         <mark key="." line="32" column="33" />
@@ -172,12 +172,7 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="E:/jxgwxapp/src/api/goods.ts" timestamp="1593445721750">
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="25" column="45" />
-        <mark key="^" line="25" column="45" />
-        <mark key="." line="25" column="44" />
-      </file>
+      <file name="E:/jxgwxapp/node_modules/rww-sass/lib/_border.scss" timestamp="1593482489957" />
       <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1593451108405">
         <mark key="[" line="121" column="19" />
         <mark key="]" line="121" column="19" />
@@ -200,23 +195,22 @@
         <mark key="." line="57" column="17" />
         <mark key="^" line="57" column="18" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/result.vue" timestamp="1593446252825">
-        <mark key="'" line="136" column="1" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="71" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="184" column="30" />
+      <file name="E:/jxgwxapp/src/pages/components/shares.vue" timestamp="1593482830403">
+        <mark key="[" line="140" column="16" />
+        <mark key="]" line="140" column="33" />
+        <mark key="." line="140" column="32" />
+        <mark key="^" line="140" column="33" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593445454714">
-        <mark key="'" line="713" column="39" />
-        <mark key="[" line="713" column="51" />
-        <mark key="]" line="713" column="65" />
-        <mark key="." line="713" column="64" />
-        <mark key="^" line="713" column="65" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593483479837">
+        <mark key="'" line="760" column="0" />
+        <mark key="[" line="779" column="17" />
+        <mark key="]" line="779" column="23" />
+        <mark key="." line="779" column="22" />
+        <mark key="^" line="779" column="23" />
       </file>
+      <file name="E:/jxgwxapp/node_modules/rww-sass/lib/_colors.scss" timestamp="1593482497214" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="119" column="33" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="123" column="12" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="9" column="9" filename="E:/jxgwxapp/src/api/api.ts" />
@@ -316,15 +310,16 @@
       <jump line="169" column="39" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
       <jump line="119" column="40" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
       <jump line="71" column="2" filename="E:/jxgwxapp/node_modules/uni-vant/lib/button.vue" />
+      <jump line="760" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>jxg</text>
+        <text>px2rpx(1)</text>
       </register>
       <register name="-" type="4">
-        <text>jxg</text>
+        <text>px2rpx(1)</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
@@ -333,9 +328,18 @@
         <text encoding="base64">ICBvblJlYWNoQm90dG9tKCkgewogICAgdGhpcy5wYWdlLmhhdmVNb3JlICYmIHRoaXMuZ2V0UHJvZHVjdExpc3QoKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCWJvcmRlcjogOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaXNTaG93U2hhcmVCdG4pOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>return {
       style: &quot;&quot;,
       color: this.themeColor,
@@ -343,7 +347,7 @@
       plain: true,
     };</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>return {
         style: this.themeBtnShadow,
         color: &quot;&quot;,
@@ -351,23 +355,14 @@
         plain: false,
       };</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByb3VuZAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjdXN0b20tc3R5bGU9Im1hcmdpbi1sZWZ0OiAxMHB4OyIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogJycsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7IGl0ZW0uc2hvcGtlZXBlclRlYW1JbmNvbWUgfX0gMTIzCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7eyBpdGVtLnNob3BrZWVwZXJUZWFtSW5jb21lIH19IDEyMwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjogJycsCg==</text>
       </register>
     </registers>
   </component>
