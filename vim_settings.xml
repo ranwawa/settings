@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>分享赚</entry>
-        <entry>open-type</entry>
         <entry>onReachBo</entry>
         <entry>popup</entry>
         <entry>UvPopup</entry>
@@ -19,12 +17,14 @@
         <entry>share-img</entry>
         <entry>computedShowPrice</entry>
         <entry>__title</entry>
-        <entry>edit</entry>
         <entry>::after</entry>
         <entry>after</entry>
         <entry>margin-bottom</entry>
         <entry>submit</entry>
         <entry>立即购买</entry>
+        <entry>console.log</entry>
+        <entry>edite</entry>
+        <entry>edit</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,8 +119,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1593602065270">
-        <mark key="'" line="290" column="13" />
+      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1593606856574">
+        <mark key="'" line="180" column="16" />
         <mark key="[" line="290" column="27" />
         <mark key="]" line="290" column="35" />
         <mark key="." line="290" column="34" />
@@ -177,7 +177,7 @@
         <mark key="^" line="187" column="19" />
         <mark key="." line="187" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593605559810">
+      <file name="/Dummy.txt" timestamp="1593607056787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -216,22 +216,15 @@
         <mark key="^" line="19" column="8" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593605768981">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="741" column="16" />
-        <mark key="]" line="741" column="21" />
-        <mark key="." line="741" column="20" />
-        <mark key="^" line="741" column="21" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593607059339">
+        <mark key="'" line="738" column="4" />
+        <mark key="[" line="739" column="0" />
+        <mark key="]" line="739" column="0" />
+        <mark key="." line="739" column="0" />
+        <mark key="^" line="746" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="570" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="559" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="112" column="3" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1143" column="7" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1155" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="159" column="14" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="336" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="35" column="18" filename="E:/jxgwxapp/node_modules/uni-vant/lib/popup.vue" />
       <jump line="48" column="4" filename="E:/jxgwxapp/node_modules/uni-vant/lib/popup.vue" />
       <jump line="66" column="4" filename="E:/jxgwxapp/node_modules/uni-vant/lib/popup.vue" />
@@ -279,7 +272,6 @@
       <jump line="58" column="2" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
       <jump line="539" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="576" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="728" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="729" column="9" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="160" column="65" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="164" column="21" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -325,56 +317,64 @@
       <jump line="459" column="38" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="493" column="38" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="741" column="20" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="765" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="432" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="579" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="712" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="728" column="6" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="738" column="4" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="180" column="16" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNrdSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIzNCwgdGhpcy5zZWxlY3RlZFNrdS5wcmljZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this.computedActivityPrice || sku.price;</text>
       </register>
       <register name="/" type="4">
-        <text>立即购买</text>
+        <text>edit</text>
       </register>
       <register name="0" type="4">
         <text>selectedSku.price</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNrdSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIzNCwgdGhpcy5zZWxlY3RlZFNrdS5wcmljZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZTogImh0dHBzOi8vanhndGVzdC5qaXh1Z291LmNuIiwKICAgICAgICBsaXZlUHVzaGVyOiAiaHR0cHM6Ly9saXZlanhnLmppeHVnb3UuY24vbGl2ZWg1YXBpIiwKICAgICAgICBsaXZlUGxheWVyOiAiaHR0cHM6Ly9saXZlanhnLmppeHVnb3UuY24vbGl2ZWg1YXBpIiwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMywgdGhpcy5jb21wdXRlZEFjdGl2aXR5UHJpY2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJJbmZvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICJwcmljZSIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkU2t1KTsK</text>
+        <text encoding="base64">ICAgIHNrdS5wcmljZSA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoc2VsZWN0ZWRTa3UucHJpY2UgfHwgJzAuMDAnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMywgdGhpcy5jb21wdXRlZEFjdGl2aXR5UHJpY2UpOwogICAgY29uc29sZS5sb2coMjM0LCB0aGlzLnNlbGVjdGVkU2t1LnByaWNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29tcHV0ZWRBY3Rpdml0eVByaWNlICYmCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zZWxlY3RlZFNrdSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpdml0eUlkOiAiIiwK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5pc0xvYWRpbmdEYXRhLCAxMjMxMjMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpdml0eUlkCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucG9wdXBUeXBlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMyk7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>立即购买</last-search>
+      <last-search>edit</last-search>
       <last-offset />
-      <last-pattern>立即购买</last-pattern>
+      <last-pattern>edit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
