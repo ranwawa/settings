@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>token</entry>
         <entry>getTokenFrom</entry>
         <entry>getTGoken</entry>
         <entry>onLoad</entry>
@@ -25,6 +24,7 @@
         <entry>confirm</entry>
         <entry>share-img</entry>
         <entry>computedShowPrice</entry>
+        <entry>__title</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -168,7 +168,7 @@
       <file name="E:/jxgwxapp/src/live/pages/previewLiveDetail.vue" timestamp="1593584288021">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593594489269">
+      <file name="/Dummy.txt" timestamp="1593595508813">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -220,17 +220,15 @@
         <mark key="^" line="19" column="8" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593594623392">
-        <mark key="'" line="808" column="2" />
-        <mark key="[" line="740" column="16" />
-        <mark key="]" line="740" column="56" />
-        <mark key="." line="740" column="55" />
-        <mark key="^" line="740" column="56" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593596133444">
+        <mark key="'" line="44" column="34" />
+        <mark key="[" line="891" column="11" />
+        <mark key="]" line="892" column="26" />
+        <mark key="." line="892" column="25" />
+        <mark key="^" line="892" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="516" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="283" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="281" column="12" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="507" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="14" column="41" filename="E:/jxgwxapp/src/pages.json" />
@@ -314,7 +312,6 @@
       <jump line="221" column="20" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="500" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="14" column="46" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="29" column="71" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="311" column="39" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="351" column="7" filename="E:/jxgwxapp/src/order/pages/index.vue" />
@@ -329,29 +326,35 @@
       <jump line="16" column="20" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="420" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="808" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="737" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="44" column="34" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>sku.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6ICRzLXh4czsK</text>
       </register>
       <register name="-" type="4">
-        <text>sku.</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>computedShowPrice</text>
+        <text>__title</text>
       </register>
       <register name="0" type="4">
         <text>selectedSku.price</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgOk9yaWdpbmFsVHh0PSJjb21wdXRlZFNoYXJlT3JpZ2luUHJpY2UiCg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6ICRzLXh4czsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgOk9yaWdpbmFsVHh0PSJjb21wdXRlZFNoYXJlT3JpZ2luUHJpY2UiCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIC8vIGNvbnNuICBwcmljZTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>t {selectedSku} = this;
     // const { price, shopkeeperTeamIncome} = selectedSku;
     // if (price || price === shopkeeperTeamIncome) {
@@ -359,31 +362,28 @@
     // }
     // retur</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHRoaXMuc2VsZQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Y29uc3QgcHJvcCA9ICJwcmljZSI7CiAgICBsZXQgc2t1SW5mb0xpc3QgPSBPYmplY3QudmFsdWVzKHRoaXMuc2t1SW5mb0xpc3QpOwogICAgc2t1SW5mb0xpc3QgPSBza3VJbmZvTGlzdCAmJiBza3VJbmZvTGlzdDsKICAgIGNvbnN0IG1pbjogYW55ID0gXy5taW5CeShza3VJbmZvTGlzdCwgcHJvcCk7CiAgICBjb25zdCBtYXg6IGFueSA9IF8ubWF4Qnkoc2t1SW5mb0xpc3QsIHByb3ApOwogICAgaWYgKCFtaW4gJiYgIW1heCkgewogICAgICByZXR1cm4gewogICAgICAgIHByaWNlOiAiIiwKICAgICAgICBpbmNvbWU6ICIiLAogICAgICB9OwogICAgfSBlbHNlIGlmIChtaW4gPT09IG1heCkgewogICAgICByZXR1cm4gewogICAgICAgIHByaWNlOiBtaW4ucHJpY2UsCiAgICAgICAgaW5jb21lOiBtaW4uc2hvcGtlZXBlckluY29tZSwKICAgICAgfTsKICAgIH0gZWxzZSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgcHJpY2U6IGAke21pbi5wcmljZX0gLSAke21heC5wcmljZX1gLAogICAgICAgIGluY29tZTogbWF4LnNob3BrZWVwZXJJbmNvbWUsCiAgICAgIH07CiAgICB9</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgZ2V0IGNvbXB1dGVkU2hvd1ByaWNlICgpIHsKICAgIAogIH0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHBhZGRpbmc6IDAgcHgycnB4KDMyKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxlZnQ6IDA7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJpZ2h0OiAwOwo=</text>
+        <text encoding="base64">ICAgIGxlZnQ6IDA7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>computedShowPrice</last-search>
+      <last-search>__title</last-search>
       <last-offset />
-      <last-pattern>computedShowPrice</last-pattern>
+      <last-pattern>__title</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
