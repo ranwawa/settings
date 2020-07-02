@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>index\/index</entry>
         <entry>skip</entry>
         <entry>import</entry>
         <entry>normal</entry>
@@ -25,6 +24,7 @@
         <entry>token =</entry>
         <entry>getToken</entry>
         <entry>__arrow</entry>
+        <entry>invite</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,6 +119,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/jxgwxapp/src/config.ts" timestamp="1593672220254">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="31" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="31" />
+      </file>
       <file name="E:/jxgwxapp/src/assets/scss/index.scss" timestamp="1593670863792">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="29" />
@@ -137,6 +143,9 @@
         <mark key="." line="134" column="0" />
         <mark key="^" line="290" column="35" />
       </file>
+      <file name="C:/project/uni-vant/src/components/sass/_variables.scss" timestamp="1593671212510">
+        <mark key="[" line="202" column="32" />
+      </file>
       <file name="E:/jxgwxapp/src/api/live.ts" timestamp="1593669100189">
         <mark key="'" line="222" column="3" />
         <mark key="[" line="8" column="0" />
@@ -144,22 +153,12 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/api/common.ts" timestamp="1593656506128">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1593669405628">
         <mark key="'" line="145" column="4" />
         <mark key="[" line="242" column="0" />
         <mark key="]" line="242" column="0" />
         <mark key="." line="242" column="0" />
         <mark key="^" line="77" column="54" />
-      </file>
-      <file name="E:/jxgwxapp/src/pages/master/anchorAuth.vue" timestamp="1593671032266">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="48" />
-        <mark key="." line="110" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/App.vue" timestamp="1593669381714">
         <mark key="'" line="0" column="17" />
@@ -194,14 +193,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="E:/jxgwxapp/node_modules/uni-vant/lib/button.vue" timestamp="1593657465550">
-        <mark key="'" line="251" column="13" />
-      </file>
-      <file name="E:/jxgwxapp/src/order/pages/list.vue" timestamp="1593651847154">
-        <mark key="[" line="221" column="6" />
-        <mark key="]" line="221" column="10" />
-        <mark key="." line="221" column="9" />
-        <mark key="^" line="221" column="10" />
+      <file name="E:/jxgwxapp/src/pages/user/mixins.ts" timestamp="1593672244714">
+        <mark key="'" line="59" column="2" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/components/nav-bar.vue" timestamp="1593670875058">
         <mark key="'" line="20" column="33" />
@@ -209,16 +205,11 @@
         <mark key="]" line="165" column="26" />
         <mark key="." line="165" column="26" />
       </file>
-      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1593669386227">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-      </file>
       <file name="E:/jxgwxapp/src/main.ts" timestamp="1593669376503">
-        <mark key="'" line="43" column="6" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="'" line="41" column="6" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/index/poster.vue" timestamp="1593661405879">
         <mark key="[" line="74" column="13" />
@@ -235,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="950" column="1" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="959" column="1" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="980" column="1" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="185" column="8" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
@@ -335,18 +325,19 @@
       <jump line="148" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="216" column="48" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
       <jump line="20" column="33" filename="E:/jxgwxapp/src/pages/master/components/nav-bar.vue" />
+      <jump line="59" column="2" filename="E:/jxgwxapp/src/pages/user/mixins.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFV2TmF2QmFyIGZyb20gInVuaS12YW50L2xpYi9uYXYtYmFyLnZ1ZSI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>components</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>__arrow</text>
+        <text>invite</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IFV2TmF2QmFyIGZyb20gInVuaS12YW50L2xpYi9uYXYtYmFyLnZ1ZSI7Cg==</text>
@@ -382,9 +373,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>__arrow</last-search>
+      <last-search>invite</last-search>
       <last-offset />
-      <last-pattern>__arrow</last-pattern>
+      <last-pattern>invite</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
