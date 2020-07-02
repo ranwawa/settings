@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>import</entry>
-        <entry>normal</entry>
         <entry>确认提交</entry>
         <entry>save_wrap</entry>
         <entry>123</entry>
@@ -25,6 +23,8 @@
         <entry>invite</entry>
         <entry>onLoad</entry>
         <entry>onShow</entry>
+        <entry>live_room</entry>
+        <entry>live_room.cgi</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593678626251">
+      <file name="/Dummy.txt" timestamp="1593678655883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -131,7 +131,7 @@
         <mark key="." line="58" column="9" />
         <mark key="^" line="58" column="10" />
       </file>
-      <file name="E:/jxgwxapp/src/config.ts" timestamp="1593673269796">
+      <file name="E:/jxgwxapp/src/config.ts" timestamp="1593680411461">
         <mark key="[" line="30" column="28" />
         <mark key="]" line="30" column="31" />
         <mark key="." line="30" column="30" />
@@ -178,15 +178,15 @@
         <mark key="]" line="232" column="39" />
         <mark key="." line="232" column="30" />
       </file>
-      <file name="E:/jxgwxapp/src/api/live.ts" timestamp="1593669100189">
-        <mark key="'" line="222" column="3" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
+      <file name="E:/jxgwxapp/src/api/live.ts" timestamp="1593681724972">
+        <mark key="'" line="163" column="21" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
         <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="0" />
+        <mark key="." line="146" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/main.ts" timestamp="1593669376503">
-        <mark key="'" line="41" column="6" />
+      <file name="E:/jxgwxapp/src/main.ts" timestamp="1593681528349">
+        <mark key="'" line="48" column="4" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -230,13 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="922" column="12" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="27" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="38" column="58" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="221" column="20" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="500" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="14" column="46" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="29" column="71" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="311" column="39" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="351" column="7" filename="E:/jxgwxapp/src/order/pages/index.vue" />
@@ -330,27 +323,34 @@
       <jump line="147" column="0" filename="E:/jxgwxapp/src/pages/index/index.vue" />
       <jump line="111" column="14" filename="E:/jxgwxapp/src/pages/index/index.vue" />
       <jump line="150" column="43" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
+      <jump line="48" column="4" filename="E:/jxgwxapp/src/main.ts" />
+      <jump line="8" column="0" filename="E:/jxgwxapp/src/api/live.ts" />
+      <jump line="54" column="13" filename="E:/jxgwxapp/src/api/live.ts" />
+      <jump line="63" column="13" filename="E:/jxgwxapp/src/api/live.ts" />
+      <jump line="144" column="20" filename="E:/jxgwxapp/src/api/live.ts" />
+      <jump line="154" column="23" filename="E:/jxgwxapp/src/api/live.ts" />
+      <jump line="164" column="21" filename="E:/jxgwxapp/src/api/live.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICFkZWZhdWx0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2tpcEhhbmRsZVJlc3BvbnNlT2s6IHRydWUsCg==</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>onShow</text>
+        <text>live_room.cgi</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICFkZWZhdWx0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExLCBgJHtiYXNlVXJsfSR7dXJsfWApOwo=</text>
+        <text encoding="base64">ICAgICAgc2tpcEhhbmRsZVJlc3BvbnNlT2s6IHRydWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFV2TmF2QmFyIGZyb20gIkAvcGFnZXMvbWFzdGVyL2NvbXBvbmVudHMvbmF2LWJhci52dWUiOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExLCBgJHtiYXNlVXJsfSR7dXJsfWApOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IFV2TmF2QmFyIGZyb20gIkAvcGFnZXMvbWFzdGVyL2NvbXBvbmVudHMvbmF2LWJhci52dWUiOwo=</text>
@@ -377,9 +377,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onShow</last-search>
+      <last-search>live_room.cgi</last-search>
       <last-offset />
-      <last-pattern>onShow</last-pattern>
+      <last-pattern>live_room.cgi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
