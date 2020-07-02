@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>live_room</entry>
         <entry>live_room.cgi</entry>
         <entry>token</entry>
         <entry>login</entry>
@@ -25,6 +24,7 @@
         <entry>data</entry>
         <entry>onReach</entry>
         <entry>onLoad</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -151,12 +151,11 @@
         <mark key="]" line="80" column="48" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1593692785210">
-        <mark key="'" line="210" column="0" />
-        <mark key="[" line="240" column="22" />
-        <mark key="]" line="240" column="29" />
-        <mark key="." line="240" column="28" />
-        <mark key="^" line="240" column="29" />
+      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1593693677982">
+        <mark key="'" line="230" column="30" />
+        <mark key="[" line="301" column="0" />
+        <mark key="]" line="301" column="0" />
+        <mark key="." line="301" column="0" />
       </file>
       <file name="C:/project/uni-vant/src/components/sass/_variables.scss" timestamp="1593678586380">
         <mark key="[" line="232" column="30" />
@@ -217,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="27" filename="E:/jxgwxapp/src/pages.json" />
       <jump line="27" column="35" filename="E:/jxgwxapp/src/pages.json" />
       <jump line="277" column="31" filename="E:/jxgwxapp/src/pages.json" />
       <jump line="155" column="18" filename="E:/jxgwxapp/src/api/api.ts" />
@@ -317,56 +315,57 @@
       <jump line="310" column="1" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="285" column="8" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="209" column="0" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="230" column="30" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRhdGEgPSBKU09OLnN0cmluZ2lmeShkYXRhKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>add</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcHJvZHVjdExpc3QgfSA9IHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBKU09OLnN0cmluZ2lmeShkYXRhKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBkYXRhLnByb2R1Y3RMaXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghbGlzdC5sZW5ndGgpIHsKICAgICAgdGhpcy5wYWdlLmhhdmVNb3JlID0gZmFsc2U7CiAgICAgIHJldHVybjsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChsaXN0Lmxlbmd0aCkgewo=</text>
+        <text encoding="base64">ICAgICAgZGF0YSAmJiByZXR1cm47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNMb2FkaW5nRGF0YSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgcHJvZHVjdExpc3QgfSA9IHRoaXM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8g1+624Na7u7q05jEwt9bW0wo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
