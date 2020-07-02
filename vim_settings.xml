@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>login</entry>
         <entry>Login</entry>
         <entry>app</entry>
         <entry>分享</entry>
@@ -25,6 +24,7 @@
         <entry>add</entry>
         <entry>api</entry>
         <entry>80</entry>
+        <entry>created</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgh5/src/api/api.ts" timestamp="1593696458645">
+      <file name="E:/jxgh5/src/api/api.ts" timestamp="1593697133347">
         <mark key="'" line="27" column="9" />
         <mark key="[" line="93" column="72" />
         <mark key="]" line="94" column="28" />
@@ -202,8 +202,12 @@
       <file name="E:/jxgwxapp/src/main.ts" timestamp="1593687289649">
         <mark key="'" line="33" column="11" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/mine/index.vue" timestamp="1593674269541">
-        <mark key="'" line="150" column="43" />
+      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1593697159743">
+        <mark key="'" line="252" column="11" />
+        <mark key="[" line="876" column="13" />
+        <mark key="]" line="877" column="34" />
+        <mark key="." line="877" column="33" />
+        <mark key="^" line="877" column="34" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1593685408655">
         <mark key="'" line="48" column="9" />
@@ -217,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="8" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="151" column="8" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="190" column="9" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="202" column="20" filename="E:/jxgwxapp/src/api/api.ts" />
@@ -317,56 +320,57 @@
       <jump line="25" column="22" filename="E:/jxgh5/src/api/api.ts" />
       <jump line="27" column="9" filename="E:/jxgh5/src/api/api.ts" />
       <jump line="127" column="77" filename="E:/jxgh5/vue.config.js" />
+      <jump line="252" column="11" filename="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>80</text>
+        <text>created</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAocHJvY2Vzcy5lbnZbIk1PREUiXSA9PT0gJ3NpdCcgJiYgdXJsID09PSAnL2JsYWRlLW9yZGVyL29yZGVyaW5mby9jb25maXJtJykgewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyB0b2RvIM/Cw+bV4tDQtPrC69a71Nqy4srUu7e+s8ztvNMK</text>
+        <text encoding="base64">ICBpZiAocHJvY2Vzcy5lbnZbIk1PREUiXSA9PT0gJ3NpdCcgJiYgdXJsID09PSAnL2JsYWRlLW9yZGVyL29yZGVyaW5mby9jb25maXJtJykgewo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAvLyB0b2RvIM/Cw+bV4tDQtPrC69a71Nqy4srUu7e+s8ztvNMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAvLyB0b2RvIM/Cw+bV4tDQtPrC69a71Nqy4srUu7e+s8ztvNMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAocHJvY2Vzcy5lbnZbIk1PREUiXSA9PT0gJ3NpdCcgJiYgdXJsID09PSAnL2JsYWRlLW9yZGVyL29yZGVyaW5mby9jb25maXJtJykgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBpZiAocHJvY2Vzcy5lbnZbIk1PREUiXSA9PT0gJ3NpdCcgJiYgdXJsID09PSAnL2JsYWRlLW9yZGVyL29yZGVyaW5mby9jb25maXJtJykgewo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyB0b2RvIM/Cw+bV4tDQtPrC69a71Nqy4srUu7e+s8ztvNMK</text>
+        <text encoding="base64">ICBpZiAocHJvY2Vzcy5lbnZbIk1PREUiXSA9PT0gJ3NpdCcgJiYgdXJsID09PSAnL2JsYWRlLW9yZGVyL29yZGVyaW5mby9jb25maXJtJykgewo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>80</last-search>
+      <last-search>created</last-search>
       <last-offset />
-      <last-pattern>80</last-pattern>
+      <last-pattern>created</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
