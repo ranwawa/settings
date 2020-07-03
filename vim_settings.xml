@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>card</entry>
         <entry>10003</entry>
         <entry>checkPusher</entry>
         <entry encoding="base64">ZnVuYyAmJg==</entry>
@@ -25,6 +24,7 @@
         <entry>getMember</entry>
         <entry>meber</entry>
         <entry>submit</entry>
+        <entry>register</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -160,6 +160,7 @@
         <mark key="." line="22" column="9" />
         <mark key="^" line="22" column="10" />
       </file>
+      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1593759112406" />
       <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1593756060104">
         <mark key="'" line="116" column="12" />
         <mark key="[" line="200" column="30" />
@@ -176,6 +177,13 @@
         <mark key="." line="0" column="6" />
       </file>
       <file name="E:/jxgwxapp/src/order/components/updateAddress.vue" timestamp="1593756946140" />
+      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1593759023623">
+        <mark key="'" line="94" column="10" />
+        <mark key="[" line="94" column="11" />
+        <mark key="]" line="94" column="11" />
+        <mark key="." line="94" column="10" />
+        <mark key="^" line="94" column="11" />
+      </file>
       <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1593758300004" />
       <file name="E:/jxgwxapp/src/pages.json" timestamp="1593755837525">
         <mark key="'" line="220" column="47" />
@@ -192,23 +200,15 @@
         <mark key="]" line="876" column="0" />
         <mark key="." line="876" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1593758449136">
+      <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1593759452319">
         <mark key="'" line="41" column="16" />
-        <mark key="[" line="71" column="24" />
-        <mark key="]" line="71" column="33" />
-        <mark key="." line="71" column="32" />
-        <mark key="^" line="71" column="33" />
-      </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593692034026">
-        <mark key="'" line="522" column="0" />
-        <mark key="[" line="358" column="1" />
-        <mark key="]" line="359" column="0" />
-        <mark key="." line="359" column="0" />
-        <mark key="^" line="359" column="0" />
+        <mark key="[" line="40" column="14" />
+        <mark key="]" line="40" column="15" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="40" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="3" filename="E:/jxgwxapp/src/pages/master/components/nav-bar.vue" />
       <jump line="42" column="6" filename="E:/jxgwxapp/src/main.ts" />
       <jump line="191" column="29" filename="E:/jxgwxapp/src/live/pages/previewLiveDetail.vue" />
       <jump line="0" column="17" filename="E:/jxgwxapp/src/App.vue" />
@@ -308,18 +308,19 @@
       <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/master/index.vue" />
       <jump line="35" column="16" filename="E:/jxgwxapp/src/assets/js/baseUser.ts" />
       <jump line="172" column="23" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="94" column="10" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>any</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text>register</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyC3tbvYYXBwCiAgZ29CYWNrKCkgewogICAgb3VySnhnLmdvQmFjaygpOwogIH0K</text>
@@ -355,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>submit</last-search>
+      <last-search>register</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern>register</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
