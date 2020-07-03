@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>app</entry>
         <entry>分享</entry>
         <entry>我要开通</entry>
         <entry>console.log</entry>
@@ -25,6 +24,7 @@
         <entry>created</entry>
         <entry>443</entry>
         <entry>80</entry>
+        <entry>showLoad</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -131,19 +131,11 @@
         <mark key="." line="58" column="9" />
         <mark key="^" line="58" column="10" />
       </file>
-      <file name="E:/jxgh5/src/api/api.ts" timestamp="1593699357874">
-        <mark key="'" line="44" column="13" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="E:/jxgh5/src/api/api.ts" timestamp="1593699540276">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
         <mark key="^" line="25" column="36" />
-      </file>
-      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1593687744879">
-        <mark key="'" line="159" column="28" />
-        <mark key="[" line="163" column="43" />
-        <mark key="]" line="207" column="21" />
-        <mark key="." line="207" column="20" />
-        <mark key="^" line="207" column="21" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1593690226796">
         <mark key="'" line="194" column="8" />
@@ -170,7 +162,7 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/main.ts" timestamp="1593687289649">
+      <file name="E:/jxgwxapp/src/main.ts" timestamp="1593740167035">
         <mark key="'" line="33" column="11" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1593683114284">
@@ -194,6 +186,9 @@
         <mark key="^" line="200" column="37" />
         <mark key="." line="200" column="36" />
       </file>
+      <file name="E:/jxgwxapp/src/App.vue" timestamp="1593700597911">
+        <mark key="'" line="29" column="13" />
+      </file>
       <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1593677930356">
         <mark key="'" line="111" column="4" />
         <mark key="[" line="195" column="25" />
@@ -207,7 +202,7 @@
         <mark key="]" line="876" column="0" />
         <mark key="." line="876" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1593685408655">
+      <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1593737726348">
         <mark key="'" line="48" column="9" />
       </file>
       <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1593692034026">
@@ -219,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="4" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
-      <jump line="324" column="0" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
       <jump line="3" column="9" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
       <jump line="251" column="13" filename="E:/jxgwxapp/node_modules/uni-vant/lib/button.vue" />
       <jump line="99" column="7" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
@@ -319,6 +312,8 @@
       <jump line="71" column="14" filename="E:/jxgh5/src/api/api.ts" />
       <jump line="118" column="46" filename="E:/jxgh5/vue.config.js" />
       <jump line="44" column="13" filename="E:/jxgh5/src/api/api.ts" />
+      <jump line="29" column="13" filename="E:/jxgwxapp/src/App.vue" />
+      <jump line="66" column="35" filename="E:/jxgwxapp/src/api/api.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,7 +325,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>80</text>
+        <text>showLoad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOwo=</text>
@@ -366,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>80</last-search>
+      <last-search>showLoad</last-search>
       <last-offset />
-      <last-pattern>80</last-pattern>
+      <last-pattern>showLoad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
