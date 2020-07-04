@@ -166,11 +166,11 @@
         <mark key="^" line="95" column="36" />
         <mark key="." line="95" column="35" />
       </file>
-      <file name="E:/jxgwxapp/src/components/uni/share-poster.vue" timestamp="1593829941898">
-        <mark key="[" line="547" column="0" />
-        <mark key="]" line="548" column="21" />
+      <file name="E:/jxgwxapp/src/components/uni/share-poster.vue" timestamp="1593831137903">
+        <mark key="[" line="523" column="0" />
+        <mark key="]" line="523" column="0" />
         <mark key="^" line="201" column="46" />
-        <mark key="." line="547" column="0" />
+        <mark key="." line="523" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1593774866347">
         <mark key="'" line="191" column="4" />
@@ -319,11 +319,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>orderId: data.orderId,
-				payAmount: totalPrice,
-				payInfoType: PAY_TYPE.ORDER,
-				openId: baseUser.userInfo.weixinToken,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbGV0IF90aGlzID0gdGhpczsK</text>
       </register>
       <register name="-" type="4">
         <text>res</text>
@@ -338,31 +335,31 @@
 				openId: baseUser.userInfo.weixinToken,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgX3RoaXMuY3R4ID0gdW5pLmNyZWF0ZUNhbnZhc0NvbnRleHQoX3RoaXMuQ2FudmFzSUQsIHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgbGV0IF90aGlzID0gdGhpczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgX3RoaXMuY3R4ID0gdW5pLmNyZWF0ZUNhbnZhc0NvbnRleHQoX3RoaXMuQ2FudmFzSUQsIHRoaXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy/J6NbDvNu48SBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy/J6NbDvNu48SBlbmQK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAvLyAgIC8vyejWw7zbuPEKICAgICAgLy8gICBfc3RybGluZVcgPSBDX1A7CiAgICAgIC8vICAgX3N0ckhlaWdodCArPSB1bmkudXB4MnB4KDYwKTsKICAgICAgLy8gICBpZiAoX251bSA9PSAxKSB7CiAgICAgIC8vICAgICBfc3RySGVpZ2h0ICs9IDIwOyAvL7Wl0NCx6sziyrHVvM67t/sKICAgICAgLy8gICB9CgogICAgICAvLyAgIGlmIChfdGhpcy5QcmljZVR4dCAhPSAiIikgewogICAgICAvLyAgICAgLy/F0LbPyse38dPQz/rK27zbuPEKICAgICAgLy8gICAgIF90aGlzLmN0eC5zZXRGaWxsU3R5bGUoX3RoaXMuUHJpY2VDb2xvcik7CiAgICAgIC8vICAgICBfdGhpcy5jdHguc2V0Rm9udFNpemUodW5pLnVweDJweCgzOCkpOwogICAgICAvLyAgICAgX3RoaXMuY3R4LmZpbGxUZXh0KF90aGlzLlByaWNlVHh0LCBfc3RybGluZVcsIF9zdHJIZWlnaHQpOyAvL8nMxre827jxCiAgICAgIC8vICAgICBfc3RybGluZVcgKz0KICAgICAgLy8gICAgICAgX3RoaXMuY3R4Lm1lYXN1cmVUZXh0KF90aGlzLlByaWNlVHh0KS53aWR0aCArIHVuaS51cHgycHgoMTApOwogICAgICAvLyAgIH0KICAgICAgLy8gICBpZiAoX3RoaXMuUHJpY2VUeHQgIT0gIiIgJiYgX3RoaXMuT3JpZ2luYWxUeHQgIT0gIiIpIHsKICAgICAgLy8gICAgIC8vxdC2z8rHt/HT0M/6ytu827jxx9LUrbzbCiAgICAgIC8vICAgICBfdGhpcy5jdHguc2V0RmlsbFN0eWxlKF90aGlzLk9yaWdpbmFsQ29sb3IpOwogICAgICAvLyAgICAgX3RoaXMuY3R4LnNldEZvbnRTaXplKHVuaS51cHgycHgoMjQpKTsKICAgICAgLy8gICAgIF90aGlzLmN0eC5maWxsVGV4dChfdGhpcy5PcmlnaW5hbFR4dCwgX3N0cmxpbmVXLCBfc3RySGVpZ2h0KTsgLy/JzMa31K282wogICAgICAvLyAgIH0KICAgICAgLy8gICBfdGhpcy5jdHguc3Ryb2tlU3R5bGUgPSBfdGhpcy5PcmlnaW5hbENvbG9yOwogICAgICAvLyAgIF90aGlzLmN0eC5tb3ZlVG8oX3N0cmxpbmVXLCBfc3RySGVpZ2h0IC0gdW5pLnVweDJweCgxMCkpOyAvL8bwteMKICAgICAgLy8gICBfdGhpcy5jdHgubGluZVRvKAogICAgICAvLyAgICAgX3N0cmxpbmVXICsgX3RoaXMuY3R4Lm1lYXN1cmVUZXh0KF90aGlzLk9yaWdpbmFsVHh0KS53aWR0aCwKICAgICAgLy8gICAgIF9zdHJIZWlnaHQgLSB1bmkudXB4MnB4KDEwKQogICAgICAvLyAgICk7IC8v1tW14wogICAgICAvLyAgIF90aGlzLmN0eC5zdHJva2UoKTs=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgYXdhaXQgc2hvd1RvYXN0VGV4dCgn1f3U2sn6s8nNvMasJyk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgbGV0IF8K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygyMjIsIGUpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
     </registers>
   </component>
