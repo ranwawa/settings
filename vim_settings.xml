@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>微信好友</entry>
         <entry>bottomData.text</entry>
         <entry>text</entry>
         <entry>Storage</entry>
@@ -22,9 +21,10 @@
         <entry>onLOAD</entry>
         <entry>上架</entry>
         <entry>onLoad</entry>
-        <entry>onLogin</entry>
         <entry>computed</entry>
         <entry>pageSize</entry>
+        <entry>onLogin</entry>
+        <entry>isUped</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -141,12 +141,12 @@
       <file name="E:/jxgwxapp/src/manifest.json" timestamp="1593927807615">
         <mark key="]" line="103" column="36" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1593936206236">
-        <mark key="'" line="235" column="6" />
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="49" />
-        <mark key="." line="251" column="0" />
-        <mark key="^" line="249" column="49" />
+      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1593938063899">
+        <mark key="'" line="85" column="26" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="^" line="159" column="32" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1593877108354">
         <mark key="'" line="54" column="22" />
@@ -233,13 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="40" filename="E:/jxgwxapp/src/assets/js/baseUser.ts" />
-      <jump line="141" column="14" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="122" column="4" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="237" column="9" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="229" column="8" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="230" column="44" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="419" column="14" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="420" column="21" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="15" column="19" filename="C:/project/uni-vant/src/components/swiper-dot.vue" />
       <jump line="209" column="5" filename="C:/project/uni-vant/src/pages.json" />
@@ -333,56 +326,63 @@
       <jump line="77" column="24" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="184" column="59" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="235" column="6" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="171" column="28" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="191" column="32" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="219" column="8" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="229" column="12" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="310" column="24" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="80" column="31" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="85" column="26" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpc3QubWFwKGVsZSA9PiBlbGUucmVmR29vZHNJZCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>any[] = []</text>
       </register>
       <register name="/" type="4">
-        <text>pageSize</text>
+        <text>isUped</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpc3QubWFwKGVsZSA9PiBlbGUucmVmR29vZHNJZCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vINTy0qqy6dGv1q7HsNLRvq3RodbQtcTJzMa3yv2+3Qo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIMjnufvKx9axsqW85L34wLS1xCzH0s60u/HIobn91rGypbzkyczGt9DFz6IK</text>
+        <text encoding="base64">ICAvLyDPwsCty6LQwgogIG9uUHVsbERvd25SZWZyZXNoKCkgewogICAgdGhpcy5wcm9kdWN0TGlzdCA9IFtdOwogICAgdGhpcy5wYWdlLmN1cnJlbnQgPSAxOwogICAgdGhpcy5wYWdlLmhhdmVNb3JlID0gdHJ1ZTsKICAgIHRoaXMub25Mb2dpbmVkKCk7CiAgICBzZXRUaW1lb3V0KHVuaS5zdG9wUHVsbERvd25SZWZyZXNoLCAxMDAwKTsKICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vINTy0qqy6dGv1q7HsNLRvq3RodbQtcTJzMa3yv2+3Qo=</text>
+        <text encoding="base64">ICBzdG9yYWdlUHJvZHVjdExpc3Q6IGFueVtdID0gW107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIMjnufvKx9axsqW85L34wLS1xCzH0s60u/HIobn91rGypbzkyczGt9DFz6IK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U2VsZWN0TGlzdFRvU3RvcmFnZSh0aGlzLnNlbGVjdGVkUHJvZHVjdExpc3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vINTy0qqy6dGv1q7HsNLRvq3RodbQtcTJzMa3yv2+3Qo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgpIHsK</text>
+        <text encoding="base64">ICAgIC8vIMjnufvKx9axsqW85L34wLS1xCzH0s60u/HIobn91rGypbzkyczGt9DFz6IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0UHJvZHVjdExpc3QoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgIC8vINTy0qqy6dGv1q7HsNLRvq3RodbQtcTJzMa3yv2+3Qo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpc0xvYWRMaXZlUm9vbVNlbGVjdGVkRGF0YSA9IGZhbHNlOyAvLyDKx7fx0tG+rbTT1LazzLvxyKG5/dLR0aHJzMa30MXPogo=</text>
+        <text encoding="base64">ICAgIC8vIMjnufvKx9axsqW85L34wLS1xCzH0s60u/HIobn91rGypbzkyczGt9DFz6IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsaXN0Owo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pageSize</last-search>
+      <last-search>isUped</last-search>
       <last-offset />
-      <last-pattern>pageSize</last-pattern>
+      <last-pattern>isUped</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
