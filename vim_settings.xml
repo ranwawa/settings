@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pulldown</entry>
         <entry>padStar</entry>
         <entry>import</entry>
         <entry>initBtn</entry>
@@ -25,6 +24,7 @@
         <entry>openI</entry>
         <entry>code</entry>
         <entry>wechat_redirect</entry>
+        <entry>liveRoomId</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -126,13 +126,17 @@
         <mark key="^" line="316" column="8" />
         <mark key="." line="316" column="7" />
       </file>
-      <file name="E:/video2/train/Public/train/product/js/base-player.js" timestamp="1594016982961" />
       <file name="E:/jxgwxapp/src/pages/master/index.vue" timestamp="1594019355486">
         <mark key="'" line="151" column="17" />
       </file>
       <file name="E:/jxgwxapp/src/live/pages/liveroom.vue" timestamp="1594019198158" />
       <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1594026378823">
         <mark key="'" line="337" column="14" />
+      </file>
+      <file name="/index.vue" timestamp="1594029649038">
+        <mark key="'" line="36" column="56" />
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="240" column="67" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1594028366741">
         <mark key="'" line="261" column="51" />
@@ -143,13 +147,6 @@
       </file>
       <file name="/goods.vue" timestamp="1594026373932" />
       <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1594018194848" />
-      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1594007208394">
-        <mark key="'" line="105" column="17" />
-        <mark key="[" line="201" column="45" />
-        <mark key="]" line="201" column="46" />
-        <mark key="^" line="201" column="46" />
-        <mark key="." line="201" column="45" />
-      </file>
       <file name="E:/jxgwxapp/src/assets/js/common.ts" timestamp="1594028048753">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="19" />
@@ -176,7 +173,7 @@
         <mark key="." line="240" column="0" />
         <mark key="^" line="626" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594026388588">
+      <file name="/Dummy.txt" timestamp="1594028854936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -188,6 +185,7 @@
         <mark key="." line="53" column="77" />
         <mark key="^" line="53" column="78" />
       </file>
+      <file name="C:/project/uni-vant/src/components/price.vue" timestamp="1594029508946" />
       <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1594020503798">
         <mark key="'" line="179" column="13" />
         <mark key="[" line="179" column="15" />
@@ -195,24 +193,15 @@
         <mark key="." line="179" column="37" />
         <mark key="^" line="179" column="17" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1594024895245">
-        <mark key="'" line="88" column="15" />
-        <mark key="[" line="271" column="16" />
-        <mark key="]" line="271" column="29" />
-        <mark key="." line="271" column="28" />
-        <mark key="^" line="271" column="29" />
+      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1594029651816">
+        <mark key="'" line="285" column="45" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages.json" timestamp="1594007084422">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="0" />
-        <mark key="." line="264" column="0" />
-      </file>
+      <file name="C:/project/uni-vant/src/pages/price.vue" timestamp="1594029468584" />
     </filemarks>
     <jumps>
-      <jump line="235" column="6" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
-      <jump line="171" column="28" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
-      <jump line="219" column="8" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="229" column="12" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="310" column="24" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="80" column="31" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
@@ -310,32 +299,47 @@
       <jump line="262" column="28" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="260" column="30" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="261" column="51" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="335" column="1" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="285" column="45" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="36" column="56" filename="/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>wechat_redirect</text>
+        <text>liveRoomId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJhc2VVc2VySW5mby53ZWl4aW5Ub2tlbiAmJiAoZGF0YS53ZWl4aW5Ub2tlbiA9IGJhc2VVc2VySW5mby53ZWl4aW5Ub2tlbik7Cg==</text>
+        <text encoding="base64">CQkJCWxpdmVSb29tSWQ6IHRoaXMuY29tcHV0ZWRMaXZlR29vZEluZm8ucm9vbUlkIHx8ICIiLAoJCQkJbGl2ZUFuY2hvck1lbWJlcklkOiB0aGlzLmNvbXB1dGVkTGl2ZUdvb2RJbmZvLnJvb21JZCB8fCAiIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXJsID0gYCR7R1pHX1VSTH0mcmVkaXJlY3RfdXJpPSR7bG9jYXRpb24uaHJlZn1gOwogICAgICBsb2NhdGlvbi5yZXBsYWNlKGAke3VybH0mYXBwaWQ9JHtnemhBcHBJZH0jd2VjaGF0X3JlZGlyZWN0YCk7CiAgICAgIHJldHVybiB1blRva2VuOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkJXy5waWNrKGVsZSwgWyJwcmljZSIsICJudW0iLCAic2t1Q29kZSIsICJyZW1hcmsiLCAiYWN0aXZpdHlJZCJdKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCWxpdmVSb29tSWQ6IHRoaXMuY29tcHV0ZWRMaXZlR29vZEluZm8ucm9vbUlkIHx8ICIiLAoJCQkJbGl2ZUFuY2hvck1lbWJlcklkOiB0aGlzLmNvbXB1dGVkTGl2ZUdvb2RJbmZvLnJvb21JZCB8fCAiIiwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgdXJsID0gYCR7R1pHX1VSTH0mcmVkaXJlY3RfdXJpPSR7bG9jYXRpb24uaHJlZn1gOwogICAgICBsb2NhdGlvbi5yZXBsYWNlKGAke3VybH0mYXBwaWQ9JHtnemhBcHBJZH0jd2VjaGF0X3JlZGlyZWN0YCk7CiAgICAgIHJldHVybiB1blRva2VuOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>let code = qs.parse(location.search, { ignoreQueryPrefix: true }) || {};
       if (code.code) {
         history.replaceState(null, &quot;&quot;, `${location.pathname}${location.hash}`);
@@ -343,28 +347,16 @@
       }
       return [null, null];</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBnZXRXWENvZGVGcm9tVXJsLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVkaXJlY3RVcmwgPSBlbmNvZGVVUklDb21wb25lbnQoCiAgICAgICAgYCR7bG9jYXRpb24ub3JpZ2lufSR7bG9jYXRpb24ucGF0aG5hbWV9IyR7Uk9VVEUuTE9HSU59YAogICAgICApOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGEud2VpeGluVG9rZW4gfHwgKGRhdGEud2VpeGluVG9rZW4gPSBiYXNlVXNlckluZm8ud2VpeGluVG9rZW4pOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGEud2VpeGluVG9rZW4gfHwgKGRhdGEud2VpeGluVG9rZW4gPSBiYXNlVXNlckluZm8ud2VpeGluVG9rZW4pOwo=</text>
+        <text encoding="base64">ICBnZXRXWENvZGVGcm9tVXJsLAo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>wechat_redirect</last-search>
+      <last-search>liveRoomId</last-search>
       <last-offset />
-      <last-pattern>wechat_redirect</last-pattern>
+      <last-pattern>liveRoomId</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
