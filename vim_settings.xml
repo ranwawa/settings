@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ignore</entry>
         <entry>callPay</entry>
         <entry>goodsDetail</entry>
         <entry>login</entry>
@@ -25,6 +24,7 @@
         <entry>goToL</entry>
         <entry>share-img</entry>
         <entry>赚</entry>
+        <entry>失败</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -130,11 +130,11 @@
         <mark key="]" line="108" column="7" />
         <mark key="." line="108" column="7" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/mixinsCanvas.ts" timestamp="1594111399777">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="6" />
+      <file name="E:/jxgwxapp/src/assets/js/mixinsCanvas.ts" timestamp="1594114900364">
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="42" />
+        <mark key="." line="56" column="41" />
+        <mark key="^" line="56" column="42" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1594111035475">
         <mark key="'" line="15" column="5" />
@@ -148,7 +148,7 @@
         <mark key="]" line="49" column="15" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1594092048352">
+      <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1594114589010">
         <mark key="'" line="51" column="38" />
         <mark key="[" line="229" column="12" />
         <mark key="]" line="229" column="13" />
@@ -166,18 +166,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1594094513016">
-        <mark key="[" line="49" column="37" />
-        <mark key="]" line="49" column="43" />
-        <mark key="." line="49" column="42" />
-        <mark key="^" line="49" column="43" />
-      </file>
-      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1594087851488">
-        <mark key="'" line="176" column="39" />
-        <mark key="[" line="234" column="52" />
-        <mark key="]" line="234" column="58" />
-        <mark key="." line="234" column="57" />
-        <mark key="^" line="234" column="58" />
+      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1594114606568">
+        <mark key="'" line="206" column="12" />
+        <mark key="[" line="205" column="26" />
+        <mark key="]" line="206" column="13" />
+        <mark key="." line="206" column="12" />
+        <mark key="^" line="206" column="13" />
       </file>
       <file name="E:/jxgwxapp/vue.config.js" timestamp="1594090371166">
         <mark key="'" line="2" column="0" />
@@ -189,11 +183,19 @@
         <mark key="." line="46" column="6" />
       </file>
       <file name="E:/jxgwxapp/src/index/poster.vue" timestamp="1594101736960" />
-      <file name="E:/jxgwxapp/src/components/uni/share-poster.vue" timestamp="1594111476674">
-        <mark key="[" line="318" column="27" />
-        <mark key="]" line="318" column="33" />
-        <mark key="." line="318" column="32" />
-        <mark key="^" line="318" column="33" />
+      <file name="E:/jxgwxapp/src/components/uni/uni-popup/uni-popup-share.vue" timestamp="1594112846926">
+        <mark key="'" line="201" column="22" />
+        <mark key="[" line="147" column="33" />
+        <mark key="]" line="147" column="34" />
+        <mark key="^" line="147" column="34" />
+        <mark key="." line="147" column="33" />
+      </file>
+      <file name="E:/jxgwxapp/src/components/uni/share-poster.vue" timestamp="1594114399087">
+        <mark key="'" line="204" column="29" />
+        <mark key="[" line="367" column="2" />
+        <mark key="]" line="367" column="3" />
+        <mark key="." line="367" column="2" />
+        <mark key="^" line="367" column="3" />
       </file>
       <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1594090742960">
         <mark key="[" line="34" column="0" />
@@ -210,11 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="50" filename="E:/jxgwxapp/src/pages/user/login.vue" />
-      <jump line="61" column="40" filename="E:/jxgwxapp/src/pages/user/mixins.ts" />
-      <jump line="54" column="15" filename="E:/jxgwxapp/src/pages/user/mixins.ts" />
-      <jump line="59" column="18" filename="E:/jxgwxapp/src/pages/user/mixins.ts" />
-      <jump line="88" column="15" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="252" column="36" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="253" column="25" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="259" column="31" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
@@ -307,59 +304,64 @@
       <jump line="206" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="281" column="46" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
       <jump line="164" column="2" filename="E:/jxgwxapp/src/pages/master/index.vue" />
-      <jump line="204" column="97" filename="E:/jxgwxapp/src/components/uni/share-poster.vue" />
       <jump line="441" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="15" column="5" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
+      <jump line="133" column="21" filename="E:/jxgwxapp/src/components/uni/uni-popup/uni-popup-share.vue" />
+      <jump line="201" column="22" filename="E:/jxgwxapp/src/components/uni/uni-popup/uni-popup-share.vue" />
+      <jump line="329" column="26" filename="E:/jxgwxapp/src/components/uni/share-poster.vue" />
+      <jump line="203" column="26" filename="E:/jxgwxapp/src/components/uni/share-poster.vue" />
+      <jump line="204" column="29" filename="E:/jxgwxapp/src/components/uni/share-poster.vue" />
+      <jump line="206" column="12" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>: any</text>
+        <text>this.imgRetryTimes</text>
       </register>
       <register name="-" type="4">
-        <text>: any</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>赚</text>
+        <text>失败</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
+      <register name="0" type="4">
+        <text>this.imgRetryTimes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXNldFRpbWVvdXQoX3RoaXMuZ2V0TmV3SW1hZ2UsIDMzKQo=</text>
+        <text encoding="base64">ICAgICAgcmVzIHIK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgbWl4aW5zQ2FudmFzID0gbmV3IG1peGluc0NhbnZhcygpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgYXN5bmMgZ2V0SW1hZ2VJbmZvKHsgaW1nU3JjIH0pIHsKICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCBlcnJzKSA9PiB7CiAgICAgICAgdW5pLmdldEltYWdlSW5mbyh7CiAgICAgICAgICBzcmM6IGltZ1NyYywKICAgICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uIChpbWFnZSkgewogICAgICAgICAgICByZXNvbHZlKGltYWdlKTsKICAgICAgICAgIH0sCiAgICAgICAgICBmYWlsKGVycikgewogICAgICAgICAgICBlcnJzKGVycik7CiAgICAgICAgICB9LAogICAgICAgIH0pOwogICAgICB9KTsKICAgIH0sCiAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyBnZXRJbWFnZUluZm8gfSA9IHRoaXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0KICAgICAgX3RoaXMuJGVtaXQoImdldENhbnZhc0ltZyIsIGRhdGEudGVtcEZpbGVQYXRoKTsK</text>
+        <text encoding="base64">ICAgIC8vILKit6K78cihzbzGrNDFz6IKICAgIGFzeW5jIGdldEltYWdlSW5mb1Byb21pc2VMaXN0KC4uLmltZ0xpc3QpIHsKICAgIH0s</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdW5pLmhpZGVUb2FzdCgpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">YXN5bmMgZ2V0SW1hZ2VJbmZvTGlzdCguLi5pbWdMaXN0KSB7CiAgICAgIHRyeSB7CiAgICAgICAgY29uc3QgeyBnZXRJbWFnZUluZm8gfSA9IF90aGlzOwogICAgICAgIGNvbnN0IHJlcyA9IFByb21pc2UuYWxsKGltZ0xpc3QubWFwKGltZ1NyYyA9PiBnZXRJbWFnZUluZm8oeyBpbWdTcmMgfSkpKTsKICAgICAgICByZXR1cm4gcmVzOwogICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgaWYgKHRoaXMuaW1nUmV0cnlOdW0rKyA8IDEpIHsKICAgICAgICAgIHJldHVybiBhd2FpdCB0aGlzLmdldEltYWdlSW5mb0xpc3QoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmV0dXJuIFtdOwogICAgICAgIH0KICAgICAgfQogICAgfSw=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgc2hvd01vZGFsVGV4dCgiz7XNs9Lss6Msx+vJ1Lrz1NnK1CIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyKTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>赚</last-search>
+      <last-search>失败</last-search>
       <last-offset />
-      <last-pattern>赚</last-pattern>
+      <last-pattern>失败</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
