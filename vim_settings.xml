@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ACCOUNT</entry>
         <entry>userInfo</entry>
         <entry>ignore</entry>
         <entry>callPay</entry>
@@ -25,6 +24,7 @@
         <entry>getJsCode</entry>
         <entry>授权后</entry>
         <entry>goToL</entry>
+        <entry>share-img</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -137,15 +137,17 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="E:/jxgwxapp/src/App.vue" timestamp="1594086539270">
-        <mark key="'" line="82" column="13" />
-      </file>
       <file name="E:/jxgwxapp/src/pages/user/login.vue" timestamp="1594092048352">
         <mark key="'" line="51" column="38" />
         <mark key="[" line="229" column="12" />
         <mark key="]" line="229" column="13" />
         <mark key="." line="229" column="13" />
         <mark key="^" line="229" column="2" />
+      </file>
+      <file name="E:/jxgwxapp/src/components/share/ShareImg.vue" timestamp="1594101781066">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/user/mixins.ts" timestamp="1594089325872">
         <mark key="'" line="37" column="19" />
@@ -180,27 +182,29 @@
         <mark key="]" line="46" column="6" />
         <mark key="." line="46" column="6" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/mine/index.vue" timestamp="1594086701129">
-        <mark key="[" line="148" column="26" />
-        <mark key="]" line="148" column="26" />
-        <mark key="." line="148" column="26" />
-        <mark key="^" line="148" column="26" />
-      </file>
-      <file name="E:/jxgwxapp/src/components/uni/share-poster.vue" timestamp="1594101024906">
-        <mark key="[" line="205" column="36" />
-        <mark key="]" line="205" column="37" />
-        <mark key="." line="205" column="36" />
-        <mark key="^" line="205" column="37" />
+      <file name="E:/jxgwxapp/src/index/poster.vue" timestamp="1594101736960" />
+      <file name="E:/jxgwxapp/src/components/uni/share-poster.vue" timestamp="1594108485062">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="71" />
+        <mark key="." line="223" column="0" />
+        <mark key="^" line="204" column="37" />
       </file>
       <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1594090742960">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="E:/jxgwxapp/src/components/share/ShareCanvas.vue" timestamp="1594108488374">
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="71" />
+        <mark key="." line="217" column="0" />
+      </file>
       <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1594086869289" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594101746408">
+        <mark key="'" line="441" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="3" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="167" column="50" filename="E:/jxgwxapp/src/pages/user/login.vue" />
       <jump line="61" column="40" filename="E:/jxgwxapp/src/pages/user/mixins.ts" />
@@ -300,56 +304,57 @@
       <jump line="281" column="46" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
       <jump line="164" column="2" filename="E:/jxgwxapp/src/pages/master/index.vue" />
       <jump line="204" column="97" filename="E:/jxgwxapp/src/components/uni/share-poster.vue" />
+      <jump line="441" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICsgJyZ3aWR0aD0yODAnIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJY29uc29sZS5sb2coMSwgX3RoaXMuaW1nU3JjLCAyLCBfdGhpcy5RclNyYywgMywgX3RoaXMuQXZhdGFyU3JjKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgJyZ3aWR0aD0yODAnIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>goToL</text>
+        <text>share-img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coMSwgX3RoaXMuaW1nU3JjLCAyLCBfdGhpcy5RclNyYywgMywgX3RoaXMuQXZhdGFyU3JjKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY29uc3QgcExpc3QgPSBbXTsK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coIl9BdmF0YXIiLCBfQXZhdGFyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcExpc3QucHVzaChjYWNoZVttZDUoaW1nU3JjKV0gfHwgKTsKCQkJcExpc3QucHVzaChjYWNoZVttZDUoUXJTcmMpXSB8fCApOwoJCQlwTGlzdC5wdXNoKGNhY2hlW21kNShBdmF0YXJTcmMpXSB8fCApOwo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coX3RoaXMuQXZhdGFyU3JjKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJY29uc3QgY2FjaGUgPSB1bmkuZ2V0U3RvcmFnZVN5bmMoU1RPUkFHRV9LRVkuQ0FDSEVfSU1HKSB8fCB7fTsK</text>
+        <text encoding="base64">CQkJLy8gI2VuZGlmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYXJnaW46IHB4MnJweCg1MCkgYXV0byBweDJycHgoMjApOwo=</text>
+        <text encoding="base64">CQkJLy8gI2lmZGVmIE1QLVdFSVhJTgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJhc2VVc2VySW5mbyA9IGJhc2VVc2VyLnVzZXJJbmZvOwo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coIl9RckNvZGUiLCBfUXJDb2RlKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29uc3QgW2VyciwgZGF0YV06IGFueSA9IGF3YWl0IHVzZXJBcGkucmVnaXN0ZXIoewogICAgICBjb2RlOiB0aGlzLlNNU0Zvcm0uY29kZSwKICAgICAgZ3JhbnRfdHlwZTogInBhc3N3b3JkIiwKICAgICAgbG9naW5DaGFubmVsOiAxLAogICAgICB1c2VybmFtZTogdGhpcy5TTVNGb3JtLnBob25lLAogICAgICBoZWFkUG9ydHJhaXQ6IGJhc2VVc2VySW5mby5hdmF0YXIsCiAgICAgIG5pY2tOYW1lOiBiYXNlVXNlckluZm8ubmlja19uYW1lLAogICAgICB1bmlvbmlkOiBiYXNlVXNlckluZm8udW5pb25JZCwKICAgICAgd2VpeGluVG9rZW46IGJhc2VVc2VySW5mby53ZWl4aW5Ub2tlbiwKICAgICAgc2NvcGU6ICJhbGwiLAogICAgICBwYXNzd29yZDogIkFPV2FyUm5jN1VReXI2T0h6UUVkTjdyQyIsCiAgICB9KTsKICAgIGlmIChkYXRhLmVycm9yX2Rlc2NyaXB0aW9uKSB7CiAgICAgIGF3YWl0IHNob3dUb2FzdFRleHQoZGF0YS5lcnJvcl9kZXNjcmlwdGlvbik7CiAgICAgIHJldHVybjsKICAgIH0KICAgIC8vINeisuG907/at7W72LXEb3Blbklkv8nE3NPQzvMstcPKudPD1q7HsNeow8W94sPcb3BlbklkvdO/2re1u9i1xNa1CiAgICBiYXNlVXNlckluZm8ud2VpeGluVG9rZW4gJiYgKGRhdGEud2VpeGluVG9rZW4gPSBiYXNlVXNlckluZm8ud2VpeGluVG9rZW4pOwogICAgYXdhaXQgdGhpcy5hZnRlclJlZ2lzdGVyKGRhdGEpOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJY29uc29sZS5sb2coX3RoaXMuaW1nU3JjKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wYWdlVHlwZSA9ICIyIjsK</text>
+        <text encoding="base64">CQkJbGV0IF9BdmF0YXIgPSBhd2FpdCBfdGhpcy5nZXRJbWFnZUluZm8oeyBpbWdTcmM6IF90aGlzLkF2YXRhclNyYyArICc/aW1hZ2VWaWV3Mi8yL3cvMTIwJyB9KTsgLy/Nt8/xCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbGV0IF9RckNvZGUgPSBhd2FpdCBfdGhpcy5nZXRJbWFnZUluZm8oeyBpbWdTcmM6IF90aGlzLlFyU3JjICsgJyZ3aWR0aD0yODAnIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">CQkJbGV0IF9pbWdJbmZvID0gYXdhaXQgX3RoaXMuZ2V0SW1hZ2VJbmZvKHsgaW1nU3JjOiBfdGhpcy5pbWdTcmMgKyAnP2ltYWdlVmlldzIvMi93LzQwMCcgfSk7IC8vueO45s28Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>goToL</last-search>
+      <last-search>share-img</last-search>
       <last-offset />
-      <last-pattern>goToL</last-pattern>
+      <last-pattern>share-img</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
