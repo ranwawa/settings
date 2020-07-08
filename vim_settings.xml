@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getN</entry>
         <entry>getNew</entry>
         <entry>88</entry>
         <entry>33</entry>
@@ -25,6 +24,7 @@
         <entry>avatar</entry>
         <entry>measureT</entry>
         <entry>for</entry>
+        <entry>AVATAR</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -120,7 +120,7 @@
     <globalmarks />
     <filemarks>
       <file name="E:/jxgwxapp/src/store/index.ts" timestamp="1594189827413" />
-      <file name="E:/jxgwxapp/src/config.ts" timestamp="1594216611422">
+      <file name="E:/jxgwxapp/src/config.ts" timestamp="1594217047923">
         <mark key="'" line="41" column="44" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -200,12 +200,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="55" column="52" />
       </file>
-      <file name="E:/jxgwxapp/src/components/uni/share-poster.vue" timestamp="1594197226555">
+      <file name="E:/jxgwxapp/src/components/uni/share-poster.vue" timestamp="1594217343982">
         <mark key="'" line="102" column="7" />
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="35" />
-        <mark key="^" line="205" column="14" />
-        <mark key="." line="207" column="0" />
+        <mark key="[" line="318" column="23" />
+        <mark key="]" line="318" column="24" />
+        <mark key="." line="222" column="45" />
+        <mark key="^" line="318" column="24" />
       </file>
       <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1594214790288">
         <mark key="[" line="132" column="84" />
@@ -220,12 +220,12 @@
         <mark key="." line="508" column="20" />
         <mark key="^" line="508" column="21" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594213334028">
-        <mark key="'" line="20" column="6" />
-        <mark key="[" line="354" column="0" />
-        <mark key="]" line="354" column="0" />
-        <mark key="." line="354" column="0" />
-        <mark key="^" line="547" column="58" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594217563579">
+        <mark key="'" line="296" column="21" />
+        <mark key="[" line="551" column="24" />
+        <mark key="]" line="551" column="24" />
+        <mark key="." line="551" column="24" />
+        <mark key="^" line="552" column="58" />
       </file>
       <file name="/detail.vue" timestamp="1594189220891" />
     </filemarks>
@@ -321,7 +321,6 @@
       <jump line="290" column="0" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
       <jump line="38" column="16" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="37" column="44" filename="E:/jxgwxapp/src/config.ts" />
-      <jump line="296" column="21" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="620" column="42" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="20" column="6" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="508" column="20" filename="E:/jxgwxapp/src/components/share/ShareCanvas.vue" />
@@ -330,56 +329,57 @@
       <jump line="432" column="16" filename="E:/jxgwxapp/src/components/share/ShareCanvas.vue" />
       <jump line="491" column="26" filename="E:/jxgwxapp/src/components/share/ShareCanvas.vue" />
       <jump line="151" column="4" filename="E:/jxgwxapp/src/components/share/ShareCanvas.vue" />
+      <jump line="296" column="21" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRleHQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>AVATAR_IMG</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>AVATAR_IMG</text>
       </register>
       <register name="/" type="4">
-        <text>for</text>
+        <text>AVATAR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHNpZ25XaWR0aCA9IG1peGluc0NhbnZhcy5tZWFzdXJlVGV4dChzaWduVGV4dCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRleHQpOwo=</text>
+        <text encoding="base64">ICAgIGRlbGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRleHQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgOwo=</text>
+        <text encoding="base64">ICAgIGNvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF90aGlzLk9uQ2FudmFzKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIF90aGlzLk9uQ2FudmFzKCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBwcmljZVdpZHRoID0gY3R4Lm1lYXN1cmVUZXh0KFByaWNlVHh0KS53aWR0aCArIDg7Cg==</text>
+        <text encoding="base64">ICAgICAgOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIGxldCBwcmljZVdpZHRoID0gY3R4Lm1lYXN1cmVUZXh0KFByaWNlVHh0KS53aWR0aCArIDg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBwcmljZVdpZHRoID0gY3R4Lm1lYXN1cmVUZXh0KFByaWNlVHh0KS53aWR0aCArIDg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhXSElURV9BUElfUkVHLnRlc3QoYXZhdGFyKSwgMTExMTExMTEpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>for</last-search>
+      <last-search>AVATAR</last-search>
       <last-offset />
-      <last-pattern>for</last-pattern>
+      <last-pattern>AVATAR</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
