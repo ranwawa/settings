@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>draw</entry>
         <entry>commit</entry>
         <entry>options</entry>
         <entry>省</entry>
@@ -25,6 +24,7 @@
         <entry>id=&quot;tap</entry>
         <entry>scaleRate</entry>
         <entry>console.log</entry>
+        <entry>长按</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -201,12 +201,15 @@
       <file name="E:/jxgwxapp/node_modules/uni-vant/lib/icon.vue" timestamp="1594376285485">
         <mark key="'" line="96" column="22" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594379706808">
-        <mark key="[" line="154" column="53" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594380938580">
+        <mark key="'" line="161" column="19" />
+        <mark key="[" line="798" column="16" />
+        <mark key="]" line="798" column="18" />
+        <mark key="^" line="798" column="18" />
+        <mark key="." line="798" column="17" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="16" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="67" column="41" filename="E:/jxgwxapp/src/index/poster.vue" />
       <jump line="59" column="8" filename="E:/jxgwxapp/src/components/market/ModalSetting.vue" />
       <jump line="65" column="17" filename="E:/jxgwxapp/src/components/market/ModalSetting.vue" />
@@ -306,56 +309,57 @@
       <jump line="110" column="9" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
       <jump line="730" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="646" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="161" column="19" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjIyMjIyMjIyLCBjYWNoZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>width</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>长按</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5pc0xvYWRpbmdTaGFyZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjIyMjIyMjIyLCBjYWNoZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHR5cGU6ICJ0ZXh0IiwKICAgICAgICB0ZXh0OiAivK/Q6Lm6o6zE49Gh1PHBy87S0rvH0L/J0tS4/LrDo6EiLAogICAgICAgIHg6IHAycCgyMCksCiAgICAgICAgeTogcDJwKDUyMCksCiAgICAgICAgZm9udDogYCR7cDJwKDExKX1weCBzYW5zLXNlcmlmYCwKICAgICAgICBjb2xvcjogInJnYmEoMjU1LDI1NSwyNTUsIDAuOCkiLAogICAgICAgIHRleHRCYXNlbGluZTogInRvcCIsCiAgICAgICAgdGV4dEFsaWduOiAibGVmdCIsCiAgICAgICAgbWF4V2lkdGg6IHAycCgxOTApLAogICAgICB9LA==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PCEtLSA8dXYtYnV0dG9uIHYtaWY9ImlzSGlkZVNoYXJlQnRuIiBzdHlsZT0id2lkdGg6IDEwMCU7IiA6Y29sb3I9InRoZW1lQ29sb3IiIDpjdXN0b20tc3R5bGU9InRoZW1lQnRuU2hhZG93ICsgJ3dpZHRoOiAxMDAlOyciIHJvdW5kIEBjbGljaz0ic3VibWl0Ij4KCQkJCQl7eyBjb21wdXRlZEJ0blRleHQuYnV5IH19CgkJCQk8L3V2LWJ1dHRvbj4KCQkJCTx0ZW1wbGF0ZSB2LWVsc2U+CgkJCQkJCgkJCQk8L3RlbXBsYXRlPiAtLT4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjIyMjIyMjIyLCBjYWNoZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJhdGUsIHNyY0ltYWdlTGVuZ3RoLCAoc3JjSW1hZ2VMZW5ndGggKiByYXRlKS50b0ZpeGVkKDApKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJhdGUgPSBwb3B1cFdpZHRoIC8gc3JjSW1hZ2VXaWR0aDsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">PCEtLSA8dXYtYnV0dG9uIHYtaWY9ImlzSGlkZVNoYXJlQnRuIiBzdHlsZT0id2lkdGg6IDEwMCU7IiA6Y29sb3I9InRoZW1lQ29sb3IiIDpjdXN0b20tc3R5bGU9InRoZW1lQnRuU2hhZG93ICsgJ3dpZHRoOiAxMDAlOyciIHJvdW5kIEBjbGljaz0ic3VibWl0Ij4KCQkJCQl7eyBjb21wdXRlZEJ0blRleHQuYnV5IH19CgkJCQk8L3V2LWJ1dHRvbj4KCQkJCTx0ZW1wbGF0ZSB2LWVsc2U+CgkJCQkJCgkJCQk8L3RlbXBsYXRlPiAtLT4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHBvcHVwV2lkdGggPSByZXMud2lkdGggfHwgMDsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJhdGUsIHNyY0ltYWdlTGVuZ3RoLCAoc3JjSW1hZ2VMZW5ndGggKiByYXRlKS50b0ZpeGVkKDApKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJhdGUgPSBwb3B1cFdpZHRoIC8gc3JjSW1hZ2VXaWR0aDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2NhbGVSYXRlID0gdGhpcy5zcmNJbWFnZUxlbmd0aCAvIGUuZGV0YWlsLmhlaWdodDsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHBvcHVwV2lkdGggPSByZXMud2lkdGggfHwgMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2NhbGVSYXRlID0gdGhpcy5zcmNJbWFnZUxlbmd0aCAvIGUuZGV0YWlsLmhlaWdodDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>console.log</last-search>
+      <last-search>长按</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>长按</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
