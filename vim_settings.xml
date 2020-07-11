@@ -17,7 +17,6 @@
         <entry>console.log</entry>
         <entry>长按</entry>
         <entry>showPrice</entry>
-        <entry>onLoad</entry>
         <entry>options</entry>
         <entry>closer</entry>
         <entry>isShowCanvas =</entry>
@@ -25,6 +24,7 @@
         <entry>transfrom</entry>
         <entry>transform</entry>
         <entry>向</entry>
+        <entry>onLoad</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -199,14 +199,15 @@
       <file name="E:/jxgwxapp/node_modules/uni-vant/lib/icon.vue" timestamp="1594376285485">
         <mark key="'" line="96" column="22" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594454837813">
-        <mark key="[" line="1575" column="0" />
-        <mark key="]" line="1575" column="0" />
-        <mark key="." line="1575" column="0" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594463249546">
+        <mark key="'" line="1566" column="13" />
+        <mark key="[" line="609" column="18" />
+        <mark key="]" line="609" column="26" />
+        <mark key="." line="609" column="25" />
+        <mark key="^" line="609" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="826" column="7" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1112" column="4" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="722" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="727" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -306,6 +307,7 @@
       <jump line="1567" column="4" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1542" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="18" column="59" filename="E:/jxgwxapp/src/index/poster.vue" />
+      <jump line="1565" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +319,7 @@
         <text>向你推荐</text>
       </register>
       <register name="/" type="4">
-        <text>向</text>
+        <text>onLoad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5pc0xvYWRpbmdTaGFyZSA9IGZhbHNlOwo=</text>
@@ -353,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>向</last-search>
+      <last-search>onLoad</last-search>
       <last-offset />
-      <last-pattern>向</last-pattern>
+      <last-pattern>onLoad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
