@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>after</entry>
         <entry>影</entry>
         <entry>__images</entry>
         <entry>id=&quot;tap</entry>
@@ -25,6 +24,7 @@
         <entry>getQr</entry>
         <entry>onShow</entry>
         <entry>onLoad</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -201,12 +201,12 @@
       <file name="E:/jxgwxapp/node_modules/uni-vant/lib/icon.vue" timestamp="1594376285485">
         <mark key="'" line="96" column="22" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594537902372">
-        <mark key="'" line="688" column="33" />
-        <mark key="[" line="612" column="18" />
-        <mark key="]" line="612" column="29" />
-        <mark key="." line="612" column="28" />
-        <mark key="^" line="612" column="29" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594603489042">
+        <mark key="'" line="303" column="5" />
+        <mark key="[" line="310" column="25" />
+        <mark key="]" line="310" column="26" />
+        <mark key="." line="310" column="25" />
+        <mark key="^" line="310" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -279,7 +279,6 @@
       <jump line="1499" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="686" column="27" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="845" column="25" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="303" column="48" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="305" column="52" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="465" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="302" column="11" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -310,6 +309,7 @@
       <jump line="60" column="1" filename="E:/jxgwxapp/src/App.vue" />
       <jump line="41" column="2" filename="E:/jxgwxapp/src/App.vue" />
       <jump line="685" column="33" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="303" column="5" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,7 +321,7 @@
         <text>123123</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzY2VuZSA9IHNjZW5lLnJlcGxhY2UoLy0vZywgJyYnKS5yZXBsYWNlKC9fL2csICc9Jyk7CiAgICAgICAgc2NlbmUgPSBxcy5wYXJzZShzY2VuZSk7Cg==</text>
@@ -357,9 +357,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
