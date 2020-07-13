@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry>_</entry>
-        <entry>getQr</entry>
         <entry>onShow</entry>
         <entry>image</entry>
         <entry>hide</entry>
@@ -25,6 +22,9 @@
         <entry>prettier</entry>
         <entry>ptettier</entry>
         <entry>confirm</entry>
+        <entry>goBack</entry>
+        <entry>nick_name</entry>
+        <entry>maxWidth</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -153,8 +153,8 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="29" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1594619890110">
-        <mark key="'" line="299" column="43" />
+      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1594632838934">
+        <mark key="'" line="14" column="18" />
         <mark key="[" line="299" column="43" />
         <mark key="]" line="299" column="44" />
         <mark key="^" line="299" column="44" />
@@ -211,42 +211,32 @@
       <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1594631651371">
         <mark key="'" line="123" column="21" />
       </file>
-      <file name="E:/jxgwxapp/src/index/poster.vue" timestamp="1594627162406">
-        <mark key="'" line="116" column="25" />
-        <mark key="[" line="135" column="16" />
-        <mark key="]" line="135" column="27" />
-        <mark key="." line="135" column="26" />
+      <file name="E:/jxgwxapp/src/index/poster.vue" timestamp="1594633809149">
+        <mark key="'" line="125" column="33" />
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
         <mark key="^" line="135" column="27" />
       </file>
       <file name="E:/jxgwxapp/src/pages/mine/index.vue" timestamp="1594376751564">
         <mark key="'" line="7" column="35" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/canvas-helper.ts" timestamp="1594629038068">
-        <mark key="'" line="284" column="22" />
+      <file name="E:/jxgwxapp/src/assets/js/canvas-helper.ts" timestamp="1594633606452">
+        <mark key="'" line="262" column="4" />
         <mark key="[" line="308" column="0" />
         <mark key="]" line="308" column="0" />
         <mark key="." line="308" column="0" />
         <mark key="^" line="312" column="23" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594632090258">
-        <mark key="'" line="596" column="15" />
-        <mark key="[" line="696" column="15" />
-        <mark key="]" line="696" column="15" />
-        <mark key="." line="696" column="15" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594633625214">
+        <mark key="'" line="592" column="21" />
+        <mark key="[" line="742" column="0" />
+        <mark key="]" line="742" column="0" />
+        <mark key="." line="742" column="0" />
         <mark key="^" line="598" column="45" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="2" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="134" column="33" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="142" column="37" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="144" column="10" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="148" column="12" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="159" column="3" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="110" column="9" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="730" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="646" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="161" column="19" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="385" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="345" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="664" column="36" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -255,7 +245,6 @@
       <jump line="603" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1553" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1557" column="5" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1499" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="686" column="27" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="845" column="25" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -337,56 +326,67 @@
       <jump line="56" column="23" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="102" column="9" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="123" column="21" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="163" column="37" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
+      <jump line="10" column="18" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
+      <jump line="255" column="2" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
+      <jump line="256" column="11" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
+      <jump line="14" column="18" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
+      <jump line="1528" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="592" column="21" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="212" column="30" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
+      <jump line="262" column="4" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
+      <jump line="125" column="33" filename="E:/jxgwxapp/src/index/poster.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>你</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtYXhXaWR0aDogcDJwKDE5MCksCg==</text>
       </register>
       <register name="-" type="4">
         <text>你</text>
       </register>
       <register name="/" type="4">
-        <text>confirm</text>
+        <text>maxWidth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzY2VuZSA9IHNjZW5lLnJlcGxhY2UoLy0vZywgJyYnKS5yZXBsYWNlKC9fL2csICc9Jyk7CiAgICAgICAgc2NlbmUgPSBxcy5wYXJzZShzY2VuZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtYXhXaWR0aDogcDJwKDE5MCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICBtYXhXaWR0aDogcDJwKDIyNiksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUExBVEZPUk0gfSBmcm9tICJAL2Fzc2V0cy9jb25zdGFudC9jb21tb24iOwo=</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWFuaW1hdGlvbi1pdGVyYXRpb24tY291bnQ6IDsK</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUExBVEZPUk0gfSBmcm9tICJAL2Fzc2V0cy9jb25zdGFudC9jb21tb24iOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyLCBsaW5lQXJyYXkpOwo=</text>
+        <text encoding="base64">CQkJCWFuaW1hdGlvbi1pdGVyYXRpb24tY291bnQ6IDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyLCBsaW5lQXJyYXkpOwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>confirm</last-search>
+      <last-search>maxWidth</last-search>
       <last-offset />
-      <last-pattern>confirm</last-pattern>
+      <last-pattern>maxWidth</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
