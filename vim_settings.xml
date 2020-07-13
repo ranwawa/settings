@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGFzc1w+</entry>
-        <entry>transfrom</entry>
-        <entry>transform</entry>
-        <entry>向</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>_</entry>
         <entry>getQr</entry>
@@ -25,6 +21,10 @@
         <entry>text</entry>
         <entry>复制</entry>
         <entry>orderDetail-result</entry>
+        <entry>showToast</entry>
+        <entry>prettier</entry>
+        <entry>ptettier</entry>
+        <entry>confirm</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -177,7 +177,7 @@
         <mark key="." line="777" column="25" />
         <mark key="^" line="777" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594623197008">
+      <file name="/Dummy.txt" timestamp="1594631973250">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -202,6 +202,15 @@
       <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1594377185418">
         <mark key="'" line="199" column="32" />
       </file>
+      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1594631862550">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="22" />
+      </file>
+      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1594631651371">
+        <mark key="'" line="123" column="21" />
+      </file>
       <file name="E:/jxgwxapp/src/index/poster.vue" timestamp="1594627162406">
         <mark key="'" line="116" column="25" />
         <mark key="[" line="135" column="16" />
@@ -219,28 +228,15 @@
         <mark key="." line="308" column="0" />
         <mark key="^" line="312" column="23" />
       </file>
-      <file name="E:/jxgwxapp/node_modules/uni-vant/lib/icon.vue" timestamp="1594376285485">
-        <mark key="'" line="96" column="22" />
-      </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594623589611">
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594632090258">
         <mark key="'" line="596" column="15" />
-        <mark key="[" line="1546" column="38" />
-        <mark key="]" line="1546" column="39" />
-        <mark key="." line="1546" column="39" />
+        <mark key="[" line="696" column="15" />
+        <mark key="]" line="696" column="15" />
+        <mark key="." line="696" column="15" />
         <mark key="^" line="598" column="45" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="45" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
-      <jump line="285" column="8" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
-      <jump line="199" column="32" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
-      <jump line="198" column="15" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="88" column="28" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="141" column="9" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="156" column="21" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="157" column="9" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
-      <jump line="185" column="32" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
       <jump line="89" column="2" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
       <jump line="134" column="33" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
       <jump line="142" column="37" filename="E:/jxgwxapp/src/pages/user/componetns/VerifyImage.vue" />
@@ -331,56 +327,66 @@
       <jump line="96" column="25" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
       <jump line="110" column="21" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
       <jump line="136" column="21" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
+      <jump line="297" column="33" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="358" column="7" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="155" column="0" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="378" column="8" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="1" column="21" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="14" column="23" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="15" column="90" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="56" column="23" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="102" column="9" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="123" column="21" filename="E:/jxgwxapp/src/order/pages/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWFuaW1hdGlvbi1pdGVyYXRpb24tY291bnQ6IDsK</text>
+      <register name="&quot;" type="4">
+        <text>你</text>
       </register>
       <register name="-" type="4">
-        <text>Show</text>
+        <text>你</text>
       </register>
       <register name="/" type="4">
-        <text>orderDetail-result</text>
+        <text>confirm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzY2VuZSA9IHNjZW5lLnJlcGxhY2UoLy0vZywgJyYnKS5yZXBsYWNlKC9fL2csICc9Jyk7CiAgICAgICAgc2NlbmUgPSBxcy5wYXJzZShzY2VuZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWFuaW1hdGlvbi1pdGVyYXRpb24tY291bnQ6IDsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyLCBsaW5lQXJyYXkpOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgUExBVEZPUk0gfSBmcm9tICJAL2Fzc2V0cy9jb25zdGFudC9jb21tb24iOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJCWFuaW1hdGlvbi1pdGVyYXRpb24tY291bnQ6IDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY3R4LmZpbGxUZXh0KHYsIHgsIHkgKyBsaW5lSGVpZ2h0ICogaSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgaWYgKHRleHREZWNvcmF0aW9uKSB7CiAgICAgICAgLy8gdGhpcy5zZXRUZXh0RGVjb3JhdGlvbihjdHgsIHsKICAgICAgICAvLyAgIC4uLm9wdGlvbnMsCiAgICAgICAgLy8gICB0ZXh0V2lkdGg6IGN0eC5tZWFzdXJlVGV4dChvcHRpb25zLnRleHQpLndpZHRoLAogICAgICAgIC8vIH0pOwogICAgICB9CiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyLCBsaW5lQXJyYXkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRleHREZWNvcmF0aW9uID0gZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod2lkdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>orderDetail-result</last-search>
+      <last-search>confirm</last-search>
       <last-offset />
-      <last-pattern>orderDetail-result</last-pattern>
+      <last-pattern>confirm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
