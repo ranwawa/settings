@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>await</entry>
-        <entry>desc</entry>
         <entry>remark</entry>
         <entry>console.log</entry>
         <entry>export</entry>
@@ -25,6 +23,8 @@
         <entry>qr</entry>
         <entry>Qr</entry>
         <entry>appShare</entry>
+        <entry>我要开通</entry>
+        <entry>roundImage</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -192,8 +192,8 @@
         <mark key="." line="185" column="24" />
         <mark key="^" line="185" column="24" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1594706690639">
-        <mark key="'" line="52" column="49" />
+      <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1594718457858">
+        <mark key="'" line="257" column="2" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/common.ts" timestamp="1594712299266">
         <mark key="'" line="42" column="24" />
@@ -209,12 +209,12 @@
         <mark key="^" line="119" column="34" />
         <mark key="." line="119" column="33" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/canvas-helper.ts" timestamp="1594715957741">
-        <mark key="'" line="213" column="2" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="E:/jxgwxapp/src/assets/js/canvas-helper.ts" timestamp="1594722836931">
+        <mark key="'" line="81" column="22" />
+        <mark key="[" line="179" column="60" />
+        <mark key="]" line="179" column="64" />
+        <mark key="^" line="179" column="64" />
+        <mark key="." line="179" column="63" />
       </file>
       <file name="E:/jxgwxapp/src/pages/components/shares.vue" timestamp="1594710759981">
         <mark key="'" line="56" column="19" />
@@ -233,7 +233,7 @@
       <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1594711025794">
         <mark key="'" line="4" column="1" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594716612900">
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594717290792">
         <mark key="'" line="637" column="5" />
         <mark key="[" line="302" column="70" />
         <mark key="]" line="302" column="85" />
@@ -242,9 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1162" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1143" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="51" column="17" filename="E:/jxgwxapp/src/App.vue" />
       <jump line="281" column="18" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
       <jump line="0" column="0" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
       <jump line="1137" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -342,18 +339,21 @@
       <jump line="283" column="10" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="355" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="384" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="247" column="33" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
+      <jump line="257" column="2" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
+      <jump line="81" column="22" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3MgRmlsbFRleHQgZXh0ZW5kcyBDb29yZGluYXRlIHsKICAvKioKICAgKiDX1szltPPQoQogICAqLwogIGZvbnRTaXplPyA9IDE0OwogIC8qKgogICAqINfWzOXR1cmrCiAgICovCiAgY29sb3I/ID0gIiMzMzMiOwogIC8qKgogICAqIM7Esb7E2sjdCiAgICovCiAgdGV4dCA9ICIiOwogIC8qKgogICAqIMuuxr221MbrCiAgICovCiAgdGV4dEFsaWduPyA9IEFMSUdOLkxFRlQ7CiAgLyoqCiAgICogtLnWsbbUxusKICAgKi8KICB0ZXh0QmFzZWxpbmU/ID0gVkVSVElDQUwuTk9STUFMOwogIC8qKgogICAqINfutPO/7bbICiAgICovCiAgbWF4V2lkdGg/ID0gMDsKICB0ZXh0RGVjb3JhdGlvbj8gPSAiIjsKfQpjbGFzcyBTdHJva2VMaW5lIGV4dGVuZHMgQ29vcmRpbmF0ZSB7CiAgdG9YID0gMDsKICB0b1kgPSAwOwogIGNvbG9yID0gIiNlZWUiOwogIGxpbmVXaWR0aCA9IDE7Cn0K</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>appShare</text>
+        <text>roundImage</text>
       </register>
       <register name="0" type="4">
         <text>@touchmove.stop</text>
@@ -389,9 +389,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>appShare</last-search>
+      <last-search>roundImage</last-search>
       <last-offset />
-      <last-pattern>appShare</last-pattern>
+      <last-pattern>roundImage</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
