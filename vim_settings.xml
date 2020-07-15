@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onReady</entry>
-        <entry>9999</entry>
-        <entry>showShare</entry>
         <entry>canvas</entry>
         <entry>qr</entry>
         <entry>Qr</entry>
@@ -25,6 +22,9 @@
         <entry>entry</entry>
         <entry>onLoad</entry>
         <entry>QRC</entry>
+        <entry>this.ctx =</entry>
+        <entry>123</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -203,12 +203,12 @@
         <mark key="^" line="119" column="34" />
         <mark key="." line="119" column="33" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/canvas-helper.ts" timestamp="1594722836931">
-        <mark key="'" line="81" column="22" />
-        <mark key="[" line="179" column="60" />
-        <mark key="]" line="179" column="64" />
-        <mark key="^" line="179" column="64" />
-        <mark key="." line="179" column="63" />
+      <file name="E:/jxgwxapp/src/assets/js/canvas-helper.ts" timestamp="1594792385496">
+        <mark key="'" line="121" column="12" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="^" line="304" column="23" />
+        <mark key="." line="261" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/components/shares.vue" timestamp="1594724545921">
         <mark key="'" line="40" column="48" />
@@ -227,7 +227,7 @@
       <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1594711025794">
         <mark key="'" line="4" column="1" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594781869358">
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594792185674">
         <mark key="'" line="471" column="22" />
         <mark key="[" line="628" column="0" />
         <mark key="]" line="628" column="0" />
@@ -236,15 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="472" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="686" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1579" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1525" column="21" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="468" column="37" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1578" column="3" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="235" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="308" column="30" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1408" column="3" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="57" column="2" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
       <jump line="54" column="2" filename="E:/jxgwxapp/src/pages/components/shares.vue" />
@@ -336,56 +327,65 @@
       <jump line="348" column="7" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="471" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="38" column="35" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="138" column="27" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
+      <jump line="66" column="7" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
+      <jump line="69" column="7" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
+      <jump line="298" column="8" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
+      <jump line="261" column="0" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
+      <jump line="265" column="8" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
+      <jump line="304" column="6" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
+      <jump line="307" column="6" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
+      <jump line="121" column="12" filename="E:/jxgwxapp/src/assets/js/canvas-helper.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMywgbGluZUFycmF5KTsK</text>
       </register>
       <register name="-" type="4">
         <text>page: string, param: any = {}</text>
       </register>
       <register name="/" type="4">
-        <text>QRC</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="4">
         <text>this.computedOpenType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMywgbGluZUFycmF5KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGF5QXBpIH0gZnJvbSAiQC9hcGkvcGF5IjsKaW1wb3J0IHsgdXNlckFwaSB9IGZyb20gIkAvYXBpL3VzZXIiOwppbXBvcnQgeyBiYXNlVXNlciB9IGZyb20gIkAvYXNzZXRzL2pzL2Jhc2VVc2VyIjsKaW1wb3J0IHsgTEFOR19UWVBFIH0gZnJvbSAiQC9hc3NldHMvY29uc3RhbnQvbGFuZyI7CmltcG9ydCB7IGd6aEFwcElkLCBSRVFVRVNUX0JBU0VfVVJMIH0gZnJvbSAiQC9jb25maWciOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTEFOR19UWVBFIH0gZnJvbSAiQC9hc3NldHMvY29uc3RhbnQvbGFuZyI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcGF5QXBpIH0gZnJvbSAiQC9hcGkvcGF5IjsKaW1wb3J0IHsgdXNlckFwaSB9IGZyb20gIkAvYXBpL3VzZXIiOwppbXBvcnQgeyBiYXNlVXNlciB9IGZyb20gIkAvYXNzZXRzL2pzL2Jhc2VVc2VyIjsKaW1wb3J0IHsgTEFOR19UWVBFIH0gZnJvbSAiQC9hc3NldHMvY29uc3RhbnQvbGFuZyI7CmltcG9ydCB7IGd6aEFwcElkLCBSRVFVRVNUX0JBU0VfVVJMIH0gZnJvbSAiQC9jb25maWciOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYmFzZVVzZXIgfSBmcm9tICJAL2Fzc2V0cy9qcy9iYXNlVXNlciI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTEFOR19UWVBFIH0gZnJvbSAiQC9hc3NldHMvY29uc3RhbnQvbGFuZyI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlckFwaSB9IGZyb20gIkAvYXBpL3VzZXIiOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgYmFzZVVzZXIgfSBmcm9tICJAL2Fzc2V0cy9qcy9iYXNlVXNlciI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGF5QXBpIH0gZnJvbSAiQC9hcGkvcGF5IjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlckFwaSB9IGZyb20gIkAvYXBpL3VzZXIiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHFzIGZyb20gInFzIjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgcGF5QXBpIH0gZnJvbSAiQC9hcGkvcGF5IjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFFSQ29kZSBmcm9tICJxcmNvZGUiOwo=</text>
+        <text encoding="base64">aW1wb3J0IHFzIGZyb20gInFzIjsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cGFnZSA9IHBhZ2UucmVwbGFjZSgvXlwvLywgIiIpOwogICAgY29uc3Qgc2NlbmUgPSB7CiAgICAgIGk6IGJhc2VVc2VyLnVzZXJJbmZvLm1lbWJlckludml0ZUNvZGUsCiAgICAgIC4uLnBhcmFtLAogICAgfTsKICAgIC8vIHNjZW5lsrvWp7PWdXJsseDC6wogICAgLy8gc2NlbmW688Pmyse8/Na1ttS1xNDOyr0st6LG8GdldMfrx/O74dfUtq+94s72LMv50tSyu8Tc08NpZD0xJm5hbWU9MrXEuPHKvQogICAgLy8g08PM2Mrit/u6xSzJ+rPJtcS2/s6swuvA78PmtcRzY2VuZbLOyv3T1rvhsbt1cmyx4MLrCiAgICAvLyDL+dLUyrnTw18twLS9+NDQx/i31gogICAgY29uc3Qgc3JjID0gYCR7CiAgICAgIFJFUVVFU1RfQkFTRV9VUkwuc3RvcmUKICAgIH0vYmxhZGUtb3BlbmFwaS93eGFwaS9mcm9udGVuZC9jcmVhdGVRUkNvZGU/cGFnZT0ke3BhZ2V9JmFjY291bnQ9JHsKICAgICAgUExBVEZPUk1fSkFWQS5KWEdMSVZFTUlOSQogICAgfSZzY2VuZT0ke18uZW50cmllcyhzY2VuZSkKICAgICAgLm1hcCgoW2tleSwgdmFsdWVdKSA9PiBgJHtrZXl9XyR7dmFsdWV9YCkKICAgICAgLmpvaW4oIi0iKX1gOwogICAgcmV0dXJuIGF3YWl0IGdldEltYWdlSW5mbyhzcmMpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IFFSQ29kZSBmcm9tICJxcmNvZGUiOwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>QRC</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>QRC</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
