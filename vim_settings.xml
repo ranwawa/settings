@@ -15,7 +15,6 @@
         <entry>appShare</entry>
         <entry>我要开通</entry>
         <entry>roundImage</entry>
-        <entry>onLoad</entry>
         <entry>computedShare</entry>
         <entry>computed</entry>
         <entry>computedOpenType</entry>
@@ -25,6 +24,7 @@
         <entry>export</entry>
         <entry>main</entry>
         <entry>entry</entry>
+        <entry>onLoad</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -151,12 +151,12 @@
       <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1594631651371">
         <mark key="'" line="123" column="21" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1594623021574">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="191" column="2" />
-        <mark key="]" line="191" column="8" />
-        <mark key="." line="191" column="7" />
-        <mark key="^" line="191" column="8" />
+      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1594779359169">
+        <mark key="'" line="165" column="21" />
+        <mark key="[" line="190" column="4" />
+        <mark key="]" line="190" column="10" />
+        <mark key="." line="190" column="9" />
+        <mark key="^" line="190" column="10" />
       </file>
       <file name="E:/jxgwxapp/src/order/pages/addressList.vue" timestamp="1594623576383">
         <mark key="[" line="153" column="29" />
@@ -236,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="749" column="67" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="769" column="72" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="781" column="72" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="790" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -336,6 +335,7 @@
       <jump line="40" column="48" filename="E:/jxgwxapp/src/pages/components/shares.vue" />
       <jump line="301" column="9" filename="E:/jxgwxapp/src/index/poster.vue" />
       <jump line="0" column="9" filename="E:/jxgwxapp/src/index/poster.vue" />
+      <jump line="165" column="21" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -347,7 +347,7 @@
         <text>computedOpenType</text>
       </register>
       <register name="/" type="4">
-        <text>entry</text>
+        <text>onLoad</text>
       </register>
       <register name="0" type="4">
         <text>this.computedOpenType</text>
@@ -383,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>entry</last-search>
+      <last-search>onLoad</last-search>
       <last-offset />
-      <last-pattern>entry</last-pattern>
+      <last-pattern>onLoad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
