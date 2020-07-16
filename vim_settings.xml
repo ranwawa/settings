@@ -124,12 +124,19 @@
       <file name="E:/video2/train/Public/train/product/js/base-player.js" timestamp="1594644734961">
         <mark key="'" line="60" column="51" />
       </file>
-      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1594814222316">
-        <mark key="'" line="79" column="9" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="78" column="31" />
+      <file name="E:/jxgwxapp/src/config.ts" timestamp="1594862217244">
+        <mark key="'" line="25" column="3" />
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="12" />
+        <mark key="." line="33" column="12" />
+        <mark key="^" line="53" column="59" />
+      </file>
+      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1594862994737">
+        <mark key="'" line="78" column="9" />
+        <mark key="[" line="80" column="23" />
+        <mark key="]" line="80" column="56" />
+        <mark key="." line="80" column="55" />
+        <mark key="^" line="80" column="56" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1594779359169">
         <mark key="'" line="165" column="21" />
@@ -161,13 +168,6 @@
         <mark key="]" line="122" column="38" />
         <mark key="." line="122" column="37" />
         <mark key="^" line="122" column="38" />
-      </file>
-      <file name="E:/jxgwxapp/package.json" timestamp="1594639651173">
-        <mark key="'" line="95" column="5" />
-        <mark key="[" line="119" column="24" />
-        <mark key="]" line="119" column="34" />
-        <mark key="^" line="119" column="34" />
-        <mark key="." line="119" column="33" />
       </file>
       <file name="E:/jxgwxapp/src/pages/components/shares.vue" timestamp="1594724545921">
         <mark key="'" line="40" column="48" />
@@ -201,10 +201,10 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="E:/jxgwxapp/vue.config.js" timestamp="1594814125915">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="E:/jxgwxapp/vue.config.js" timestamp="1594862967229">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/index/poster.vue" timestamp="1594724790708">
         <mark key="'" line="0" column="9" />
@@ -336,11 +336,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiYmFzZSI6ICIvanhnd3hhcHAvIiwK</text>
+      <register name="&quot;" type="4">
+        <text>/jxgwxapp/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/jxgwxapp/</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -349,31 +349,31 @@
         <text>uni.saveImageToPhotosAlbum</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiYmFzZSI6ICIvanhnd3hhcHAvIiwK</text>
+        <text encoding="base64">ZW52ID09PSAnYnVpbGQnID8gJ2h0dHA6Ly9qeGdzdGF0aWMuaml4dWdvdS5jbi8nIDogJ2h0dHA6Ly9qeGdzdGF0aWMtdGVzdC5qaXh1Z291LmNuLycubG9nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInB1YmxpY1BhdGgiOiAiL2p4Z3d4YXBwLyIsCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpY1BhdGg6IGVudiA9PT0gJ2J1aWxkJyA/ICdodHRwOi8vanhnc3RhdGljLmppeHVnb3UuY24vJyA6ICdodHRwOi8vanhnc3RhdGljLXRlc3Quaml4dWdvdS5jbi8nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNvbnRlbnRCYXNlUHVibGljUGF0aCI6ICIvLyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImJhc2UiOiAiL2p4Z3d4YXBwLyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwbHVnaW5zOiBbCiAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAicHVibGljUGF0aCI6ICIvanhnd3hhcHAvIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbmV3IFByZXR0aWVyUGx1Z2luKCksCiAgICAgICAgICAgIC8vIG5ldyBVZ2xpZnlKc1BsdWdpbih7IHNvdXJjZU1hcDogdHJ1ZSB9KSwK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIFVnbGlmeUpzUGx1Z2luID0gcmVxdWlyZSgidWdsaWZ5anMtd2VicGFjay1wbHVnaW4iKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwsIHJlc291cmNlUGF0aCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIFByZXR0aWVyUGx1Z2luID0gcmVxdWlyZSgicHJldHRpZXItd2VicGFjay1wbHVnaW4iKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBxclNyYyA9ICIiOyAvLyDOotDF0KGzzNDytv7OrMLrCg==</text>
+        <text encoding="base64">Y29uc3QgW2VudiwgcGxhdGZvcm1dID0gbnBtX2xpZmVjeWNsZV9ldmVudC5zcGxpdCgnOicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVuaS5zYXZlSW1hZ2VUb1Bob3Rvc0FsYnVtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgW2VudiwgcGxhdGZvcm1dID0gbnBtX2xpZmVjeWNsZV9ldmVudC5zcGxpdCgnOicpOwo=</text>
       </register>
     </registers>
   </component>
