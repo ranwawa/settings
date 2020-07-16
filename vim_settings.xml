@@ -163,7 +163,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="34" column="37" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/detail.vue" timestamp="1594878627960">
+      <file name="E:/jxgwxapp/src/order/pages/detail.vue" timestamp="1594878878968">
         <mark key="'" line="0" column="9" />
         <mark key="[" line="225" column="45" />
         <mark key="]" line="225" column="46" />
@@ -176,6 +176,12 @@
         <mark key="." line="0" column="23" />
       </file>
       <file name="E:/jxgwxapp/dist/build/h5/index.html" timestamp="1594804179219" />
+      <file name="E:/jxgwxapp/src/order/pages/list.vue" timestamp="1594879420130">
+        <mark key="[" line="154" column="46" />
+        <mark key="]" line="154" column="50" />
+        <mark key="." line="154" column="49" />
+        <mark key="^" line="154" column="50" />
+      </file>
       <file name="E:/jxgwxapp/src/pages/index/index.vue" timestamp="1594870942191">
         <mark key="'" line="171" column="0" />
         <mark key="[" line="147" column="51" />
@@ -210,13 +216,6 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="36" />
       </file>
-      <file name="E:/jxgwxapp/src/index/poster.vue" timestamp="1594724790708">
-        <mark key="'" line="0" column="9" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="^" line="20" column="58" />
-        <mark key="." line="111" column="0" />
-      </file>
       <file name="E:/jxgwxapp/src/pages/mine/index.vue" timestamp="1594870127770" />
       <file name="C:/project/vue-next/scripts/dev.js" timestamp="1594775189397" />
       <file name="E:/jxgwxapp/src/assets/js/canvas-helper.ts" timestamp="1594799475111">
@@ -235,10 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="206" column="8" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="282" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="283" column="10" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="355" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="384" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="247" column="33" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
@@ -335,15 +330,19 @@
       <jump line="661" column="5" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
       <jump line="222" column="14" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
       <jump line="0" column="9" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
+      <jump line="6" column="14" filename="E:/jxgwxapp/src/order/pages/list.vue" />
+      <jump line="28" column="25" filename="E:/jxgwxapp/src/order/pages/list.vue" />
+      <jump line="520" column="7" filename="E:/jxgwxapp/src/order/pages/list.vue" />
+      <jump line="152" column="8" filename="E:/jxgwxapp/src/order/pages/list.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXIK</text>
+      <register name="&quot;" type="4">
+        <text>ele</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>ele</text>
       </register>
       <register name="/" type="4">
         <text>goods-wrap</text>
@@ -352,31 +351,31 @@
         <text encoding="base64">ICAgICAgICBlbGUucGljMiA9IHV0aWwuYXBwZW5kSW1hZ2VWaWV3MihlbGUucGljMSwgNjUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXIK</text>
+        <text encoding="base64">CQkJICBlbGUub3JkZXJEZXRhaWxWT0xpc3QgPSBlbGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIG5hdmlnYXRlVG9VUkwoYCR7Uk9VVEUuT1JERVJfUkVTVUxUfT9vcmRlcklkPTIwMDYyOTIzNDIyNDMzNTNgKTsK</text>
+        <text encoding="base64">CQkJCXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWxsLCB0KTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5yZXBsYWNlKC9zcmM9IiguKj8pIi9nLCBmdW5jdGlvbiAoYWxsLCB0KSB7CiAgICAgIGNvbnNvbGUubG9nKGFsbCwgdCk7CiAgICAgIHJldHVybiBgc3JjPSIke3V0aWwuYXBwZW5kSW1hZ2VWaWV3Mih0LCAzNzUpfSJgOwogICAgfSkK</text>
+        <text encoding="base64">ICAgIC8vIG5hdmlnYXRlVG9VUkwoYCR7Uk9VVEUuT1JERVJfUkVTVUxUfT9vcmRlcklkPTIwMDYyOTIzNDIyNDMzNTNgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWxsLCB0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC5yZXBsYWNlKC9zcmM9IiguKj8pIi9nLCBmdW5jdGlvbiAoYWxsLCB0KSB7CiAgICAgIGNvbnNvbGUubG9nKGFsbCwgdCk7CiAgICAgIHJldHVybiBgc3JjPSIke3V0aWwuYXBwZW5kSW1hZ2VWaWV3Mih0LCAzNzUpfSJgOwogICAgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Lm1hcChlbGUgPT4KICAgICAgICB1dGlsLmFwcGVuZEltYWdlVmlldzIoZWxlLCAzNzUpKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
   </component>
