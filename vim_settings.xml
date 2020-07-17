@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>sku__img</entry>
-        <entry>goods-wrap</entry>
         <entry>testRow</entry>
         <entry>goodImageList =</entry>
         <entry>export</entry>
@@ -25,6 +23,8 @@
         <entry>image</entry>
         <entry>script</entry>
         <entry encoding="base64">PGltYWdl</entry>
+        <entry>tatis</entry>
+        <entry>uniStatis</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,7 +121,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594948750232">
+      <file name="/Dummy.txt" timestamp="1594950041652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -143,12 +143,12 @@
         <mark key="." line="6" column="40" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/list.vue" timestamp="1594949828878">
-        <mark key="'" line="508" column="3" />
-        <mark key="[" line="526" column="4" />
-        <mark key="]" line="526" column="18" />
-        <mark key="." line="526" column="17" />
-        <mark key="^" line="526" column="18" />
+      <file name="E:/jxgwxapp/src/order/pages/list.vue" timestamp="1594950355623">
+        <mark key="'" line="467" column="49" />
+        <mark key="[" line="528" column="4" />
+        <mark key="]" line="528" column="18" />
+        <mark key="." line="528" column="17" />
+        <mark key="^" line="528" column="18" />
       </file>
       <file name="C:/project/document/problem/基础语法/JavaScript.md" timestamp="1594946842191">
         <mark key="[" line="287" column="0" />
@@ -166,6 +166,13 @@
       <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1594877824038">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1594952109875">
+        <mark key="'" line="79" column="8" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="2" column="26" />
+      </file>
       <file name="E:/jxgwxapp/src/pages.json" timestamp="1594878226129">
         <mark key="'" line="296" column="17" />
         <mark key="[" line="307" column="37" />
@@ -181,10 +188,10 @@
       </file>
       <file name="E:/jxgwxapp/src/index/poster.vue" timestamp="1594949995179">
         <mark key="'" line="13" column="8" />
-        <mark key="[" line="89" column="16" />
-        <mark key="]" line="89" column="25" />
-        <mark key="^" line="89" column="25" />
-        <mark key="." line="89" column="24" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+        <mark key="." line="14" column="24" />
       </file>
       <file name="E:/jxgwxapp/src/App.vue" timestamp="1594948666722">
         <mark key="'" line="53" column="39" />
@@ -192,13 +199,6 @@
         <mark key="]" line="92" column="17" />
         <mark key="." line="92" column="16" />
         <mark key="^" line="92" column="17" />
-      </file>
-      <file name="E:/jxgwxapp/src/assets/js/common.ts" timestamp="1594870780969">
-        <mark key="'" line="42" column="24" />
-        <mark key="[" line="165" column="36" />
-        <mark key="]" line="165" column="37" />
-        <mark key="." line="165" column="36" />
-        <mark key="^" line="165" column="37" />
       </file>
       <file name="E:/jxgwxapp/package.json" timestamp="1594885373043">
         <mark key="'" line="69" column="21" />
@@ -236,8 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="585" column="12" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="586" column="51" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="657" column="19" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="26" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="103" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -336,18 +334,20 @@
       <jump line="253" column="2" filename="E:/jxgwxapp/src/index/poster.vue" />
       <jump line="47" column="1" filename="E:/jxgwxapp/src/index/poster.vue" />
       <jump line="13" column="8" filename="E:/jxgwxapp/src/index/poster.vue" />
+      <jump line="467" column="49" filename="E:/jxgwxapp/src/order/pages/list.vue" />
+      <jump line="76" column="8" filename="E:/jxgwxapp/src/manifest.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgOnNyYz0iaXRlbS50YXJnZXQiIAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>order</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PGltYWdl</text>
+        <text>uniStatis</text>
       </register>
       <register name="0" type="4">
         <text>:-:|</text>
@@ -383,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">PGltYWdl</last-search>
+      <last-search>uniStatis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PGltYWdl</last-pattern>
+      <last-pattern>uniStatis</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
