@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>goodImageList =</entry>
-        <entry>export</entry>
         <entry>goodsImg</entry>
         <entry>goodImageList</entry>
         <entry>[0].url</entry>
@@ -25,6 +23,8 @@
         <entry>tatis</entry>
         <entry>uniStatis</entry>
         <entry>onLoad</entry>
+        <entry>fileds</entry>
+        <entry>field</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -127,18 +127,23 @@
         <mark key="." line="287" column="0" />
         <mark key="^" line="276" column="10" />
       </file>
-      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1594954789570">
+      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1594968119671">
         <mark key="'" line="79" column="8" />
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="2" column="26" />
+        <mark key="[" line="83" column="52" />
+        <mark key="]" line="83" column="61" />
+        <mark key="." line="83" column="60" />
+        <mark key="^" line="83" column="61" />
       </file>
       <file name="C:/project/document/package.json" timestamp="1594946874637">
         <mark key="[" line="30" column="17" />
         <mark key="]" line="30" column="22" />
         <mark key="^" line="30" column="22" />
         <mark key="." line="30" column="21" />
+      </file>
+      <file name="E:/jxgwxapp/src/api/requestModel.ts" timestamp="1594967322168">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="9" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/App.vue" timestamp="1594948666722">
         <mark key="'" line="53" column="39" />
@@ -153,13 +158,6 @@
         <mark key="]" line="182" column="0" />
         <mark key="^" line="178" column="23" />
         <mark key="." line="182" column="0" />
-      </file>
-      <file name="E:/jxgwxapp/package.json" timestamp="1594885373043">
-        <mark key="'" line="69" column="21" />
-        <mark key="[" line="119" column="24" />
-        <mark key="]" line="119" column="34" />
-        <mark key="^" line="119" column="34" />
-        <mark key="." line="119" column="33" />
       </file>
       <file name="E:/jxgwxapp/src/pages/components/shares.vue" timestamp="1594948748496">
         <mark key="'" line="18" column="21" />
@@ -197,12 +195,12 @@
         <mark key="." line="528" column="17" />
         <mark key="^" line="528" column="18" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/index/index.vue" timestamp="1594967037766">
+      <file name="E:/jxgwxapp/src/pages/index/index.vue" timestamp="1594967248681">
         <mark key="'" line="141" column="47" />
-        <mark key="[" line="143" column="8" />
-        <mark key="]" line="143" column="15" />
-        <mark key="^" line="143" column="15" />
-        <mark key="." line="143" column="14" />
+        <mark key="[" line="144" column="16" />
+        <mark key="]" line="144" column="31" />
+        <mark key="^" line="144" column="31" />
+        <mark key="." line="144" column="30" />
       </file>
       <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1594964781675">
         <mark key="'" line="27" column="0" />
@@ -344,52 +342,52 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>rescords</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZXRhaWwsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>rescords</text>
+        <text>Array</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>field</text>
       </register>
       <register name="0" type="4">
         <text>:-:|</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICBkZXRhaWwsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNba2V5XSA9IGNsZWFuUmVzcG9uc2VEYXRhKGRhdGFba2V5XSwgZGVzY3JpcHRvcltrZXldKTsK</text>
+        <text encoding="base64">ICBhZGRJbnZpdGVDb2RlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNba2V5XSA9IGRhdGFba2V5XSB8fCBMQU5HX1RZUEVfREVGQVVMVF9WQUxVRVt2YWx1ZV07Cg==</text>
+        <text encoding="base64">ICBnZXRWZXJpZnlJbWFnZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0aXRsZTogc3RyaW5nID0gIiI7Cg==</text>
+        <text encoding="base64">ICBnZXRWZXJpZnlJbWFnZSwKICBhZGRJbnZpdGVDb2RlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBUaXRsZTogc3RyaW5nID0gIryv0Oi5urnZt70iOyAvL2NhbnZhcyDTw7unw/sK</text>
+        <text encoding="base64">ICBtc21BbmRWZXJpZnlJbWFnZUNvZGUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBBdmF0YXJTcmM6IHN0cmluZyA9ICIvc3RhdGljL3JhZGlvbm9jaGVjay5wbmciOwo=</text>
+        <text encoding="base64">ICAvLyBoZWFkUG9ydHJhaXQ6IHZhbFJlcXVpcmVkKCLH67SryOvNt8/xIiksCiAgLy8gbmlja05hbWU6IHZhbFJlcXVpcmVkKCLH67SryOvNt8/xIiksCiAgLy8gdW5pb25pZDogdmFsUmVxdWlyZWQoIsfrtKvI63VuaW9uaWQiKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbWdTcmM6IHN0cmluZ1tdID0gWyJodHRwOi8vMTkyLjE2OC4xLjg2L3N0YXRpYy9ob21lX2NoZWNrZWQucG5nIl07Cg==</text>
+        <text encoding="base64">ICAvLyBzY29wZTogdmFsUmVxdWlyZWQoIsfrtKvI63Njb3BlIiksCiAgLy8gZ3JhbnRfdHlwZTogdmFsUmVxdWlyZWQoIsfrtKvI62dyYW50X3R5cGUiKSwKICAvLyBsb2dpbkNoYW5uZWw6IHZhbFJlcXVpcmVkKCLH67SryOvH/rXAIiwgTEFOR19UWVBFLk5VTUJFUiksCiAgLy8gdHlwZTogdmFsUmVxdWlyZWQoIsfrtKvI68f+tcAiLCBMQU5HX1RZUEUuTlVNQkVSKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYmFzZVVzZXIgfSBmcm9tICJAL2Fzc2V0cy9qcy9iYXNlVXNlciI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNINUluQXBwIH0gZnJvbSAiQC9hc3NldHMvanMvY29tbW9uIjsK</text>
+        <text encoding="base64">ICAgICAgICByZXNba2V5XSA9IGNsZWFuUmVzcG9uc2VEYXRhKGRhdGFba2V5XSwgZGVzY3JpcHRvcltrZXldKTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>field</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>field</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
