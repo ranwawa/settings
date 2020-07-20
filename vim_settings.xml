@@ -127,12 +127,13 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1595230170475">
-        <mark key="'" line="402" column="4" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
-        <mark key="^" line="137" column="10" />
+      <file name="/index.vue" timestamp="1595231785629" />
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1595231973548">
+        <mark key="'" line="403" column="4" />
+        <mark key="[" line="137" column="27" />
+        <mark key="]" line="137" column="28" />
+        <mark key="." line="137" column="27" />
+        <mark key="^" line="137" column="28" />
       </file>
       <file name="C:/project/jxg-ops/package.json" timestamp="1595225270938">
         <mark key="'" line="49" column="9" />
@@ -168,12 +169,12 @@
         <mark key="^" line="20" column="33" />
         <mark key="." line="20" column="32" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1595230507747">
+      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1595232092855">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="275" column="13" />
-        <mark key="]" line="275" column="13" />
-        <mark key="." line="275" column="13" />
-        <mark key="^" line="275" column="24" />
+        <mark key="[" line="345" column="13" />
+        <mark key="]" line="345" column="13" />
+        <mark key="^" line="343" column="29" />
+        <mark key="." line="345" column="13" />
       </file>
       <file name="C:/project/jxg-ops/prettier.js" timestamp="1595225125908" />
       <file name="/" timestamp="1595226789436">
@@ -196,12 +197,6 @@
         <mark key="]" line="92" column="16" />
         <mark key="." line="92" column="15" />
         <mark key="^" line="92" column="16" />
-      </file>
-      <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1594988830866">
-        <mark key="[" line="61" column="24" />
-        <mark key="]" line="61" column="25" />
-        <mark key="^" line="61" column="25" />
-        <mark key="." line="61" column="24" />
       </file>
       <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1594991470609">
         <mark key="'" line="353" column="17" />
@@ -328,39 +323,37 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCW9yZGVySWQ6IGRhdGEub3JkZXJJZCwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ly8gu/HIodanuLbQxc+iCiAgYXN5bmMgZ2V0UGF5SW5mbyhwYXJhbTogYW55KSB7CiAgICBjb25zb2xlLmxvZygi1+7W1czhvbu1xNPDu6dJZCIsIGJhc2VVc2VyLnVzZXJJbmZvLndlaXhpblRva2VuKTsKICAgIGNvbnN0IFtlcnIsIGRhdGFdOiBhbnkgPSBhd2FpdCBwYXlBcGkubXBXZWl4aW5QYXkoewogICAgICAuLi5fLnBpY2socGFyYW0sIFsidG90YWxBbW91bnQiLCAicmVmTWVtYmVySWQiLCAib3JkZXJJZCJdKSwKICAgICAgb3BlbklkOiBiYXNlVXNlci51c2VySW5mby53ZWl4aW5Ub2tlbiwKICAgICAgcGF5SW5mb1R5cGU6IFBBWV9UWVBFLk9SREVSLAogICAgICBwYXlPcmRlclR5cGU6IDAsCiAgICAgIGJvZHk6ICK8r9DoubrA1rLJIiwKICAgICAgc3ViamVjdDogIryv0Oi5usDWsskiLAogICAgICBpZGVtcG90ZW50S2V5OiBEYXRlLm5vdygpLAogICAgfSk7CiAgICBpZiAoZXJyKSByZXR1cm47CiAgICB0aGlzLnBheUluTVAoSlNPTi5wYXJzZShkYXRhKSwgcGFyYW0ub3JkZXJJZCk7CiAgfQogIC8vILX3xvDQobPM0PLWp7i2CiAgYXN5bmMgcGF5SW5NUChwYXJhbTogYW55LCBvcmRlcklkOiBzdHJpbmcpIHsKICAgIGNvbnN0IFtlcnIsIGRhdGFdOiBhbnkgPSBhd2FpdCB1bmkucmVxdWVzdFBheW1lbnQoCiAgICAgIF8ucGljayhwYXJhbSwgWyJ0aW1lU3RhbXAiLCAibm9uY2VTdHIiLCAic2lnblR5cGUiLCAicGF5U2lnbiIsICJwYWNrYWdlIl0pCiAgICApOwogICAgCiAgfQog</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Y29uc3QgYWRkcmVzcyA9IHRoaXMuY29tcHV0ZWRBZGRyZXNzOwoJCWlmICghYWRkcmVzcy50aXRsZSkgewoJCQlhd2FpdCBzaG93VG9hc3RUZXh0KCLH69Gh1PHK1bv1tdjWtyIpOwoJCQlyZXR1cm47CgkJfQoJCWNvbnN0IGdvb2RzID0gdGhpcy5jb21wdXRlZFByZUdvb2RMaXN0Lm1hcCgoZWxlKSA9PiAoewoJCQlsaXZlUm9vbUlkOiB0aGlzLmNvbXB1dGVkTGl2ZUdvb2RJbmZvLnJvb21JZCB8fCAiIiwKCQkJbGl2ZUFuY2hvck1lbWJlcklkOiB0aGlzLmNvbXB1dGVkTGl2ZUdvb2RJbmZvLm9wZW5JZCB8fCAiIiwKCQkJLi4uXy5waWNrKGVsZSwgWyJwcmljZSIsICJudW0iLCAic2t1Q29kZSIsICJyZW1hcmsiLCAiYWN0aXZpdHlJZCJdKQoJCX0pKTsKCQljb25zdCB0b3RhbFByaWNlID0gdGhpcy5jb21wdXRlZE9yZGVyQW1vdW50Lmdvb2RzOwoJCWNvbnN0IG1lbWJlcklkID0gdGhpcy5fdXNlckluZm8udXNlcl9pZDsKCQljb25zdCBwYXJhbSA9IHsKCQkJb3JkZXJJbmZvSnNvbjogSlNPTi5zdHJpbmdpZnkoewoJCQkJZ29vZHMsCgkJCQltZW1iZXJJZCwKCQkJCXRvdGFsUHJpY2UsCgkJCQlsb2dpc3RpY3NGZWU6IHRoaXMubG9naXN0aWNzRmVlLAoJCQkJc2hpcHBpbmdSZWdpb246IGFkZHJlc3MucHJvdmluY2VJZCwKCQkJCWFkZHJlc3NJZDogdGhpcy5jb21wdXRlZFNlbGVjdGVkQWRkcmVzcy5pZCwKCQkJfSksCgkJfTsKCQ==</text>
+        <text encoding="base64">IC8vILvxyKHWp7i20MXPogogIGFzeW5jIGdldFBheUluZm8ocGFyYW06IGFueSkgewogICAgY29uc29sZS5sb2coItfu1tXM4b27tcTTw7unSWQiLCBiYXNlVXNlci51c2VySW5mby53ZWl4aW5Ub2tlbik7CiAgICBjb25zdCBbZXJyLCBkYXRhXTogYW55ID0gYXdhaXQgcGF5QXBpLm1wV2VpeGluUGF5KHsKICAgICAgLi4uXy5waWNrKHBhcmFtLCBbInRvdGFsQW1vdW50IiwgInJlZk1lbWJlcklkIiwgIm9yZGVySWQiXSksCiAgICAgIG9wZW5JZDogYmFzZVVzZXIudXNlckluZm8ud2VpeGluVG9rZW4sCiAgICAgIHBheUluZm9UeXBlOiBQQVlfVFlQRS5PUkRFUiwKICAgICAgcGF5T3JkZXJUeXBlOiAwLAogICAgICBib2R5OiAivK/Q6Lm6wNayySIsCiAgICAgIHN1YmplY3Q6ICK8r9DoubrA1rLJIiwKICAgICAgaWRlbXBvdGVudEtleTogRGF0ZS5ub3coKSwKICAgIH0pOwogICAgaWYgKGVycikgcmV0dXJuOwogICAgdGhpcy5wYXlJbk1QKEpTT04ucGFyc2UoZGF0YSksIHBhcmFtLm9yZGVySWQpOwogIH0KICAvLyC198bw0KGzzNDy1qe4tgogIGFzeW5jIHBheUluTVAocGFyYW06IGFueSwgb3JkZXJJZDogc3RyaW5nKSB7CiAgICBjb25zdCBbZXJyLCBkYXRhXTogYW55ID0gYXdhaXQgdW5pLnJlcXVlc3RQYXltZW50KAogICAgICBfLnBpY2socGFyYW0sIFsidGltZVN0YW1wIiwgIm5vbmNlU3RyIiwgInNpZ25UeXBlIiwgInBheVNpZ24iLCAicGFja2FnZSJdKQogICAgKTsKICAgIAogIH0KICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="3" type="4">
+        <text>if (err) {
+      await redirectToURL(`${ROUTE.ORDER_DETAIL}?orderId=${orderId}`);
+      // await showToastText(&quot;支付失败&quot;);
+      return;
+    }
+    await redirectToURL(`${ROUTE.ORDER_RESULT}?orderId=${orderId}`);</text>
       </register>
-      <register name="4" type="4">
-        <text>} else {
-			this.sub_disabled = true;
-			await this.getPayInfo({
-				totalAmount: totalPrice,
-				refMemberId: memberId,
-				orderId: data.orderId,
-			});
-		}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgb3BlbklkOiBwYXJhbS5vcGVuSWQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyB0b2RvINXiwO/PyNC00ru49mlmIGVsc2W688Pm0qqz6cDrtb3KysXkxvfA78PmCgkJaWYgKHBsYXRmb3JtID09PSBQTEFURk9STS5INV9JT1MgfHwgcGxhdGZvcm0gPT09IFBMQVRGT1JNLkg1X0FORFJPSUQpIHsK</text>
+        <text encoding="base64">ICAgICAgb3JkZXJJZDogcGFyYW0ub3JkZXJJZCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChlcnIyKSByZXR1cm4gW2VycjIsIGRhdGEyXQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb3BlbklkOiBwYXJhbS5vcGVuSWQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVmTWVtYmVySWQ6IHBhcmFtLm1lbWJlcklkLAo=</text>
+        <text encoding="base64">ICAgICAgcGF5SW5mb1R5cGU6IFBBWV9UWVBFLk9SREVSLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdG90YWxBbW91bnQ6IHBhcmFtLnRvdGFsUHJpY2UsCg==</text>
+        <text encoding="base64">ICAgICAgb3JkZXJJZDogcGFyYW0ub3JkZXJJZCwK</text>
       </register>
     </registers>
   </component>
