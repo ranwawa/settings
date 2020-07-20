@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>submit</entry>
         <entry>afterRegister</entry>
         <entry>afer</entry>
         <entry>after</entry>
@@ -25,6 +24,7 @@
         <entry>share</entry>
         <entry>this.goodsId</entry>
         <entry>appShare</entry>
+        <entry>添加商品专区</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -152,7 +152,7 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1595234404259" />
+      <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1595240994347" />
       <file name="C:/project/jxg-ops/src/views/operation/homeSetting/components/z_settingGoods.vue" timestamp="1595225315075">
         <mark key="'" line="24" column="36" />
         <mark key="[" line="19" column="81" />
@@ -173,8 +173,8 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/index.vue" timestamp="1595235421421">
-        <mark key="'" line="87" column="44" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/index.vue" timestamp="1595245973419">
+        <mark key="'" line="1" column="47" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -182,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="8" filename="E:/jxgwxapp/src/manifest.json" />
       <jump line="18" column="19" filename="E:/jxgwxapp/src/assets/constant/lang.ts" />
       <jump line="27" column="0" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="0" column="9" filename="E:/jxgwxapp/src/pages/index/index.vue" />
@@ -282,6 +281,7 @@
       <jump line="375" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="405" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="97" column="2" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="1" column="47" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -293,7 +293,7 @@
         <text>输入活动名称</text>
       </register>
       <register name="/" type="4">
-        <text>appShare</text>
+        <text>添加商品专区</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWFyY2hQbGFjZWhvbGRlcjogJ8fryuTI67vutq/D+7PGJywK</text>
@@ -329,9 +329,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>appShare</last-search>
+      <last-search>添加商品专区</last-search>
       <last-offset />
-      <last-pattern>appShare</last-pattern>
+      <last-pattern>添加商品专区</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
