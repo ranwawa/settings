@@ -22,9 +22,9 @@
         <entry>getPhone</entry>
         <entry>onLoad</entry>
         <entry>master</entry>
-        <entry>pre</entry>
         <entry>husky</entry>
         <entry>lint</entry>
+        <entry>pre</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -134,11 +134,12 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="142" column="38" />
       </file>
-      <file name="C:/project/jxg-ops/package.json" timestamp="1595217028651">
-        <mark key="'" line="44" column="27" />
-        <mark key="[" line="57" column="5" />
-        <mark key="]" line="57" column="5" />
-        <mark key="." line="57" column="5" />
+      <file name="C:/project/jxg-ops/package.json" timestamp="1595220809508">
+        <mark key="'" line="56" column="9" />
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="20" column="34" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="34" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/anchorAuth.vue" timestamp="1594970571113">
         <mark key="'" line="77" column="22" />
@@ -164,7 +165,7 @@
         <mark key="." line="30" column="45" />
         <mark key="^" line="30" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595217544629">
+      <file name="/Dummy.txt" timestamp="1595220372180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -197,10 +198,11 @@
         <mark key="^" line="16" column="16" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/canvas-helper.ts" timestamp="1594989732110" />
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/index.vue" timestamp="1595217560680">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/index.vue" timestamp="1595220820489">
+        <mark key="[" line="92" column="29" />
+        <mark key="]" line="93" column="29" />
+        <mark key="." line="93" column="28" />
+        <mark key="^" line="93" column="29" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1594988830866">
         <mark key="[" line="61" column="24" />
@@ -217,9 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="12" filename="E:/jxgwxapp/src/pages/components/shares.vue" />
-      <jump line="19" column="34" filename="E:/jxgwxapp/src/pages/components/shares.vue" />
-      <jump line="123" column="11" filename="E:/jxgwxapp/src/pages/components/shares.vue" />
       <jump line="136" column="17" filename="E:/jxgwxapp/src/pages/components/shares.vue" />
       <jump line="126" column="38" filename="E:/jxgwxapp/src/pages/components/shares.vue" />
       <jump line="5" column="30" filename="E:/jxgwxapp/src/pages/components/shares.vue" />
@@ -317,6 +316,9 @@
       <jump line="61" column="29" filename="C:/project/jxg-ops/package.json" />
       <jump line="16" column="33" filename="C:/project/jxg-ops/package.json" />
       <jump line="44" column="27" filename="C:/project/jxg-ops/package.json" />
+      <jump line="46" column="28" filename="C:/project/jxg-ops/package.json" />
+      <jump line="51" column="23" filename="C:/project/jxg-ops/package.json" />
+      <jump line="53" column="9" filename="C:/project/jxg-ops/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,7 +330,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>lint</text>
+        <text>pre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBbUk9VVEUuTUFTVEVSX1ZJUF06IHRydWUsCg==</text>
@@ -364,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>lint</last-search>
+      <last-search>pre</last-search>
       <last-offset />
-      <last-pattern>lint</last-pattern>
+      <last-pattern>pre</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
