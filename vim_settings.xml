@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>fileds</entry>
-        <entry>field</entry>
         <entry>chooseImage</entry>
         <entry>clea</entry>
         <entry>clean</entry>
@@ -20,10 +18,12 @@
         <entry>getPhone</entry>
         <entry>onLoad</entry>
         <entry>master</entry>
-        <entry>husky</entry>
         <entry>lint</entry>
         <entry>pre</entry>
         <entry>log</entry>
+        <entry>prettier</entry>
+        <entry>husy</entry>
+        <entry>husky</entry>
         <entry>v-for</entry>
       </history-search>
       <history-cmd>
@@ -134,12 +134,12 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="142" column="38" />
       </file>
-      <file name="C:/project/jxg-ops/package.json" timestamp="1595223847855">
-        <mark key="'" line="56" column="9" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="65" column="6" />
+      <file name="C:/project/jxg-ops/package.json" timestamp="1595225270938">
+        <mark key="'" line="49" column="9" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="66" column="6" />
       </file>
       <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1594988065331" />
       <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1594989163353">
@@ -155,14 +155,7 @@
         <mark key="^" line="197" column="8" />
         <mark key="." line="194" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/components/shares.vue" timestamp="1594979282798">
-        <mark key="'" line="18" column="21" />
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="30" column="46" />
-        <mark key="." line="30" column="45" />
-        <mark key="^" line="30" column="46" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1595223878721">
+      <file name="/Dummy.txt" timestamp="1595224843059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -174,8 +167,8 @@
         <mark key="." line="291" column="30" />
         <mark key="^" line="290" column="17" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/homeSetting/components/z_settingGoods.vue" timestamp="1595224076608">
-        <mark key="'" line="0" column="0" />
+      <file name="C:/project/jxg-ops/src/views/operation/homeSetting/components/z_settingGoods.vue" timestamp="1595225315075">
+        <mark key="'" line="24" column="36" />
         <mark key="[" line="19" column="81" />
         <mark key="]" line="20" column="33" />
         <mark key="^" line="20" column="33" />
@@ -184,6 +177,7 @@
       <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1594979893867">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="C:/project/jxg-ops/prettier.js" timestamp="1595225125908" />
       <file name="E:/jxgwxapp/src/main.ts" timestamp="1595213961873">
         <mark key="'" line="10" column="32" />
       </file>
@@ -217,11 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="30" filename="E:/jxgwxapp/src/pages/components/shares.vue" />
-      <jump line="116" column="4" filename="E:/jxgwxapp/package.json" />
-      <jump line="71" column="15" filename="E:/jxgwxapp/package.json" />
-      <jump line="80" column="6" filename="E:/jxgwxapp/package.json" />
-      <jump line="81" column="6" filename="E:/jxgwxapp/package.json" />
       <jump line="82" column="6" filename="E:/jxgwxapp/package.json" />
       <jump line="83" column="6" filename="E:/jxgwxapp/package.json" />
       <jump line="85" column="21" filename="E:/jxgwxapp/package.json" />
@@ -305,9 +294,7 @@
       <jump line="47" column="36" filename="E:/jxgwxapp/src/assets/constant/common.ts" />
       <jump line="36" column="25" filename="E:/jxgwxapp/src/assets/constant/common.ts" />
       <jump line="37" column="25" filename="E:/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="50" column="29" filename="C:/project/jxg-ops/package.json" />
       <jump line="25" column="34" filename="C:/project/jxg-ops/package.json" />
-      <jump line="55" column="5" filename="C:/project/jxg-ops/package.json" />
       <jump line="57" column="29" filename="C:/project/jxg-ops/package.json" />
       <jump line="61" column="29" filename="C:/project/jxg-ops/package.json" />
       <jump line="16" column="33" filename="C:/project/jxg-ops/package.json" />
@@ -317,6 +304,13 @@
       <jump line="53" column="9" filename="C:/project/jxg-ops/package.json" />
       <jump line="27" column="32" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/index.vue" />
       <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/homeSetting/components/z_settingGoods.vue" />
+      <jump line="34" column="24" filename="C:/project/jxg-ops/package.json" />
+      <jump line="50" column="9" filename="C:/project/jxg-ops/package.json" />
+      <jump line="31" column="5" filename="C:/project/jxg-ops/package.json" />
+      <jump line="55" column="5" filename="C:/project/jxg-ops/package.json" />
+      <jump line="52" column="21" filename="C:/project/jxg-ops/package.json" />
+      <jump line="49" column="9" filename="C:/project/jxg-ops/package.json" />
+      <jump line="24" column="36" filename="C:/project/jxg-ops/src/views/operation/homeSetting/components/z_settingGoods.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
