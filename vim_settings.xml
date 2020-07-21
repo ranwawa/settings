@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>afterRe</entry>
         <entry>export</entry>
         <entry>replace</entry>
         <entry>click</entry>
@@ -25,6 +24,7 @@
         <entry>callPay</entry>
         <entry>select(</entry>
         <entry>onLoad</entry>
+        <entry>baseUr</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,28 +121,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgwxapp/src/config.ts" timestamp="1595325379429">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="55" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="19" column="48" />
+      <file name="E:/jxgwxapp/src/config.ts" timestamp="1595326606920">
+        <mark key="[" line="60" column="14" />
+        <mark key="]" line="60" column="18" />
+        <mark key="." line="60" column="17" />
+        <mark key="^" line="60" column="18" />
       </file>
-      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1595325383101">
+      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1595327201672">
         <mark key="[" line="107" column="23" />
-        <mark key="]" line="107" column="60" />
-        <mark key="^" line="107" column="60" />
-        <mark key="." line="107" column="59" />
+        <mark key="]" line="107" column="23" />
+        <mark key="^" line="107" column="23" />
+        <mark key="." line="107" column="23" />
       </file>
       <file name="E:/jxgwxapp/src/api/live.ts" timestamp="1595324458309">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="43" />
       </file>
       <file name="/index.vue" timestamp="1595323492946" />
-      <file name="E:/jxgwxapp/src/api/common.ts" timestamp="1595325592178">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="23" />
-        <mark key="." line="27" column="22" />
-        <mark key="^" line="27" column="23" />
+      <file name="E:/jxgwxapp/src/api/common.ts" timestamp="1595327147694">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="13" />
+        <mark key="." line="25" column="13" />
+        <mark key="^" line="26" column="30" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1595323690047">
         <mark key="'" line="278" column="4" />
@@ -188,17 +188,18 @@
       <file name="E:/jxgwxapp/src/components/uni/load-refresh.vue" timestamp="1595310142415">
         <mark key="'" line="26" column="2" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1595309988287">
-        <mark key="'" line="199" column="0" />
-        <mark key="[" line="203" column="38" />
-        <mark key="]" line="203" column="39" />
-        <mark key="." line="203" column="39" />
-      </file>
       <file name="E:/jxgwxapp/src/pages/index/index.vue" timestamp="1595319776085">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
+      </file>
+      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1595326787355">
+        <mark key="'" line="176" column="12" />
+        <mark key="[" line="165" column="23" />
+        <mark key="]" line="166" column="19" />
+        <mark key="^" line="166" column="19" />
+        <mark key="." line="166" column="18" />
       </file>
       <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1595323641420">
         <mark key="[" line="355" column="0" />
@@ -229,12 +230,6 @@
       <file name="/detail.vue" timestamp="1595312451539" />
     </filemarks>
     <jumps>
-      <jump line="34" column="24" filename="C:/project/jxg-ops/package.json" />
-      <jump line="50" column="9" filename="C:/project/jxg-ops/package.json" />
-      <jump line="31" column="5" filename="C:/project/jxg-ops/package.json" />
-      <jump line="55" column="5" filename="C:/project/jxg-ops/package.json" />
-      <jump line="52" column="21" filename="C:/project/jxg-ops/package.json" />
-      <jump line="49" column="9" filename="C:/project/jxg-ops/package.json" />
       <jump line="24" column="36" filename="C:/project/jxg-ops/src/views/operation/homeSetting/components/z_settingGoods.vue" />
       <jump line="99" column="9" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/index.vue" />
       <jump line="7" column="2" filename="C:/project/jxg-ops/src/views/operation/fixedPrice/index.vue" />
@@ -329,28 +324,27 @@
       <jump line="1106" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1104" column="52" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="656" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="202" column="27" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="127" column="4" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="164" column="22" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="165" column="7" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="166" column="4" filename="E:/jxgwxapp/src/api/api.ts" />
+      <jump line="174" column="12" filename="E:/jxgwxapp/src/api/api.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>REQUEST_BASE_URL.data</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>REQUEST_BASE_URL.data</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>baseUr</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;/live-player/&quot;: {
-          //          &quot;target&quot;: &quot;http://192.168.1.218:8001/liveh5api&quot;,
-          &quot;target&quot;: &quot;https://livejxg.jixugou.cn/liveh5api&quot;,
-          //          &quot;target&quot;: &quot;https://live.jixugou.cn/liveh5api&quot;,
-          &quot;pathRewrite&quot;: {
-            &quot;^/live-player&quot;: &quot;&quot;
-          }
-        },</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgbGl2ZVBsYXllcjogIi9saXZlLXBsYXllciIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIC8vICAgICAgICAgICJ0YXJnZXQiOiAiaHR0cHM6Ly9saXZlLmppeHVnb3UuY24vbGl2ZWg1YXBpIiwK</text>
@@ -383,9 +377,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>baseUr</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>baseUr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
