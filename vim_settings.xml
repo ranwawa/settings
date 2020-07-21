@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>afterRegister</entry>
         <entry>afer</entry>
         <entry>after</entry>
         <entry>getPhone</entry>
@@ -25,6 +24,7 @@
         <entry>this.goodsId</entry>
         <entry>appShare</entry>
         <entry>添加商品专区</entry>
+        <entry>afterRe</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -128,7 +128,7 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595294536178">
+      <file name="/Dummy.txt" timestamp="1595301566621">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -138,17 +138,17 @@
         <mark key="]" line="71" column="71" />
         <mark key="." line="71" column="71" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/homeSetting/components/z_settingGoods.vue" timestamp="1595225315075">
-        <mark key="'" line="24" column="36" />
-        <mark key="[" line="19" column="81" />
-        <mark key="]" line="20" column="33" />
-        <mark key="^" line="20" column="33" />
-        <mark key="." line="20" column="32" />
+      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1595301186494">
+        <mark key="'" line="226" column="32" />
+        <mark key="[" line="201" column="51" />
+        <mark key="]" line="201" column="67" />
+        <mark key="^" line="201" column="67" />
+        <mark key="." line="201" column="66" />
       </file>
       <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1595232092855">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1595296602824" />
+      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1595301389865" />
       <file name="C:/project/jxg-ops/src/views/operation/fixedPrice/index.vue" timestamp="1595293832898">
         <mark key="'" line="8" column="4" />
         <mark key="[" line="9" column="26" />
@@ -156,11 +156,11 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="E:/jxgwxapp/vue.config.js" timestamp="1595298418328">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="38" />
-        <mark key="." line="11" column="38" />
-        <mark key="^" line="8" column="3" />
+      <file name="E:/jxgwxapp/vue.config.js" timestamp="1595301596245">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="122" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="12" />
       </file>
       <file name="/" timestamp="1595226789436">
         <mark key="[" line="0" column="0" />
@@ -178,6 +178,7 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="67" column="6" />
       </file>
+      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1595300130994" />
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/index.vue" timestamp="1595245973419">
         <mark key="'" line="1" column="47" />
         <mark key="[" line="2" column="0" />
@@ -187,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="E:/jxgwxapp/src/api/api.ts" />
       <jump line="0" column="9" filename="E:/jxgwxapp/src/pages/index/index.vue" />
       <jump line="170" column="25" filename="E:/jxgwxapp/src/pages/index/index.vue" />
       <jump line="153" column="46" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
@@ -287,56 +287,57 @@
       <jump line="97" column="2" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="1" column="47" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/index.vue" />
       <jump line="2" column="1" filename="E:/jxgwxapp/vue.config.js" />
+      <jump line="218" column="32" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgY2RuTGluayA9IGVudiA9PT0gJ2J1aWxkJyA/ICdodHRwczovL2p4Z3N0YXRpYy5qaXh1Z291LmNuL2p4Z3d4YXBwLycgOiAnaHR0cDovL2p4Z3N0YXRpYy10ZXN0LmppeHVnb3UuY24vanhnd3hhcHAvJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>添加商品专区</text>
+        <text>afterRe</text>
       </register>
       <register name="0" type="4">
-        <text>/&quot;publicPath&quot;:.*(?=&quot;,)/</text>
+        <text>/&quot;publicPath&quot;:.*?=&quot;,/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocmVzLnNlYXJjaCgvInB1YmxpY1BhdGgiOi4qKD89IiwpLyksIDExMTExMSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgY2RuTGluayA9IGVudiA9PT0gJ2J1aWxkJyA/ICdodHRwczovL2p4Z3N0YXRpYy5qaXh1Z291LmNuL2p4Z3d4YXBwLycgOiAnaHR0cDovL2p4Z3N0YXRpYy10ZXN0LmppeHVnb3UuY24vanhnd3hhcHAvJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY2RuTGluayk7Cg==</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY2RuTGluayA9Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocmVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNkbkxpbmsgZnJvbSByZXF1aXJlOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coLyJwdWJsaWNQYXRoIjouKj0/IiwvLnRlc3QocmVzKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY2RuTGluayB9IGZyb20gJ0AvY29uZmlnJzsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY2RuTGluayk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY2RuTGluayB9IGZyb20gJ0AvY29uZmlnJzsKY29uc3QgeyBucG1fbGlmZWN5Y2xlX2V2ZW50LCBWVUVfQVBQX1BMQVRGT1JNIH0gPSBwcm9jZXNzLmVudjsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coMTExLCBlbnYpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnMuY2xvc2VTeW5jKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTExMTExMTExMTEpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocmVzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocmVzLnNlYXJjaCgvInB1YmxpY1BhdGgiOi4qKD89IiwpLyksIDExMTExMSk7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>添加商品专区</last-search>
+      <last-search>afterRe</last-search>
       <last-offset />
-      <last-pattern>添加商品专区</last-pattern>
+      <last-pattern>afterRe</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
