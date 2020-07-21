@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry>prettier</entry>
         <entry>husy</entry>
         <entry>husky</entry>
         <entry>v-for</entry>
@@ -25,6 +23,8 @@
         <entry>priceList</entry>
         <entry>image</entry>
         <entry>handle</entry>
+        <entry>video</entry>
+        <entry>methods</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -156,7 +156,7 @@
         <mark key="." line="133" column="45" />
         <mark key="^" line="133" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595310673213">
+      <file name="/Dummy.txt" timestamp="1595311534785">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -186,21 +186,15 @@
         <mark key="." line="1" column="46" />
         <mark key="^" line="1" column="47" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1595311381084">
-        <mark key="'" line="322" column="38" />
-        <mark key="[" line="1122" column="34" />
-        <mark key="]" line="1122" column="35" />
-        <mark key="." line="1122" column="34" />
-        <mark key="^" line="1122" column="35" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1595312077383">
+        <mark key="'" line="492" column="30" />
+        <mark key="[" line="1129" column="4" />
+        <mark key="]" line="1129" column="19" />
+        <mark key="." line="1129" column="18" />
+        <mark key="^" line="1129" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="14" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
-      <jump line="45" column="8" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="190" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="275" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="276" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="361" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="396" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="397" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="141" column="32" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
@@ -295,6 +289,12 @@
       <jump line="47" column="21" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="298" column="47" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="322" column="38" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1120" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="6" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="29" column="30" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="37" column="37" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="38" column="58" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="492" column="30" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,7 +306,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>handle</text>
+        <text>methods</text>
       </register>
       <register name="0" type="4">
         <text>/&quot;publicPath&quot;:.*?=&quot;,/</text>
@@ -343,9 +343,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>handle</last-search>
+      <last-search>methods</last-search>
       <last-offset />
-      <last-pattern>handle</last-pattern>
+      <last-pattern>methods</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
