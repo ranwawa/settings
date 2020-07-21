@@ -149,6 +149,12 @@
         <mark key="^" line="175" column="22" />
         <mark key="." line="175" column="21" />
       </file>
+      <file name="E:/jxgwxapp/src/assets/js/common.ts" timestamp="1595315420112">
+        <mark key="[" line="199" column="60" />
+        <mark key="]" line="201" column="12" />
+        <mark key="." line="201" column="11" />
+        <mark key="^" line="201" column="12" />
+      </file>
       <file name="E:/jxgwxapp/src/pages/components/shares.vue" timestamp="1595314425379">
         <mark key="'" line="8" column="7" />
         <mark key="[" line="63" column="0" />
@@ -312,31 +318,36 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>STRING</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>STRING</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>isDefault</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2ZmaWNpYWxUaXRsZTogeyB0eXBlOiBMQU5HX1RZUEUuU1RSSU5HIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNba2V5XSA9IGNsZWFuUmVzcG9uc2VEYXRhKGRhdGFWYWx1ZSwgZGVzY3JpcHRvci5maWVsZHMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOiBpdGVtcy5zaG9wa2VlcGVyVGVhbUluY29tZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2ZmaWNpYWxUaXRsZToge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6ZG90cy1zdHlsZXM9Intib3R0b206IGlzSHVuZ1VwRG90ID8gNDAgOiAyMH0iCg==</text>
+        <text encoding="base64">ICAgICAgcmVzW2tleV0gPSBjbGVhblJlc3BvbnNlRGF0YShkYXRhVmFsdWUsIGRlc2NyaXB0b3IuZmllbGRzKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>const res = {};
+  for (let key in dataDescriptor) {
+    let descriptor = dataDescriptor[key]; // 当前字段的描述{type: default: fields}
+    let descriptorType = dataDescriptor.type;
+    let dataValue = getDataValue(data[key], descriptor);
+ }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbVN0eWxlOiB7fQo=</text>
+        <text encoding="base64">ICBsZXQgZGVzY3JpcHRvclR5cGUgPSBkYXRhRGVzY3JpcHRvci50eXBlOwogIGxldCBkYXRhVmFsdWUgPSBnZXREYXRhVmFsdWUoZGF0YVtrZXldLCBkZXNjcmlwdG9yKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -345,10 +356,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyCypbfFv9jWxsz1z9TKvrrztcTC37ytCiAgaGFuZGxlU2hvd0NvbnRyb2woaXNTaG93OiBib29sZWFuKSB7CiAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCBkZXNjcmlwdG9yVHlwZSA9IGRlc2NyaXB0b3IudHlwZTsKICAgIGxldCBkYXRhVmFsdWUgPSBnZXREYXRhVmFsdWUoZGF0YVtrZXldLCBkZXNjcmlwdG9yKTsK</text>
       </register>
     </registers>
   </component>
