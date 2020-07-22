@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>vipBack</entry>
         <entry>back</entry>
         <entry>test</entry>
         <entry>onLoasd</entry>
@@ -23,8 +22,9 @@
         <entry>toSecond</entry>
         <entry>clickLeft</entry>
         <entry>分享</entry>
-        <entry>新建活动</entry>
         <entry>查看活动</entry>
+        <entry>编辑活动</entry>
+        <entry>新建活动</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,18 +121,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/limitForm.vue" timestamp="1595423876862">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="E:/jxgwxapp/src/config.ts" timestamp="1595403375082">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="60" column="18" />
       </file>
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/update.vue" timestamp="1595424730044">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="12" />
+      </file>
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/limitForm.vue" timestamp="1595423286269">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="16" />
+      </file>
       <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1595405314634">
         <mark key="'" line="192" column="18" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="40" />
       </file>
-      <file name="E:/jxgwxapp/src/api/master.ts" timestamp="1595397801430" />
+      <file name="C:/project/jxg-ops/src/views/operation/seckill/seckillForm.vue" timestamp="1595423924603" />
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1595406593681">
         <mark key="'" line="140" column="16" />
         <mark key="[" line="392" column="0" />
@@ -163,32 +180,19 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1595389543314">
-        <mark key="[" line="129" column="34" />
-        <mark key="]" line="129" column="35" />
-        <mark key="^" line="129" column="35" />
-        <mark key="." line="129" column="34" />
-      </file>
-      <file name="C:/project/jxg-ops/src/router/axios.js" timestamp="1595400723669">
-        <mark key="'" line="125" column="11" />
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-      </file>
-      <file name="E:/jxgwxapp/src/api/api.ts" timestamp="1595398266239">
-        <mark key="'" line="166" column="18" />
-        <mark key="[" line="190" column="14" />
-        <mark key="]" line="190" column="22" />
-        <mark key="^" line="190" column="22" />
-        <mark key="." line="190" column="21" />
+      <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1595424150108">
+        <mark key="[" line="136" column="77" />
+        <mark key="]" line="136" column="83" />
+        <mark key="^" line="136" column="83" />
+        <mark key="." line="136" column="82" />
       </file>
       <file name="E:/jxgwxapp/src/main.ts" timestamp="1595405257675">
         <mark key="'" line="26" column="4" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="17" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/seckill/list.vue" timestamp="1595417135428">
-        <mark key="'" line="46" column="21" />
+      <file name="C:/project/jxg-ops/src/views/operation/seckill/list.vue" timestamp="1595423172962">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="158" column="0" />
         <mark key="]" line="158" column="42" />
       </file>
@@ -211,20 +215,15 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/index.vue" timestamp="1595389630349" />
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1595419142301">
-        <mark key="'" line="39" column="15" />
-        <mark key="[" line="85" column="39" />
-        <mark key="]" line="85" column="40" />
-        <mark key="." line="85" column="39" />
-        <mark key="^" line="85" column="40" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1595423063421">
+        <mark key="'" line="52" column="15" />
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="15" filename="E:/jxgwxapp/src/pages/index/index.vue" />
-      <jump line="415" column="5" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="42" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="43" column="38" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="45" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="256" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -321,56 +320,60 @@
       <jump line="31" column="21" filename="C:/project/jxg-ops/src/views/operation/seckill/list.vue" />
       <jump line="33" column="21" filename="C:/project/jxg-ops/src/views/operation/seckill/list.vue" />
       <jump line="46" column="21" filename="C:/project/jxg-ops/src/views/operation/seckill/list.vue" />
+      <jump line="110" column="20" filename="C:/project/jxg-ops/src/views/operation/seckill/list.vue" />
+      <jump line="12" column="52" filename="C:/project/jxg-ops/src/views/operation/seckill/list.vue" />
+      <jump line="52" column="69" filename="C:/project/jxg-ops/src/views/operation/seckill/list.vue" />
+      <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/seckill/list.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>未开始</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxsaW1pdC1mb3JtPjwvbGltaXQtZm9ybT4K</text>
       </register>
       <register name="-" type="4">
-        <text>未开始</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
-        <text>查看活动</text>
+        <text>新建活动</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7IGxhYmVsOiAnzrS/qsq8JywgdmFsdWU6IDB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBwYXRoOidpbmRleCcsCiAgICAgICAgICAgICAgICAgICAgbmFtZTogJ8/eyrHV27/bLcHQse0yJywKICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnQC92aWV3cy9vcGVyYXRpb24vbGltaXREaXNjb3VudC9saXN0JyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaW1pdC1mb3JtPjwvbGltaXQtZm9ybT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIL3hyvi77ravCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgILLpv7TJzMa3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgILLpv7S77ravCg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJqeGctY29udGFpbmVyIj4KICAgIAogIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIDxIZWFkZXJUaXRsZQogICAgICAgICAgdi1pZj0iZGF0YUxpc3QucGxheWJhY2tMaXZlTGlzdC5sZW5ndGggPiAwIgogICAgICAgICAgdGl0bGU9ItaxsqW72LfFIgogICAgICAgID48L0hlYWRlclRpdGxlPiAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIDxIZWFkZXJUaXRsZQogICAgICAgICAgdi1pZj0iZGF0YUxpc3QuYWR2YW5jZU5vdGljZUxpdmVMaXN0Lmxlbmd0aCA+IDAiCiAgICAgICAgICB0aXRsZT0i1rGypdSkuOYiCiAgICAgICAgPjwvSGVhZGVyVGl0bGU+IC0tPgo=</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJqeGctY29udGFpbmVyIj4KICAgIAogIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIDxIZWFkZXJUaXRsZQogICAgICAgICAgdi1pZj0iZGF0YUxpc3QubGl2aW5nTGlzdC5sZW5ndGggPiAwIgogICAgICAgICAgdGl0bGU9ItaxsqXW0CIKICAgICAgICA+PC9IZWFkZXJUaXRsZT4gLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSA8cHJldmlldy1saXZlLXNjcm9sbAogICAgICA6ZGF0YUxpc3Q9ImJvb2tzaGVsZiIKICAgICAgOm1vcmVVcmw9Im1vcmVVcmwiCiAgICA+PC9wcmV2aWV3LWxpdmUtc2Nyb2xsPiAtLT4K</text>
+        <text encoding="base64">ICAgICAgICA8ZWwtYnV0dG9uIHR5cGU9InRleHQiIHNpemU9Im1pbmkiPgogICAgICAgICAgyb6z/bvutq8KICAgICAgICA8L2VsLWJ1dHRvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGVmdEljb249Im5vbmUiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>查看活动</last-search>
+      <last-search>新建活动</last-search>
       <last-offset />
-      <last-pattern>查看活动</last-pattern>
+      <last-pattern>新建活动</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
