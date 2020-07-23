@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>export</entry>
         <entry>goSecond</entry>
         <entry>toSecond</entry>
         <entry>clickLeft</entry>
@@ -23,8 +22,9 @@
         <entry>loading</entry>
         <entry>emit</entry>
         <entry>查看商品</entry>
-        <entry>添加活动商品</entry>
         <entry>children</entry>
+        <entry>添加活动商品</entry>
+        <entry>品牌</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -128,11 +128,11 @@
         <mark key="." line="190" column="11" />
         <mark key="^" line="190" column="12" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1595487685136">
-        <mark key="[" line="51" column="21" />
-        <mark key="]" line="51" column="22" />
-        <mark key="^" line="51" column="22" />
-        <mark key="." line="51" column="21" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1595490334090">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="36" />
+        <mark key="^" line="13" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1595486013821">
         <mark key="[" line="0" column="0" />
@@ -146,8 +146,10 @@
         <mark key="^" line="150" column="35" />
         <mark key="." line="150" column="34" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/seckill/goods.vue" timestamp="1595484639760">
-        <mark key="'" line="8" column="29" />
+      <file name="C:/project/jxg-ops/src/views/operation/seckill/goods.vue" timestamp="1595489469367">
+        <mark key="'" line="110" column="16" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="41" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/add.vue" timestamp="1595475933953">
         <mark key="[" line="17" column="0" />
@@ -167,12 +169,6 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="7" column="45" />
-      </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/limitForm.vue" timestamp="1595423286269">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="16" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/seckill/index.vue" timestamp="1595467057940">
         <mark key="'" line="10" column="16" />
@@ -199,17 +195,20 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" timestamp="1595490503574">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/index.vue" timestamp="1595467676144">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="20" />
         <mark key="." line="1" column="20" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1595486812404">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="17" />
-        <mark key="^" line="1" column="18" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1595490527689">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="9" />
+        <mark key="^" line="15" column="10" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1595486003743">
         <mark key="[" line="57" column="15" />
@@ -217,12 +216,12 @@
         <mark key="^" line="57" column="17" />
         <mark key="." line="57" column="16" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1595484881713">
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1595489365338">
         <mark key="'" line="31" column="19" />
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="50" />
-        <mark key="." line="29" column="49" />
-        <mark key="^" line="29" column="50" />
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="73" column="15" />
+        <mark key="." line="65" column="14" />
+        <mark key="^" line="65" column="15" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/seckill/update.vue" timestamp="1595473648901">
         <mark key="'" line="30" column="13" />
@@ -236,10 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="345" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="65" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1106" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1104" column="52" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="656" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="202" column="27" filename="E:/jxgwxapp/src/api/api.ts" />
@@ -336,56 +331,60 @@
       <jump line="621" column="13" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="15" column="8" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="616" column="12" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="110" column="16" filename="C:/project/jxg-ops/src/views/operation/seckill/goods.vue" />
+      <jump line="203" column="39" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" />
+      <jump line="285" column="11" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" />
+      <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Add</text>
+        <text>动</text>
       </register>
       <register name="-" type="4">
-        <text>Add</text>
+        <text>动</text>
       </register>
       <register name="/" type="4">
-        <text>children</text>
+        <text>品牌</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgIHBhdGg6J2dvb2RzQWRkLzppZCcsCiAgICAgICAgICAgICAgICAgICAgbmFtZTogJ8/eyrHV27/bLbncwO3JzMa3JywKICAgICAgICAgICAgICAgICAgICBwcm9wczogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQ6ICgpID0+CiAgICAgICAgICAgICAgICAgICAgaW1wb3J0KC8qIHdlYnBhY2tDaHVua05hbWU6ICJvcGVyYXRpb24iICovICdAL3ZpZXdzL29wZXJhdGlvbi9saW1pdERpc2NvdW50L2dvb2RzTGlzdCcpLAogICAgICAgICAgICAgICAgICB9LA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB7IGxhYmVsOiAnyscnLCB2YWx1ZTogJzEnfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgcGF0aDogImxpbWl0RGlzY291bnQiLAogICAgICAgICAgICAgICAgbmFtZTogIs/eyrHV27/bIiwKICAgICAgICAgICAgICAgIGNvbXBvbmVudDogKCkgPT4KICAgICAgICAgICAgICAgIGltcG9ydCgvKiB3ZWJwYWNrQ2h1bmtOYW1lOiAib3BlcmF0aW9uIiAqLyAiQC92aWV3cy9vcGVyYXRpb24vbGltaXREaXNjb3VudC9pbmRleCIpLAogICAgICAgICAgICB9LA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgREVGQVVMVF9TRUxMRVIgfSBmcm9tICJAL2NvbmZpZyI7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAga2twCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgXSwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICA8ZGl2IGNsYXNzPSJqeGctY29udGFpbmVyIj4KICAgIAogIDwvZGl2Pgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAg0MK9qLvutq8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy50YWJsZUxvYWRpbmcgPSB0cnVlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBhcGlVcGRhdGVHb29kc1ByaW9yaXR5Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuQXJndW1lbnRIYXNMZWFkaW5nQ29tbWVudChlbGUpCg==</text>
+        <text encoding="base64">ICBhcGlEZWxHb29kcywK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>children</last-search>
+      <last-search>品牌</last-search>
       <last-offset />
-      <last-pattern>children</last-pattern>
+      <last-pattern>品牌</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
