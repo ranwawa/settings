@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>直播创业</entry>
         <entry>uniNav</entry>
         <entry>EXPORT</entry>
         <entry>export</entry>
@@ -25,6 +24,7 @@
         <entry>this\.value</entry>
         <entry>loading</entry>
         <entry>emit</entry>
+        <entry>查看商品</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,12 +121,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/limitForm.vue" timestamp="1595476993354">
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/limitForm.vue" timestamp="1595482736891">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
-        <mark key="^" line="181" column="6" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1595464398037">
         <mark key="[" line="0" column="0" />
@@ -167,11 +166,11 @@
       <file name="C:/project/jxg-ops/src/views/operation/seckill/index.vue" timestamp="1595467057940">
         <mark key="'" line="10" column="16" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/view.vue" timestamp="1595476407223">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="43" />
-        <mark key="^" line="7" column="43" />
-        <mark key="." line="7" column="42" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/view.vue" timestamp="1595482755860">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="7" column="38" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/seckill/seckillForm.vue" timestamp="1595473463324">
         <mark key="'" line="326" column="41" />
@@ -203,12 +202,12 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1595476029332">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="43" column="36" />
-        <mark key="." line="43" column="35" />
-        <mark key="^" line="43" column="36" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1595482824593">
+        <mark key="'" line="31" column="19" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="46" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="59" column="33" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/seckill/update.vue" timestamp="1595473648901">
         <mark key="'" line="30" column="13" />
@@ -222,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="28" filename="E:/jxgwxapp/src/order/components/updateAddress.vue" />
       <jump line="1136" column="30" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="7" column="4" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="223" column="5" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
@@ -322,56 +320,57 @@
       <jump line="16" column="3" filename="C:/project/jxg-ops/src/views/operation/seckill/update.vue" />
       <jump line="20" column="6" filename="C:/project/jxg-ops/src/views/operation/seckill/update.vue" />
       <jump line="30" column="13" filename="C:/project/jxg-ops/src/views/operation/seckill/update.vue" />
+      <jump line="31" column="19" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMSwgaXNWaWV3KTsK</text>
+        <text encoding="base64">ICAgICAgICBAY2xpY2suc3RvcD0iZ29QYWdlKCd2aWV3LycgKyByb3cuaWQpIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>this.status</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
-        <text>emit</text>
+        <text>查看商品</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgIHBhdGg6J3VwZGF0ZS86aWQnLAogICAgICAgICAgICAgICAgICAgIG5hbWU6ICfP3sqx1du/2y2x4LytJywKICAgICAgICAgICAgICAgICAgICBwcm9wczogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQ6ICgpID0+CiAgICAgICAgICAgICAgICAgICAgICBpbXBvcnQoLyogd2VicGFja0NodW5rTmFtZTogIm9wZXJhdGlvbiIgKi8gJ0Avdmlld3Mvb3BlcmF0aW9uL2xpbWl0RGlzY291bnQvdXBkYXRlJyksCiAgICAgICAgICAgICAgICB9LA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIEBjbGljay5zdG9wPSJnb1BhZ2UoJ3VwZGF0ZS8nICsgcm93LmlkKSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMSwgaXNWaWV3KTsK</text>
+        <text encoding="base64">ICAgICAgICBAY2xpY2suc3RvcD0iZ29QYWdlKCd2aWV3LycgKyByb3cuaWQpIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGlzVmlldzsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMTIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb21wdXRlZDogewogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgMTExLmxvZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXB1dGVkSXNEaXNhYmxlSW5WaWV3KCkgewogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgMTExMS5sb2cK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMSwgaXNWaWV3KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaXNWaWV3ID0gdGhpcy5zdGF0dXMgPT09ICd2aWV3JzsKICAgICAgY29uc29sZS5sb2coMTIzMTIzMSwgaXNWaWV3KTsKICAgICAgdGhpcy5vcHRpb24ubWVudUJ0biA9ICFpc1ZpZXc7CiAgICAgIHJldHVybiBpc1ZpZXc7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGlzVmlldzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jb21wdXRlZElzRGlzYWJsZUluVmlldwo=</text>
+        <text encoding="base64">ICBjb21wdXRlZDogewogIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIGNvbXB1dGVkSXNEaXNhYmxlSW5WaWV3KCkgewogICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>emit</last-search>
+      <last-search>查看商品</last-search>
       <last-offset />
-      <last-pattern>emit</last-pattern>
+      <last-pattern>查看商品</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
