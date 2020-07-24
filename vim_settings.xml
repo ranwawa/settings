@@ -133,13 +133,6 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1595486771806">
-        <mark key="'" line="616" column="12" />
-        <mark key="[" line="150" column="31" />
-        <mark key="]" line="150" column="35" />
-        <mark key="^" line="150" column="35" />
-        <mark key="." line="150" column="34" />
-      </file>
       <file name="C:/project/jxg-ops/src/const/dic.js" timestamp="1595583061995">
         <mark key="'" line="34" column="1" />
         <mark key="[" line="479" column="44" />
@@ -153,6 +146,12 @@
         <mark key="]" line="96" column="41" />
       </file>
       <file name="C:/project/jxg-ops/src/api/goods/index.js" timestamp="1595574733029" />
+      <file name="C:/project/jxg-ops/src/const/model.js" timestamp="1595584442945">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="C:/project/jxg-ops/src/views/goods/goodsInfo/components/selectAttribute.vue" timestamp="1595506531975">
         <mark key="'" line="54" column="6" />
         <mark key="[" line="15" column="0" />
@@ -179,12 +178,12 @@
         <mark key="." line="216" column="20" />
         <mark key="^" line="216" column="21" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1595584262658">
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1595589429502">
         <mark key="'" line="90" column="17" />
-        <mark key="[" line="556" column="79" />
-        <mark key="]" line="557" column="57" />
-        <mark key="." line="557" column="56" />
-        <mark key="^" line="557" column="57" />
+        <mark key="[" line="683" column="26" />
+        <mark key="]" line="683" column="30" />
+        <mark key="." line="683" column="29" />
+        <mark key="^" line="683" column="30" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsInfo.vue" timestamp="1595570309368">
         <mark key="'" line="4" column="3" />
@@ -317,10 +316,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICdyZWZTdXBwbGllck5hbWUnLA==</text>
+        <text>omit</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICdyZWZTdXBwbGllck5hbWUnLA==</text>
+        <text>omit</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
@@ -328,32 +327,58 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcm93TmV3LmFjdGl2aXR5UHJpY2UgfHwgKHJvd05ldy5hY3Rpdml0eVByaWNlID0gMCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uaXRlbSwK</text>
+      <register name="1" type="4">
+        <text>_.pick(rowNew, [
+        'activityRatio',
+        'totalInventory',
+        'inventory',
+        'limitedQuantity',
+        'activityPrice',
+        'showPrice',
+        'buyingPrice',
+        'refLimitedBuyGoodsId',
+        'refLimitedBuySkuId',
+        'refActivityId',
+        'goodsShortName',
+        'marketPrice',
+        'refGoodsCode',
+        'refGoodsId',
+        'refSkuCode',
+        'priority',
+        'saledNum',
+        'promContent',
+        'activityPicture',
+        'serverIncome',
+        'teamRewardSec',
+        'shopkeeperIncome',
+        'shopkeeperTeamIncome',
+        'supplierCode',
+        'refGoodsPic',
+      ]);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uZWxlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgK2N1cnJlbnRSb3cuc3VwcGxpZXJDb2RlID09PSAxIHx8CiAgICAgICAgICAgICAgIGN1cnJlbnRSb3cuYnV5aW5nUHJpY2UgPiBjdXJyZW50Um93LmNvc3RQcmljZQogICAgICAgICAgICAgICA/IGN1cnJlbnRSb3cuYnV5aW5nUHJpY2UKICAgICAgICAgICAgICAgOiBjdXJyZW50Um93LmNvc3RQcmljZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHR5cGVvZiBpdGVtLnJlZkFjdGl2aXR5SWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdvb2RzU3RhdHVzTWFwOiBtYXBUb0RpYyhnb29kc1N0YXR1cyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnc2hvd1ByaWNlJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgINe0zKw6MC3S0c/CvNw7MS20/cnPvNw7Mi3U2srbOzMttP3M4b27OzQtyfO6y860zai5/Ts1LbT9yfO6yzs2LbT9tqi82zs3LdbVyfPOtM2ouf07OC20/dbVyfPJz7zcOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnc2t1Q29kZScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnaW52ZW50b3J5JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5zZWFyY2hGb3JtLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHNlYXJjaEZvcm0gPSB7fTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzbG90OiB0cnVlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzbG90OiB0cnVlLAo=</text>
       </register>
     </registers>
   </component>
