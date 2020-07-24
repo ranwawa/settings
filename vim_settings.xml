@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>span</entry>
-        <entry>确定</entry>
-        <entry>detail</entry>
         <entry>detail =</entry>
         <entry>rules</entry>
         <entry>data</entry>
@@ -25,6 +22,9 @@
         <entry>mapToDic</entry>
         <entry>forEach</entry>
         <entry>column</entry>
+        <entry>update</entry>
+        <entry>picOption</entry>
+        <entry>saveGoods</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -161,7 +161,7 @@
       <file name="C:/project/jxg-ops/src/views/components/bindAddgoods.vue" timestamp="1595555887266">
         <mark key="'" line="63" column="29" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/seckill/goodsInfo.vue" timestamp="1595579151203">
+      <file name="C:/project/jxg-ops/src/views/operation/seckill/goodsInfo.vue" timestamp="1595590385962">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="71" />
@@ -178,12 +178,12 @@
         <mark key="." line="216" column="20" />
         <mark key="^" line="216" column="21" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1595589429502">
-        <mark key="'" line="90" column="17" />
-        <mark key="[" line="683" column="26" />
-        <mark key="]" line="683" column="30" />
-        <mark key="." line="683" column="29" />
-        <mark key="^" line="683" column="30" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1595591219378">
+        <mark key="'" line="657" column="24" />
+        <mark key="[" line="743" column="30" />
+        <mark key="]" line="743" column="33" />
+        <mark key="." line="743" column="32" />
+        <mark key="^" line="743" column="33" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsInfo.vue" timestamp="1595570309368">
         <mark key="'" line="4" column="3" />
@@ -202,20 +202,14 @@
         <mark key="[" line="301" column="0" />
         <mark key="]" line="303" column="22" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1595489365338">
-        <mark key="'" line="31" column="19" />
-        <mark key="[" line="65" column="4" />
-        <mark key="]" line="73" column="15" />
-        <mark key="." line="65" column="14" />
-        <mark key="^" line="65" column="15" />
+      <file name="C:/project/jxg-ops/src/const/common.js" timestamp="1595590978111">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="29" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" />
-      <jump line="337" column="38" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" />
-      <jump line="17" column="0" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="76" column="24" filename="C:/project/jxg-ops/src/views/operation/seckill/addGoods.vue" />
-      <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/seckill/addGoods.vue" />
       <jump line="266" column="12" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" />
       <jump line="79" column="43" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" />
       <jump line="83" column="21" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" />
@@ -311,23 +305,34 @@
       <jump line="34" column="1" filename="C:/project/jxg-ops/src/const/dic.js" />
       <jump line="571" column="28" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
       <jump line="90" column="17" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
+      <jump line="702" column="23" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
+      <jump line="745" column="20" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
+      <jump line="311" column="45" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
+      <jump line="737" column="34" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
+      <jump line="656" column="24" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>omit</text>
+        <text>DISCOUNT</text>
       </register>
       <register name="-" type="4">
-        <text>omit</text>
+        <text>DISCOUNT</text>
       </register>
       <register name="/" type="4">
-        <text>column</text>
+        <text>saveGoods</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcm93TmV3LmFjdGl2aXR5UHJpY2UgfHwgKHJvd05ldy5hY3Rpdml0eVByaWNlID0gMCk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YWxpZCk7Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">JiYgcm93TmV3LnBpYzEuc3BsaXQoJz8nKVswXSkgfHwKICAgICAgICByb3dOZXcuYWN0aXZpdHlQaWN0dXJl</text>
+      </register>
+      <register name="3" type="4">
         <text>_.pick(rowNew, [
         'activityRatio',
         'totalInventory',
@@ -356,37 +361,31 @@
         'refGoodsPic',
       ]);</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgK2N1cnJlbnRSb3cuc3VwcGxpZXJDb2RlID09PSAxIHx8CiAgICAgICAgICAgICAgIGN1cnJlbnRSb3cuYnV5aW5nUHJpY2UgPiBjdXJyZW50Um93LmNvc3RQcmljZQogICAgICAgICAgICAgICA/IGN1cnJlbnRSb3cuYnV5aW5nUHJpY2UKICAgICAgICAgICAgICAgOiBjdXJyZW50Um93LmNvc3RQcmljZQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHR5cGVvZiBpdGVtLnJlZkFjdGl2aXR5SWQpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAnc2hvd1ByaWNlJywK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAnc2t1Q29kZScsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAnaW52ZW50b3J5JywK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnJwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzbG90OiB0cnVlLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzbG90OiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnJwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>column</last-search>
+      <last-search>saveGoods</last-search>
       <last-offset />
-      <last-pattern>column</last-pattern>
+      <last-pattern>saveGoods</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
