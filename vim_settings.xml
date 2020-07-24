@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>商品编码</entry>
         <entry>SKU编码</entry>
         <entry>SKU</entry>
         <entry>span-method</entry>
@@ -25,6 +24,7 @@
         <entry>操作</entry>
         <entry>dialog</entry>
         <entry>ref=&quot;dia</entry>
+        <entry>lodash</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -155,7 +155,7 @@
       <file name="C:/project/jxg-ops/src/views/components/bindAddgoods.vue" timestamp="1595555887266">
         <mark key="'" line="63" column="29" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/seckill/goodsInfo.vue" timestamp="1595575382674">
+      <file name="C:/project/jxg-ops/src/views/operation/seckill/goodsInfo.vue" timestamp="1595579151203">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="71" />
@@ -170,18 +170,18 @@
       <file name="C:/project/jxg-ops/src/views/operation/seckill/addGoods.vue" timestamp="1595573615512">
         <mark key="'" line="5" column="27" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" timestamp="1595573450985">
+      <file name="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" timestamp="1595579343303">
         <mark key="'" line="444" column="37" />
         <mark key="[" line="339" column="48" />
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1595577164803">
-        <mark key="'" line="432" column="6" />
-        <mark key="[" line="620" column="0" />
-        <mark key="]" line="620" column="0" />
-        <mark key="." line="620" column="0" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1595579357437">
+        <mark key="'" line="434" column="6" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsInfo.vue" timestamp="1595570309368">
         <mark key="'" line="4" column="3" />
@@ -314,51 +314,51 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgOnBhZ2U9InBhZ2UiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>detail</text>
+        <text>this.value</text>
       </register>
       <register name="/" type="4">
-        <text>ref=&quot;dia</text>
+        <text>lodash</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0QnRuOiBmYWxzZSwKICAgICAgICBkZWxCdG46IGZhbHNlLAogICAgICAgIGhlYWRlcjogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgcm93TmV3LmFjdGl2aXR5UHJpY2UgfHwgKHJvd05ldy5hY3Rpdml0eVByaWNlID0gMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgOnBhZ2U9InBhZ2UiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVmPSJkaWFsb2ciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJ1bGUsIHZhbHVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHBhcmFtID0gewogICAgICAgIHNhbGVQcmljZTogY3VycmVudFJvdy5hY3Rpdml0eVByaWNlLAogICAgICAgIGJ1eWluZ1ByaWNlOiBjdXJyZW50Um93LmJ1eWluZ1ByaWNlLAogICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXR1cy1pY29uCg==</text>
+        <text encoding="base64">ICAgICAgZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXR1cy1pY29uCg==</text>
+        <text encoding="base64">ICAgICAgcmVmPSJkaWFsb2ciCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXR1cy1pY29uCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IHBhcmFtID0gewogICAgICAgIHNhbGVQcmljZTogY3VycmVudFJvdy5hY3Rpdml0eVByaWNlLAogICAgICAgIGJ1eWluZ1ByaWNlOiBjdXJyZW50Um93LmJ1eWluZ1ByaWNlLAogICAgICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYtbG9hZGluZz0iZGlhbG9nLmluY29tZUxvYWRpbmciCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXR1cy1pY29uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVmPSJkaWFsb2ciCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXR1cy1pY29uCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ref=&quot;dia</last-search>
+      <last-search>lodash</last-search>
       <last-offset />
-      <last-pattern>ref=&quot;dia</last-pattern>
+      <last-pattern>lodash</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
