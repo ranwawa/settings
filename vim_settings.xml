@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>emit</entry>
         <entry>查看商品</entry>
         <entry>children</entry>
         <entry>添加活动商品</entry>
@@ -25,6 +24,7 @@
         <entry>商品编码</entry>
         <entry>SKU编码</entry>
         <entry>SKU</entry>
+        <entry>span-method</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -146,10 +146,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/seckill/addGoods.vue" timestamp="1595510065734">
+      <file name="C:/project/jxg-ops/src/views/operation/seckill/addGoods.vue" timestamp="1595510284665">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1595510150169">
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1595510211223">
         <mark key="'" line="90" column="12" />
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="45" />
@@ -172,11 +172,12 @@
         <mark key="." line="150" column="34" />
       </file>
       <file name="C:/project/jxg-ops/src/api/goods/updateDetails.js" timestamp="1595507359062" />
-      <file name="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" timestamp="1595508686175">
+      <file name="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" timestamp="1595553961328">
         <mark key="'" line="464" column="17" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="79" />
-        <mark key="." line="81" column="0" />
+        <mark key="[" line="339" column="48" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1595492891166">
         <mark key="[" line="57" column="0" />
@@ -297,14 +298,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNsb3Q9InNrdUNvZGUiIHNsb3Qtc2NvcGU9Insgcm93IH0iCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC0xIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNsb3Q9InNrdUNvZGUiIHNsb3Qtc2NvcGU9Insgcm93IH0i</text>
+        <text encoding="base64">IC0xIA==</text>
       </register>
       <register name="/" type="4">
-        <text>SKU</text>
+        <text>span-method</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJvcDogJ2dvb2RzQ29kZScsCg==</text>
@@ -340,9 +341,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>SKU</last-search>
+      <last-search>span-method</last-search>
       <last-offset />
-      <last-pattern>SKU</last-pattern>
+      <last-pattern>span-method</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
