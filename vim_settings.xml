@@ -157,7 +157,7 @@
       <file name="C:/project/jxg-ops/src/views/operation/seckill/addGoods.vue" timestamp="1595667644275">
         <mark key="'" line="2" column="18" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1595682254434">
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1595682493316">
         <mark key="'" line="371" column="14" />
         <mark key="[" line="645" column="9" />
         <mark key="]" line="646" column="50" />
@@ -211,12 +211,12 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1595682433105">
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1595683382461">
         <mark key="'" line="83" column="6" />
-        <mark key="[" line="113" column="38" />
-        <mark key="]" line="118" column="34" />
-        <mark key="." line="118" column="33" />
-        <mark key="^" line="118" column="34" />
+        <mark key="[" line="105" column="18" />
+        <mark key="]" line="105" column="23" />
+        <mark key="." line="105" column="22" />
+        <mark key="^" line="105" column="23" />
       </file>
       <file name="C:/project/jxg-ops/src/const/common.js" timestamp="1595676948883">
         <mark key="[" line="13" column="0" />
@@ -336,11 +336,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhZGREaXNwbGF5OiBmYWxzZSwK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>addDisplay</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>pic</text>
@@ -349,18 +349,21 @@
         <text encoding="base64">ICAgICAgICAgICAgICBhZGREaXNwbGF5OiBmYWxzZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhZGREaXNwbGF5OiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcm9wc0h0dHA6IHsKICAgICAgICAgICAgICAgIGhvbWU6J2h0dHA6Ly9kZW1vLmNzc21vYmFuLmNvbScsCiAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBhZGREaXNwbGF5OiBmYWxzZSwK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBwcm9wOiAnb3JkZXJBbW91bnQnLAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
               label: '支付订单',
               prop: 'ordersNum',
             },</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
               label: '活动状态',
               prop: 'activityStatus',
@@ -369,20 +372,17 @@
               dicData: activityDic,
             },</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBzZWFyY2g6IHRydWUsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVmPSJnb29kc0xpc3QiCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50YWJsZS5sb2FkaW5nID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgcmVmPSJnb29kc0xpc3QiCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgdGhpcy50YWJsZS5sb2FkaW5nID0gZmFsc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZm9ybToge30sIC8vIMvRy/ex7bWlCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy50YWJsZS5sb2FkaW5nID0gZmFsc2U7Cg==</text>
       </register>
     </registers>
   </component>
