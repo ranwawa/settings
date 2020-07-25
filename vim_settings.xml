@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>refSearchForm</entry>
         <entry>callPay</entry>
         <entry>立即支付</entry>
         <entry>编辑</entry>
@@ -25,6 +24,7 @@
         <entry>tableLoading</entry>
         <entry>list</entry>
         <entry>activityTime</entry>
+        <entry>管理商品</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -207,12 +207,12 @@
         <mark key="[" line="310" column="2" />
         <mark key="]" line="303" column="22" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1595653976146">
-        <mark key="'" line="176" column="0" />
-        <mark key="[" line="80" column="19" />
-        <mark key="]" line="83" column="17" />
-        <mark key="." line="83" column="16" />
-        <mark key="^" line="83" column="17" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1595659450657">
+        <mark key="'" line="15" column="33" />
+        <mark key="[" line="35" column="38" />
+        <mark key="]" line="35" column="42" />
+        <mark key="." line="35" column="41" />
+        <mark key="^" line="35" column="42" />
       </file>
       <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1595602233296">
         <mark key="'" line="899" column="0" />
@@ -225,7 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="22" filename="C:/project/jxg-ops/src/views/operation/seckill/goodsInfo.vue" />
       <jump line="27" column="28" filename="C:/project/jxg-ops/src/views/operation/seckill/goodsInfo.vue" />
       <jump line="28" column="53" filename="C:/project/jxg-ops/src/views/operation/seckill/goodsInfo.vue" />
       <jump line="289" column="9" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
@@ -325,18 +324,19 @@
       <jump line="104" column="44" filename="C:/project/jxg-ops/src/views/operation/seckill/list.vue" />
       <jump line="172" column="21" filename="C:/project/jxg-ops/src/views/operation/seckill/list.vue" />
       <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/seckill/list.vue" />
+      <jump line="15" column="33" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>:ss</text>
+        <text>Add</text>
       </register>
       <register name="-" type="4">
-        <text>:ss</text>
+        <text>Add</text>
       </register>
       <register name="/" type="4">
-        <text>activityTime</text>
+        <text>管理商品</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogImRhdGV0aW1lcmFuZ2UiLAo=</text>
@@ -372,9 +372,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>activityTime</last-search>
+      <last-search>管理商品</last-search>
       <last-offset />
-      <last-pattern>activityTime</last-pattern>
+      <last-pattern>管理商品</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
