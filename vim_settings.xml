@@ -121,6 +121,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/project/learning/index-start.html" timestamp="1595894327295">
+        <mark key="[" line="48" column="2" />
+        <mark key="]" line="48" column="2" />
+        <mark key="^" line="46" column="13" />
+        <mark key="." line="48" column="2" />
+      </file>
       <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1595853164122">
         <mark key="'" line="227" column="5" />
       </file>
@@ -133,7 +139,7 @@
       <file name="E:/jxgwxapp/package.json" timestamp="1595831962654">
         <mark key="'" line="61" column="5" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/coupon/index.vue" timestamp="1595853798875">
+      <file name="E:/jxgwxapp/src/pages/coupon/index.vue" timestamp="1595893500636">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="34" />
@@ -185,12 +191,6 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="28" />
       </file>
-      <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1595764265870">
-        <mark key="[" line="247" column="29" />
-        <mark key="]" line="247" column="40" />
-        <mark key="^" line="247" column="40" />
-        <mark key="." line="247" column="39" />
-      </file>
       <file name="E:/jxgwxapp/src/App.vue" timestamp="1595831280631">
         <mark key="'" line="228" column="8" />
         <mark key="[" line="288" column="23" />
@@ -198,8 +198,8 @@
         <mark key="." line="288" column="24" />
         <mark key="^" line="288" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595853817555">
-        <mark key="[" line="0" column="24" />
+      <file name="/Dummy.txt" timestamp="1595853862534">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
@@ -317,10 +317,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>参</text>
+        <text>.$mount('#app')</text>
       </register>
       <register name="-" type="4">
-        <text>参</text>
+        <text>.$mount('#app')</text>
       </register>
       <register name="/" type="4">
         <text>goBack</text>
