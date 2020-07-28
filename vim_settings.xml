@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>sha1</entry>
         <entry>onShare</entry>
         <entry>shareApp</entry>
         <entry>config</entry>
@@ -25,6 +24,7 @@
         <entry>baseUrl</entry>
         <entry>created</entry>
         <entry>onLoad</entry>
+        <entry>getUserInfoFromApi</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,12 +121,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-ops/src/api/requestWrapper.js" timestamp="1595903486803">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="12" column="13" />
-        <mark key="^" line="12" column="13" />
-        <mark key="." line="12" column="12" />
-      </file>
       <file name="C:/project/jxg-ops/src/api/operation/coupon.js" timestamp="1595907895244">
         <mark key="'" line="14" column="20" />
         <mark key="[" line="1" column="0" />
@@ -137,12 +131,6 @@
         <mark key="]" line="23" column="21" />
         <mark key="." line="23" column="21" />
       </file>
-      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1595900925080">
-        <mark key="[" line="111" column="48" />
-        <mark key="]" line="111" column="51" />
-        <mark key="." line="111" column="50" />
-        <mark key="^" line="111" column="51" />
-      </file>
       <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1595917541759" />
       <file name="C:/project/jxg-ops/src/views/operation/coupon/list.vue" timestamp="1595915821744">
         <mark key="'" line="117" column="1" />
@@ -150,6 +138,13 @@
         <mark key="]" line="172" column="0" />
         <mark key="." line="172" column="0" />
         <mark key="^" line="175" column="47" />
+      </file>
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1595919207168">
+        <mark key="'" line="56" column="2" />
+        <mark key="[" line="155" column="19" />
+        <mark key="]" line="155" column="19" />
+        <mark key="^" line="152" column="48" />
+        <mark key="." line="155" column="19" />
       </file>
       <file name="C:/project/jxg-ops/package.json" timestamp="1595906025730" />
       <file name="E:/jxgwxapp/src/api/user.ts" timestamp="1595917820672">
@@ -170,6 +165,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="E:/jxgh5/src/views/bigRotate/index.vue" timestamp="1595917422306" />
+      <file name="E:/jxgwxapp/global.d.ts" timestamp="1595918947083">
+        <mark key="[" line="172" column="18" />
+        <mark key="]" line="174" column="10" />
+        <mark key="." line="174" column="9" />
+        <mark key="^" line="174" column="10" />
+      </file>
       <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1595903837902" />
       <file name="C:/project/jxg-ops/src/config/env.js" timestamp="1595915674285">
         <mark key="'" line="7" column="17" />
@@ -187,10 +188,15 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/mine/index.vue" timestamp="1595917792220">
+      <file name="E:/jxgwxapp/src/pages/mine/index.vue" timestamp="1595919015439">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/project/jxg-ops/src/api/jxglive/goods.js" timestamp="1595902689946" />
+      <file name="E:/jxgwxapp/src/api/mine.ts" timestamp="1595919080939">
+        <mark key="[" line="14" column="61" />
+        <mark key="]" line="14" column="97" />
+        <mark key="." line="14" column="96" />
+        <mark key="^" line="14" column="97" />
+      </file>
       <file name="C:/project/jxg-ops/src/api/limitDiscount.js" timestamp="1595916032872">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="29" />
@@ -206,10 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="9" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="314" column="2" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="74" column="25" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="256" column="35" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
       <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
       <jump line="14" column="18" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
       <jump line="74" column="12" filename="C:/project/jxg-ops/src/const/dic.js" />
@@ -306,63 +308,70 @@
       <jump line="7" column="17" filename="C:/project/jxg-ops/src/config/env.js" />
       <jump line="163" column="38" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
+      <jump line="245" column="8" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="307" column="36" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="385" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="56" column="2" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>.GET</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>getUserInfoFromApi</text>
       </register>
       <register name="0" type="4">
-        <text>return apiAxios({
-      params: {
-        account: PLATFORM_JAVA.JXGFWPT,
-        ...params,
-      },
-      url: &quot;/blade-openapi/wxapi/frontend/getUserInfo&quot;,
-      method: HTTP_METHOD.GET,
-    });</text>
+        <text encoding="base64">Y29uc3QgWywgZGF0YV0gPSBhd2FpdCBnZXRNaW5lLmdldE1lbWJlckluZm8oewogICAgICAgICAgcmVmTWVtYmVySWQ6IG1lbWJlcklkLAogICAgICAgIH0pCiAgICAgICAgaWYgKGRhdGEgJiYgZGF0YS5tZW1iZXJJbnZpdGVDb2RlKSB7CiAgICAgICAgICByZXMubWVtYmVySW52aXRlQ29kZSA9IGRhdGEubWVtYmVySW52aXRlQ29kZTsKICAgICAgICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+            phone,
+            user_id: query.memberId,
+            access_token: query.token.replace(&quot;bearer &quot;, &quot;&quot;),
+            memberInviteCode: phone,
+          }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyC4+b7du+HUsWlku/HIobvh1LHQxc+iCiAgZ2V0TWVtYmVySW5mb0J5TWVtYmVySWQocGFyYW1zID0ge30pIHsKICAgIHJldHVybiBhcGlBeGlvcyh7CiAgICAgIHBhcmFtczogewogICAgICAgIGFjY291bnQ6IFBMQVRGT1JNX0pBVkEuSlhHRldQVCwKICAgICAgICAuLi5wYXJhbXMsCiAgICAgIH0sCiAgICAgIHVybDogIi9ibGFkZS1vcGVuYXBpL3d4YXBpL2Zyb250ZW5kL2dldFVzZXJJbmZvIiwKICAgICAgbWV0aG9kOiBIVFRQX01FVEhPRC5QT1NULAogICAgfSk7CiAgfQ==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0ZXN0eHh4KTsK</text>
+        <text encoding="base64">ICAgIHNob3BOYW1lOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdGVzdHh4eCB9IGZyb20gJy4uLy4uLy4uL2FwaS9saW1pdERpc2NvdW50JzsK</text>
+        <text encoding="base64">ICAgIHBob25lOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5pY2tOYW1lOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlkOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJUmVxdWVzdE1lbWJlckluZm8K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>{
+            phone,
+            access_token: token.replace(&quot;bearer &quot;, &quot;&quot;),
+            user_id: jxg.getMemberId(),
+            memberInviteCode: phone,
+          }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>getUserInfoFromApi</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>getUserInfoFromApi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
