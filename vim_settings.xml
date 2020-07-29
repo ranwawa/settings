@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onShow</entry>
-        <entry>我要开通</entry>
         <entry>goBack</entry>
         <entry>125</entry>
         <entry>type</entry>
@@ -25,6 +23,8 @@
         <entry>share</entry>
         <entry>Share</entry>
         <entry>onLoad</entry>
+        <entry>删除</entry>
+        <entry>appShare</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -166,14 +166,19 @@
         <mark key="." line="42" column="65" />
         <mark key="^" line="42" column="66" />
       </file>
+      <file name="E:/jxgwxapp/src/assets/js/jsSdk.ts" timestamp="1595991039071">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="13" column="32" />
+        <mark key="." line="13" column="31" />
+      </file>
       <file name="E:/jxgwxapp/src/manifest.json" timestamp="1595927572025">
         <mark key="[" line="105" column="48" />
         <mark key="]" line="105" column="56" />
         <mark key="." line="105" column="55" />
         <mark key="^" line="105" column="56" />
       </file>
-      <file name="E:/jxgh5/src/api/interface.ts" timestamp="1595988039512" />
-      <file name="C:/project/jxg-ops/vue.config.js" timestamp="1595985427055">
+      <file name="C:/project/jxg-ops/vue.config.js" timestamp="1595990979516">
         <mark key="'" line="40" column="53" />
         <mark key="[" line="80" column="42" />
         <mark key="]" line="80" column="45" />
@@ -184,6 +189,9 @@
         <mark key="[" line="198" column="44" />
         <mark key="]" line="198" column="45" />
         <mark key="." line="198" column="45" />
+      </file>
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1595991015332">
+        <mark key="'" line="299" column="10" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1595987505321">
         <mark key="'" line="544" column="8" />
@@ -198,21 +206,18 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="57" column="54" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1595986866926">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="61" />
-        <mark key="^" line="210" column="71" />
-        <mark key="." line="93" column="0" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1595990495166">
+        <mark key="'" line="241" column="3" />
+        <mark key="[" line="284" column="35" />
+        <mark key="]" line="284" column="34" />
+        <mark key="." line="284" column="33" />
+        <mark key="^" line="284" column="34" />
       </file>
       <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1595988057853">
         <mark key="'" line="630" column="23" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="389" column="17" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="126" column="8" filename="E:/jxgwxapp/src/pages/coupon/index.vue" />
       <jump line="47" column="12" filename="E:/jxgwxapp/src/assets/js/jsSdk.ts" />
       <jump line="156" column="29" filename="E:/jxgwxapp/src/pages/coupon/index.vue" />
       <jump line="79" column="33" filename="E:/jxgwxapp/src/pages/coupon/index.vue" />
@@ -245,7 +250,6 @@
       <jump line="97" column="27" filename="E:/jxgwxapp/src/pages/coupon/index.vue" />
       <jump line="397" column="0" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="373" column="21" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="299" column="0" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="532" column="10" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="30" column="52" filename="E:/jxgwxapp/src/pages/coupon/index.vue" />
       <jump line="88" column="4" filename="E:/jxgwxapp/src/assets/js/jsSdk.ts" />
@@ -310,6 +314,10 @@
       <jump line="53" column="46" filename="C:/project/learning/index.html" />
       <jump line="58" column="0" filename="C:/project/learning/index.html" />
       <jump line="630" column="23" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="241" column="3" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
+      <jump line="223" column="5" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="298" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="299" column="10" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,10 +326,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>未开始</text>
+        <text>钮</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>appShare</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgKiBAcGFyYW0gZGF0YS5hY3Rpdml0eVBpY3R1cmUgu+62r8nMxrfW9828Cg==</text>
@@ -330,41 +338,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXBpR2V0TGlzdCwgYXBpRGVsIH0gZnJvbSAnQC9hcGkvb3BlcmF0aW9uL3NlY2tpbGwnOwo=</text>
+        <text encoding="base64">ICBjb21wdXRlZDogewogICAgY29tcHV0ZWRJc1Nob3dEZWxCdG4oKSB7CiAgICAgIGNvbnN0IHsgfQogICAgfSwKICB9LA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbGltaXREaXNjb3VudEFwaSB9IGZyb20gJy4uLy4uLy4uL2FwaS9saW1pdERpc2NvdW50JzsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuZGF0YTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWN0aXZpdHlEaWMgfSBmcm9tICcuLi8uLi8uLi9jb25zdC9kaWMnOwppbXBvcnQgeyBjb25maXJtVGV4dCB9IGZyb20gJy4uLy4uLy4uL3V0aWwvY29tbW9uJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHYtZWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWN0aXZpdHlEaWMgfSBmcm9tICcuLi8uLi8uLi9jb25zdC9kaWMnOwppbXBvcnQgeyBjb25maXJtVGV4dCB9IGZyb20gJy4uLy4uLy4uL3V0aWwvY29tbW9uJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWN0aXZpdHlEaWMgfSBmcm9tICcuLi8uLi8uLi9jb25zdC9kaWMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgYXBpR2V0TGlzdCwgYXBpRGVsIH0gZnJvbSAnQC9hcGkvb3BlcmF0aW9uL3NlY2tpbGwnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbGltaXREaXNjb3VudEFwaSB9IGZyb20gJy4uLy4uLy4uL2FwaS9saW1pdERpc2NvdW50JzsK</text>
       </register>
-      <register name="8" type="4">
-        <text>// await apiSubmit({
-          //   ...currentRow,
-          //   type: ACTIVITY_TYPE.LIMIT_DISCOUNT,
-          //   refActivityId: this.id,
-          //   activityRatio: '',
-          // });</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgYWN0aXZpdHlEaWMgfSBmcm9tICcuLi8uLi8uLi9jb25zdC9kaWMnOwppbXBvcnQgeyBjb25maXJtVGV4dCB9IGZyb20gJy4uLy4uLy4uL3V0aWwvY29tbW9uJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYXBpU3VibWl0ID0gYXBpU2F2ZUdvb2RzOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgYWN0aXZpdHlEaWMgfSBmcm9tICcuLi8uLi8uLi9jb25zdC9kaWMnOwppbXBvcnQgeyBjb25maXJtVGV4dCB9IGZyb20gJy4uLy4uLy4uL3V0aWwvY29tbW9uJzsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>appShare</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>appShare</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
