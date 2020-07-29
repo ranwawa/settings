@@ -136,9 +136,11 @@
       <file name="C:/project/jxg-ops/src/views/operation/newMember/conf.vue" timestamp="1596001988390">
         <mark key="'" line="5" column="59" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/fixedPrice/index.vue" timestamp="1596022295196">
-        <mark key="]" line="119" column="4" />
-        <mark key="^" line="89" column="29" />
+      <file name="C:/project/jxg-ops/src/views/operation/fixedPrice/index.vue" timestamp="1596024851330">
+        <mark key="[" line="124" column="6" />
+        <mark key="]" line="126" column="6" />
+        <mark key="^" line="126" column="6" />
+        <mark key="." line="126" column="5" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/coupon/list.vue" timestamp="1596003468504">
         <mark key="[" line="172" column="0" />
@@ -170,7 +172,7 @@
         <mark key="." line="97" column="74" />
         <mark key="^" line="97" column="75" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596014428095">
+      <file name="/Dummy.txt" timestamp="1596025256088">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -189,6 +191,11 @@
         <mark key="." line="13" column="31" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/newMember/index.vue" timestamp="1596001854158" />
+      <file name="E:/jxgwxapp/vue.config.js" timestamp="1596025251175">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+      </file>
       <file name="C:/project/jxg-ops/src/api/limitDiscount.js" timestamp="1596011404288">
         <mark key="'" line="94" column="0" />
         <mark key="[" line="98" column="39" />
@@ -202,9 +209,6 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="149" column="27" />
         <mark key="^" line="149" column="28" />
-      </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1595988057853">
-        <mark key="'" line="630" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -312,11 +316,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50YWJsZS5nZXREYXRhKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>http://jxgstatic-test.jixugou.cn</text>
       </register>
       <register name="-" type="4">
-        <text>活动详情</text>
+        <text>http://jxgstatic-test.jixugou.cn</text>
       </register>
       <register name="/" type="4">
         <text>请输入活动返</text>
@@ -325,33 +329,31 @@
         <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgbGFiZWw6ICe77ravz+rH6ScsCiAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50YWJsZS5nZXREYXRhKCk7Cg==</text>
+        <text encoding="base64">ICBuYW1lOiAnZml4ZWRQcmljZScsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjExMTExMTExKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMTEsIHRoaXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgMTIzMTIzCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy50YWJsZS5nZXREYXRhKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjExMTExMTExKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGFibGUuZ2V0RGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgICAgMTIzMTIzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hbWUoKSB7CiAgICAgIDsKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudGFibGUuZ2V0RGF0YSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text>import { activityDic } from '../../../const/dic';
-import { confirmText } from '../../../util/common';
-import { limitDiscountApi } from '../../../api/limitDiscount';</text>
+        <text encoding="base64">ICAgIG5hbWUoKSB7CiAgICAgIDsKICAgIH0sCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgIGRlbFJvdzogYXN5bmMgKGlkcykgPT4gewogICAgICAgICAgICBjb25zdCBbZXJyXSA9IGF3YWl0IGNvbmZpcm1UZXh0KCfJvrP9yv2+3brzvauyu8Tcu9a4tKOsyLfIz9KqvfjQ0LTLstnX98Lwo78nKTsKICAgICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQogICAgICAgICAgICBhd2FpdCBhcGlEZWwoaWRzKTsKICAgICAgICAgICAgdGhpcy4kbWVzc2FnZS5zdWNjZXNzKCey2df3s8m5piEnKTsKICAgICAgICAgICAgdGhpcy50YWJsZS5nZXREYXRhKCk7CiAgICAgICAgICB9LAogICAgICAgICAgc3RvcFJvdzogYXN5bmMgKGFjdGl2aXR5SWQpID0+IHsKICAgICAgICAgICAgbGV0IFtlcnJdID0gYXdhaXQgY29uZmlybVRleHQoJ82j1rm77ravoaPIt8jP0qq9+NDQtMuy2df3wvCjvycpOwogICAgICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIFtlcnJdID0gYXdhaXQgbGltaXREaXNjb3VudEFwaS5zdG9wQWN0aXZpdHkoeyBhY3Rpdml0eUlkIH0pOwogICAgICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHRoaXMuJG1lc3NhZ2Uuc3VjY2VzcygnstnX97PJuaYhJyk7CiAgICAgICAgICAgIHRoaXMudGFibGUuZ2V0RGF0YSgpOwogICAgICAgICAgfSwKICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
