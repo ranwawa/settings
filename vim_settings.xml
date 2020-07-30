@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>虚拟</entry>
         <entry>activity</entry>
         <entry>incomeLoading</entry>
         <entry>picO</entry>
@@ -25,6 +24,7 @@
         <entry>background</entry>
         <entry>getUserInfoF</entry>
         <entry>console.log</entry>
+        <entry>visible</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -128,17 +128,19 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="63" column="17" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/fixedPrice/component/goodsList.vue" timestamp="1596027990077">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="8" column="4" />
+      <file name="C:/project/jxg-ops/src/views/operation/fixedPrice/component/goodsList.vue" timestamp="1596096947795">
+        <mark key="'" line="29" column="23" />
+        <mark key="[" line="38" column="47" />
+        <mark key="]" line="38" column="54" />
+        <mark key="." line="38" column="53" />
+        <mark key="^" line="38" column="54" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/fixedPrice/index.vue" timestamp="1596095450441">
-        <mark key="'" line="114" column="13" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="C:/project/jxg-ops/src/views/operation/fixedPrice/index.vue" timestamp="1596096868381">
+        <mark key="'" line="119" column="13" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+        <mark key="^" line="145" column="4" />
       </file>
       <file name="/index.vue" timestamp="1596083198333" />
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1596094349663">
@@ -225,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="44" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
       <jump line="284" column="10" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
       <jump line="423" column="15" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
       <jump line="424" column="15" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
@@ -325,56 +326,57 @@
       <jump line="304" column="6" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="315" column="6" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="330" column="6" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="29" column="23" filename="C:/project/jxg-ops/src/views/operation/fixedPrice/component/goodsList.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDEyMzEyMwo=</text>
+      <register name="&quot;" type="4">
+        <text>info</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>visible</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gZGF0YS5yZWZHb29kc0lkIMnMxrdpZAo=</text>
+        <text encoding="base64">ICAgICAgPGVsLWJ1dHRvbj7Ioc/7PC9lbC1idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDEyMzEyMwo=</text>
+        <text encoding="base64">ICAgIGZhY2lsaXRhdG9yRGV0YWlscwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHBhdGg6ICcnLAogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHRoaXMuJHJlZnMuZ29vZHNMaXN0LnNob3coKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coUkVRVUVTVF9CQVNFX1VSTCk7Cg==</text>
+        <text encoding="base64">ICAgIHZpc2libGU6IHsKICAgICAgdHlwZTogQm9vbGVhbiwKICAgICAgZGVmYXVsdDogZmFsc2UsCiAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKTsK</text>
+        <text encoding="base64">ICAgIHNob3ctY2xvc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY3VzdG9tRW52KTsK</text>
+        <text encoding="base64">ICAgIDpmdWxsc2NyZWVuPSJmYWxzZSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMzMzLCB1c2VySW5mbyk7Cg==</text>
+        <text encoding="base64">ICAgIGZ1bGxzY3JlZW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMTExMTExMSk7Cg==</text>
+        <text encoding="base64">ICAgIDEyMzEyMwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHBhdGg6ICcnLAogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocXVlcnkpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coUkVRVUVTVF9CQVNFX1VSTCk7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>console.log</last-search>
+      <last-search>visible</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>visible</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
