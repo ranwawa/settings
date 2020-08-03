@@ -151,12 +151,6 @@
         <mark key="^" line="481" column="23" />
         <mark key="." line="487" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/activity/list.vue" timestamp="1596350599525">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="13" />
-      </file>
       <file name="$USER_HOME$/Desktop/jxgwxapp/src/api/discounts.ts" timestamp="1596351299903">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="12" column="19" />
@@ -173,9 +167,6 @@
         <mark key="^" line="74" column="40" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/coupon/index.vue" timestamp="1596183477997">
-        <mark key="'" line="118" column="0" />
-      </file>
       <file name="C:/project/jxg-ops/src/views/operation/buyoutPrice/component/api.js" timestamp="1596360937813">
         <mark key="'" line="19" column="19" />
         <mark key="[" line="34" column="21" />
@@ -188,11 +179,24 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="C:/project/jxg-ops/src/config/env.js" timestamp="1596418321656" />
+      <file name="C:/project/jxg-ops/src/const/avue/option.js" timestamp="1596417939942">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="2" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="2" />
+      </file>
       <file name="E:/jxgwxapp/src/pages.json" timestamp="1596351282846">
         <mark key="[" line="301" column="39" />
         <mark key="]" line="301" column="43" />
         <mark key="^" line="301" column="43" />
         <mark key="." line="301" column="42" />
+      </file>
+      <file name="C:/project/jxg-ops/src/const/avue/column.js" timestamp="1596418464161">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="25" column="15" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="25" column="14" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/buyoutPrice/component/goodsList.vue" timestamp="1596360883240">
         <mark key="'" line="6" column="9" />
@@ -201,10 +205,16 @@
         <mark key="." line="132" column="27" />
         <mark key="^" line="132" column="28" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1596415862659">
+      <file name="C:/project/jxg-ops/src/const/avue.js" timestamp="1596418009233" />
+      <file name="C:/project/jxg-ops/src/api/limitDiscount.js" timestamp="1596418220264">
+        <mark key="'" line="74" column="5" />
+        <mark key="[" line="116" column="2" />
+        <mark key="]" line="122" column="3" />
+      </file>
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1596418444885">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="116" column="23" />
-        <mark key="]" line="116" column="27" />
+        <mark key="[" line="116" column="22" />
+        <mark key="]" line="116" column="75" />
         <mark key="." line="116" column="26" />
         <mark key="^" line="116" column="27" />
       </file>
@@ -229,7 +239,6 @@
       <jump line="330" column="6" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="29" column="23" filename="C:/project/jxg-ops/src/views/operation/fixedPrice/component/goodsList.vue" />
       <jump line="236" column="24" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="74" column="34" filename="C:/project/jxg-ops/src/api/limitDiscount.js" />
       <jump line="12" column="24" filename="C:/project/jxg-ops/src/api/limitDiscount.js" />
       <jump line="0" column="0" filename="C:/project/jxg-ops/src/api/limitDiscount.js" />
       <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/buyoutPrice/component/goodsList.vue" />
@@ -310,62 +319,54 @@
       <jump line="99" column="11" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="197" column="47" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
+      <jump line="74" column="5" filename="C:/project/jxg-ops/src/api/limitDiscount.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsaXN0VHlwZTogJ3BpY3R1cmUtaW1nJywK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>删除</text>
       </register>
       <register name="0" type="4">
-        <text>getAllGoodsList(data) {
-    return requestWrapper({
-      url: `${url}/page`,
-      method: &quot;get&quot;,
-      params: {
-        isTenant: 1,
-        ...data,
-      }
-    });
-  },</text>
+        <text>'/api/blade-filecenter/filecenter/frontend/files-anon'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsaXN0VHlwZTogJ3BpY3R1cmUtaW1nJywK</text>
+      <register name="1" type="4">
+        <text>const COLUMN = {
+  TYPE: {
+    UPLOAD: 'upload',
+    SELECT: 'select',
+  },
+};</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Ywo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5kYXRhLAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGF0YTogewogICAgICAgIGlzVGVuYW50OiAxLAo=</text>
+        <text encoding="base64">ZXhwb3J0IE9QVElPTlMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGljb249ImVsLWljb24tcGx1cyIK</text>
+        <text encoding="base64">Y29uc3QgT1BUSU9OX0FMSUdOID0gewp9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQHNlbGVjdGlvbi1jaGFuZ2U9InRhYmxlLmhhbmRsZVNlbGVjdGlvbmhhbmdlIgo=</text>
+        <text encoding="base64">ICBMRUZUOiAnbGVmdCcsCiAgQ0VOVEVSOiAnY2VudGVyJywKICBSSUdIVDogJ3JpZ2h0JywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0eWxlPSJoZWlnaHQ6IDUwdmg7IG92ZXJmbG93LXk6IHNjcm9sbDsiCg==</text>
+        <text encoding="base64">ICBhbGlnbgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-              label: '商品图片',
-              prop: 'pic1',
-              type: 'upload',
-              listType: 'picture-img',
-            },</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBsaXN0VHlwZTogJ3BpY3R1cmUtaW1nJywK</text>
       </register>
     </registers>
   </component>
