@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>添加</entry>
-        <entry>action</entry>
-        <entry>Rate</entry>
         <entry>保存</entry>
         <entry>methods</entry>
         <entry>onLoad</entry>
@@ -25,6 +22,9 @@
         <entry>type</entry>
         <entry>appid</entry>
         <entry>appId</entry>
+        <entry>register</entry>
+        <entry>register(</entry>
+        <entry>MP</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -148,11 +148,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1596529168357">
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="^" line="212" column="30" />
-        <mark key="." line="200" column="0" />
+      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1596531141179">
+        <mark key="'" line="171" column="2" />
+        <mark key="[" line="247" column="31" />
+        <mark key="]" line="247" column="45" />
+        <mark key="^" line="247" column="45" />
+        <mark key="." line="247" column="44" />
       </file>
       <file name="E:/jxgwxapp/src/main.ts" timestamp="1596516016622">
         <mark key="[" line="35" column="0" />
@@ -212,11 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="846" column="3" filename="C:/project/jxg-ops/src/views/goods/config/goodsFormConfig.js" />
-      <jump line="1010" column="34" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/details/goodsSku.vue" />
-      <jump line="176" column="19" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/details/goodsSku.vue" />
-      <jump line="178" column="29" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/details/goodsSku.vue" />
-      <jump line="279" column="39" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/details/goodsSku.vue" />
       <jump line="894" column="35" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/details/goodsSku.vue" />
       <jump line="1003" column="6" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/details/goodsSku.vue" />
       <jump line="1040" column="58" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/details/goodsSku.vue" />
@@ -312,18 +308,23 @@
       <jump line="71" column="26" filename="E:/jxgwxapp/package.json" />
       <jump line="72" column="15" filename="E:/jxgwxapp/package.json" />
       <jump line="20" column="0" filename="E:/jxgwxapp/src/config.ts" />
+      <jump line="209" column="12" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
+      <jump line="228" column="8" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
+      <jump line="232" column="17" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
+      <jump line="242" column="15" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
+      <jump line="171" column="2" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwcElkOiAnd3g1MjE2NzUzYzM1OTc3MWJjJywK</text>
+      <register name="&quot;" type="4">
+        <text>WithWeiXinCode</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>WithWeiXinCode</text>
       </register>
       <register name="/" type="4">
-        <text>appId</text>
+        <text>MP</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFwcElkOiAnd3g1MjE2NzUzYzM1OTc3MWJjJywK</text>
@@ -359,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>appId</last-search>
+      <last-search>MP</last-search>
       <last-offset />
-      <last-pattern>appId</last-pattern>
+      <last-pattern>MP</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
