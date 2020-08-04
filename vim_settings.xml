@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>编辑</entry>
         <entry>ad</entry>
         <entry>getData =</entry>
         <entry>活动类型</entry>
@@ -25,6 +24,7 @@
         <entry>after</entry>
         <entry>购买</entry>
         <entry>master</entry>
+        <entry>submit</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -150,14 +150,18 @@
         <mark key="^" line="314" column="41" />
         <mark key="." line="320" column="14" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1596533039765">
+      <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1596533771068">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="^" line="143" column="14" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1596532738918">
-        <mark key="'" line="889" column="8" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1596533781342">
+        <mark key="'" line="656" column="17" />
+        <mark key="[" line="1077" column="0" />
+        <mark key="]" line="1077" column="0" />
+        <mark key="." line="1077" column="0" />
+        <mark key="^" line="1055" column="4" />
       </file>
       <file name="E:/jxgwxapp/src/config.ts" timestamp="1596526731751">
         <mark key="'" line="20" column="0" />
@@ -178,7 +182,7 @@
         <mark key="^" line="119" column="30" />
       </file>
       <file name="E:/jxgwxapp/src/api/order.ts" timestamp="1596516622354" />
-      <file name="/Dummy.txt" timestamp="1596532758336">
+      <file name="/Dummy.txt" timestamp="1596533120528">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -216,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="801" column="0" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/details/goodsSku.vue" />
       <jump line="866" column="0" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/details/goodsSku.vue" />
       <jump line="1001" column="0" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/details/goodsSku.vue" />
       <jump line="1008" column="0" filename="C:/project/jxg-ops/src/views/goods/goodsInfo/components/details/goodsSku.vue" />
@@ -316,56 +319,61 @@
       <jump line="889" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="269" column="5" filename="E:/jxgwxapp/src/pages.json" />
       <jump line="0" column="0" filename="E:/jxgwxapp/src/pages.json" />
+      <jump line="656" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICBuYXZpZ2F0ZVRvVVJMKFJPVVRFLk1BU1RFUl9JTkRFWCk7CiAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>options: any</text>
       </register>
       <register name="/" type="4">
-        <text>master</text>
+        <text>submit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFwcElkOiAnd3g1MjE2NzUzYzM1OTc3MWJjJywK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICBuYXZpZ2F0ZVRvVVJMKFJPVVRFLk1BU1RFUl9JTkRFWCk7CiAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBbUk9VVEUuTUFTVEVSX0lOREVYXTogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBNQVNURVJfSU5ERVggPSAiL3BhZ2VzL21hc3Rlci9pbmRleCIsCg==</text>
+      <register name="3" type="4">
+        <text>// todo 临时在按钮上判断,后面还是要做跳转事件拦截
+    if (!baseUser.userInfo.access_token) {
+      baseUser.goToLoginPage();
+      return;
+    }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBbUk9VVEUuTUFTVEVSX0lOREVYXTogdHJ1ZSwK</text>
+      <register name="4" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICBuYXZpZ2F0ZVRvVVJMKFJPVVRFLk1BU1RFUl9JTkRFWCk7CiAgICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBNQVNURVJfSU5ERVggPSAiL3BhZ2VzL21hc3Rlci9pbmRleCIsCg==</text>
+        <text encoding="base64">ICBbUk9VVEUuTUFTVEVSX0lOREVYXTogdHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBNQVNURVJfSU5ERVggPSAiL3BhZ2VzL21hc3Rlci9pbmRleCIsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICJwYXRoIjogImluZGV4IiwKICAgICAgICAgICJzdHlsZSI6IHsKICAgICAgICAgICAgIm5hdmlnYXRpb25CYXJUaXRsZVRleHQiOiAitLS9qNaxsqUiLAogICAgICAgICAgICAibmF2aWdhdGlvblN0eWxlIjogImN1c3RvbSIKICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBbUk9VVEUuTUFTVEVSX0lOREVYXTogdHJ1ZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGJhc2VVc2VyLmluaXRVc2VySW5mb0luSDVBcHAob3B0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICBNQVNURVJfSU5ERVggPSAiL3BhZ2VzL21hc3Rlci9pbmRleCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICBNQVNURVJfSU5ERVggPSAiL3BhZ2VzL21hc3Rlci9pbmRleCIsCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>master</last-search>
+      <last-search>submit</last-search>
       <last-offset />
-      <last-pattern>master</last-pattern>
+      <last-pattern>submit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
