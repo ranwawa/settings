@@ -10,7 +10,6 @@
         <entry>sbumit</entry>
         <entry>submit</entry>
         <entry>添加</entry>
-        <entry>created</entry>
         <entry>action</entry>
         <entry>Rate</entry>
         <entry>保存</entry>
@@ -25,6 +24,7 @@
         <entry>activityTime</entry>
         <entry>返回</entry>
         <entry>管理商品</entry>
+        <entry>created</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -136,11 +136,8 @@
         <mark key="]" line="465" column="4" />
         <mark key="." line="465" column="4" />
       </file>
-      <file name="E:/jxgwxapp/src/api/activity.ts" timestamp="1596447916944">
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="16" column="46" />
-        <mark key="^" line="16" column="46" />
-        <mark key="." line="16" column="45" />
+      <file name="E:/jxgwxapp/src/App.vue" timestamp="1596515917208">
+        <mark key="'" line="154" column="5" />
       </file>
       <file name="E:/jxgwxapp/src/pages/activity/limitPrice.vue" timestamp="1596449497750">
         <mark key="'" line="127" column="0" />
@@ -191,24 +188,23 @@
         <mark key="." line="20" column="45" />
       </file>
       <file name="E:/jxgwxapp/src/pages.json" timestamp="1596504069898" />
+      <file name="E:/jxgwxapp/src/main.ts" timestamp="1596516016622">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="C:/project/jxg-ops/src/const/avue/column.js" timestamp="1596460154743">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="72" column="10" />
         <mark key="." line="72" column="9" />
         <mark key="^" line="72" column="10" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1596447674844">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="29" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="59" column="54" />
-      </file>
       <file name="C:/project/jxg-ops/src/const/avue.js" timestamp="1596458982015">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1596513226591">
+      <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1596513347182">
         <mark key="[" line="132" column="60" />
         <mark key="]" line="133" column="21" />
         <mark key="^" line="133" column="21" />
@@ -223,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="818" column="24" filename="C:/project/jxg-ops/src/views/goods/config/goodsFormConfig.js" />
       <jump line="859" column="31" filename="C:/project/jxg-ops/src/views/goods/config/goodsFormConfig.js" />
       <jump line="820" column="35" filename="C:/project/jxg-ops/src/views/goods/config/goodsFormConfig.js" />
       <jump line="855" column="34" filename="C:/project/jxg-ops/src/views/goods/config/goodsFormConfig.js" />
@@ -323,33 +318,34 @@
       <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
       <jump line="123" column="13" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="98" column="17" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
+      <jump line="154" column="5" filename="E:/jxgwxapp/src/App.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRVc2VySW5mbyhkYXRhIHx8IHt9KTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>progress</text>
       </register>
       <register name="/" type="4">
-        <text>管理商品</text>
+        <text>created</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAuLi5jb2xMYWJlbCgnw+vJsb34tsgoJSknLCAncHJvZ3Jlc3MnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRVc2VySW5mbyhkYXRhIHx8IHt9KTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsYWJlbDogJycsCiAgICAgICAgICAgICAgcHJvcDogJycsCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ly8gY29uc3QgWywgZGF0YV0gPSBhd2FpdCBiYXNlVXNlci5nZXRVc2VySW5mb0Zyb21BcGkoZSk7CiAgICAgIC8vIGlmIChkYXRhKSB7CiAgICAgIC8vICAgYmFzZVVzZXIuc2V0VXNlckluZm8oZGF0YSk7CiAgICAgIC8vICAgLy8gQHRzLWlnbm9yZQogICAgICAvLyAgIHRoaXMub25Mb2dpbmVkICYmIHRoaXMub25Mb2dpbmVkKCk7CiAgICAgIC8vIH0gZWxzZSB7CiAgICAgIC8vICAgLy8gQHRzLWlnbm9yZQogICAgICAvLyAgIHRoaXMub25CZWZvcmVMb2dpbiAmJiB0aGlzLm9uQmVmb3JlTG9naW4oKTsKICAgICAgLy8gICBiYXNlVXNlci5nb1RvTG9naW5QYWdlKCk7CiAgICAgIC8vICAgcmV0dXJuOwogICAgICAvLyB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsYWJlbDogJycsCiAgICAgICAgICAgICAgcHJvcDogJycsCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IGJhc2VVc2VyLmluaXRVc2VySW5mb0luSDVBcHAoZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsYWJlbDogJycsCiAgICAgICAgICAgICAgcHJvcDogJycsCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRVc2VySW5mbyhkYXRhIHx8IHt9KTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBsYWJlbDogJycsCiAgICAgICAgICAgICAgcHJvcDogJycsCg==</text>
@@ -370,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>管理商品</last-search>
+      <last-search>created</last-search>
       <last-offset />
-      <last-pattern>管理商品</last-pattern>
+      <last-pattern>created</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
