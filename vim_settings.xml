@@ -208,11 +208,11 @@
         <mark key="^" line="1004" column="22" />
       </file>
       <file name="C:/project/document/study/JavaScript权威指南/第15章_脚本化文档.md" timestamp="1596632324181" />
-      <file name="C:/project/document/project/版本管理规范.md" timestamp="1596633559569">
-        <mark key="[" line="33" column="2" />
-        <mark key="]" line="33" column="3" />
-        <mark key="." line="33" column="3" />
-        <mark key="^" line="29" column="4" />
+      <file name="C:/project/document/project/版本管理规范.md" timestamp="1596634418975">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="59" column="22" />
+        <mark key="." line="61" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -320,11 +320,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>测试人员合并hot到test</text>
       </register>
       <register name="/" type="4">
         <text>submit</text>
@@ -333,42 +333,43 @@
         <text encoding="base64">fHJlbGVhc2XUpLeisry31tanfNPD09rW97Dmsb61/LT6v6q3oizArcihv6q3orfW1qcsus+yory0vau3orDmtcS/qreit9bWp3zTybncwO3Usc6su6R8Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgMi4gMjIyCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LSAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">MiDP7sS/v6q3ogo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LSAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">uaTX98H3s8wK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text>- 项目测试    
+  - 合并分支(管理员)
+    - 合并feature到dev
+    - 合并hotfix到master
+  - 测试(测试人员)
+    - 发布dev/master到测试环境
+    - 测试
+- 项目发布
+  - 合并分支(管理员)
+    - 功能开发合并dev到master
+    - bug修复合并master到dev
+  - 更新tag(管理员)
+  - 发布正式环境(运维)</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgOS4gudzA7dSxCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgNy4gsuLK1MjL1LG6z7KiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgOC4gudzA7dSxus+yomhvdLW9cmVsZWFzZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgNy4gw7vK1MjL1LG3orK8tb2y4srUu7e+swo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgMTcuINHp1qTNqLn9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">uLQK</text>
+      </register>
       <register name="9" type="2">
-        <text>- master: 主分支
-  - 用于发版
-  - 由管理员维护
-- dev: 开发分支
-  - 用于合并其他分支
-  - 由管理员维护
-- feature: 开发分支
-  - 用于日常功能开发和代码重构
-  - 由开发人员维护
-- hotfix: bug分支
-  - 用于修改线上bug
-  - 由开发人员维护</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
