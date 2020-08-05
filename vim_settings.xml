@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mounted</entry>
-        <entry>type</entry>
         <entry>appid</entry>
         <entry>appId</entry>
         <entry>register</entry>
@@ -25,6 +23,8 @@
         <entry>console</entry>
         <entry>delete</entry>
         <entry>https</entry>
+        <entry>GZH</entry>
+        <entry>vip</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -127,17 +127,24 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="13" column="39" />
       </file>
+      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1596598211188">
+        <mark key="[" line="85" column="18" />
+        <mark key="]" line="86" column="20" />
+        <mark key="." line="86" column="19" />
+        <mark key="^" line="86" column="20" />
+      </file>
       <file name="E:/jxgh5/src/views/oneCent/index.vue" timestamp="1596595519832">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="16" column="16" />
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="15" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1596544630133">
-        <mark key="'" line="121" column="4" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1596598088886">
+        <mark key="'" line="142" column="16" />
+        <mark key="[" line="326" column="74" />
+        <mark key="]" line="327" column="62" />
+        <mark key="." line="327" column="61" />
+        <mark key="^" line="327" column="62" />
       </file>
       <file name="E:/jxgwxapp/src/App.vue" timestamp="1596593294642">
         <mark key="'" line="275" column="17" />
@@ -170,22 +177,13 @@
         <mark key="^" line="238" column="29" />
         <mark key="." line="238" column="28" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1596532752259">
-        <mark key="[" line="253" column="15" />
-        <mark key="]" line="253" column="15" />
-        <mark key="." line="253" column="15" />
-      </file>
       <file name="C:/project/jxg-ops/vue.config.js" timestamp="1596591230242">
         <mark key="[" line="13" column="44" />
         <mark key="]" line="13" column="45" />
         <mark key="." line="13" column="45" />
       </file>
-      <file name="E:/jxgwxapp/src/pages.json" timestamp="1596532986777">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="244" column="7" />
-        <mark key="]" line="244" column="8" />
-        <mark key="." line="244" column="7" />
-        <mark key="^" line="244" column="8" />
+      <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1596598151518">
+        <mark key="'" line="53" column="43" />
       </file>
       <file name="E:/jxgh5/src/components/oneCent/centCommon.vue" timestamp="1596595687601">
         <mark key="[" line="87" column="0" />
@@ -203,8 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="11" filename="C:/project/jxg-ops/src/views/operation/seckill/goods.vue" />
-      <jump line="350" column="26" filename="C:/project/jxg-ops/src/views/operation/seckill/goods.vue" />
       <jump line="351" column="22" filename="C:/project/jxg-ops/src/views/operation/seckill/goods.vue" />
       <jump line="380" column="33" filename="C:/project/jxg-ops/src/views/operation/seckill/goods.vue" />
       <jump line="381" column="35" filename="C:/project/jxg-ops/src/views/operation/seckill/goods.vue" />
@@ -303,18 +299,20 @@
       <jump line="21" column="9" filename="E:/jxgh5/src/components/oneCent/centCommon.vue" />
       <jump line="85" column="5" filename="E:/jxgh5/src/components/oneCent/centCommon.vue" />
       <jump line="62" column="1" filename="E:/jxgh5/src/components/oneCent/centCommon.vue" />
+      <jump line="142" column="16" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="53" column="43" filename="E:/jxgwxapp/src/assets/constant/common.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>#d11942</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>https</text>
+        <text>vip</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYmFja2dyb3VuZDoKICAgICAgICB1cmwoImh0dHBzOi8vaW1hZ2VzLmppeHVnb3UuY24vNmMyNTRkY2EtNjMyMy00YmNlLWI0ZTUtY2MxZDhiNDkwNWZkLnBuZyIpIHRvcCBsZWZ0IC8gY29udGFpbjsK</text>
@@ -350,9 +348,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>https</last-search>
+      <last-search>vip</last-search>
       <last-offset />
-      <last-pattern>https</last-pattern>
+      <last-pattern>vip</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
