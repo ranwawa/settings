@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>倒计时</entry>
         <entry>= []</entry>
         <entry>info</entry>
@@ -25,6 +24,7 @@
         <entry>221</entry>
         <entry>edit</entry>
         <entry>update</entry>
+        <entry>link</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -123,6 +123,18 @@
     <filemarks>
       <file name="E:/jxgwxapp/src/config.ts" timestamp="1596681665010" />
       <file name="E:/jxgwxapp/src/assets/scss/index.scss" timestamp="1596684256447" />
+      <file name="C:/project/learning/index.html" timestamp="1596689157955">
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="58" />
+        <mark key="." line="13" column="57" />
+        <mark key="^" line="13" column="58" />
+      </file>
+      <file name="C:/project/learning/index.scss" timestamp="1596689498355">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="54" />
+        <mark key="^" line="5" column="54" />
+        <mark key="." line="5" column="53" />
+      </file>
       <file name="E:/jxgwxapp/src/manifest.json" timestamp="1596683900696">
         <mark key="'" line="80" column="14" />
       </file>
@@ -154,6 +166,9 @@
       <file name="/Dummy.txt" timestamp="1596685776423">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/jxgh5/public/index.html" timestamp="1596689140962">
+        <mark key="'" line="26" column="5" />
+      </file>
       <file name="E:/jxgh5/src/views/mine/belongetoStore.vue" timestamp="1596681791998" />
       <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1596682655095">
         <mark key="'" line="158" column="49" />
@@ -165,6 +180,9 @@
         <mark key="." line="302" column="0" />
       </file>
       <file name="C:/project/jxg-ops/src/api/limitDiscount.js" timestamp="1596686068481" />
+      <file name="C:/project/learning/index.js" timestamp="1596689505692">
+        <mark key="[" line="4" column="30" />
+      </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1596686366533">
         <mark key="'" line="18" column="11" />
         <mark key="[" line="190" column="19" />
@@ -174,9 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1054" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="157" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="873" column="32" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="151" column="46" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="146" column="18" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
@@ -274,6 +289,9 @@
       <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="190" column="29" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="18" column="11" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
+      <jump line="0" column="0" filename="E:/jxgh5/public/index.html" />
+      <jump line="25" column="6" filename="E:/jxgh5/public/index.html" />
+      <jump line="26" column="5" filename="E:/jxgh5/public/index.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -285,7 +303,7 @@
         <text>err</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>link</text>
       </register>
       <register name="0" type="4">
         <text>loading();
@@ -325,9 +343,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>update</last-search>
+      <last-search>link</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>link</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
