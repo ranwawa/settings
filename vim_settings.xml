@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>limit</entry>
-        <entry>custom</entry>
         <entry>221</entry>
         <entry>edit</entry>
         <entry>update</entry>
@@ -20,11 +18,13 @@
         <entry>coupon</entry>
         <entry>console.log</entry>
         <entry>appShare</entry>
-        <entry>= []</entry>
         <entry>keys</entry>
         <entry>openId</entry>
         <entry>[0]</entry>
         <entry>submit</entry>
+        <entry>onLoad</entry>
+        <entry>= []</entry>
+        <entry>debugger</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -187,19 +187,16 @@
         <mark key="." line="190" column="18" />
         <mark key="^" line="190" column="19" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1596700119952">
-        <mark key="'" line="951" column="28" />
-        <mark key="[" line="1105" column="34" />
-        <mark key="]" line="1106" column="13" />
-        <mark key="." line="1106" column="12" />
-        <mark key="^" line="1106" column="13" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1596700973615">
+        <mark key="'" line="1022" column="14" />
+        <mark key="[" line="1111" column="0" />
+        <mark key="]" line="1111" column="0" />
+        <mark key="." line="1111" column="0" />
+        <mark key="^" line="1044" column="27" />
       </file>
       <file name="/detail.vue" timestamp="1596693276571" />
     </filemarks>
     <jumps>
-      <jump line="843" column="25" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
-      <jump line="845" column="28" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
-      <jump line="850" column="30" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
       <jump line="855" column="29" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
       <jump line="856" column="30" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
       <jump line="860" column="27" filename="E:/jxgwxapp/src/order/pages/detail.vue" />
@@ -297,60 +294,61 @@
       <jump line="981" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="638" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="951" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="973" column="4" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="774" column="35" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1022" column="14" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>this.skuInfoList</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text>debugger</text>
       </register>
       <register name="0" type="4">
         <text>goodsSkuInfoVOS</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZvciAobGV0IGtleSBpbiApIHsKICAgICAgCiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGdvb2RzU2t1SW5mb1ZPUy5sZW5ndGggPT09IDEgJiYgKHRoaXMuYXR0ckxpc3QgPSBbXSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vINa709DSu7j2c2t11/a77ravyrEK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vINa709DSu7j2c2t11/a77ravCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2VsZWN0ZWRTa3UgPSBhY3Rpdml0eVNrdVswXTsK</text>
+      </register>
+      <register name="9" type="4">
         <text>{
       [activitySku.skuCode]: activitySku,
     ;</text>
-      </register>
-      <register name="2" type="4">
-        <text>{
-      [activitySku.skuCode]: activitySku,
-    }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGdvb2RzU2t1SW5mb1ZPUwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSA8dmlldyBjbGFzcz0ib3JkZXJEZXRhaWwtbG9naXN0aWNzIiB2LWlmPSJvcmRlckluZm8ub3JkZXJTdGF0dXMgPT09IDYgfHwgb3JkZXJJbmZvLm9yZGVyIzAwMD09PSAzIj4KCQkJCTx0ZXh0IGNsYXNzPSJpY29uZm9udCBpY29uLXRvbmd6aGkxIHR6Ij48L3RleHQ+CgkJCQk8dGV4dCBjbGFzcz0idGl0bGUjOTk5L3RleHQ+CgkJCQk8dGV4dCBjbGFzcz0iZGVzYyI+0tHA67+qob7Jz7qjob+jrM/C0rvVvqG+ye7b2tbQ0MShvzwvdGV4dD4KCQkJCTx0ZXh0IGNsYXNzPSJpY29uZm9udCBpY29ud2VpYmlhb3RpMzQgbGVmdCI+PC90ZXh0PgoJCQk8L3ZpZXc+IC0tPg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItYm90dG9tOiAxIHJweCBzb2xpZCAjZjFmMWYxOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJvcmRlci1yaWdodDogMSBycHggc29saWQgI2YxZjFmMTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItdG9wOiAxcnB4IHNvbGlkICNmMWYxZjE7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyLCBkYXRhKTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>submit</last-search>
+      <last-search>debugger</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern>debugger</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
