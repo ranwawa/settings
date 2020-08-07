@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>failter(error)</entry>
-        <entry>(er</entry>
         <entry>created</entry>
         <entry>为你推荐</entry>
         <entry>result</entry>
@@ -25,6 +23,8 @@
         <entry>getFavorateData</entry>
         <entry>足迹</entry>
         <entry>删除</entry>
+        <entry>submit</entry>
+        <entry>编辑</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,12 +121,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1596767239454">
-        <mark key="'" line="157" column="27" />
-        <mark key="[" line="374" column="57" />
-        <mark key="]" line="375" column="54" />
-        <mark key="^" line="375" column="54" />
-        <mark key="." line="375" column="53" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1596782049578">
+        <mark key="'" line="277" column="38" />
+        <mark key="[" line="277" column="32" />
+        <mark key="]" line="277" column="43" />
+        <mark key="^" line="277" column="43" />
+        <mark key="." line="277" column="42" />
       </file>
       <file name="E:/jxgh5/src/components/heard/index.vue" timestamp="1596766749084">
         <mark key="'" line="24" column="7" />
@@ -151,13 +151,6 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="E:/jxgh5/src/api/api.ts" timestamp="1596771910854">
-        <mark key="'" line="65" column="14" />
-        <mark key="[" line="66" column="8" />
-        <mark key="]" line="66" column="19" />
-        <mark key="^" line="66" column="19" />
-        <mark key="." line="66" column="18" />
-      </file>
       <file name="E:/jxgh5/src/api/user.ts" timestamp="1596770509849">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -170,7 +163,7 @@
         <mark key="." line="358" column="0" />
         <mark key="^" line="354" column="100" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596772184127">
+      <file name="/Dummy.txt" timestamp="1596781267908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -179,11 +172,22 @@
       <file name="E:/jxgh5/src/views/mine/trace.vue" timestamp="1596780071301">
         <mark key="'" line="3" column="23" />
       </file>
+      <file name="C:/project/jxg-ops/vue.config.js" timestamp="1596782118193">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="20" column="45" />
+        <mark key="." line="20" column="45" />
+      </file>
       <file name="E:/jxgh5/src/api/requestWrapper.ts" timestamp="1596770691409">
         <mark key="'" line="31" column="5" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="C:/project/jxg-ops/src/api/limitDiscount.js" timestamp="1596781874139">
+        <mark key="[" line="98" column="28" />
+        <mark key="]" line="98" column="33" />
+        <mark key="^" line="98" column="33" />
+        <mark key="." line="98" column="32" />
       </file>
       <file name="E:/jxgh5/src/views/mine/style/trace.scss" timestamp="1596778999663" />
       <file name="E:/jxgh5/src/router/index.ts" timestamp="1596765612252">
@@ -194,11 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="9" filename="E:/jxgh5/src/views/mine/collection.vue" />
-      <jump line="239" column="15" filename="E:/jxgh5/src/api/api.ts" />
-      <jump line="241" column="4" filename="E:/jxgh5/src/api/api.ts" />
-      <jump line="249" column="4" filename="E:/jxgh5/src/api/api.ts" />
-      <jump line="31" column="2" filename="E:/jxgh5/src/api/api.ts" />
       <jump line="132" column="8" filename="E:/jxgh5/src/api/api.ts" />
       <jump line="14" column="25" filename="E:/jxgh5/src/views/mine/collection.vue" />
       <jump line="244" column="0" filename="E:/jxgh5/src/api/api.ts" />
@@ -294,56 +293,61 @@
       <jump line="890" column="2" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
       <jump line="6" column="9" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
       <jump line="1135" column="0" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
+      <jump line="362" column="5" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
+      <jump line="94" column="10" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
+      <jump line="122" column="27" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
+      <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
+      <jump line="277" column="38" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>清空</text>
+        <text>skuCode</text>
       </register>
       <register name="-" type="4">
-        <text>清空</text>
+        <text>skuCode</text>
       </register>
       <register name="/" type="4">
-        <text>删除</text>
+        <text>编辑</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3RDYXJkIGZyb20gIkAvY29tcG9uZW50cy9jb2xsZWN0aW9uL2NvbGxlY3RDYXJkLnZ1ZSI7Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gZGF0YS5yZWZBY3Rpdml0eUlkILvutq9JZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzPSJ0cmFjZS13cmFwZXIiCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSA8dmFuLWNoZWNrYm94IEBjbGljay5zdG9wPSJhbGxTZWxlY3RDaGFuZ2VzIiBjbGFzcz0idHJhY2UtdG9vbGJhci1ja2VjayIgY2hlY2tlZC1jb2xvcj0iI2JlMTgxOCIgdi1tb2RlbD0iYWxsQ2hlY2tlZCI+yKvRoTwvdmFuLWNoZWNrYm94PiAtLT4K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3Um93KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAR2V0dGVyIHBhZ2VTaXplU2V0Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBAR2V0dGVyIHBhZ2VTaXplU2V0Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzPSJ0cmFjZS13cmFwZXIiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSA8dmFuLWNoZWNrYm94IEBjbGljay5zdG9wPSJhbGxTZWxlY3RDaGFuZ2VzIiBjbGFzcz0idHJhY2UtdG9vbGJhci1ja2VjayIgY2hlY2tlZC1jb2xvcj0iI2JlMTgxOCIgdi1tb2RlbD0iYWxsQ2hlY2tlZCI+yKvRoTwvdmFuLWNoZWNrYm94PiAtLT4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBIZWFkVGl0bGUsCg==</text>
+        <text encoding="base64">ICBAR2V0dGVyIHBhZ2VTaXplU2V0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBAR2V0dGVyIHBhZ2VTaXplU2V0Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGhlYXJkCiAgICAgICAgICA6cmlnaHRUZXh0PSJjbGVhclRleHQiCiAgICAgICAgICBjbGFzcz0idHJhY2UtaGVhZGVyIgogICAgICAgIC8+</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>删除</last-search>
+      <last-search>编辑</last-search>
       <last-offset />
-      <last-pattern>删除</last-pattern>
+      <last-pattern>编辑</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
