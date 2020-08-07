@@ -128,9 +128,6 @@
         <mark key="^" line="280" column="20" />
         <mark key="." line="280" column="19" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/seckill/goods.vue" timestamp="1596723901218">
-        <mark key="'" line="27" column="21" />
-      </file>
       <file name="/activityGoodsForm.vue" timestamp="1596721547618" />
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1596718995399">
         <mark key="'" line="170" column="4" />
@@ -162,10 +159,10 @@
       <file name="E:/jxgwxapp/src/order/pages/detail.vue" timestamp="1596717889397">
         <mark key="'" line="1109" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596724306415">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/Dummy.txt" timestamp="1596724610464">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="E:/jxgwxapp/src/pages/coupon/index.vue" timestamp="1596720262535">
         <mark key="'" line="108" column="36" />
@@ -191,10 +188,10 @@
       <file name="E:/jxgwxapp/src/components/market/GoodItem.vue" timestamp="1596723500709" />
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1596723030676">
         <mark key="'" line="18" column="11" />
-        <mark key="[" line="174" column="29" />
-        <mark key="]" line="174" column="34" />
-        <mark key="^" line="174" column="34" />
-        <mark key="." line="174" column="33" />
+        <mark key="[" line="209" column="29" />
+        <mark key="]" line="209" column="34" />
+        <mark key="^" line="209" column="34" />
+        <mark key="." line="209" column="33" />
       </file>
       <file name="/detail.vue" timestamp="1596717874584" />
     </filemarks>
@@ -304,7 +301,9 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>短</text>
+        <text>添加商品后，确认按钮恢复可点击状态
+【限时折扣-添加商品后，另填商品，保存按钮未恢复点击状态】
+https://www.tapd.cn/61112685/bugtrace/bugs/view/1161112685001003681</text>
       </register>
       <register name="-" type="4">
         <text>短</text>
@@ -315,33 +314,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cmlnaHQtcm91dGVyPSJmYWxzZSIK</text>
+      <register name="1" type="4">
+        <text>添加商品后，确认按钮恢复可点击状态
+【限时折扣-添加商品后，另填商品，保存按钮未恢复点击状态】
+https://www.tapd.cn/61112685/bugtrace/bugs/view/1161112685001003681</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lLWtleT0icmVmR29vZHNOYW1lIgogICAgICAgIHByaWNlLWtleT0ibnVsbCIKICAgICAgICBwaWMta2V5PSJza3VQaWMiCg==</text>
+        <text encoding="base64">ICAgICAgICA6cmlnaHQtcm91dGVyPSJmYWxzZSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6cmlnaHQtcm91dGVyPSJmYWxzZSIK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lLWtleT0icmVmR29vZHNOYW1lIgogICAgICAgIHByaWNlLWtleT0ibnVsbCIKICAgICAgICBwaWMta2V5PSJza3VQaWMiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICA6cmlnaHQtcm91dGVyPSJmYWxzZSIK</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA6cmlnaHQtcm91dGVyPSJmYWxzZSIK</text>
+      </register>
+      <register name="6" type="4">
         <text>this.item = _.pick(data, [&quot;activityPic&quot;, &quot;startTime&quot;, &quot;endTime&quot;]);
     this.goodsList = this.goodsList.concat(l</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Lm1hcCgoZWxlKSA9PiB7CiAgICAgICAgcmV0dXJuIGVsZTsKICAgICAgfSk=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBlbGUuZHJvcFByaWNlID0gbnVtYmVyMnN0cmluZyhlbGUubWFya2V0UHJpY2UgLSBlbGUuYWN0aXZpdHlQcmljZSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbGUuYWN0aXZpdHlQcmljZSA9IG51bWJlcjJzdHJpbmcoZWxlLmFjdGl2aXR5UHJpY2UpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXF1aXJlZDogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICBlbGUuYWN0aXZpdHlQcmljZSA9IG51bWJlcjJzdHJpbmcoZWxlLmFjdGl2aXR5UHJpY2UpOwo=</text>
       </register>
     </registers>
   </component>
