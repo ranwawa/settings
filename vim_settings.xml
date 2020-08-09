@@ -128,21 +128,20 @@
         <mark key="^" line="274" column="31" />
         <mark key="." line="274" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596810210880">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1596965609552">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/seckill/goodsInfo.vue" timestamp="1596965255178">
-        <mark key="[" line="61" column="35" />
-        <mark key="]" line="61" column="47" />
-        <mark key="^" line="61" column="47" />
-        <mark key="." line="61" column="46" />
+      <file name="C:/project/jxg-ops/src/views/operation/seckill/goodsInfo.vue" timestamp="1596966092383">
+        <mark key="[" line="446" column="8" />
+        <mark key="]" line="446" column="8" />
+        <mark key="." line="446" column="8" />
       </file>
       <file name="C:/project/jxg-ops/vue.config.js" timestamp="1596965363867">
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="20" column="45" />
-        <mark key="." line="20" column="45" />
+        <mark key="[" line="86" column="44" />
+        <mark key="]" line="86" column="45" />
+        <mark key="." line="86" column="45" />
       </file>
       <file name="E:/jxgh5/vue.config.js" timestamp="1596789801597">
         <mark key="'" line="82" column="56" />
@@ -192,6 +191,7 @@
         <mark key="^" line="148" column="18" />
         <mark key="." line="148" column="17" />
       </file>
+      <file name="/goodsInfo.vue" timestamp="1596965779587" />
     </filemarks>
     <jumps>
       <jump line="885" column="17" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
@@ -299,43 +299,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>https://images.jixugou.cn/6c254dca-6323-4bce-b4e5-cc1d8b4905fd.png?imageView2/2/w/750</text>
+        <text>salePrice</text>
       </register>
       <register name="-" type="4">
-        <text>https://images.jixugou.cn/6c254dca-6323-4bce-b4e5-cc1d8b4905fd.png?imageView2/2/w/750</text>
+        <text>salePrice</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ID09PSAz</text>
       </register>
-      <register name="0" type="4">
-        <text>_Vconsole</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzYWxlUHJpY2U6IHRoaXMuZGV0YWlsLmFjdGl2aXR5UHJpY2UsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>添加商品时去掉短名称字段
+
+【限时折扣-添加商品时修改商品短名称，保存后，前端显示仍为未修改前的名称】
+https://www.tapd.cn/61112685/bugtrace/bugs/view/1161112685001003680</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAganhnLnRvTG9naW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0ZXN0ID0gMTsK</text>
+        <text encoding="base64">ICAgICAganhnLnRvTG9naW4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VnVlLl9WY29uc29sZSA9IFZDb25zb2xlOwo=</text>
+        <text encoding="base64">ICB0ZXN0ID0gMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdG9rZW5QcmVmaXggPSAiYmVhcmVyICI7Cg==</text>
+        <text encoding="base64">VnVlLl9WY29uc29sZSA9IFZDb25zb2xlOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgdG9rZW5QcmVmaXggPSAiYmVhcmVyICI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdG9rZW5QcmVmaXggPSAiYmVhcmVyICI7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CWZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWJvcmRlcjogMXB4IHNvbGlkICMwMDA7Cg==</text>
+        <text encoding="base64">CWZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
     </registers>
   </component>
