@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>PREFIX</entry>
         <entry>await</entry>
         <entry>created</entry>
         <entry>onLoad</entry>
@@ -25,6 +24,7 @@
         <entry>formslot:</entry>
         <entry>group</entry>
         <entry>formslot</entry>
+        <entry>form\.activity</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -181,16 +181,15 @@
         <mark key="^" line="103" column="21" />
       </file>
       <file name="C:/project/jxg-ops/src/views/member/facilitator/facilitatorForm.vue" timestamp="1597030629514" />
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1597030978395">
-        <mark key="'" line="131" column="24" />
-        <mark key="[" line="69" column="50" />
-        <mark key="]" line="69" column="54" />
-        <mark key="." line="69" column="53" />
-        <mark key="^" line="69" column="54" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1597031948938">
+        <mark key="'" line="99" column="12" />
+        <mark key="[" line="73" column="28" />
+        <mark key="]" line="74" column="34" />
+        <mark key="." line="74" column="33" />
+        <mark key="^" line="74" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="623" column="2" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
       <jump line="256" column="0" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
       <jump line="374" column="2" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
       <jump line="622" column="2" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
@@ -290,26 +289,39 @@
       <jump line="98" column="12" filename="C:/project/jxg-ops/src/views/member/config/facilitatorFormConfig.js" />
       <jump line="131" column="24" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="371" column="16" filename="C:/project/jxg-ops/src/views/member/config/facilitatorFormConfig.js" />
+      <jump line="99" column="12" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>form</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHQtdGltZT0iIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>form</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>formslot</text>
+        <text>form\.activity</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2aXR5SWQgPSByZXNbImRhdGEiXVsicmVmQWN0aXZpdHlJZCJdIHx8ICIiOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHQtdGltZT0iIgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHQtdGltZT0iIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZWwtcm93PjEyMzwvZWwtcm93Pgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>rules: [
                 {
                   required: true,
@@ -318,34 +330,22 @@
                 }
               ]</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBwcm9wOiAnc3RhcnRUaW1lJywK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBsYWJlbDogJ7+qyrzKsbzkJywK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmb3Jtc2xvdDogdHJ1ZSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuLi5jb2xMYWJlbCgnv6rKvMqxvOQnLCAnc3RhcnRUaW1lJywgQ09MVU1OLlRZUEUuREFURV9USU1FKSwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmb3Jtc2xvdDogdHJ1ZSwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBoaWRlOiBmYWxzZSwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsYWJlbFdpZHRoOiAnOGVtJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmb3Jtc2xvdDogdHJ1ZSwK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>formslot</last-search>
+      <last-search>form\.activity</last-search>
       <last-offset />
-      <last-pattern>formslot</last-pattern>
+      <last-pattern>form\.activity</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
