@@ -18,13 +18,13 @@
         <entry>formslot</entry>
         <entry>console.log</entry>
         <entry>编辑</entry>
-        <entry>商品名称</entry>
         <entry>活动价</entry>
         <entry>开始时间</entry>
         <entry>table:</entry>
         <entry>startTime</entry>
         <entry>rule</entry>
         <entry>value</entry>
+        <entry>商品名称</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,12 +121,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1597061473554">
-        <mark key="'" line="122" column="27" />
-        <mark key="[" line="283" column="91" />
-        <mark key="]" line="283" column="33" />
-        <mark key="." line="283" column="33" />
-        <mark key="^" line="283" column="33" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1597064924751">
+        <mark key="'" line="133" column="27" />
+        <mark key="[" line="395" column="28" />
+        <mark key="]" line="396" column="50" />
+        <mark key="." line="396" column="49" />
+        <mark key="^" line="396" column="50" />
       </file>
       <file name="E:/jxgh5/src/views/activity/newZone/index.vue" timestamp="1597051857865">
         <mark key="'" line="171" column="25" />
@@ -157,8 +157,12 @@
         <mark key="." line="331" column="26" />
         <mark key="^" line="331" column="27" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1597060792592">
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1597065250885">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="492" column="8" />
+        <mark key="]" line="492" column="25" />
+        <mark key="^" line="492" column="25" />
+        <mark key="." line="492" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1597063593300">
         <mark key="[" line="0" column="0" />
@@ -191,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1367" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1482" column="19" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1490" column="37" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1514" column="59" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1749" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -291,18 +293,20 @@
       <jump line="31" column="31" filename="C:/project/jxg-ops/src/views/dept/user.vue" />
       <jump line="152" column="17" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="128" column="12" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
+      <jump line="211" column="49" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
+      <jump line="133" column="27" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>goodsShortName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>goodsShortName</text>
       </register>
       <register name="/" type="4">
-        <text>value</text>
+        <text>商品名称</text>
       </register>
       <register name="0" type="4">
         <text>moment(value).isBefore(moment())</text>
@@ -338,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>value</last-search>
+      <last-search>商品名称</last-search>
       <last-offset />
-      <last-pattern>value</last-pattern>
+      <last-pattern>商品名称</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
