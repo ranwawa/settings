@@ -18,13 +18,13 @@
         <entry>format</entry>
         <entry>formslot:</entry>
         <entry>group</entry>
-        <entry>formslot</entry>
         <entry>form\.activity</entry>
         <entry>labelTeXT</entry>
         <entry>labelText</entry>
         <entry>立即购买</entry>
         <entry>buyNow</entry>
         <entry>活动展示价</entry>
+        <entry>formslot</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,8 +121,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1597053198525">
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1597058302569">
         <mark key="'" line="257" column="16" />
+        <mark key="[" line="275" column="61" />
+        <mark key="]" line="233" column="12" />
+        <mark key="^" line="233" column="12" />
+        <mark key="." line="233" column="11" />
       </file>
       <file name="E:/jxgh5/src/views/activity/newZone/index.vue" timestamp="1597051857865">
         <mark key="'" line="171" column="25" />
@@ -188,12 +192,17 @@
         <mark key="." line="113" column="3" />
       </file>
       <file name="C:/project/jxg-ops/src/views/member/facilitator/facilitatorForm.vue" timestamp="1597030629514" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1597058309664">
+        <mark key="'" line="36" column="21" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+      </file>
       <file name="E:/jxgh5/src/components/activity/newZone/newZoneGoods.vue" timestamp="1597050617154">
         <mark key="'" line="68" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="9" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
       <jump line="1135" column="0" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
       <jump line="362" column="5" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
       <jump line="94" column="10" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
@@ -293,56 +302,57 @@
       <jump line="171" column="25" filename="E:/jxgh5/src/views/activity/newZone/index.vue" />
       <jump line="762" column="48" filename="E:/jxgh5/src/plugin/commonData.ts" />
       <jump line="257" column="16" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
+      <jump line="36" column="21" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBmb3Jtc2xvdDogdHJ1ZSwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>活动展示价</text>
+        <text>formslot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICogQHByb3BlcnR5IHtTdHJpbmd9IHJlZkdvb2RzTmFtZSAtIMnMxrfD+7PGCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmb3Jtc2xvdDogdHJ1ZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0gu+62r7nm1PIgLS0+CiAgICA8ZGl2CiAgICAgIGNsYXNzPSJvbmVDZW50LWljb24iCiAgICAgIHYtaWY9ImFjdGl2aXR5RGVzY3JpYmUiCiAgICAgIEBjbGljay5zdG9wPSJydWxlU2hvd0Z1biIKICAgID4KICAgICAgu+62r7nm1PIKICAgIDwvZGl2Pg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gu+62r7nm1PIgLS0+CiAgICA8ZGl2CiAgICAgIGNsYXNzPSJvbmVDZW50LWljb24iCiAgICAgIHYtaWY9ImFjdGl2aXR5RGVzY3JpYmUiCiAgICAgIEBjbGljay5zdG9wPSJydWxlU2hvd0Z1biIKICAgID4KICAgICAgu+62r7nm1PIKICAgIDwvZGl2Pg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdgogICAgICAgIGNsYXNzPSJvbmVDZW50LWljb24iCiAgICAgICAgdi1pZj0iYWN0aXZpdHlEZXNjcmliZSIKICAgICAgICBAY2xpY2suc3RvcD0icnVsZVNob3dGdW4iCiAgICAgID4KICAgICAgICA8aT677ravPC9pPgogICAgICAgIDxzcGFuPrnm1PI8L3NwYW4+CiAgICAgIDwvZGl2Pg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHt7IGxvZyB9fQo=</text>
+        <text encoding="base64">ICAgICAgPGRpdgogICAgICAgIGNsYXNzPSJvbmVDZW50LWljb24iCiAgICAgICAgdi1pZj0iYWN0aXZpdHlEZXNjcmliZSIKICAgICAgICBAY2xpY2suc3RvcD0icnVsZVNob3dGdW4iCiAgICAgID4KICAgICAgICA8aT677ravPC9pPgogICAgICAgIDxzcGFuPrnm1PI8L3NwYW4+CiAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMubGFiZWxUZXh0ID0gcmVzWyJkYXRhIl1bImxhYmVsVGV4dCJdOwo=</text>
+        <text encoding="base64">ICAgIHt7IGxvZyB9fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvL2xhYmVsVGV4dDpzdHJpbmcgPSAnw7/R+8fr16Ky4bPJuaYxMMP708O7p6Osv8m78bXD0ru0zszYyKi7+rvhJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMubGFiZWxUZXh0ID0gcmVzWyJkYXRhIl1bImxhYmVsVGV4dCJdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAvL2xhYmVsVGV4dDpzdHJpbmcgPSAnw7/R+8fr16Ky4bPJuaYxMMP708O7p6Osv8m78bXD0ru0zszYyKi7+rvhJwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>活动展示价</last-search>
+      <last-search>formslot</last-search>
       <last-offset />
-      <last-pattern>活动展示价</last-pattern>
+      <last-pattern>formslot</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
