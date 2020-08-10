@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>formslot:</entry>
         <entry>group</entry>
         <entry>form\.activity</entry>
         <entry>labelTeXT</entry>
@@ -25,6 +24,7 @@
         <entry>getData</entry>
         <entry>rules</entry>
         <entry>开始时间</entry>
+        <entry>husky</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -144,17 +144,23 @@
         <mark key="." line="964" column="102" />
         <mark key="^" line="964" column="103" />
       </file>
+      <file name="C:/project/jxg-ops/package.json" timestamp="1597071877231">
+        <mark key="[" line="68" column="21" />
+        <mark key="]" line="68" column="25" />
+        <mark key="^" line="68" column="25" />
+        <mark key="." line="68" column="24" />
+      </file>
       <file name="E:/jxgwxapp/src/pages/activity/limitPrice.vue" timestamp="1597059444603">
         <mark key="[" line="54" column="26" />
         <mark key="]" line="54" column="35" />
         <mark key="^" line="54" column="35" />
         <mark key="." line="54" column="34" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" timestamp="1597061514287">
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" timestamp="1597071888415">
         <mark key="'" line="263" column="19" />
-        <mark key="[" line="330" column="11" />
-        <mark key="]" line="331" column="27" />
-        <mark key="." line="331" column="26" />
+        <mark key="[" line="325" column="0" />
+        <mark key="]" line="325" column="0" />
+        <mark key="." line="325" column="0" />
         <mark key="^" line="331" column="27" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1597067815077">
@@ -164,20 +170,12 @@
         <mark key="." line="494" column="0" />
         <mark key="^" line="491" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597067939267">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="E:/jxgh5/src/views/goodsList/goodsDetail.vue" timestamp="1597051536942">
-        <mark key="'" line="867" column="33" />
-        <mark key="[" line="1086" column="23" />
-        <mark key="]" line="1087" column="11" />
-        <mark key="^" line="1087" column="11" />
-        <mark key="." line="1087" column="10" />
-      </file>
-      <file name="E:/jxgh5/src/views/shareH5/goodsDetail/index.vue" timestamp="1597051670714">
-        <mark key="'" line="885" column="8" />
+      <file name="C:/project/jxg-ops/src/const/avue/option.js" timestamp="1597069372626">
+        <mark key="'" line="77" column="17" />
+        <mark key="[" line="77" column="17" />
+        <mark key="]" line="77" column="17" />
+        <mark key="." line="77" column="17" />
+        <mark key="^" line="77" column="17" />
       </file>
       <file name="C:/project/jxg-ops/src/api/limitDiscount.js" timestamp="1597061466622">
         <mark key="'" line="95" column="3" />
@@ -195,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="13" filename="E:/jxgh5/src/views/shareH5/oneCent/index.vue" />
       <jump line="167" column="0" filename="E:/jxgh5/src/components/oneCent/centProcess.vue" />
       <jump line="66" column="34" filename="E:/jxgh5/src/views/shareH5/oneCent/index.vue" />
       <jump line="21" column="21" filename="E:/jxgh5/src/views/oneCent/index.vue" />
@@ -295,18 +292,19 @@
       <jump line="113" column="14" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="124" column="7" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="243" column="0" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
+      <jump line="77" column="17" filename="C:/project/jxg-ops/src/const/avue/option.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>loading</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>开始时间</text>
+        <text>husky</text>
       </register>
       <register name="0" type="4">
         <text>moment(value).isBefore(moment())</text>
@@ -342,9 +340,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>开始时间</last-search>
+      <last-search>husky</last-search>
       <last-offset />
-      <last-pattern>开始时间</last-pattern>
+      <last-pattern>husky</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
