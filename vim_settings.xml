@@ -128,6 +128,9 @@
         <mark key="." line="319" column="64" />
         <mark key="^" line="319" column="65" />
       </file>
+      <file name="/Dummy.txt" timestamp="1597074137009">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/jxgh5/src/views/activity/newZone/index.vue" timestamp="1597051857865">
         <mark key="'" line="171" column="25" />
       </file>
@@ -137,6 +140,12 @@
       <file name="C:/project/jxg-ops/src/views/dept/user.vue" timestamp="1597062881862">
         <mark key="'" line="31" column="31" />
       </file>
+      <file name="C:/project/jxg-ops/test.js" timestamp="1597074089823">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="21" />
+      </file>
       <file name="E:/jxgh5/src/plugin/commonData.ts" timestamp="1597051892215">
         <mark key="'" line="762" column="48" />
         <mark key="[" line="964" column="102" />
@@ -144,11 +153,18 @@
         <mark key="." line="964" column="102" />
         <mark key="^" line="964" column="103" />
       </file>
-      <file name="C:/project/jxg-ops/package.json" timestamp="1597071877231">
-        <mark key="[" line="68" column="21" />
-        <mark key="]" line="68" column="25" />
-        <mark key="^" line="68" column="25" />
-        <mark key="." line="68" column="24" />
+      <file name="C:/project/jxg-ops/src/const/avue/option.js" timestamp="1597069372626">
+        <mark key="'" line="77" column="17" />
+        <mark key="[" line="77" column="17" />
+        <mark key="]" line="77" column="17" />
+        <mark key="." line="77" column="17" />
+        <mark key="^" line="77" column="17" />
+      </file>
+      <file name="C:/project/jxg-ops/package.json" timestamp="1597074134833">
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="62" column="30" />
+        <mark key="^" line="62" column="30" />
+        <mark key="." line="62" column="29" />
       </file>
       <file name="E:/jxgwxapp/src/pages/activity/limitPrice.vue" timestamp="1597059444603">
         <mark key="[" line="54" column="26" />
@@ -156,11 +172,11 @@
         <mark key="^" line="54" column="35" />
         <mark key="." line="54" column="34" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" timestamp="1597071888415">
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" timestamp="1597074233298">
         <mark key="'" line="263" column="19" />
-        <mark key="[" line="325" column="0" />
-        <mark key="]" line="325" column="0" />
-        <mark key="." line="325" column="0" />
+        <mark key="[" line="326" column="5" />
+        <mark key="]" line="326" column="5" />
+        <mark key="." line="326" column="5" />
         <mark key="^" line="331" column="27" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1597067815077">
@@ -169,13 +185,6 @@
         <mark key="]" line="494" column="0" />
         <mark key="." line="494" column="0" />
         <mark key="^" line="491" column="48" />
-      </file>
-      <file name="C:/project/jxg-ops/src/const/avue/option.js" timestamp="1597069372626">
-        <mark key="'" line="77" column="17" />
-        <mark key="[" line="77" column="17" />
-        <mark key="]" line="77" column="17" />
-        <mark key="." line="77" column="17" />
-        <mark key="^" line="77" column="17" />
       </file>
       <file name="C:/project/jxg-ops/src/api/limitDiscount.js" timestamp="1597061466622">
         <mark key="'" line="95" column="3" />
@@ -310,31 +319,38 @@
         <text>moment(value).isBefore(moment())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiKi57anMsY3NzLG1kfSI6ICJwcmV0dGllciAtLXdyaXRlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyLCBkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAiKi57anMsY3NzLG1kfSI6ICJwcmV0dGllciAtLXdyaXRlIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZG9uZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGRvbmUpOwo=</text>
+      <register name="4" type="4">
+        <text>&quot;*.js&quot;: [
+            &quot;vue-cli-service lint&quot;,
+            &quot;git add&quot;
+        ],
+        &quot;*.vue&quot;: [
+            &quot;vue-cli-service lint&quot;,
+            &quot;git add&quot;
+        ],</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9uZSgpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZGluZygpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMTIzKTsK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyLCBkYXRhKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgIHJlcXVpcmVkOiB0cnVlLAogICAgICAgICAgICAgICAgICBtZXNzYWdlOiAnx+vRodTx08W73bX+vNMnLAogICAgICAgICAgICAgICAgICB0cmlnZ2VyOiAnYmx1cicsCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIF0sCiAgICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZG9uZSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGRvbmUpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZG9uZSgpOwo=</text>
       </register>
     </registers>
   </component>
