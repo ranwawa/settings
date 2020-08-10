@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>await</entry>
-        <entry>created</entry>
         <entry>onLoad</entry>
         <entry>submit</entry>
         <entry>test</entry>
@@ -25,6 +23,8 @@
         <entry>group</entry>
         <entry>formslot</entry>
         <entry>form\.activity</entry>
+        <entry>labelTeXT</entry>
+        <entry>labelText</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,7 +121,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgh5/src/views/oneCent/index.vue" timestamp="1596968607860" />
+      <file name="E:/jxgh5/src/views/oneCent/index.vue" timestamp="1597043319861">
+        <mark key="'" line="192" column="24" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="195" column="32" />
+        <mark key="." line="123" column="0" />
+      </file>
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1596808924295">
         <mark key="[" line="271" column="8" />
         <mark key="]" line="271" column="23" />
@@ -138,14 +143,15 @@
       <file name="C:/project/jxg-ops/src/views/member/config/facilitatorFormConfig.js" timestamp="1597030695914">
         <mark key="'" line="371" column="16" />
       </file>
-      <file name="E:/jxgh5/src/style/oneCent/oneCent.scss" timestamp="1596968833667">
-        <mark key="[" line="35" column="120" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="37" column="27" />
-        <mark key="^" line="37" column="28" />
+      <file name="E:/jxgh5/src/style/oneCent/oneCent.scss" timestamp="1597042934166">
+        <mark key="'" line="31" column="24" />
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="16" />
+        <mark key="." line="39" column="15" />
+        <mark key="^" line="39" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596968956958">
-        <mark key="[" line="2" column="0" />
+      <file name="/Dummy.txt" timestamp="1597043670812">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
@@ -166,12 +172,12 @@
         <mark key="." line="88" column="14" />
         <mark key="^" line="17" column="41" />
       </file>
-      <file name="E:/jxgh5/src/views/shareH5/oneCent/index.vue" timestamp="1596968798659">
-        <mark key="'" line="66" column="34" />
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="32" />
-        <mark key="." line="1" column="31" />
-        <mark key="^" line="1" column="32" />
+      <file name="E:/jxgh5/src/views/shareH5/oneCent/index.vue" timestamp="1597043695821">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="C:/project/jxg-ops/src/api/limitDiscount.js" timestamp="1597029113441">
         <mark key="'" line="40" column="25" />
@@ -181,27 +187,15 @@
         <mark key="^" line="103" column="21" />
       </file>
       <file name="C:/project/jxg-ops/src/views/member/facilitator/facilitatorForm.vue" timestamp="1597030629514" />
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1597031948938">
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1597031966943">
         <mark key="'" line="99" column="12" />
-        <mark key="[" line="73" column="28" />
-        <mark key="]" line="74" column="34" />
-        <mark key="." line="74" column="33" />
-        <mark key="^" line="74" column="34" />
+        <mark key="[" line="74" column="24" />
+        <mark key="]" line="74" column="24" />
+        <mark key="." line="74" column="23" />
+        <mark key="^" line="74" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="0" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
-      <jump line="374" column="2" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
-      <jump line="622" column="2" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
-      <jump line="130" column="16" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
-      <jump line="258" column="27" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
-      <jump line="396" column="2" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
-      <jump line="659" column="2" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
-      <jump line="744" column="2" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
-      <jump line="45" column="31" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
-      <jump line="167" column="31" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
-      <jump line="479" column="2" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
-      <jump line="863" column="8" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
       <jump line="872" column="2" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
       <jump line="589" column="13" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
       <jump line="759" column="22" filename="E:/jxgh5/src/views/mine/collectionAndTrace.vue" />
@@ -225,8 +219,6 @@
       <jump line="277" column="38" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
       <jump line="82" column="56" filename="E:/jxgh5/vue.config.js" />
       <jump line="30" column="11" filename="E:/jxgh5/src/views/oneCent/index.vue" />
-      <jump line="35" column="9" filename="E:/jxgh5/src/views/oneCent/index.vue" />
-      <jump line="192" column="15" filename="E:/jxgh5/src/views/oneCent/index.vue" />
       <jump line="13" column="0" filename="E:/jxgh5/src/style/oneCent/oneCent.scss" />
       <jump line="6" column="17" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
       <jump line="889" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -290,62 +282,70 @@
       <jump line="131" column="24" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="371" column="16" filename="C:/project/jxg-ops/src/views/member/config/facilitatorFormConfig.js" />
       <jump line="99" column="12" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
+      <jump line="135" column="0" filename="E:/jxgh5/src/views/shareH5/oneCent/index.vue" />
+      <jump line="31" column="24" filename="E:/jxgh5/src/style/oneCent/oneCent.scss" />
+      <jump line="6" column="34" filename="E:/jxgh5/src/views/shareH5/oneCent/index.vue" />
+      <jump line="127" column="17" filename="E:/jxgh5/src/views/shareH5/oneCent/index.vue" />
+      <jump line="219" column="25" filename="E:/jxgh5/src/views/shareH5/oneCent/index.vue" />
+      <jump line="18" column="2" filename="E:/jxgh5/src/views/oneCent/index.vue" />
+      <jump line="35" column="20" filename="E:/jxgh5/src/views/oneCent/index.vue" />
+      <jump line="123" column="2" filename="E:/jxgh5/src/views/oneCent/index.vue" />
+      <jump line="184" column="0" filename="E:/jxgh5/src/views/shareH5/oneCent/index.vue" />
+      <jump line="0" column="0" filename="E:/jxgh5/src/views/shareH5/oneCent/index.vue" />
+      <jump line="20" column="20" filename="E:/jxgh5/src/views/shareH5/oneCent/index.vue" />
+      <jump line="46" column="20" filename="E:/jxgh5/src/views/shareH5/oneCent/index.vue" />
+      <jump line="99" column="0" filename="E:/jxgh5/src/views/shareH5/oneCent/index.vue" />
+      <jump line="192" column="24" filename="E:/jxgh5/src/views/oneCent/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHQtdGltZT0iIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>每邀请注册成功10名用户，可获得一次特权机会</text>
       </register>
       <register name="/" type="4">
-        <text>form\.activity</text>
+        <text>labelText</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2aXR5SWQgPSByZXNbImRhdGEiXVsicmVmQWN0aXZpdHlJZCJdIHx8ICIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCB0ZXh0ID0gcmVzWyJkYXRhIl1bImxhYmVsVGV4dCJdOwogICAgICAgICAgdGV4dCA9IHRleHQucmVwbGFjZSgn1ru/2tXWJywgJ7fdusPA8ScpOwogICAgICAgICAgdGV4dCA9IHRleHQucmVwbGFjZSgno6wnLCAnPGJyID4nKTsKICAgICAgICAgIHRoaXMubGFiZWxUZXh0ID0gdGV4dDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHQtdGltZT0iIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHQtdGltZT0iIgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gu+62r7nm1PIgLS0+CiAgICA8ZGl2CiAgICAgIGNsYXNzPSJvbmVDZW50LWljb24iCiAgICAgIHYtaWY9ImFjdGl2aXR5RGVzY3JpYmUiCiAgICAgIEBjbGljay5zdG9wPSJydWxlU2hvd0Z1biIKICAgID4KICAgICAgu+62r7nm1PIKICAgIDwvZGl2Pg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZWwtcm93PjEyMzwvZWwtcm93Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgPGRpdgogICAgICAgIGNsYXNzPSJvbmVDZW50LWljb24iCiAgICAgICAgdi1pZj0iYWN0aXZpdHlEZXNjcmliZSIKICAgICAgICBAY2xpY2suc3RvcD0icnVsZVNob3dGdW4iCiAgICAgID4KICAgICAgICA8aT677ravPC9pPgogICAgICAgIDxzcGFuPrnm1PI8L3NwYW4+CiAgICAgIDwvZGl2Pg==</text>
       </register>
-      <register name="6" type="4">
-        <text>rules: [
-                {
-                  required: true,
-                  message: '请选择开始时间',
-                  trigger: 'blur'
-                }
-              ]</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHt7IGxvZyB9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcm9wOiAnc3RhcnRUaW1lJywK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMubGFiZWxUZXh0ID0gcmVzWyJkYXRhIl1bImxhYmVsVGV4dCJdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsYWJlbDogJ7+qyrzKsbzkJywK</text>
+        <text encoding="base64">ICAvL2xhYmVsVGV4dDpzdHJpbmcgPSAnw7/R+8fr16Ky4bPJuaYxMMP708O7p6Osv8m78bXD0ru0zszYyKi7+rvhJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmb3Jtc2xvdDogdHJ1ZSwK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>form\.activity</last-search>
+      <last-search>labelText</last-search>
       <last-offset />
-      <last-pattern>form\.activity</last-pattern>
+      <last-pattern>labelText</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
