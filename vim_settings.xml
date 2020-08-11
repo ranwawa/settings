@@ -121,8 +121,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1597066773807">
-        <mark key="'" line="133" column="27" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1597117034801">
+        <mark key="'" line="317" column="33" />
         <mark key="[" line="319" column="20" />
         <mark key="]" line="319" column="65" />
         <mark key="." line="319" column="64" />
@@ -130,6 +130,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1597114206037">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1597117369475">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="E:/jxgh5/src/views/activity/newZone/index.vue" timestamp="1597051857865">
         <mark key="'" line="171" column="25" />
@@ -206,17 +211,15 @@
         <mark key="^" line="23" column="50" />
         <mark key="." line="23" column="49" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1597068740071">
-        <mark key="'" line="243" column="0" />
-        <mark key="[" line="246" column="80" />
-        <mark key="]" line="247" column="21" />
-        <mark key="." line="247" column="20" />
-        <mark key="^" line="247" column="21" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1597117049643">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="34" filename="E:/jxgh5/src/views/shareH5/oneCent/index.vue" />
-      <jump line="21" column="21" filename="E:/jxgh5/src/views/oneCent/index.vue" />
       <jump line="178" column="39" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="2" column="2" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="63" column="15" filename="C:/project/jxg-ops/src/api/limitDiscount.js" />
@@ -315,15 +318,17 @@
       <jump line="243" column="0" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="77" column="17" filename="C:/project/jxg-ops/src/const/avue/option.js" />
       <jump line="6" column="0" filename="C:/project/jxg-ops/.pretterrc.js" />
+      <jump line="104" column="0" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
+      <jump line="317" column="33" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZGlyZWN0OiAnL29wZXJhdGlvbi9saW1pdERpc2NvdW50L2xpc3QnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>basic-container</text>
       </register>
       <register name="/" type="4">
         <text>husky</text>
@@ -332,18 +337,21 @@
         <text>moment(value).isBefore(moment())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqIEBmb3JtYXQgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZGlyZWN0OiAnL29wZXJhdGlvbi9saW1pdERpc2NvdW50L2xpc3QnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiKi57anMsY3NzLG1kfSI6ICJwcmV0dGllciAtLXdyaXRlIgo=</text>
+        <text encoding="base64">LyoqIEBmb3JtYXQgKi8K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAiKi57anMsY3NzLG1kfSI6ICJwcmV0dGllciAtLXdyaXRlIgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAiKi57anMsY3NzLG1kfSI6ICJwcmV0dGllciAtLXdyaXRlIgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>&quot;*.js&quot;: [
             &quot;vue-cli-service lint&quot;,
             &quot;git add&quot;
@@ -353,17 +361,14 @@
             &quot;git add&quot;
         ],</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyLCBkYXRhKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZG9uZSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGRvbmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZG9uZSk7Cg==</text>
       </register>
     </registers>
   </component>
