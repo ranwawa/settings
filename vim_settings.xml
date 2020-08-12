@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>init()</entry>
         <entry>image</entry>
         <entry>rpx</entry>
         <entry encoding="base64">IHJweA==</entry>
@@ -25,6 +24,7 @@
         <entry>prop=&quot;pic&quot;</entry>
         <entry>slot=&quot;pic&quot;</entry>
         <entry>submit</entry>
+        <entry>限购数量</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,8 +121,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1597144712565">
-        <mark key="'" line="397" column="5" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1597202249050">
+        <mark key="'" line="400" column="5" />
+        <mark key="[" line="105" column="60" />
+        <mark key="]" line="283" column="32" />
+        <mark key="." line="283" column="0" />
+        <mark key="^" line="115" column="37" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/privilege/privilegeForm.vue" timestamp="1597140484157">
         <mark key="'" line="531" column="19" />
@@ -131,6 +135,7 @@
         <mark key="^" line="531" column="30" />
         <mark key="." line="530" column="18" />
       </file>
+      <file name="E:/jxgwxapp/src/config.ts" timestamp="1597201306272" />
       <file name="E:/jxgwxapp/src/api/goods.ts" timestamp="1597131874028">
         <mark key="'" line="44" column="29" />
         <mark key="[" line="43" column="71" />
@@ -138,22 +143,24 @@
         <mark key="." line="43" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/WeChat Files/ranwawag/FileStorage/File/2020-08/new 2" timestamp="1597137425730" />
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" timestamp="1597147047758">
-        <mark key="'" line="228" column="2" />
-        <mark key="[" line="360" column="17" />
-        <mark key="]" line="361" column="10" />
-        <mark key="." line="361" column="9" />
-        <mark key="^" line="361" column="10" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" timestamp="1597202039734">
+        <mark key="'" line="274" column="25" />
+        <mark key="[" line="358" column="0" />
+        <mark key="]" line="358" column="0" />
+        <mark key="." line="358" column="0" />
+        <mark key="^" line="349" column="47" />
       </file>
-      <file name="E:/jxgwxapp/package.json" timestamp="1597129785397">
-        <mark key="'" line="98" column="5" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1597202253500">
+        <mark key="'" line="115" column="15" />
+        <mark key="[" line="112" column="60" />
+        <mark key="]" line="488" column="0" />
+        <mark key="." line="488" column="0" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1597146942770">
-        <mark key="'" line="421" column="39" />
-        <mark key="[" line="494" column="0" />
-        <mark key="]" line="494" column="0" />
-        <mark key="." line="494" column="0" />
-        <mark key="^" line="491" column="48" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/common.ts" timestamp="1597201364095">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="1" />
+        <mark key="^" line="22" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1597143768868">
         <mark key="[" line="0" column="0" />
@@ -165,30 +172,32 @@
         <mark key="^" line="274" column="5" />
         <mark key="." line="274" column="4" />
       </file>
-      <file name="E:/jxgwxapp/vue.config.js" timestamp="1597130672535">
-        <mark key="'" line="25" column="11" />
-        <mark key="[" line="40" column="11" />
-        <mark key="]" line="40" column="24" />
-        <mark key="." line="40" column="23" />
-        <mark key="^" line="40" column="24" />
-      </file>
       <file name="C:/project/jxg-ops/vue.config.js" timestamp="1597148017459">
         <mark key="[" line="20" column="44" />
         <mark key="]" line="20" column="45" />
         <mark key="." line="20" column="45" />
       </file>
+      <file name="C:/project/jxg-ops/src/api/limitDiscount.ts" timestamp="1597202205583">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="27" />
+      </file>
       <file name="/commonData.ts" timestamp="1597143758647" />
       <file name="E:/jxgh5/src/views/shareH5/oneCent/index.vue" timestamp="1597131893319">
         <mark key="'" line="111" column="21" />
       </file>
-      <file name="C:/project/jxg-ops/src/api/limitDiscount.js" timestamp="1597147038236">
-        <mark key="[" line="81" column="17" />
-        <mark key="]" line="81" column="17" />
-        <mark key="." line="81" column="17" />
+      <file name="C:/project/jxg-ops/src/api/limitDiscount.js" timestamp="1597201058541">
+        <mark key="[" line="89" column="22" />
+        <mark key="]" line="89" column="32" />
+        <mark key="." line="89" column="31" />
+        <mark key="^" line="89" column="32" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/canvas-helper.ts" timestamp="1597129740262">
-        <mark key="'" line="207" column="8" />
-        <mark key="^" line="196" column="27" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1597202258639">
+        <mark key="[" line="78" column="60" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="6" />
       </file>
       <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597147429869">
         <mark key="'" line="683" column="2" />
@@ -199,9 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="21" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
-      <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
-      <jump line="31" column="31" filename="C:/project/jxg-ops/src/views/dept/user.vue" />
       <jump line="152" column="17" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="128" column="12" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="211" column="49" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
@@ -299,56 +305,72 @@
       <jump line="397" column="5" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
       <jump line="228" column="2" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
       <jump line="421" column="39" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
+      <jump line="115" column="15" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
+      <jump line="219" column="9" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
+      <jump line="273" column="25" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>activityPrice</text>
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>activityPrice</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text>限购数量</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gZGF0YS5hY3Rpdml0eVByaWNlILvutq+827jxCg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gZGF0YS5yZWZTa3VDb2RlIM/eyrHHwLm6c2t1Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IGEgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CXdhdGNoOiB7CgkJZGF0YShuZXdWYWx1ZSwgb2xkVmFsdWUpIHsKCQkJOwoJCX0sCgl9LA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtLnJlZlNrdUNvZGUgPSB0aGlzSXRlbS5za3VDb2RlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGRldnRvb2wsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICMwMDA7Cg==</text>
+      <register name="4" type="4">
+        <text>[
+
+              ]</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwo=</text>
+      <register name="6" type="4">
+        <text>[
+            'refGoodsName',
+            'promContent',
+            'activityPrice',
+            'showPrice',
+            'totalInventory',
+            'limitedQuantity',
+            'saledNum',
+            'priority',
+            'activityPicture',
+            'id',
+          ]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB0cmFuc3BhcmVudDsK</text>
+        <text encoding="base64">ICB2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5yZXRyeVRpbWVzLCAitM607c7zIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFtudWxsLCB0aGlzLmNhbnZhcy50b0RhdGFVUkwoKV0pOwo=</text>
+        <text encoding="base64">ICAgICAgICByZWYK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>submit</last-search>
+      <last-search>限购数量</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern>限购数量</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
