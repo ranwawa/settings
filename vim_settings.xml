@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>import</entry>
-        <entry>type: 2</entry>
-        <entry>服务商收益</entry>
-        <entry>submit</entry>
         <entry>删除</entry>
         <entry>this.shareImg</entry>
         <entry>this.shareImg =</entry>
@@ -17,7 +13,6 @@
         <entry>myCanvas</entry>
         <entry>drawImage</entry>
         <entry>draw</entry>
-        <entry>path</entry>
         <entry>click</entry>
         <entry>computed</entry>
         <entry>getUserInfo</entry>
@@ -25,6 +20,11 @@
         <entry>立即</entry>
         <entry>computedButtonStats</entry>
         <entry>test</entry>
+        <entry>&quot;text</entry>
+        <entry>setU</entry>
+        <entry>set</entry>
+        <entry>userInfo</entry>
+        <entry>path</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -142,7 +142,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1597300710356">
+      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1597301296934">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="271" column="4" />
         <mark key="]" line="271" column="5" />
@@ -156,15 +156,18 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="224" column="6" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/mine/index.vue" timestamp="1597298815623">
-        <mark key="'" line="128" column="28" />
+      <file name="E:/jxgwxapp/src/index/poster.vue" timestamp="1597300909931">
+        <mark key="'" line="206" column="14" />
+      </file>
+      <file name="E:/jxgwxapp/src/pages/mine/index.vue" timestamp="1597301520794">
+        <mark key="'" line="199" column="16" />
         <mark key="[" line="9" column="41" />
         <mark key="]" line="9" column="70" />
         <mark key="." line="9" column="69" />
         <mark key="^" line="9" column="70" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597299335179">
-        <mark key="'" line="248" column="15" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597301845157">
+        <mark key="'" line="810" column="8" />
         <mark key="[" line="614" column="70" />
         <mark key="]" line="614" column="84" />
         <mark key="." line="614" column="83" />
@@ -184,10 +187,7 @@
         <mark key="." line="332" column="32" />
         <mark key="^" line="332" column="33" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" timestamp="1597244823622">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1597298817423">
+      <file name="/Dummy.txt" timestamp="1597301367806">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/config/test.ts" timestamp="1597299290565">
@@ -220,28 +220,16 @@
         <mark key="." line="37" column="31" />
         <mark key="^" line="37" column="32" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/canvas-helper.ts" timestamp="1597297171985">
+      <file name="E:/jxgwxapp/src/assets/js/canvas-helper.ts" timestamp="1597301969031">
         <mark key="'" line="207" column="8" />
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="15" column="2" />
-        <mark key="^" line="15" column="2" />
-        <mark key="." line="15" column="1" />
+        <mark key="[" line="184" column="49" />
+        <mark key="]" line="185" column="22" />
+        <mark key="^" line="185" column="22" />
+        <mark key="." line="185" column="21" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1597299357639" />
     </filemarks>
     <jumps>
-      <jump line="319" column="23" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="192" column="24" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="4" column="24" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
-      <jump line="49" column="17" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
-      <jump line="203" column="29" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="373" column="5" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="347" column="34" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
-      <jump line="14" column="15" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/common.js" />
-      <jump line="150" column="17" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="151" column="59" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="152" column="51" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="156" column="32" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="157" column="67" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="168" column="32" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="171" column="88" filename="C:/project/jxg-ops/src/router/views/operation.js" />
@@ -309,10 +297,6 @@
       <jump line="918" column="6" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="920" column="6" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1039" column="42" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="704" column="12" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="708" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="779" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="810" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="205" column="8" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
       <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
       <jump line="10" column="7" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
@@ -330,6 +314,22 @@
       <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="248" column="15" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="101" column="0" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
+      <jump line="190" column="19" filename="E:/jxgwxapp/src/index/poster.vue" />
+      <jump line="195" column="14" filename="E:/jxgwxapp/src/index/poster.vue" />
+      <jump line="206" column="14" filename="E:/jxgwxapp/src/index/poster.vue" />
+      <jump line="259" column="0" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
+      <jump line="171" column="27" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
+      <jump line="172" column="35" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
+      <jump line="173" column="30" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
+      <jump line="200" column="35" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
+      <jump line="191" column="20" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
+      <jump line="199" column="16" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
+      <jump line="1164" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="704" column="12" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="708" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="745" column="15" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="779" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="810" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,7 +341,7 @@
         <text encoding="base64">bWVtYmVySW5mby5uaWNrTmFtZSAmJiBtZW1iZXJJbmZvLm5pY2tOYW1lID8gbWVtYmVySW5mby5uaWNrTmFtZSA6</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuY3Rpb24gcDJwKHB4OiBudW1iZXIpOiBudW1iZXIgewogIHJldHVybiB1cHgycHgocHggKiAyKTsKfQo=</text>
@@ -388,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>test</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>path</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
