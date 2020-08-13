@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>优惠券</entry>
-        <entry>结束时间</entry>
         <entry>管理商品</entry>
         <entry>goPage</entry>
         <entry>添加活动商品</entry>
@@ -25,6 +23,8 @@
         <entry>drawImage</entry>
         <entry>draw</entry>
         <entry>path</entry>
+        <entry>click</entry>
+        <entry>computed</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -128,19 +128,19 @@
         <mark key="^" line="92" column="39" />
         <mark key="." line="92" column="38" />
       </file>
+      <file name="E:/jxgwxapp/src/pages/master/anchorAuth.vue" timestamp="1597297988072">
+        <mark key="'" line="77" column="17" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="3" />
+      </file>
       <file name="E:/jxgwxapp/babel.config.js" timestamp="1597290099616" />
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/common.js" timestamp="1597244946085">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/common.js" timestamp="1597244626927">
-        <mark key="'" line="26" column="7" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1597290188523">
         <mark key="[" line="271" column="4" />
@@ -155,12 +155,12 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="224" column="6" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1597244705571">
-        <mark key="'" line="58" column="23" />
-        <mark key="[" line="63" column="40" />
-        <mark key="]" line="63" column="41" />
-        <mark key="." line="63" column="40" />
-        <mark key="^" line="63" column="41" />
+      <file name="E:/jxgwxapp/src/pages/mine/index.vue" timestamp="1597298761329">
+        <mark key="'" line="128" column="28" />
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="70" />
+        <mark key="." line="9" column="69" />
+        <mark key="^" line="9" column="70" />
       </file>
       <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597297370220">
         <mark key="[" line="614" column="70" />
@@ -233,16 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="7" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="11" column="6" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="274" column="19" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="324" column="13" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="385" column="8" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
-      <jump line="116" column="20" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
-      <jump line="166" column="26" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
-      <jump line="196" column="15" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
-      <jump line="1" column="13" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
-      <jump line="241" column="29" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
       <jump line="12" column="35" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
       <jump line="293" column="42" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
       <jump line="297" column="34" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
@@ -333,32 +323,48 @@
       <jump line="708" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="779" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="810" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="205" column="8" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
+      <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
+      <jump line="10" column="7" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
+      <jump line="49" column="16" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
+      <jump line="63" column="15" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
+      <jump line="77" column="17" filename="E:/jxgwxapp/src/pages/master/anchorAuth.vue" />
+      <jump line="60" column="46" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
+      <jump line="130" column="0" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
+      <jump line="25" column="14" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
+      <jump line="128" column="28" filename="E:/jxgwxapp/src/pages/mine/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">bWVtYmVySW5mby5uaWNrTmFtZSAmJiBtZW1iZXJJbmZvLm5pY2tOYW1lID8gbWVtYmVySW5mby5uaWNrTmFtZSA6</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">bWVtYmVySW5mby5uaWNrTmFtZSAmJiBtZW1iZXJJbmZvLm5pY2tOYW1lID8gbWVtYmVySW5mby5uaWNrTmFtZSA6</text>
       </register>
       <register name="/" type="4">
-        <text>path</text>
+        <text>computed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuY3Rpb24gcDJwKHB4OiBudW1iZXIpOiBudW1iZXIgewogIHJldHVybiB1cHgycHgocHggKiAyKTsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzLCBkYXRhKTsK</text>
+        <text encoding="base64">CWdldCBjb21wdXRlZEhlYWRJbWcgKCkgCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzLCBkYXRhKTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgLi4uY29sTGFiZWwoJ7zkvdPNxrz2yMvK1dLmJywgJ3RlYW1SZXdhcmRTZWMnKSwKICAgICAgICAgICAgICB3aWR0aDogMTQ1LAogICAgICAgICAgICB9LA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
               ...colLabel('服务商收益', 'serverIncome'),
               width: 145,
@@ -372,28 +378,22 @@
               width: 145,
             },</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAqIEBwYXJhbSBkYXRhLmFjdGl2aXR5UHJpY2Ugu+62r7zbuPEKICAgKiBAcGFyYW0gZGF0YS5nb29kc1Nob3J0TmFtZSDJzMa3tszD+7PGCiAgICogQHBhcmFtIGRhdGEubGltaXRlZFF1YW50aXR5IM/eubrK/cG/CiAgICogQHBhcmFtIGRhdGEucHJpb3JpdHkg08XPyLy2o6zUvbjfyczGt9S9v7/HsCzErMjPMAogICAqIEBwYXJhbSBkYXRhLnByb21Db250ZW50IND7tKvE2sjdCiAgICogQHBhcmFtIGRhdGEucmVmQWN0aXZpdHlJZCC77ravSUQKICAgKiBAcGFyYW0gZGF0YS5yZWZHb29kc0NvZGUgyczGt7HgusUKICAgKiBAcGFyYW0gZGF0YS5yZWZHb29kc0lkIMnMxrdJRAogICAqIEBwYXJhbSBkYXRhLnJlZkdvb2RzTmFtZSDJzMa3w/uzxgogICAqIEBwYXJhbSBkYXRhLnJlZkdvb2RzUGljIMnMxrfNvMasCiAgICogQHBhcmFtIGRhdGEucmVmU2t1Q29kZSDJzMa3c2t1CiAgICogQHBhcmFtIGRhdGEuc2FsZWROdW0g0OnE4tLRytvK/cG/CiAgICogQHBhcmFtIGRhdGEuc2VydmVySW5jb21lILf+zvHJzMrV0uYKICAgKiBAcGFyYW0gZGF0YS5zaG9wa2VlcGVySW5jb21lILXq1vfK1dLmCiAgICogQHBhcmFtIGRhdGEuc2hvcGtlZXBlclRlYW1JbmNvbWUgterW983FttPK1dLmCiAgICogQHBhcmFtIGRhdGEuc2hvd1ByaWNlILvutq/P1Mq+vNsKICAgKiBAcGFyYW0gZGF0YS50ZWFtUmV3YXJkU2VjILb+vLbNxbbUytXS5gogICAqIEBwYXJhbSBkYXRhLnRvdGFsSW52ZW50b3J5ILvutq+/4rTmCiAgICogQHBhcmFtIGRhdGEudHlwZSC77ravwODQzSAyz97KsdXbv9s=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAndGVhbVJld2FyZFNlYycsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAnc2hvcGtlZXBlclRlYW1JbmNvbWUnLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAnc2hvcGtlZXBlckluY29tZScsCg==</text>
+        <text encoding="base64">ICAndGVhbVJld2FyZFNlYycsCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>path</last-search>
+      <last-search>computed</last-search>
       <last-offset />
-      <last-pattern>path</last-pattern>
+      <last-pattern>computed</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
