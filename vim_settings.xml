@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>click</entry>
         <entry>computed</entry>
         <entry>getUserInfo</entry>
         <entry>buyNow</entry>
@@ -25,6 +24,7 @@
         <entry>rowEdit</entry>
         <entry>text-int</entry>
         <entry>test-int</entry>
+        <entry>活动图片</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -149,12 +149,12 @@
         <mark key="^" line="147" column="25" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1597311475548">
-        <mark key="'" line="33" column="37" />
-        <mark key="[" line="243" column="51" />
-        <mark key="]" line="243" column="50" />
-        <mark key="." line="243" column="49" />
-        <mark key="^" line="243" column="50" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1597313044604">
+        <mark key="'" line="106" column="27" />
+        <mark key="[" line="244" column="56" />
+        <mark key="]" line="245" column="71" />
+        <mark key="." line="245" column="70" />
+        <mark key="^" line="245" column="71" />
       </file>
       <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597302677263">
         <mark key="'" line="863" column="16" />
@@ -177,8 +177,8 @@
         <mark key="." line="332" column="32" />
         <mark key="^" line="332" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597312399380">
-        <mark key="[" line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1597312628971">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
@@ -214,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="39" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
-      <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
       <jump line="128" column="24" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="358" column="48" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="62" column="61" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
@@ -314,39 +312,42 @@
       <jump line="9" column="37" filename="E:/jxgwxapp/package.json" />
       <jump line="11" column="5" filename="E:/jxgwxapp/package.json" />
       <jump line="13" column="5" filename="E:/jxgwxapp/package.json" />
+      <jump line="232" column="23" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
+      <jump line="106" column="27" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>test和int的platform信息换成小黄蜂的
-
-appId换了,但是对应的枚举没换.导致后端无法识别</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.h5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>test-int</text>
+        <text>活动图片</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBKWEdGV1BUID0gIkpYR0ZXUFQiLCAvLyC8r9Doubq3/s7xxr3MqAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9ybS5zdGFydFRpbWUgPSBmb3JtYXREYXRlVGltZShmb3JtLnN0YXJ0VGltZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9ybSk7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>test和int的platform信息换成小黄蜂的
 
 appId换了,但是对应的枚举没换.导致后端无法识别</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coY3VzdG9tUGxhdGZvcm0sIGNvbmZpZ3VyYXRpb24pOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coY3VzdG9tRW52LCBlbnYpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>switch (customPlatform) {
   case EPlatform.H5:
     break;
@@ -358,25 +359,22 @@ appId换了,但是对应的枚举没换.导致后端无法识别</text>
     break;
 }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb24gPSBlbnZbY3VzdG9tUGxhdGZvcm1dOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Y29uZmlndXJhdGlvbgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y3UK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXBpR2V0R29vZHNMaXN0IH0gZnJvbSAnQC9hcGkvb3BlcmF0aW9uL3NlY2tpbGwnOwo=</text>
+        <text encoding="base64">Y3UK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>test-int</last-search>
+      <last-search>活动图片</last-search>
       <last-offset />
-      <last-pattern>test-int</last-pattern>
+      <last-pattern>活动图片</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
