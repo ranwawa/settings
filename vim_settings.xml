@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>created</entry>
         <entry>rowEdit</entry>
         <entry>text-int</entry>
         <entry>test-int</entry>
@@ -25,6 +24,7 @@
         <entry>limitD</entry>
         <entry>api</entry>
         <entry>limitDiscount</entry>
+        <entry>onLoad</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,41 +121,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-ops/src/views/operation/seckill/goodsInfo.vue" timestamp="1597315273470">
-        <mark key="'" line="399" column="30" />
-      </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/api.js" timestamp="1597316951227">
-        <mark key="'" line="8" column="39" />
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="41" />
-        <mark key="^" line="8" column="41" />
-        <mark key="." line="8" column="40" />
-      </file>
-      <file name="E:/jxgh5/src/views/shareH5/buyNow/index.vue" timestamp="1597324332562" />
-      <file name="E:/jxgwxapp/package.json" timestamp="1597311680112">
-        <mark key="'" line="13" column="5" />
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="10" column="9" />
-        <mark key="^" line="10" column="9" />
-        <mark key="." line="10" column="8" />
-      </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" timestamp="1597316853101">
-        <mark key="'" line="23" column="32" />
-        <mark key="[" line="171" column="35" />
-        <mark key="]" line="171" column="36" />
-        <mark key="^" line="171" column="36" />
-        <mark key="." line="171" column="35" />
-      </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/index.vue" timestamp="1597316749270">
-        <mark key="'" line="8" column="8" />
-      </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1597317013865">
-        <mark key="'" line="77" column="38" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="44" />
-        <mark key="." line="267" column="0" />
-        <mark key="^" line="253" column="44" />
-      </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1597316744415">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="104" column="34" />
@@ -173,6 +138,16 @@
       <file name="C:/project/jxg-ops/src/views/operation/seckill/goods.vue" timestamp="1597314967420">
         <mark key="'" line="37" column="39" />
       </file>
+      <file name="C:/project/jxg-ops/src/views/operation/seckill/goodsInfo.vue" timestamp="1597315273470">
+        <mark key="'" line="399" column="30" />
+      </file>
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/api.js" timestamp="1597316951227">
+        <mark key="'" line="8" column="39" />
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+        <mark key="." line="8" column="40" />
+      </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" timestamp="1597316773277">
         <mark key="'" line="130" column="31" />
         <mark key="[" line="221" column="37" />
@@ -180,6 +155,7 @@
         <mark key="." line="221" column="39" />
         <mark key="^" line="221" column="40" />
       </file>
+      <file name="E:/jxgwxapp/src/pages/activity/limitPrice.vue" timestamp="1597326002039" />
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" timestamp="1597316920049">
         <mark key="'" line="342" column="24" />
         <mark key="[" line="111" column="34" />
@@ -187,34 +163,46 @@
         <mark key="." line="111" column="38" />
         <mark key="^" line="111" column="39" />
       </file>
-      <file name="E:/jxgh5/src/mixin/wechatShare.ts" timestamp="1597324083817" />
-      <file name="C:/project/jxg-ops/src/util/common.js" timestamp="1597313706069" />
       <file name="/Dummy.txt" timestamp="1597316666055">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="E:/jxgwxapp/src/config/test-int.ts" timestamp="1597312339155">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="19" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" timestamp="1597316853101">
+        <mark key="'" line="23" column="32" />
+        <mark key="[" line="171" column="35" />
+        <mark key="]" line="171" column="36" />
+        <mark key="^" line="171" column="36" />
+        <mark key="." line="171" column="35" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/goods/goodsInfo/components/list/sku-list.vue" timestamp="1597315834361" />
-      <file name="C:/project/jxg-ops/src/api/limitDiscount.js" timestamp="1597314533545">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="69" column="82" />
+      <file name="C:/project/live-ops/src/api/config.js" timestamp="1597327178596">
+        <mark key="'" line="32" column="1" />
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="48" />
+        <mark key="^" line="25" column="48" />
+        <mark key="." line="25" column="47" />
       </file>
-      <file name="E:/jxgwxapp/src/config/index.ts" timestamp="1597312318088" />
-      <file name="C:/project/jxg-ops/src/api/operation/seckill.js" timestamp="1597314294665">
-        <mark key="'" line="69" column="6" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/index.vue" timestamp="1597316749270">
+        <mark key="'" line="8" column="8" />
+      </file>
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" timestamp="1597317013865">
+        <mark key="'" line="77" column="38" />
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="44" />
+        <mark key="." line="267" column="0" />
+        <mark key="^" line="253" column="44" />
+      </file>
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597326586502">
+        <mark key="'" line="462" column="15" />
+      </file>
+      <file name="C:/project/live-ops/package.json" timestamp="1597327155780">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1202" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="639" column="11" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="751" column="11" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="409" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="874" column="43" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -313,21 +301,23 @@
       <jump line="318" column="24" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
       <jump line="342" column="24" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsAdd.vue" />
       <jump line="77" column="38" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
+      <jump line="462" column="15" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="32" column="1" filename="C:/project/live-ops/src/api/config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLiRtZXNzYWdlLnN1Y2Nlc3MoJ8ztvNOzybmmJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>requestWrapper</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>limitDiscount</text>
+        <text>onLoad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLiRtZXNzYWdlLnN1Y2Nlc3MoJ8ztvNOzybmmJyk7Cg==</text>
+        <text encoding="base64">ICAgICJidWlsZDp0ZXN0IjogImNyb3NzLWVudiBSRUFDVF9BUFBfRU5WPXRlc3Qgbm9kZSBzY3JpcHRzL2J1aWxkLmpzIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -360,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>limitDiscount</last-search>
+      <last-search>onLoad</last-search>
       <last-offset />
-      <last-pattern>limitDiscount</last-pattern>
+      <last-pattern>onLoad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
