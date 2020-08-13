@@ -142,12 +142,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1597301296934">
+      <file name="E:/jxgwxapp/src/pages/user/bindPhone.vue" timestamp="1597304672185">
         <mark key="'" line="101" column="0" />
-        <mark key="[" line="271" column="4" />
-        <mark key="]" line="271" column="5" />
-        <mark key="^" line="271" column="5" />
-        <mark key="." line="271" column="4" />
+        <mark key="[" line="209" column="20" />
+        <mark key="]" line="211" column="27" />
+        <mark key="^" line="211" column="27" />
+        <mark key="." line="211" column="26" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" timestamp="1597244896895">
         <mark key="'" line="23" column="32" />
@@ -334,8 +334,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bWVtYmVySW5mby5uaWNrTmFtZSAmJiBtZW1iZXJJbmZvLm5pY2tOYW1lID8gbWVtYmVySW5mby5uaWNrTmFtZSA6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVzZXJJbmZvQnlDb2RlCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bWVtYmVySW5mby5uaWNrTmFtZSAmJiBtZW1iZXJJbmZvLm5pY2tOYW1lID8gbWVtYmVySW5mby5uaWNrTmFtZSA6</text>
@@ -347,21 +347,24 @@
         <text encoding="base64">ZnVuY3Rpb24gcDJwKHB4OiBudW1iZXIpOiBudW1iZXIgewogIHJldHVybiB1cHgycHgocHggKiAyKTsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWdldCBjb21wdXRlZEhlYWRJbWcgKCkgCg==</text>
+        <text encoding="base64">ICAgIHVzZXJJbmZvQnlDb2RlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">CWdldCBjb21wdXRlZEhlYWRJbWcgKCkgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzLCBkYXRhKTsK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzLCBkYXRhKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgLi4uY29sTGFiZWwoJ7zkvdPNxrz2yMvK1dLmJywgJ3RlYW1SZXdhcmRTZWMnKSwKICAgICAgICAgICAgICB3aWR0aDogMTQ1LAogICAgICAgICAgICB9LA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
               ...colLabel('服务商收益', 'serverIncome'),
               width: 145,
@@ -375,14 +378,11 @@
               width: 145,
             },</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAqIEBwYXJhbSBkYXRhLmFjdGl2aXR5UHJpY2Ugu+62r7zbuPEKICAgKiBAcGFyYW0gZGF0YS5nb29kc1Nob3J0TmFtZSDJzMa3tszD+7PGCiAgICogQHBhcmFtIGRhdGEubGltaXRlZFF1YW50aXR5IM/eubrK/cG/CiAgICogQHBhcmFtIGRhdGEucHJpb3JpdHkg08XPyLy2o6zUvbjfyczGt9S9v7/HsCzErMjPMAogICAqIEBwYXJhbSBkYXRhLnByb21Db250ZW50IND7tKvE2sjdCiAgICogQHBhcmFtIGRhdGEucmVmQWN0aXZpdHlJZCC77ravSUQKICAgKiBAcGFyYW0gZGF0YS5yZWZHb29kc0NvZGUgyczGt7HgusUKICAgKiBAcGFyYW0gZGF0YS5yZWZHb29kc0lkIMnMxrdJRAogICAqIEBwYXJhbSBkYXRhLnJlZkdvb2RzTmFtZSDJzMa3w/uzxgogICAqIEBwYXJhbSBkYXRhLnJlZkdvb2RzUGljIMnMxrfNvMasCiAgICogQHBhcmFtIGRhdGEucmVmU2t1Q29kZSDJzMa3c2t1CiAgICogQHBhcmFtIGRhdGEuc2FsZWROdW0g0OnE4tLRytvK/cG/CiAgICogQHBhcmFtIGRhdGEuc2VydmVySW5jb21lILf+zvHJzMrV0uYKICAgKiBAcGFyYW0gZGF0YS5zaG9wa2VlcGVySW5jb21lILXq1vfK1dLmCiAgICogQHBhcmFtIGRhdGEuc2hvcGtlZXBlclRlYW1JbmNvbWUgterW983FttPK1dLmCiAgICogQHBhcmFtIGRhdGEuc2hvd1ByaWNlILvutq/P1Mq+vNsKICAgKiBAcGFyYW0gZGF0YS50ZWFtUmV3YXJkU2VjILb+vLbNxbbUytXS5gogICAqIEBwYXJhbSBkYXRhLnRvdGFsSW52ZW50b3J5ILvutq+/4rTmCiAgICogQHBhcmFtIGRhdGEudHlwZSC77ravwODQzSAyz97KsdXbv9s=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAndGVhbVJld2FyZFNlYycsCg==</text>
       </register>
     </registers>
   </component>
