@@ -16,7 +16,6 @@
         <entry>type:</entry>
         <entry>type: 2</entry>
         <entry>添加</entry>
-        <entry>删除</entry>
         <entry>activity =</entry>
         <entry>activity</entry>
         <entry>秒杀</entry>
@@ -25,6 +24,7 @@
         <entry>= '2'</entry>
         <entry encoding="base64">PSA=</entry>
         <entry>getAc</entry>
+        <entry>删除</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -176,7 +176,7 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="362" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597402011698">
+      <file name="/Dummy.txt" timestamp="1597405017858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -189,9 +189,12 @@
         <mark key="]" line="22" column="68" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" timestamp="1597398289850">
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" timestamp="1597406268528">
         <mark key="'" line="0" column="0" />
-        <mark key="^" line="418" column="50" />
+        <mark key="[" line="256" column="27" />
+        <mark key="]" line="256" column="29" />
+        <mark key="^" line="256" column="29" />
+        <mark key="." line="256" column="28" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" timestamp="1597398082222">
         <mark key="'" line="159" column="8" />
@@ -223,9 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="357" column="35" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
-      <jump line="177" column="28" filename="C:/project/jxg-ops/src/views/operation/seckill/goodsInfo.vue" />
-      <jump line="66" column="16" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/list.vue" />
       <jump line="343" column="25" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/list.vue" />
       <jump line="107" column="12" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/list.vue" />
       <jump line="182" column="49" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/list.vue" />
@@ -299,7 +299,6 @@
       <jump line="1" column="14" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsAdd.vue" />
       <jump line="135" column="27" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" />
       <jump line="254" column="27" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" />
-      <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" />
       <jump line="700" column="6" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="424" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="676" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -323,18 +322,22 @@
       <jump line="581" column="14" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="689" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="723" column="15" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="309" column="38" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" />
+      <jump line="245" column="39" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" />
+      <jump line="249" column="35" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" />
+      <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2aXR5LnR5cGUgPSAiMiI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, row</text>
       </register>
       <register name="-" type="4">
-        <text>onLogined</text>
+        <text>, row</text>
       </register>
       <register name="/" type="4">
-        <text>getAc</text>
+        <text>删除</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgKiBAcGFyYW0gZGF0YS5pZCC77ravc2t1SWQK</text>
@@ -370,9 +373,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getAc</last-search>
+      <last-search>删除</last-search>
       <last-offset />
-      <last-pattern>getAc</last-pattern>
+      <last-pattern>删除</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
