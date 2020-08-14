@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>submit</entry>
         <entry>activityType</entry>
         <entry>商品可用库存</entry>
         <entry>可用</entry>
@@ -25,6 +24,7 @@
         <entry>test</entry>
         <entry>ourJxg</entry>
         <entry>toSecond</entry>
+        <entry>=== '2</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -130,12 +130,12 @@
       <file name="C:/project/jxg-ops/src/views/operation/seckill/goodsInfo.vue" timestamp="1597385218150">
         <mark key="'" line="177" column="28" />
       </file>
-      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1597388267744">
-        <mark key="'" line="405" column="24" />
-        <mark key="[" line="403" column="26" />
-        <mark key="]" line="404" column="30" />
-        <mark key="." line="404" column="29" />
-        <mark key="^" line="404" column="30" />
+      <file name="E:/jxgwxapp/src/pages/master/goods.vue" timestamp="1597388972883">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="41" column="48" />
+        <mark key="]" line="41" column="49" />
+        <mark key="." line="41" column="49" />
+        <mark key="^" line="404" column="29" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/api.js" timestamp="1597373604460">
         <mark key="[" line="244" column="1" />
@@ -169,7 +169,7 @@
         <mark key="." line="361" column="49" />
         <mark key="^" line="361" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597387261555">
+      <file name="/Dummy.txt" timestamp="1597388942466">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -217,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="21" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="244" column="21" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="102" column="58" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/list.vue" />
       <jump line="69" column="6" filename="C:/project/jxg-ops/src/api/operation/seckill.js" />
@@ -306,7 +305,6 @@
       <jump line="26" column="18" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" />
       <jump line="112" column="28" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" />
       <jump line="418" column="35" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
-      <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="351" column="12" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="32" column="35" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
       <jump line="1341" column="19" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -317,18 +315,20 @@
       <jump line="157" column="41" filename="E:/jxgwxapp/src/pages/activity/limitPrice.vue" />
       <jump line="155" column="11" filename="E:/jxgwxapp/src/pages/activity/limitPrice.vue" />
       <jump line="404" column="24" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="405" column="49" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
+      <jump line="0" column="0" filename="E:/jxgwxapp/src/pages/master/goods.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ACTIVITY_TYPE.LIMIT_DISCOUNT</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>ACTIVITY_TYPE.LIMIT_DISCOUNT</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>toSecond</text>
+        <text>=== '2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG91ckp4Zy50b1NlY29uZFBhZ2UoUk9VVEUuR09PRF9ERVRBSUwsIHsKICAgICAgaWQ6IGl0ZW0ucmVmR29vZHNJZCwKICAgICAgYWN0aXZpdHlUeXBlOiBBQ1RJVklUWV9UWVBFLkxJTUlUX0RJU0NPVU5ULAogICAgfSk7Cg==</text>
@@ -393,9 +393,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>toSecond</last-search>
+      <last-search>=== '2</last-search>
       <last-offset />
-      <last-pattern>toSecond</last-pattern>
+      <last-pattern>=== '2</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
