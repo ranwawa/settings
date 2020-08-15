@@ -5,15 +5,12 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">PSA=</entry>
-        <entry>getAc</entry>
         <entry>删除</entry>
         <entry>1000</entry>
         <entry>current</entry>
         <entry>computed</entry>
         <entry>距开始</entry>
         <entry>直播秒杀</entry>
-        <entry>onLoad</entry>
         <entry>setInter</entry>
         <entry>\.activity</entry>
         <entry>import</entry>
@@ -25,6 +22,9 @@
         <entry>activity</entry>
         <entry>store</entry>
         <entry>computedActivity</entry>
+        <entry>type</entry>
+        <entry>activity =</entry>
+        <entry>onLoad</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -133,8 +133,8 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="E:/jxgwxapp/global.d.ts" timestamp="1597387709731">
-        <mark key="'" line="203" column="10" />
+      <file name="/a.dummy" timestamp="1597482337202">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/project/uni-vant/src/components/price.vue" timestamp="1597396968861">
         <mark key="[" line="22" column="0" />
@@ -168,6 +168,11 @@
         <mark key="^" line="274" column="20" />
         <mark key="." line="278" column="41" />
       </file>
+      <file name="E:/jxgwxapp/src/api/goods.ts" timestamp="1597483622493">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1597481492751">
         <mark key="[" line="134" column="12" />
         <mark key="]" line="134" column="12" />
@@ -179,13 +184,6 @@
         <mark key="]" line="293" column="26" />
         <mark key="^" line="293" column="26" />
         <mark key="." line="293" column="25" />
-      </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" timestamp="1597385299101">
-        <mark key="'" line="357" column="35" />
-        <mark key="[" line="147" column="17" />
-        <mark key="]" line="147" column="18" />
-        <mark key="." line="147" column="17" />
-        <mark key="^" line="147" column="18" />
       </file>
       <file name="E:/jxgwxapp/src/pages/activity/limitPrice.vue" timestamp="1597399212584">
         <mark key="'" line="84" column="34" />
@@ -214,28 +212,22 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="362" column="50" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597481070692">
-        <mark key="'" line="537" column="16" />
-        <mark key="[" line="664" column="3" />
-        <mark key="]" line="671" column="0" />
-        <mark key="^" line="59" column="45" />
-        <mark key="." line="59" column="44" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597483740716">
+        <mark key="'" line="632" column="2" />
+        <mark key="[" line="963" column="0" />
+        <mark key="]" line="963" column="0" />
+        <mark key="." line="963" column="0" />
+        <mark key="^" line="957" column="46" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/components/DetailActivity.vue" timestamp="1597481541904">
-        <mark key="'" line="80" column="15" />
-        <mark key="[" line="95" column="28" />
-        <mark key="]" line="95" column="49" />
-        <mark key="." line="95" column="48" />
-        <mark key="^" line="95" column="49" />
+      <file name="E:/jxgwxapp/src/goods/components/DetailActivity.vue" timestamp="1597483400260">
+        <mark key="'" line="128" column="1" />
+        <mark key="[" line="102" column="48" />
+        <mark key="]" line="103" column="38" />
+        <mark key="." line="103" column="37" />
+        <mark key="^" line="103" column="38" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1055" column="23" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="61" column="48" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1068" column="43" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="59" column="19" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="455" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="620" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1030" column="32" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="69" column="48" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="480" column="44" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -330,56 +322,69 @@
       <jump line="537" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="47" column="7" filename="E:/jxgwxapp/src/goods/components/DetailActivity.vue" />
       <jump line="79" column="15" filename="E:/jxgwxapp/src/goods/components/DetailActivity.vue" />
+      <jump line="80" column="29" filename="E:/jxgwxapp/src/goods/components/DetailActivity.vue" />
+      <jump line="91" column="8" filename="E:/jxgwxapp/src/goods/components/DetailActivity.vue" />
+      <jump line="122" column="1" filename="E:/jxgwxapp/src/goods/components/DetailActivity.vue" />
+      <jump line="638" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="770" column="6" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="632" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC8vILvutq+94cr4yrG85A==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHVuaS5uYXZpZ2F0ZUJhY2soKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vILvutq+94cr4yrG85A==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>computedActivity</text>
+        <text>onLoad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50VGltZTogMCwgLy8gt/7O8cb3tbHHsMqxvOQKICAgICAgICB3YXJtVGltZTogMCwgLy8g1KTIyL+qyrzKsbzkCiAgICAgICAgc3RhcnRUaW1lOiAwLCAvLyC77ravv6rKvMqxvOQKICAgICAgICBlbmRUaW1lOiAwLCAvLyC77ravveHK+MqxvOQKICAgICAgICB0aW1lTGFiZWw6ICIiLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgY3VycmVudFRpbWUsIHN0YXJ0VGltZSwgZW5kVGltZSwgd2FybVRpbWUgfSA9IHRoaXMuYWN0aXZpdHk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lTGFiZWw6ICIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHVuaS5uYXZpZ2F0ZUJhY2soKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIElBY3Rpdml0eVBhcmFtIGV4dGVuZHMgSURldGFpbFBhcmFtIHsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0aW1lTGFiZWw6IHN0cmluZywK</text>
+        <text encoding="base64">ICAvKioKICAgKiC77ravwODQzQogICAqLwogIGFjdGl2aXR5VHlwZTogbnVtYmVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmRUaW1lOiBudW1iZXIsIC8vILvutq+94cr4yrG85Ao=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyBjdXJyZW50VGltZSwgc3RhcnRUaW1lLCBlbmRUaW1lLCB3YXJtVGltZSB9ID0gdGhpcy5hY3Rpdml0eTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbmRUaW1lOiBudW1iZXIsIC8vILvutq+94cr4yrG85Ap9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0aW1lTGFiZWw6IHN0cmluZywK</text>
+        <text encoding="base64">ICB2d2F0Y2ggCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZW51Cg==</text>
+      <register name="8" type="4">
+        <text>{
+    type: -1, // 活动类型 2 限时折扣
+    countDo: &quot;&quot;, // 活动信息
+    currentTime: 0, // 服务器当前时间
+    startTime: 0, // 活动开始时间
+    endTime: 0, // 活动结束时间
+    timeLabel: &quot;距离开始&quot;,
+  }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZW5jb2RlVVJJQ29tcG9uZW50Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGlmIChjdXJyZW50VGltZSA8IHN0YXJ0VGltZSkgewogICAgICByZXR1cm4gItaxsqXD68mxIjsKICAgIH0gZWxzZSBpZiAoY3VycmVudFRpbWUgPiBlbmRUaW1lKSB7CiAgICAgIHJldHVybiAi1rGypcPrybHS0b3hyvgiOwogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuICLWsbKlw+vJsb340NDW0CI7CiAgICB9CiA=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>computedActivity</last-search>
+      <last-search>onLoad</last-search>
       <last-offset />
-      <last-pattern>computedActivity</last-pattern>
+      <last-pattern>onLoad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
