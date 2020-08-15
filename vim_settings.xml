@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>\.activity</entry>
-        <entry>import</entry>
         <entry>props</entry>
         <entry>components\</entry>
         <entry>components</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">bmV3IA==</entry>
         <entry>countdown</entry>
         <entry>type =</entry>
+        <entry>console.log</entry>
+        <entry>acitivyt</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -167,11 +167,12 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="362" column="50" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/components/DetailActivity.vue" timestamp="1597489099875">
-        <mark key="[" line="102" column="22" />
-        <mark key="]" line="102" column="23" />
-        <mark key="." line="102" column="72" />
-        <mark key="^" line="102" column="23" />
+      <file name="E:/jxgwxapp/src/goods/components/DetailActivity.vue" timestamp="1597490528095">
+        <mark key="'" line="71" column="49" />
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1597410253244">
         <mark key="[" line="0" column="0" />
@@ -215,11 +216,12 @@
         <mark key="^" line="56" column="11" />
         <mark key="." line="88" column="16" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597489311665">
-        <mark key="'" line="1000" column="17" />
-        <mark key="[" line="1001" column="0" />
-        <mark key="]" line="1001" column="0" />
-        <mark key="." line="1001" column="0" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597490547689">
+        <mark key="'" line="915" column="22" />
+        <mark key="[" line="59" column="22" />
+        <mark key="]" line="59" column="49" />
+        <mark key="." line="59" column="48" />
+        <mark key="^" line="59" column="49" />
       </file>
       <file name="E:/jxgwxapp/src/goods/index.ts" timestamp="1597488186776">
         <mark key="[" line="45" column="26" />
@@ -229,9 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="999" column="10" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1001" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1023" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1029" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1088" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1098" column="9" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -329,6 +328,9 @@
       <jump line="369" column="7" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="629" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1004" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="108" column="37" filename="E:/jxgwxapp/src/goods/components/DetailActivity.vue" />
+      <jump line="71" column="49" filename="E:/jxgwxapp/src/goods/components/DetailActivity.vue" />
+      <jump line="915" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -337,58 +339,48 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjdGl2aXR5SW5mbyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>table</text>
       </register>
       <register name="/" type="4">
-        <text>type =</text>
+        <text>acitivyt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY3VycmVudFRpbWUsIHN0YXJ0VGltZSwgZW5kVGltZSwgd2FybVRpbWUgfSA9IHRoaXMuYWN0aXZpdHk7Cg==</text>
+      <register name="0" type="4">
+        <text>figureEndTime</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjdGl2aXR5SW5mbyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbWVudChzdGFydFRpbWUpLmZvcm1hdCgpKTsKICAgIGNvbnNvbGUubG9nKG1vbWVudChlbmRUaW1lKS5mb3JtYXQoKSk7CiAgICBjb25zb2xlLmxvZyhtb21lbnQoY3VycmVudFRpbWUpLmZvcm1hdCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvdW50ZG93biBmcm9tICJjb3VudGRvd24iOwo=</text>
+        <text encoding="base64">ICAgIGxldCBmaWd1cmVFbmRUaW1lOiBudW1iZXIgPSAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMSwgbmV3VmFsdWUsIG9sZFZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-        
-      }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGMK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYWN0aXZpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        type: ACTIVITY_TYPE.NONE,
-        countDownLabel: &quot;&quot;,
-        countDownText: &quot;&quot;,
-        currentTime: 0,
-        warmTime: 0,
-        startTime: 0,
-        endTime: 0,
-      }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBBQ1RJVklUWV9TVEFUVVMuTk9ORToK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>type =</last-search>
+      <last-search>acitivyt</last-search>
       <last-offset />
-      <last-pattern>type =</last-pattern>
+      <last-pattern>acitivyt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
