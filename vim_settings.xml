@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getDetail</entry>
-        <entry>Width</entry>
         <entry>添加</entry>
         <entry>确定</entry>
         <entry>import</entry>
@@ -25,6 +23,8 @@
         <entry>onLoad</entry>
         <entry>created</entry>
         <entry>参与用户</entry>
+        <entry>computedShowPirce</entry>
+        <entry>computedShow</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -151,7 +151,7 @@
         <mark key="^" line="77" column="48" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597691290226">
+      <file name="/Dummy.txt" timestamp="1597691638199">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -178,17 +178,16 @@
         <mark key="." line="274" column="34" />
         <mark key="^" line="274" column="35" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/common.ts" timestamp="1597690688939" />
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597675900870">
-        <mark key="'" line="1003" column="6" />
-        <mark key="[" line="1016" column="0" />
-        <mark key="]" line="1016" column="0" />
-        <mark key="." line="1016" column="0" />
+      <file name="E:/jxgwxapp/src/goods/common.ts" timestamp="1597704399480" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597704522886">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="524" column="0" />
+        <mark key="]" line="524" column="0" />
+        <mark key="." line="524" column="47" />
         <mark key="^" line="488" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="25" filename="C:/project/live-ops/config/webpack.config.js" />
       <jump line="3" column="2" filename="C:/project/live-ops/config/webpack.config.js" />
       <jump line="0" column="0" filename="C:/project/live-ops/config/webpack.config.js" />
       <jump line="132" column="27" filename="C:/project/live-ops/config/webpack.config.js" />
@@ -239,7 +238,6 @@
       <jump line="520" column="19" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="529" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="598" column="27" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="17" column="15" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1001" column="6" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="170" column="13" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" />
@@ -288,47 +286,52 @@
       <jump line="98" column="10" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" />
       <jump line="444" column="33" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsAdd.vue" />
       <jump line="115" column="13" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/list.vue" />
+      <jump line="738" column="28" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="0" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc3RhdHVzID09PSBBQ1RJVklUWV9TVEFUVVMuV0FSTl9VUCB8fAo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>参与用户</text>
+        <text>computedShow</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGl0ZW0uYWN0aXZpdHlDYW5TYWxlSW52ZW50b3J5ID0gaXRlbS5pbnZlbnRvcnk7IC8vIMqj0+C77ravv+K05gogICAgICAgICAgaXRlbS5hY3Rpdml0eVRvdGFsSW52ZW50b3J5ID0gaXRlbS50b3RhbEludmVudG9yeTsgLy8gu+62r7/itOYK</text>
       </register>
       <register name="1" type="2">
-        <text>feat(秒杀): 隐藏木有数据的字段</text>
+        <text encoding="base64">ICAgICAgc3RhdHVzID09PSBBQ1RJVklUWV9TVEFUVVMuV0FSTl9VUCB8fAo=</text>
       </register>
       <register name="2" type="2">
+        <text>feat(秒杀): 隐藏木有数据的字段</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ewogICAgICAgICAgICAgICAgcGF0aDogImZpeGVkUHJpY2UiLAogICAgICAgICAgICAgICAgbmFtZTogItK7v9q82yIsCiAgICAgICAgICAgICAgICBjb21wb25lbnQ6ICgpID0+CiAgICAgICAgICAgICAgICAgIGltcG9ydCgvKiB3ZWJwYWNrQ2h1bmtOYW1lOiAib3BlcmF0aW9uIiAqLyAiQC92aWV3cy9vcGVyYXRpb24vZml4ZWRQcmljZS9pbmRleCIpLAogICAgICAgICAgICB9LA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
               label: '笔单价(元)',
               ...colDisplay({ addDisplay: false, editDisplay: false }),
             },</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
               ...colLabel('参与用户数', 'members'),
               ...colDisplay({ addDisplay: false, editDisplay: false }),
             },</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>if (rowNew.goodsInventory) {
         rowNew.usedInventory = rowNew.totalInventory - rowNew.inventory;
         rowNew.canUseInventory = rowNew.goodsInventory;
@@ -337,19 +340,16 @@
         rowNew.canUseInventory = rowNew.inventory;
       }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaXRlbS5oYXNCdXllZEludmVudG9yeSA9IGl0ZW0udG90YWxJbnZlbnRvcnkgLSBpdGVtLmNhbkJ1eUludmVudG9yeTsK</text>
+        <text encoding="base64">ICAgICAgQwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>参与用户</last-search>
+      <last-search>computedShow</last-search>
       <last-offset />
-      <last-pattern>参与用户</last-pattern>
+      <last-pattern>computedShow</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
