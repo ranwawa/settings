@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>123</entry>
-        <entry>activity =</entry>
         <entry>activity</entry>
         <entry>编辑器</entry>
         <entry>限购数量</entry>
@@ -20,11 +18,13 @@
         <entry>created</entry>
         <entry>参与用户</entry>
         <entry>computedShowPirce</entry>
-        <entry>computedShow</entry>
         <entry>getActvitity</entry>
         <entry>getAct</entry>
         <entry>share</entry>
+        <entry>activityType</entry>
+        <entry>下拉</entry>
         <entry>onLoad</entry>
+        <entry>computedShow</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -144,13 +144,14 @@
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/list.vue" timestamp="1597689975500">
         <mark key="'" line="115" column="13" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/components/DetailActivity.vue" timestamp="1597705806842">
+      <file name="E:/jxgwxapp/src/goods/components/DetailActivity.vue" timestamp="1597707770363">
         <mark key="'" line="60" column="2" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+        <mark key="[" line="68" column="10" />
+        <mark key="]" line="68" column="11" />
+        <mark key="." line="68" column="10" />
+        <mark key="^" line="68" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597691638199">
+      <file name="/Dummy.txt" timestamp="1597706547205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -178,22 +179,14 @@
         <mark key="^" line="274" column="35" />
       </file>
       <file name="E:/jxgwxapp/src/goods/common.ts" timestamp="1597704399480" />
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597706456070">
-        <mark key="'" line="1006" column="23" />
-        <mark key="[" line="1008" column="36" />
-        <mark key="]" line="1008" column="36" />
-        <mark key="." line="1008" column="36" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597707495659">
+        <mark key="'" line="648" column="8" />
+        <mark key="[" line="651" column="0" />
+        <mark key="]" line="651" column="0" />
+        <mark key="." line="651" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="63" filename="C:/project/live-ops/src/views/jxg_liveClass/index.js" />
-      <jump line="38" column="0" filename="C:/project/live-ops/src/views/jxg_liveClass/index.js" />
-      <jump line="156" column="16" filename="C:/project/live-ops/src/views/jxg_liveClass/index.js" />
-      <jump line="61" column="19" filename="C:/project/live-ops/src/components/PageList/index.js" />
-      <jump line="157" column="19" filename="C:/project/live-ops/src/views/jxg_liveClass/index.js" />
-      <jump line="34" column="8" filename="C:/project/live-ops/src/views/jxg_liveClass/index.js" />
-      <jump line="405" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="400" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="941" column="5" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1315" column="9" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="650" column="32" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -210,7 +203,6 @@
       <jump line="1262" column="14" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="915" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="976" column="3" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="998" column="6" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="641" column="27" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="92" column="20" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1002" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -286,56 +278,75 @@
       <jump line="1269" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="924" column="35" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1007" column="23" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="998" column="4" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1006" column="12" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1008" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="647" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="679" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="640" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="633" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1220" column="6" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="648" column="8" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID8gK2FjdGl2aXR5VHlwZSA6IEFDVElWSVRZX1RZUEUuTk9ORQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNsZWFySW50ZXJ2YWwodGhpcy5jb3VudERvd25UaW1lcik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID8gK2FjdGl2aXR5VHlwZSA6IEFDVElWSVRZX1RZUEUuTk9ORQ==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>computedShow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0ZW0uYWN0aXZpdHlDYW5TYWxlSW52ZW50b3J5ID0gaXRlbS5pbnZlbnRvcnk7IC8vIMqj0+C77ravv+K05gogICAgICAgICAgaXRlbS5hY3Rpdml0eVRvdGFsSW52ZW50b3J5ID0gaXRlbS50b3RhbEludmVudG9yeTsgLy8gu+62r7/itOYK</text>
+        <text encoding="base64">ICAgIGlmIChhY3Rpdml0eVR5cGUgIT09IEFDVElWSVRZX1RZUEUuTk9ORSkgewogICAgICBhd2FpdCB0aGlzLmdldEFjdGl2aXR5SW5mbyhpZCwgYWN0aXZpdHlUeXBlKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aXZpdHkudHlwZSA9IGFjdGl2aXR5VHlwZTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNsZWFySW50ZXJ2YWwodGhpcy5jb3VudERvd25UaW1lcik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aXZpdHkudHlwZSA9IGFjdGl2aXR5VHlwZTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2hvdwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aXZpdHkudHlwZSA9IGFjdGl2aXR5VHlwZTsK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMuZ2V0R29vZERldGFpbCh0aGlzLmdvb2RzSWQpOwogICAgYXdhaXQgdGhpcy5nZXRBY3Rpdml0eUluZm8odGhpcy5nb29kc0lkLCB0aGlzLnF1ZXJ5LmFjdGl2aXR5VHlwZSk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aXZpdHkudHlwZSA9IHRoaXMucXVlcnkuYWN0aXZpdHlUeXBlOwo=</text>
+      <register name="4" type="4">
+        <text>const { id, activityType } = this.query;
+    await this.getGoodDetail(id);
+    console.log(this.query);
+    if (activityType !== ACTIVITY_TYPE.NONE) {
+      await this.getActivityInfo(id, activityType);
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aXZpdHkudHlwZSA9IGUuYWN0aXZpdHlUeXBlOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZ29vZHNJZCA9IGlkOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aXZpdHkudHlwZSA9IGUuYWN0aXZpdHlUeXBlOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgLy8gz8LArcui0MIKICBhc3luYyBvblB1bGxEb3duUmVmcmVzaCgpIHsKICAgIHRoaXMuZ29vZEltYWdlTGlzdCA9IFtdOwogICAgc2V0VGltZW91dCh1bmkuc3RvcFB1bGxEb3duUmVmcmVzaCwgMjAwMCk7CiAgICBhd2FpdCB0aGlzLmdldEdvb2REZXRhaWwodGhpcy5nb29kc0lkKTsKICAgIGF3YWl0IHRoaXMuZ2V0QWN0aXZpdHlJbmZvKHRoaXMuZ29vZHNJZCwgdGhpcy5xdWVyeS5hY3Rpdml0eVR5cGUpOwogIH0KIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygyMTMxMjMsIG5ld1ZhbHVlKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmFjdGl2aXR5KTsK</text>
+      <register name="8" type="4">
+        <text>const { id, activityType } = this.query;
+    await this.getGoodDetail(id);
+    console.log(this.query);
+    if (activityType !== ACTIVITY_TYPE.NONE) {
+      await this.getActivityInfo(id, activityType);
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHVzID09PSBBQ1RJVklUWV9TVEFUVVMuV0FSTl9VUCB8fAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZ29vZHNJZCA9IGlkOwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>computedShow</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>computedShow</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
