@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>title</entry>
         <entry>getDetail</entry>
         <entry>Width</entry>
         <entry>添加</entry>
@@ -25,6 +24,7 @@
         <entry>已用</entry>
         <entry>onLoad</entry>
         <entry>created</entry>
+        <entry>参与用户</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,6 +121,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/project/jxg-ops/src/const/dic.js" timestamp="1597690390107" />
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsAdd.vue" timestamp="1597683911213">
         <mark key="'" line="444" column="33" />
         <mark key="[" line="425" column="0" />
@@ -140,6 +141,9 @@
         <mark key="^" line="25" column="32" />
         <mark key="." line="25" column="31" />
       </file>
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/list.vue" timestamp="1597689975500">
+        <mark key="'" line="115" column="13" />
+      </file>
       <file name="E:/jxgwxapp/src/goods/components/DetailActivity.vue" timestamp="1597675821146">
         <mark key="'" line="60" column="2" />
         <mark key="[" line="97" column="0" />
@@ -147,27 +151,25 @@
         <mark key="^" line="77" column="48" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597681343788">
+      <file name="/Dummy.txt" timestamp="1597691290226">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/jxglive/goods/components/addGoods.vue" timestamp="1597665838528">
-        <mark key="'" line="65" column="35" />
+      <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1597690465081">
+        <mark key="[" line="643" column="0" />
+        <mark key="]" line="643" column="0" />
+        <mark key="." line="643" column="0" />
+      </file>
+      <file name="E:/jxgwxapp/src/config/test.ts" timestamp="1597691631539">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" timestamp="1597683542892">
-        <mark key="'" line="399" column="40" />
-        <mark key="[" line="399" column="0" />
-        <mark key="]" line="400" column="68" />
-        <mark key="." line="401" column="0" />
-        <mark key="^" line="400" column="68" />
-      </file>
-      <file name="C:/project/live-ops/src/views/jxg_liveClass/index.js" timestamp="1597663468471">
-        <mark key="'" line="34" column="8" />
-        <mark key="[" line="157" column="22" />
-        <mark key="]" line="157" column="25" />
-        <mark key="." line="157" column="24" />
-        <mark key="^" line="157" column="25" />
+        <mark key="]" line="172" column="68" />
+        <mark key="." line="400" column="0" />
+        <mark key="^" line="172" column="68" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" timestamp="1597684004918">
         <mark key="'" line="98" column="10" />
@@ -176,7 +178,7 @@
         <mark key="." line="274" column="34" />
         <mark key="^" line="274" column="35" />
       </file>
-      <file name="C:/project/jxg-ops/src/api/jxglive/goods.js" timestamp="1597667083217" />
+      <file name="E:/jxgwxapp/src/goods/common.ts" timestamp="1597690688939" />
       <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597675900870">
         <mark key="'" line="1003" column="6" />
         <mark key="[" line="1016" column="0" />
@@ -186,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="32" filename="C:/project/live-ops/config/webpackDevServer.config.js" />
       <jump line="40" column="25" filename="C:/project/live-ops/config/webpack.config.js" />
       <jump line="3" column="2" filename="C:/project/live-ops/config/webpack.config.js" />
       <jump line="0" column="0" filename="C:/project/live-ops/config/webpack.config.js" />
@@ -286,42 +287,43 @@
       <jump line="310" column="30" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" />
       <jump line="98" column="10" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" />
       <jump line="444" column="33" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsAdd.vue" />
+      <jump line="115" column="13" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/list.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>created</text>
+        <text>参与用户</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGl0ZW0uYWN0aXZpdHlDYW5TYWxlSW52ZW50b3J5ID0gaXRlbS5pbnZlbnRvcnk7IC8vIMqj0+C77ravv+K05gogICAgICAgICAgaXRlbS5hY3Rpdml0eVRvdGFsSW52ZW50b3J5ID0gaXRlbS50b3RhbEludmVudG9yeTsgLy8gu+62r7/itOYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text>feat(秒杀): 隐藏木有数据的字段</text>
       </register>
-      <register name="2" type="4">
-        <text>if (rowNew.goodsInventory) {
-        rowNew.usedInventory = rowNew.totalInventory - rowNew.inventory;
-        rowNew.canUseInventory = rowNew.goodsInventory;
-      } else {
-        rowNew.usedInventory = 0;
-        rowNew.canUseInventory = rowNew.inventory;
-      }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgcGF0aDogImZpeGVkUHJpY2UiLAogICAgICAgICAgICAgICAgbmFtZTogItK7v9q82yIsCiAgICAgICAgICAgICAgICBjb21wb25lbnQ6ICgpID0+CiAgICAgICAgICAgICAgICAgIGltcG9ydCgvKiB3ZWJwYWNrQ2h1bmtOYW1lOiAib3BlcmF0aW9uIiAqLyAiQC92aWV3cy9vcGVyYXRpb24vZml4ZWRQcmljZS9pbmRleCIpLAogICAgICAgICAgICB9LA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaXRlbS5oYXNCdXllZEludmVudG9yeSA9IGl0ZW0udG90YWxJbnZlbnRvcnkgLSBpdGVtLmNhbkJ1eUludmVudG9yeTsK</text>
+      <register name="4" type="4">
+        <text>{
+              label: '笔单价(元)',
+              ...colDisplay({ addDisplay: false, editDisplay: false }),
+            },</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaXRlbS5jYW5CdXlJbnZlbnRvcnkgfHwgKGl0ZW0uY2FuQnV5SW52ZW50b3J5ID0gaXRlbS50b3RhbEludmVudG9yeSk7Cg==</text>
+      <register name="5" type="4">
+        <text>{
+              ...colLabel('参与用户数', 'members'),
+              ...colDisplay({ addDisplay: false, editDisplay: false }),
+            },</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -336,18 +338,18 @@
       }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0ZW0uYWN0aXZpdHlDYW5TYWxlSW52ZW50b3J5ID0gaXRlbS5pbnZlbnRvcnk7IC8vIMqj0+C77ravv+K05go=</text>
+        <text encoding="base64">ICAgICAgQwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0ZW0uYWN0aXZpdHlUb3RhbEludmVudG9yeSA9IGl0ZW0uaW52ZW50b3J5OyAvLyC77ravv+K05go=</text>
+        <text encoding="base64">ICAgICAgaXRlbS5oYXNCdXllZEludmVudG9yeSA9IGl0ZW0udG90YWxJbnZlbnRvcnkgLSBpdGVtLmNhbkJ1eUludmVudG9yeTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>created</last-search>
+      <last-search>参与用户</last-search>
       <last-offset />
-      <last-pattern>created</last-pattern>
+      <last-pattern>参与用户</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
