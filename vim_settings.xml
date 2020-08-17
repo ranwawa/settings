@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>prox</entry>
         <entry>DevS</entry>
         <entry>proxy</entry>
         <entry>title</entry>
@@ -25,6 +24,7 @@
         <entry>inventory</entry>
         <entry>submit</entry>
         <entry>限购数量</entry>
+        <entry>活动总库存</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,9 +121,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/live-ops/config/webpackDevServer.config.js" timestamp="1597659514615">
-        <mark key="'" line="67" column="32" />
-      </file>
       <file name="E:/jxgwxapp/src/api/goods.ts" timestamp="1597670441212">
         <mark key="[" line="51" column="33" />
         <mark key="]" line="52" column="28" />
@@ -143,7 +140,7 @@
         <mark key="^" line="77" column="48" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597677674403">
+      <file name="/Dummy.txt" timestamp="1597678713262">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -151,15 +148,12 @@
       <file name="C:/project/jxg-ops/src/views/jxglive/goods/components/addGoods.vue" timestamp="1597665838528">
         <mark key="'" line="65" column="35" />
       </file>
-      <file name="C:/project/live-ops/config/webpack.config.js" timestamp="1597659551845">
-        <mark key="'" line="131" column="50" />
-      </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" timestamp="1597678103157">
-        <mark key="'" line="397" column="10" />
-        <mark key="[" line="281" column="16" />
-        <mark key="]" line="281" column="20" />
-        <mark key="." line="280" column="69" />
-        <mark key="^" line="281" column="20" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" timestamp="1597680752322">
+        <mark key="'" line="398" column="10" />
+        <mark key="[" line="282" column="26" />
+        <mark key="]" line="282" column="31" />
+        <mark key="." line="282" column="30" />
+        <mark key="^" line="282" column="31" />
       </file>
       <file name="C:/project/live-ops/src/views/jxg_liveClass/index.js" timestamp="1597663468471">
         <mark key="'" line="34" column="8" />
@@ -168,12 +162,12 @@
         <mark key="." line="157" column="24" />
         <mark key="^" line="157" column="25" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" timestamp="1597678369465">
-        <mark key="'" line="301" column="20" />
-        <mark key="[" line="263" column="54" />
-        <mark key="]" line="263" column="55" />
-        <mark key="^" line="306" column="8" />
-        <mark key="." line="263" column="55" />
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" timestamp="1597681327604">
+        <mark key="'" line="285" column="18" />
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
+        <mark key="^" line="98" column="42" />
       </file>
       <file name="C:/project/jxg-ops/src/api/jxglive/goods.js" timestamp="1597667083217" />
       <file name="C:/project/live-ops/src/components/PageList/index.js" timestamp="1597659927894">
@@ -188,9 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="16" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" />
-      <jump line="98" column="17" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" />
-      <jump line="110" column="16" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" />
       <jump line="236" column="35" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" />
       <jump line="133" column="27" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" />
       <jump line="437" column="20" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsAdd.vue" />
@@ -288,59 +279,59 @@
       <jump line="97" column="25" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" />
       <jump line="262" column="57" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" />
       <jump line="301" column="20" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" />
+      <jump line="260" column="35" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" />
+      <jump line="102" column="15" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" />
+      <jump line="277" column="18" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coNDQ0LCBpdGVtLnRvdGFsSW52ZW50b3J5KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>_.omit(data, 'inventory')</text>
+        <text>item.totalInventory - item.canBuyInventory</text>
       </register>
       <register name="/" type="4">
-        <text>限购数量</text>
+        <text>活动总库存</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hY3Rpdml0eS5zdGF0dXMgPSB0aGlzLmdldEFjdGl2aXR5U3RhdHVzKHRoaXMuYWN0aXZpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coNDQ0LCBpdGVtLnRvdGFsSW52ZW50b3J5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coNDQ0LCBpdGVtLnRvdGFsSW52ZW50b3J5KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coNTU1LCBpdGVtLnRvdGFsSW52ZW50b3J5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0ZW0udG90YWxJbnZlbnRvcnkgPSBpdGVtLmludmVudG9yeTsK</text>
+        <text encoding="base64">ICAgICAgLy8gtauzv7HgvK3KsSzJzMa3v8nTw86qCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIzNCwgYWN0aXZpdHlJbmZvKTsK</text>
+        <text encoding="base64">ICB2Y29tcHUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAge3sgYWN0aXZpdHkudHlwZSB9fSBhYmMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGl0ZW0udG90YWxJbnZlbnRvcnkgPSBpdGVtLmludmVudG9yeTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtb3VudGVkKCkgewogICAgY29uc29sZS5sb2coMTExMTExKTsKICAgIHRoaXMuYWN0aXZpdHkgPSBKU09OLnBhcnNlKEpTT04uc3RyaW5naWZ5KHRoaXMudmFsdWUpKTsKICAgIHRoaXMuYWN0aXZpdHkuc3RhdHVzID0gdGhpcy5nZXRBY3Rpdml0eVN0YXR1cyh0aGlzLmFjdGl2aXR5KTsKICB9</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIzNCwgYWN0aXZpdHlJbmZvKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>(newValue: ActivityInfo): void {
-      this.activity = JSON.parse(JSON.stringify(newValue));
-      this.activity.status = this.getActivityStatus(this.activity);
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAge3sgYWN0aXZpdHkudHlwZSB9fSBhYmMK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>限购数量</last-search>
+      <last-search>活动总库存</last-search>
       <last-offset />
-      <last-pattern>限购数量</last-pattern>
+      <last-pattern>活动总库存</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
