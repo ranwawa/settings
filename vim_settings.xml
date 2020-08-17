@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>排序</entry>
         <entry>最多</entry>
         <entry>moment</entry>
         <entry>row-save</entry>
@@ -25,6 +24,7 @@
         <entry>prox</entry>
         <entry>DevS</entry>
         <entry>proxy</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,13 +121,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsAdd.vue" timestamp="1597646825117">
-        <mark key="'" line="437" column="20" />
-        <mark key="[" line="155" column="27" />
-        <mark key="]" line="155" column="28" />
-        <mark key="." line="155" column="27" />
-        <mark key="^" line="155" column="28" />
-      </file>
       <file name="C:/project/kongbao/src/pages/index/index.vue" timestamp="1597658293400">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="53" column="23" />
@@ -163,6 +156,7 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="C:/project/live-ops/node_modules/antd/lib/typography/index.d.ts" timestamp="1597660254532" />
       <file name="C:/project/live-ops/config/webpack.config.js" timestamp="1597659551845">
         <mark key="'" line="131" column="50" />
       </file>
@@ -172,17 +166,12 @@
         <mark key="." line="132" column="12" />
         <mark key="^" line="132" column="12" />
       </file>
-      <file name="C:/project/jxg-ops/src/const/avue/option.js" timestamp="1597643398378">
-        <mark key="[" line="52" column="14" />
-        <mark key="]" line="52" column="17" />
-        <mark key="^" line="52" column="17" />
-        <mark key="." line="52" column="16" />
-      </file>
-      <file name="C:/project/live-ops/src/views/jxg_liveClass/index.js" timestamp="1597659747848">
-        <mark key="'" line="21" column="63" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="C:/project/live-ops/src/views/jxg_liveClass/index.js" timestamp="1597662493243">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="157" column="22" />
+        <mark key="]" line="157" column="25" />
+        <mark key="." line="157" column="24" />
+        <mark key="^" line="157" column="25" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" timestamp="1597648460087">
         <mark key="'" line="97" column="10" />
@@ -190,6 +179,9 @@
         <mark key="]" line="221" column="0" />
         <mark key="^" line="135" column="20" />
         <mark key="." line="221" column="0" />
+      </file>
+      <file name="C:/project/live-ops/src/components/PageList/index.js" timestamp="1597659927894">
+        <mark key="'" line="61" column="19" />
       </file>
       <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597650383363">
         <mark key="'" line="646" column="25" />
@@ -203,11 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="E:/jxgwxapp/src/goods/components/DetailActivity.vue" />
-      <jump line="71" column="79" filename="E:/jxgwxapp/src/goods/components/DetailBtn.vue" />
-      <jump line="55" column="4" filename="E:/jxgwxapp/src/goods/components/DetailBtn.vue" />
-      <jump line="1067" column="61" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="660" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="145" column="0" filename="E:/jxgwxapp/src/goods/components/DetailActivity.vue" />
       <jump line="95" column="34" filename="E:/jxgwxapp/src/goods/components/DetailActivity.vue" />
       <jump line="33" column="50" filename="E:/jxgwxapp/src/goods/components/DetailBtn.vue" />
@@ -303,6 +290,11 @@
       <jump line="607" column="57" filename="C:/project/live-ops/config/webpack.config.js" />
       <jump line="131" column="50" filename="C:/project/live-ops/config/webpack.config.js" />
       <jump line="21" column="63" filename="C:/project/live-ops/src/views/jxg_liveClass/index.js" />
+      <jump line="38" column="0" filename="C:/project/live-ops/src/views/jxg_liveClass/index.js" />
+      <jump line="156" column="16" filename="C:/project/live-ops/src/views/jxg_liveClass/index.js" />
+      <jump line="61" column="19" filename="C:/project/live-ops/src/components/PageList/index.js" />
+      <jump line="157" column="19" filename="C:/project/live-ops/src/views/jxg_liveClass/index.js" />
+      <jump line="34" column="8" filename="C:/project/live-ops/src/views/jxg_liveClass/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,7 +306,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>proxy</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGNvbXB1dGVkU2hvd1ByaWNlID0gYD8ke3RoaXMuY29tcHV0ZWRTaG93UHJpY2V9YDsK</text>
@@ -351,9 +343,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>proxy</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>proxy</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
