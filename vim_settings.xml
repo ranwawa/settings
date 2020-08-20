@@ -165,10 +165,11 @@
         <mark key="^" line="26" column="30" />
         <mark key="." line="26" column="29" />
       </file>
-      <file name="E:/jxgwxapp/package.json" timestamp="1597923680098">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="89" />
-        <mark key="." line="8" column="0" />
+      <file name="E:/jxgwxapp/package.json" timestamp="1597924561754">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="8" />
+        <mark key="^" line="9" column="9" />
       </file>
       <file name="/Dummy.txt" timestamp="1597924123379">
         <mark key="[" line="0" column="0" />
@@ -187,12 +188,12 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="E:/jxgwxapp/src/config/dev2.ts" timestamp="1597924417365">
-        <mark key="'" line="21" column="16" />
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="42" />
-        <mark key="^" line="12" column="43" />
+      <file name="E:/jxgwxapp/src/config/dev2.ts" timestamp="1597924490666">
+        <mark key="'" line="15" column="16" />
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="E:/jxgwxapp/src/config/test3.ts" timestamp="1597923102242">
         <mark key="[" line="15" column="17" />
@@ -200,10 +201,21 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="17" />
       </file>
+      <file name="E:/jxgwxapp/src/assets/constant/common.ts" timestamp="1597924541561">
+        <mark key="[" line="129" column="5" />
+        <mark key="]" line="129" column="6" />
+        <mark key="." line="129" column="5" />
+        <mark key="^" line="129" column="6" />
+      </file>
       <file name="E:/jxgwxapp/src/goods/common.ts" timestamp="1597922898114">
         <mark key="'" line="71" column="2" />
       </file>
-      <file name="E:/jxgwxapp/src/config/index.ts" timestamp="1597923252100" />
+      <file name="E:/jxgwxapp/src/config/index.ts" timestamp="1597924524428">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="14" />
+        <mark key="." line="34" column="13" />
+        <mark key="^" line="34" column="14" />
+      </file>
       <file name="E:/jxgwxapp/src/config/gray.ts" timestamp="1597922464714">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -317,51 +329,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>@/config</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>@/config</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>PLATFORM.</text>
       </register>
-      <register name="0" type="4">
-        <text>// 查询商品发货时间
-  queryDeliveryTime(params: QueryDeliveryTime) {
-    return apiAxios({
-      params,
-      url: &quot;/blade-order/api/frontend/queryDeliveryTime&quot;,
-      method: HTTP_METHOD.GET,
-      skipShowLoading: true,
-    });
-  }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJ0ZXN0Omg1IjogImNyb3NzLWVudiBOT0RFX0VOVj1wcm9kdWN0aW9uIFVOSV9QTEFURk9STT1oNSB2dWUtY2xpLXNlcnZpY2UgdW5pLWJ1aWxkIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJkZXY6aDUiOiAiY3Jvc3MtZW52IE5PREVfRU5WPWRldmVsb3BtZW50IFVOSV9QTEFURk9STT1oNSB2dWUtY2xpLXNlcnZpY2UgdW5pLXNlcnZlIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWNjb3VudDogY29uZmlndXJhdGlvbi5hcHBJZCwK</text>
+        <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjYXNlIEVFbnZpcm9ubWVudC5JTlQ6CiAgICBlbnYgPSB0ZXN0SW50OwogICAgYnJlYWs7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjYXNlIEVFbnZpcm9ubWVudC5CVUlMRDoKICAgIGVudiA9IGJ1aWxkOwogICAgYnJlYWs7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJkZXY6bXAtd2VpeGluIjogImNyb3NzLWVudiBOT0RFX0VOVj1kZXZlbG9wbWVudCBVTklfUExBVEZPUk09bXAtd2VpeGluIHZ1ZS1jbGktc2VydmljZSB1bmktYnVpbGQgLS13YXRjaCAtLW1pbmltaXplIiwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICJkZXY6aDUiOiAiY3Jvc3MtZW52IE5PREVfRU5WPWRldmVsb3BtZW50IFVOSV9QTEFURk9STT1oNSB2dWUtY2xpLXNlcnZpY2UgdW5pLXNlcnZlIiwK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYWNjb3VudDogY29uZmlndXJhdGlvbi5hcHBJZCwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjYXNlIEVFbnZpcm9ubWVudC5JTlQ6CiAgICBlbnYgPSB0ZXN0SW50OwogICAgYnJlYWs7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjYXNlIEVFbnZpcm9ubWVudC5CVUlMRDoKICAgIGVudiA9IGJ1aWxkOwogICAgYnJlYWs7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0LWludDptcC13ZWl4aW4iOiAiY3Jvc3MtZW52IE5PREVfRU5WPXByb2R1Y3Rpb24gVU5JX1BMQVRGT1JNPW1wLXdlaXhpbiB2dWUtY2xpLXNlcnZpY2UgdW5pLWJ1aWxkIiwK</text>
+        <text encoding="base64">ICAgICJkZXY6bXAtd2VpeGluIjogImNyb3NzLWVudiBOT0RFX0VOVj1kZXZlbG9wbWVudCBVTklfUExBVEZPUk09bXAtd2VpeGluIHZ1ZS1jbGktc2VydmljZSB1bmktYnVpbGQgLS13YXRjaCAtLW1pbmltaXplIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0LWludDpoNSI6ICJjcm9zcy1lbnYgTk9ERV9FTlY9cHJvZHVjdGlvbiBVTklfUExBVEZPUk09aDUgdnVlLWNsaS1zZXJ2aWNlIHVuaS1idWlsZCIsCg==</text>
+        <text encoding="base64">ICAgICJkZXY6aDUiOiAiY3Jvc3MtZW52IE5PREVfRU5WPWRldmVsb3BtZW50IFVOSV9QTEFURk9STT1oNSB2dWUtY2xpLXNlcnZpY2UgdW5pLXNlcnZlIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJncmF5Omg1IjogImNyb3NzLWVudiBOT0RFX0VOVj1wcm9kdWN0aW9uIFVOSV9QTEFURk9STT1oNSB2dWUtY2xpLXNlcnZpY2UgdW5pLWJ1aWxkIiwK</text>
+        <text encoding="base64">ICAgICJ0ZXN0LWludDptcC13ZWl4aW4iOiAiY3Jvc3MtZW52IE5PREVfRU5WPXByb2R1Y3Rpb24gVU5JX1BMQVRGT1JNPW1wLXdlaXhpbiB2dWUtY2xpLXNlcnZpY2UgdW5pLWJ1aWxkIiwK</text>
       </register>
     </registers>
   </component>
