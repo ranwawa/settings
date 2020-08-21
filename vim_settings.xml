@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>分享</entry>
-        <entry>this.activity.type =</entry>
         <entry>activity</entry>
         <entry>activityType\.</entry>
         <entry>initData</entry>
@@ -25,6 +23,8 @@
         <entry>立即领取</entry>
         <entry>商品金额</entry>
         <entry>submit</entry>
+        <entry>consle.log</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -127,12 +127,12 @@
         <mark key="." line="0" column="12" />
       </file>
       <file name="E:/jxgwxapp/global.d.ts" timestamp="1597981589995" />
-      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1597990921397">
-        <mark key="'" line="346" column="11" />
-        <mark key="[" line="71" column="14" />
-        <mark key="]" line="71" column="18" />
-        <mark key="." line="71" column="17" />
-        <mark key="^" line="71" column="18" />
+      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1597993265602">
+        <mark key="'" line="119" column="36" />
+        <mark key="[" line="396" column="37" />
+        <mark key="]" line="397" column="27" />
+        <mark key="." line="397" column="26" />
+        <mark key="^" line="397" column="27" />
       </file>
       <file name="E:/jxgwxapp/src/goods/index.d.ts" timestamp="1597930308428">
         <mark key="[" line="15" column="11" />
@@ -140,23 +140,18 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="E:/jxgwxapp/src/api/coupon.ts" timestamp="1597988928004">
-        <mark key="[" line="48" column="71" />
-        <mark key="]" line="48" column="78" />
-        <mark key="." line="48" column="77" />
-        <mark key="^" line="48" column="78" />
+      <file name="E:/jxgwxapp/src/manifest.json" timestamp="1597991723773" />
+      <file name="E:/jxgwxapp/src/api/coupon.ts" timestamp="1597992688146">
+        <mark key="[" line="48" column="99" />
+        <mark key="]" line="48" column="101" />
+        <mark key="." line="48" column="100" />
+        <mark key="^" line="48" column="101" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1597923419952">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
-      </file>
-      <file name="E:/jxgwxapp/src/config/test3.ts" timestamp="1597923102242">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="15" column="17" />
       </file>
       <file name="E:/jxgwxapp/src/api/goods.ts" timestamp="1597978156697">
         <mark key="[" line="83" column="0" />
@@ -181,7 +176,7 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597990347031">
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1597992592235">
         <mark key="'" line="178" column="23" />
         <mark key="[" line="1285" column="43" />
         <mark key="]" line="1286" column="21" />
@@ -190,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="56" filename="E:/jxgwxapp/src/pages/coupon/index.vue" />
       <jump line="376" column="8" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="412" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="93" column="2" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
@@ -290,57 +284,58 @@
       <jump line="1263" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="178" column="23" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="346" column="11" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="119" column="36" filename="E:/jxgwxapp/src/order/pages/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY291cG9uaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text>console.log</text>
       </register>
-      <register name="0" type="4">
-        <text>computedOrderAmount.goods</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IFV2Q2VsbCBmcm9tICJ1bmktdmFudC9saWIvY2VsbC52dWUiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMywgZ29vZHNMaXN0KTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuY291cG9uaQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVkdWN0aW9uVHlwZTogdGhpcy5jb21wdXRlZFNob3dMb2dpc3RpY3NGZWUK</text>
+        <text encoding="base64">ICAgICAgICAgIHt7IGNvbXB1dGVkUG9wdXBUaXRsZSB9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9naXN0aWNzRmVlOiB0aGlzLmNvbXB1dGVkU2hvd0xvZ2lzdGljc0ZlZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgY29tcHV0ZWRQb3B1cEJ1dHRvblN0YXRzLnRleHQgfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29tcHV0ZWRQcmVHb29kTGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdi1pZj0iY29tcHV0ZWRQb3B1cEJ1dHRvblN0YXRzLmlzU2hvdyIK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICh7CiAgICAgIC4uLmVsZQogICAgfSk=</text>
+        <text encoding="base64">ICAgIDwhLS0guea48XNrdSAtLT4KICAgICAgICA8dmlldyB2LWVsc2UtaWY9InBvcHVwVHlwZSA9PT0gMyIgY2xhc3M9Imp4Zy1za3UiPgogICAgICAgICAgPCEtLSDNvMasvNu48SAtLT4KICAgICAgICAgIDx2aWV3IGNsYXNzPSJqeGctc2t1X19zdW1tYXJ5Ij4KICAgICAgICAgICAgPGltYWdlCiAgICAgICAgICAgICAgOnNyYz0iY29tcHV0ZWRTZWxlY3RlZFNrdS5za3VQaWMiCiAgICAgICAgICAgICAgY2xhc3M9Imp4Zy1za3VfX2ltZyIKICAgICAgICAgICAgICBtb2RlPSJhc3BlY3RGaWxsIgogICAgICAgICAgICAvPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJqeGctc2t1X19jb250ZW50Ij4KICAgICAgICAgICAgICA8dmlldyBjbGFzcz0ianhnLXNrdV9fYW1vdW50Ij4KICAgICAgICAgICAgICAgIDwhLS0gPHV2LXByaWNlIDphbW91bnQ9ImNvbXB1dGVkU2hvd1ByaWNlIiA6Y29sb3I9InRoZW1lQ29sb3IiIC8+IC0tPgogICAgICAgICAgICAgICAgPCEtLSA8dGV4dD57e2NvbXB1dGVkU2hvd1ByaWNlfX08L3RleHQ+IC0tPgogICAgICAgICAgICAgICAgPHZpZXcgY2xhc3M9InV2LXByaWNlIj6jpHt7IGNvbXB1dGVkU2hvd1ByaWNlIH19PC92aWV3PgogICAgICAgICAgICAgIDwvdmlldz4KICAgICAgICAgICAgICA8dmlldyBjbGFzcz0ianhnLXNrdV9fc2VsZWN0ZWQiPgogICAgICAgICAgICAgICAg0tHRoaO6e3sgY29tcHV0ZWRTZWxlY3RlZFNrdS5za3VOYW1lIH19CiAgICAgICAgICAgICAgPC92aWV3PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvdmlldz4KICAgICAgICAgIDwhLS0g0dXJq7PftOcgLS0+CiAgICAgICAgICA8dmlldyB2LWZvcj0iKHByb3AsIHByb3BJbmRleCkgaW4gYXR0ckxpc3QiIDprZXk9InByb3AuaWQiPgogICAgICAgICAgICA8dmlldyBjbGFzcz0ianhnLXNrdV9fdGl0bGUiPgogICAgICAgICAgICAgIHt7IHByb3AubmFtZSB9fQogICAgICAgICAgICA8L3ZpZXc+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9Imp4Zy1za3VfX2l0ZW1zIj4KICAgICAgICAgICAgICA8dmlldwogICAgICAgICAgICAgICAgdi1mb3I9Iih2YWx1ZSwgdmFsdWVJbmRleCkgaW4gcHJvcC52YWx1ZXMiCiAgICAgICAgICAgICAgICA6a2V5PSJ2YWx1ZS5pZCIKICAgICAgICAgICAgICAgIGNsYXNzPSJqeGctc2t1X19pdGVtIGp4Zy1za3VfX2l0ZW1fbm9ybWFsIgogICAgICAgICAgICAgICAgOmNsYXNzPSJ7CiAgICAgICAgICAgICAgICAgICdqeGctc2t1X19pdGVtX2FjdGl2ZSc6IHByb3AuY3VycmVudFZpZCA9PT0gdmFsdWUuaWQsCiAgICAgICAgICAgICAgICAgICdqeGctc2t1X19pdGVtX2Rpc2FibGUnOiB2YWx1ZS5pc0Rpc2FibGVkLAogICAgICAgICAgICAgICAgfSIKICAgICAgICAgICAgICAgIEBjbGljaz0ic2V0Q3VyQXR0ckNoaWxkSWQocHJvcCwgdmFsdWUpIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIHt7IHZhbHVlLm5hbWUgfX0KICAgICAgICAgICAgICA8L3ZpZXc+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC92aWV3PgogICAgICAgICAgPCEtLSDK/cG/IC0tPgogICAgICAgICAgPHZpZXcgdi1pZj0ic2VsZWN0ZWRTa3Uuc2t1Q29kZSIgY2xhc3M9Imp4Zy1za3VfX3RpdGxlIj4KICAgICAgICAgICAgyv3BvwogICAgICAgICAgICA8dmlldyBjbGFzcz0ianhnLXNrdV9fbnVtYmVyIj4KICAgICAgICAgICAgICA8Z29vZC1udW1iZXIKICAgICAgICAgICAgICAgIHYtbW9kZWw9InNlbGVjdGVkU2t1Lm51bSIKICAgICAgICAgICAgICAgIDptYXg9ImNvbXB1dGVkU2VsZWN0ZWRTa3VRdWFudGl0eSIKICAgICAgICAgICAgICAgIEBjaGFuZ2U9InNlbGVjdGVkU2t1Lm51bSA9ICRldmVudCIKICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgIDx2aWV3IHYtaWY9ImNvbXB1dGVkU2VsZWN0ZWRTa3VRdWFudGl0eSIgY2xhc3M9Imp4Zy1za3VfX2hpbnQiPgogICAgICAgICAgICAgICAge3sgY29tcHV0ZWRRdWFudGl0eVRpcCB9fXt7IGNvbXB1dGVkU2VsZWN0ZWRTa3VRdWFudGl0eSB9fbz+CiAgICAgICAgICAgICAgPC92aWV3PgogICAgICAgICAgICA8L3ZpZXc+CiAgICAgICAgICA8L3ZpZXc+CiAgICAgICAgPC92aWV3PgogIA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IDsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIDwhLS0gsvrGt7LOyv0gLS0+CiAgICAgICAgPHZpZXcgdi1pZj0icG9wdXBUeXBlID09PSAxIiBjbGFzcz0idXYtcG9wdXBfX2luZm8iPgogICAgICAgICAgPHV2LWNlbGwtZ3JvdXA+CiAgICAgICAgICAgIDx1di1jZWxsCiAgICAgICAgICAgICAgdi1pZj0icHJvZHVjdC5yZWZCcmFuZE5hbWUiCiAgICAgICAgICAgICAgdGl0bGU9Isa3xcYiCiAgICAgICAgICAgICAgdGl0bGUtd2lkdGg9IjE5MnJweCIKICAgICAgICAgICAgICA6dmFsdWU9InByb2R1Y3QucmVmQnJhbmROYW1lIgogICAgICAgICAgICA+PC91di1jZWxsPgogICAgICAgICAgICA8IS0tPHV2LWNlbGwgdGl0bGU9IrnmuPEiIHRpdGxlLXdpZHRoPSIxOTJycHgiIHZhbHVlPSLOqNK7Ij48L3V2LWNlbGw+LS0+CiAgICAgICAgICAgIDwhLS08dXYtY2VsbCB0aXRsZT0i0dXJqyIgdGl0bGUtd2lkdGg9IjE5MnJweCIgdmFsdWU9Is6o0rsiPjwvdXYtY2VsbD4tLT4KICAgICAgICAgICAgPHV2LWNlbGwKICAgICAgICAgICAgICB2LWlmPSJwcm9kdWN0LmJhckNvZGUiCiAgICAgICAgICAgICAgdGl0bGU9Isz10M7C6yIKICAgICAgICAgICAgICB0aXRsZS13aWR0aD0iMTkycnB4IgogICAgICAgICAgICAgIDp2YWx1ZT0icHJvZHVjdC5iYXJDb2RlIgogICAgICAgICAgICA+PC91di1jZWxsPgogICAgICAgICAgICA8IS0tPHV2LWNlbGwtLT4KICAgICAgICAgICAgPCEtLSAgdGl0bGU9IsrK08PIy8i6Ii0tPgogICAgICAgICAgICA8IS0tICB0aXRsZS13aWR0aD0iMTkycnB4Ii0tPgogICAgICAgICAgICA8IS0tICB2YWx1ZT0izqjSuyItLT4KICAgICAgICAgICAgPCEtLSAgOmJvcmRlcj0iZmFsc2UiLS0+CiAgICAgICAgICAgIDwhLS0mZ3Q7PC91di1jZWxsPi0tPgogICAgICAgICAgPC91di1jZWxsLWdyb3VwPgogICAgICAgIDwvdmlldz4KICAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmxvZ2lzdGljc0ZlZSA9PT0gZGF0YS5sb2dpc3RpY3NGZWUpIHJldHVybjsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMywgZ29vZHNMaXN0KTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZSk7Cg==</text>
+      <register name="9" type="4">
+        <text>{
+    }</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>submit</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
