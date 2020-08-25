@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>overflow:</entry>
         <entry>优惠券</entry>
         <entry>onLoad</entry>
         <entry>console.log</entry>
@@ -25,6 +24,7 @@
         <entry>quantity</entry>
         <entry>limit</entry>
         <entry>canUse</entry>
+        <entry>ROUTE</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -124,7 +124,7 @@
       <file name="vim_settings.xml" timestamp="1598247958486">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598269017067">
+      <file name="/Dummy.txt" timestamp="1598333947528">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -158,35 +158,34 @@
       <file name="E:/jxgwxapp/src/main.ts" timestamp="1598253661274">
         <mark key="'" line="34" column="60" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1598326774404">
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1598334175266">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/pages/master/vip.vue" timestamp="1598002903757">
         <mark key="'" line="227" column="5" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/index.d.ts" timestamp="1598326832023">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="8" />
+      <file name="E:/jxgwxapp/src/assets/js/index.d.ts" timestamp="1598334159430">
+        <mark key="'" line="90" column="29" />
+        <mark key="[" line="116" column="19" />
+        <mark key="]" line="116" column="19" />
+        <mark key="^" line="70" column="37" />
+        <mark key="." line="116" column="24" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1598326336903">
+      <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1598334168434">
         <mark key="'" line="91" column="7" />
-        <mark key="[" line="11" column="68" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="23" />
+        <mark key="." line="33" column="22" />
+        <mark key="^" line="33" column="23" />
       </file>
       <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1598325028575">
         <mark key="'" line="1190" column="51" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="45" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="257" column="2" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="314" column="3" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="304" column="12" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="317" column="43" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="227" column="5" filename="E:/jxgwxapp/src/pages/master/vip.vue" />
@@ -284,56 +283,59 @@
       <jump line="134" column="7" filename="E:/jxgwxapp/src/assets/js/baseUser.ts" />
       <jump line="98" column="0" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="42" column="4" filename="E:/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="56" column="2" filename="E:/jxgwxapp/src/assets/js/index.d.ts" />
+      <jump line="70" column="36" filename="E:/jxgwxapp/src/assets/js/index.d.ts" />
+      <jump line="90" column="29" filename="E:/jxgwxapp/src/assets/js/index.d.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtJVXNlckluZm99IGZyb20gIkAvYXNzZXRzL2pzL2Jhc2VVc2VyIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>.roomLiveState</text>
+        <text>new IUserInfo</text>
       </register>
       <register name="/" type="4">
-        <text>canUse</text>
+        <text>ROUTE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHtJVXNlckluZm99IGZyb20gIkAvYXNzZXRzL2pzL2luZGV4IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtJVXNlckluZm99IGZyb20gIkAvYXNzZXRzL2pzL2Jhc2VVc2VyIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vaHRtbDVwbHVzL3BsdXMuZC50cyIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSVVzZXJJbmZvIH0gZnJvbSAiQC9hc3NldHMvanMvaW5kZXgiOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUk9VVEUgfSBmcm9tICJAL2Fzc2V0cy9jb25zdGFudC9jb21tb24iOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtJVXNlckluZm99IGZyb20gIkAvYXNzZXRzL2pzL2luZGV4IjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSVVzZXJJbmZvIH0gZnJvbSAiQC9hc3NldHMvanMvYmFzZVVzZXIiOwo=</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">LyoqCiAqINPDu6fQxc+iCiAqLwpleHBvcnQgY2xhc3MgSVVzZXJJbmZvIHsKICAvKioKICAgKiDTw7undG9rZW4KICAgKi8KICBhY2Nlc3NfdG9rZW4/OiBzdHJpbmcgPSAiIjsKICAvKioKICAgKiDTw7unSUQKICAgKi8KICB1c2VyX2lkPzogc3RyaW5nID0gIiI7CiAgLyoqCiAgICogzbfP8QogICAqLwogIGF2YXRhcj86IHN0cmluZyA9ICIiOwogIC8qKgogICAqINPDu6fqx7PGCiAgICovCiAgbmlja19uYW1lPzogc3RyaW5nID0gIiI7CiAgLyoqCiAgICogzqLQxW9wZW5JZAogICAqLwogIHdlaXhpblRva2VuPzogc3RyaW5nID0gIiI7CiAgLyoqCiAgICog08O7p8rWu/q6xcLrCiAgICovCiAgcGhvbmU/OiBzdHJpbmcgPSAiIjsKICAvKioKICAgKiDR+8frwusKICAgKi8KICBtZW1iZXJJbnZpdGVDb2RlPzogc3RyaW5nID0gIiI7CiAgLyoqCiAgICogzqLQxXVuaW9uSWQKICAgKi8KICB1bmlvbklkPzogc3RyaW5nID0gIiI7CiAgLyoqCiAgICogzqLQxXNlc3Npb25LZXkKICAgKi8KICBzZXNzaW9uS2V5Pzogc3RyaW5nID0gIiI7CiAgLyoqCiAgICoguf3G2sqxvOQKICAgKi8KICBleHBpcmVUaW1lPzogbnVtYmVyID0gdW5kZWZpbmVkOwp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIElVc2VySW5mbyB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtJfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y2xhc3MgSVVzZXJJbmZvIHsKICAvKioKICAgKiDTw7undG9rZW4KICAgKi8KICBhY2Nlc3NfdG9rZW4/OiBzdHJpbmcgPSAiIjsKICAvKioKICAgKiDTw7unSUQKICAgKi8KICB1c2VyX2lkPzogc3RyaW5nID0gIiI7CiAgLyoqCiAgICogzbfP8QogICAqLwogIGF2YXRhcj86IHN0cmluZyA9ICIiOwogIC8qKgogICAqINPDu6fqx7PGCiAgICovCiAgbmlja19uYW1lPzogc3RyaW5nID0gIiI7CiAgLyoqCiAgICogzqLQxW9wZW5JZAogICAqLwogIHdlaXhpblRva2VuPzogc3RyaW5nID0gIiI7CiAgLyoqCiAgICog08O7p8rWu/q6xcLrCiAgICovCiAgcGhvbmU/OiBzdHJpbmcgPSAiIjsKICAvKioKICAgKiDR+8frwusKICAgKi8KICBtZW1iZXJJbnZpdGVDb2RlPzogc3RyaW5nID0gIiI7CiAgLyoqCiAgICogzqLQxXVuaW9uSWQKICAgKi8KICB1bmlvbklkPzogc3RyaW5nID0gIiI7CiAgLyoqCiAgICogzqLQxXNlc3Npb25LZXkKICAgKi8KICBzZXNzaW9uS2V5Pzogc3RyaW5nID0gIiI7CiAgLyoqCiAgICoguf3G2sqxvOQKICAgKi8KICBleHBpcmVUaW1lPzogbnVtYmVyID0gdW5kZWZpbmVkOwp9Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vaHRtbDVwbHVzL3BsdXMuZC50cyIgLz4K</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>canUse</last-search>
+      <last-search>ROUTE</last-search>
       <last-offset />
-      <last-pattern>canUse</last-pattern>
+      <last-pattern>ROUTE</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
