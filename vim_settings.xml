@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>console</entry>
         <entry>activity</entry>
         <entry encoding="base64">YWN0aXZpdHkgPSA=</entry>
         <entry encoding="base64">ID09PSAw</entry>
@@ -25,6 +24,7 @@
         <entry>leftTitle</entry>
         <entry>编辑</entry>
         <entry>221</entry>
+        <entry>editLiveGoods</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,12 +121,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/jxgwxapp/src/components/live/LiveItem.vue" timestamp="1598326232907" />
-      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1598335740490">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="12" column="9" />
-        <mark key="." line="11" column="0" />
+      <file name="E:/jxgwxapp/src/assets/js/adapter.ts" timestamp="1598340321204">
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="^" line="215" column="19" />
+        <mark key="." line="214" column="0" />
       </file>
       <file name="E:/jxgwxapp/src/components/market/LiveFloat.vue" timestamp="1598336070426">
         <mark key="[" line="7" column="13" />
@@ -134,8 +133,13 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598336329856">
+      <file name="/Dummy.txt" timestamp="1598338088730">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/jxgwxapp/shime-global.d.ts" timestamp="1598339807634">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" timestamp="1598337797798">
         <mark key="'" line="0" column="0" />
@@ -150,6 +154,12 @@
         <mark key="]" line="20" column="51" />
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="51" />
+      </file>
+      <file name="E:/jxgwxapp/src/assets/js/index.d.ts" timestamp="1598340428833">
+        <mark key="[" line="118" column="2" />
+        <mark key="]" line="123" column="42" />
+        <mark key="^" line="118" column="2" />
+        <mark key="." line="118" column="2" />
       </file>
       <file name="E:/jxgwxapp/src/assets/js/baseUser.ts" timestamp="1598334168434">
         <mark key="'" line="91" column="7" />
@@ -268,59 +278,51 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>192.168.1.221</text>
+        <text encoding="base64">LyoqCiAgICogseC8rdaxsqW85MnMxrcKICAgKiDQobPM0PLEvtPQCiAgICogQHBhcmFtIHBhcmFtIGpzb25zdHJpbmdpZnm687XEyczGt8HQse0KICAgKi8KICBlZGl0TGl2ZUdvb2RzPzogKHBhcmFtOiBzdHJpbmcpID0+IHZvaWQ7</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.1.221</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>221</text>
+        <text>editLiveGoods</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHtJVXNlckluZm99IGZyb20gIkAvYXNzZXRzL2pzL2luZGV4IjsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygzMzMsIGRhdGEudG90YWxJbnZlbnRvcnkpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCiAgICogseC8rdaxsqW85MnMxrcKICAgKiDQobPM0PLEvtPQCiAgICogQHBhcmFtIHBhcmFtIGpzb25zdHJpbmdpZnm687XEyczGt8HQse0KICAgKi8KICBlZGl0TGl2ZUdvb2RzPzogKHBhcmFtOiBzdHJpbmcpID0+IHZvaWQ7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygzMzMsIGRhdGEudG90YWxJbnZlbnRvcnkpOwo=</text>
+        <text encoding="base64">ICAgKiDQobPM0PLEvtPQCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>data.activityPicture = row.activityPicture;
-              data.refGoodsCode = row.refGoodsCode;
-              data.marketPrice = row.marketPrice;
-              data.refGoodsId = row.refGoodsId;
-              data.refActivityId = this.id;
-              data.type = 2;
-              data.id = data.refLimitedBuySkuId;
-              data = Object.assign({}, _.pick(row, activitySkuProps),
-                _.omit(data, 'inventory', 'goodsShortName'));</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvKioKICAgKiC78cihzqLQxWNvZGUKICAgKiBhcHDE2se20tS8sOSvwMDG98S+09AKICAgKi8KICBnZXRKc0NvZGU/OiAoKSA9PiB2b2lkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkOiBkYXRhLnJlZkxpbWl0ZWRCdXlTa3VJZCwK</text>
+        <text encoding="base64">ICAgIGdldFFyU3JjOiBsb29wLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkYXRhLm1hcmtldFByaWNlID0gcm93Lm1hcmtldFByaWNlOwo=</text>
+        <text encoding="base64">ICAgIGdldEpzQ29kZTogbG9vcCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkYXRhLm1hcmtldFByaWNlID0gcm93Lm1hcmtldFByaWNlOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkYXRhLnJlZkdvb2RzQ29kZSA9IHJvdy5yZWZHb29kc0NvZGU7CiAgICAgICAgICAgICAgZGF0YS5yZWZHb29kc0lkID0gcm93LnJlZkdvb2RzSWQ7Cg==</text>
+        <text encoding="base64">ZGVjbGFyZSB2YXIganhnOiBhbnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGVmdFRpdGxlLmxlbmd0aAo=</text>
+        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>221</last-search>
+      <last-search>editLiveGoods</last-search>
       <last-offset />
-      <last-pattern>221</last-pattern>
+      <last-pattern>editLiveGoods</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
