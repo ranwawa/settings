@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>computedS</entry>
         <entry>number</entry>
         <entry>quantity</entry>
         <entry>limit</entry>
@@ -25,6 +24,7 @@
         <entry>canUse</entry>
         <entry>input</entry>
         <entry>field</entry>
+        <entry>立即领取</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -127,18 +127,7 @@
         <mark key="." line="105" column="36" />
         <mark key="^" line="105" column="36" />
       </file>
-      <file name="E:/jxgwxapp/src/assets/js/common.ts" timestamp="1598341754205">
-        <mark key="[" line="114" column="9" />
-        <mark key="]" line="114" column="10" />
-        <mark key="." line="114" column="10" />
-      </file>
-      <file name="E:/jxgwxapp/src/components/market/LiveFloat.vue" timestamp="1598336070426">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="17" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="7" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1598348807732">
+      <file name="/Dummy.txt" timestamp="1598350702554">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/shime-global.d.ts" timestamp="1598339807634">
@@ -169,7 +158,7 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="E:/jxgwxapp/src/main.ts" timestamp="1598350524128">
+      <file name="E:/jxgwxapp/src/main.ts" timestamp="1598350695550">
         <mark key="'" line="6" column="61" />
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="25" />
@@ -181,17 +170,16 @@
         <mark key="^" line="56" column="8" />
         <mark key="." line="56" column="7" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1598348758000">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1598407399738">
+        <mark key="'" line="228" column="47" />
+        <mark key="[" line="1738" column="20" />
+        <mark key="]" line="1738" column="22" />
+        <mark key="^" line="1738" column="22" />
+        <mark key="." line="1738" column="21" />
       </file>
       <file name="/detail.vue" timestamp="1598347455116" />
     </filemarks>
     <jumps>
-      <jump line="742" column="31" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1614" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="34" column="60" filename="E:/jxgwxapp/src/main.ts" />
       <jump line="737" column="25" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="151" column="35" filename="E:/jxgwxapp/src/order/pages/index.vue" />
@@ -290,56 +278,58 @@
       <jump line="8" column="3" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
       <jump line="6" column="61" filename="E:/jxgwxapp/src/main.ts" />
       <jump line="408" column="43" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
+      <jump line="340" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="228" column="47" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>offsetHeight</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogcHgycnB4KDEwKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>offsetHeight</text>
+        <text>#000</text>
       </register>
       <register name="/" type="4">
-        <text>field</text>
+        <text>立即领取</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAYmx1cj0icmVEcmF3Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sIDEwMCkK</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogcHgycnB4KDEwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTExMSk7Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IHB4MnJweCgyKSBweDJycHgoMTApIHB4MnJweCgxKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50ICYmIChkb2N1bWVudC5ib2R5LnNjcm9sbFRvcCA9IGRvY3VtZW50LmJvZHkuc2Nyb2xsSGVpZ2h0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3VuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjdXN0b20tc3R5bGU9ImZsZXgtc2hyaW5rOiAwOyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzaXplPSJtaW5pIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0sIDEwMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTExMSk7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>field</last-search>
+      <last-search>立即领取</last-search>
       <last-offset />
-      <last-pattern>field</last-pattern>
+      <last-pattern>立即领取</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
