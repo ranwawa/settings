@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>number</entry>
-        <entry>quantity</entry>
         <entry>limit</entry>
         <entry>ROUTE</entry>
         <entry>领券</entry>
@@ -25,6 +23,8 @@
         <entry>input</entry>
         <entry>field</entry>
         <entry>立即领取</entry>
+        <entry>弹框</entry>
+        <entry>111</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -127,7 +127,7 @@
         <mark key="." line="105" column="36" />
         <mark key="^" line="105" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598350702554">
+      <file name="/Dummy.txt" timestamp="1598407406060">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/shime-global.d.ts" timestamp="1598339807634">
@@ -170,18 +170,16 @@
         <mark key="^" line="56" column="8" />
         <mark key="." line="56" column="7" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1598407399738">
-        <mark key="'" line="228" column="47" />
-        <mark key="[" line="1738" column="20" />
-        <mark key="]" line="1738" column="22" />
-        <mark key="^" line="1738" column="22" />
-        <mark key="." line="1738" column="21" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1598420813111">
+        <mark key="'" line="181" column="21" />
+        <mark key="[" line="230" column="14" />
+        <mark key="]" line="231" column="27" />
+        <mark key="^" line="230" column="14" />
+        <mark key="." line="230" column="14" />
       </file>
       <file name="/detail.vue" timestamp="1598347455116" />
     </filemarks>
     <jumps>
-      <jump line="34" column="60" filename="E:/jxgwxapp/src/main.ts" />
-      <jump line="737" column="25" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="151" column="35" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="689" column="17" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="719" column="3" filename="E:/jxgwxapp/src/order/pages/index.vue" />
@@ -280,56 +278,58 @@
       <jump line="408" column="43" filename="E:/jxgwxapp/src/pages/user/bindPhone.vue" />
       <jump line="340" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="228" column="47" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1725" column="3" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="181" column="21" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogcHgycnB4KDEwKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEB0b3VjaHN0YXJ0LnN0b3AgCiAgICAgICAgICBAdG91Y2htb3ZlLnN0b3A=</text>
       </register>
       <register name="-" type="4">
         <text>#000</text>
       </register>
       <register name="/" type="4">
-        <text>立即领取</text>
+        <text>111</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAYmx1cj0icmVEcmF3Igo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IEB0b3VjaHN0YXJ0LnN0b3AgCiAgICAgICAgICBAdG91Y2htb3ZlLnN0b3A=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogcHgycnB4KDEwKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMSwgdmFsdWUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IHB4MnJweCgyKSBweDJycHgoMTApIHB4MnJweCgxKTsK</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogcHgycnB4KDEwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IHB4MnJweCgyKSBweDJycHgoMTApIHB4MnJweCgxKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzcwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3VuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjdXN0b20tc3R5bGU9ImZsZXgtc2hyaW5rOiAwOyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3VuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzaXplPSJtaW5pIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjdXN0b20tc3R5bGU9ImZsZXgtc2hyaW5rOiAwOyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0sIDEwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzaXplPSJtaW5pIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTExMSk7Cg==</text>
+        <text encoding="base64">ICAgIH0sIDEwMCkK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>立即领取</last-search>
+      <last-search>111</last-search>
       <last-offset />
-      <last-pattern>立即领取</last-pattern>
+      <last-pattern>111</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
