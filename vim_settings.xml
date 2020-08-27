@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>submit</entry>
         <entry>coupon</entry>
         <entry>leftTitle =</entry>
         <entry>leftTitle</entry>
@@ -25,6 +24,7 @@
         <entry>share</entry>
         <entry>activityType</entry>
         <entry>jxg-container</entry>
+        <entry>disabled</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -127,7 +127,7 @@
         <mark key="." line="105" column="36" />
         <mark key="^" line="105" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598495251417">
+      <file name="/Dummy.txt" timestamp="1598496098361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1598445894557">
@@ -155,17 +155,15 @@
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1598495886939">
-        <mark key="'" line="1193" column="43" />
-        <mark key="[" line="1429" column="12" />
-        <mark key="]" line="1429" column="17" />
-        <mark key="." line="1429" column="16" />
-        <mark key="^" line="1429" column="17" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1598496953663">
+        <mark key="'" line="180" column="20" />
+        <mark key="[" line="1750" column="41" />
+        <mark key="]" line="1750" column="42" />
+        <mark key="." line="1750" column="42" />
       </file>
       <file name="/detail.vue" timestamp="1598347455116" />
     </filemarks>
     <jumps>
-      <jump line="92" column="17" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="93" column="13" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="147" column="13" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="264" column="2" filename="E:/jxgwxapp/src/order/pages/index.vue" />
@@ -265,6 +263,7 @@
       <jump line="1037" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="7" column="40" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1193" column="43" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="180" column="20" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -276,7 +275,7 @@
         <text>100%</text>
       </register>
       <register name="/" type="4">
-        <text>jxg-container</text>
+        <text>disabled</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IEB0b3VjaHN0YXJ0LnN0b3AgCiAgICAgICAgICBAdG91Y2htb3ZlLnN0b3A=</text>
@@ -312,9 +311,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>jxg-container</last-search>
+      <last-search>disabled</last-search>
       <last-offset />
-      <last-pattern>jxg-container</last-pattern>
+      <last-pattern>disabled</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
