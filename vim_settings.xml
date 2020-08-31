@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>watch</entry>
-        <entry>props</entry>
         <entry>可用</entry>
         <entry>edit</entry>
         <entry>activitySkuProps</entry>
@@ -25,6 +23,8 @@
         <entry>发货</entry>
         <entry>getDetail</entry>
         <entry>onLoad</entry>
+        <entry>100%</entry>
+        <entry>__wrapper</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -133,7 +133,7 @@
         <mark key="^" line="184" column="18" />
         <mark key="." line="381" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598840848140">
+      <file name="/Dummy.txt" timestamp="1598841219952">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgh5/src/components/treaty/serviceSecretTreaty.vue" timestamp="1598839842762" />
@@ -161,12 +161,12 @@
       <file name="$USER_HOME$/Desktop/typescript-fetch-client-generated (1)/api.ts" timestamp="1598609967672">
         <mark key="'" line="31" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1598841212819">
-        <mark key="'" line="368" column="17" />
-        <mark key="[" line="124" column="20" />
-        <mark key="]" line="124" column="21" />
-        <mark key="." line="124" column="20" />
-        <mark key="^" line="124" column="20" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1598842352966">
+        <mark key="'" line="1378" column="9" />
+        <mark key="[" line="1542" column="16" />
+        <mark key="]" line="1542" column="17" />
+        <mark key="." line="1542" column="17" />
+        <mark key="^" line="1542" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/test/src/api/index.ts" timestamp="1598599803745">
         <mark key="[" line="97" column="115" />
@@ -176,8 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="4" filename="E:/jxgwxapp/src/goods/index.d.ts" />
-      <jump line="18" column="2" filename="E:/jxgwxapp/src/goods/index.d.ts" />
       <jump line="776" column="35" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="777" column="14" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="791" column="9" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -276,18 +274,20 @@
       <jump line="360" column="41" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="27" column="5" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="368" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="475" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1378" column="9" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>：</text>
+        <text>%</text>
       </register>
       <register name="-" type="4">
-        <text>：</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>__wrapper</text>
       </register>
       <register name="0" type="4">
         <text>：</text>
@@ -323,9 +323,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>__wrapper</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>__wrapper</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
