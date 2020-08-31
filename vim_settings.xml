@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>发货</entry>
         <entry>getDetail</entry>
         <entry>100%</entry>
         <entry>__wrapper</entry>
@@ -25,6 +24,7 @@
         <entry>onLoad</entry>
         <entry>IGoodsSku</entry>
         <entry>debugger</entry>
+        <entry>initD</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -175,16 +175,15 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1598872369897">
-        <mark key="'" line="1151" column="0" />
-        <mark key="[" line="1165" column="0" />
-        <mark key="]" line="1165" column="0" />
-        <mark key="." line="1165" column="0" />
-        <mark key="^" line="1104" column="51" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1598874364509">
+        <mark key="'" line="1068" column="0" />
+        <mark key="[" line="1144" column="0" />
+        <mark key="]" line="1144" column="0" />
+        <mark key="." line="1144" column="0" />
+        <mark key="^" line="1143" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="725" column="27" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="164" column="0" filename="E:/jxgwxapp/src/assets/constant/common.ts" />
       <jump line="176" column="6" filename="E:/jxgwxapp/src/assets/constant/common.ts" />
       <jump line="0" column="0" filename="E:/jxgwxapp/src/assets/constant/common.ts" />
@@ -284,59 +283,60 @@
       <jump line="1104" column="34" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1107" column="25" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1151" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1068" column="0" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SVNrdUluZm8gfCA=</text>
+        <text>prop.currentVid = +value</text>
       </register>
       <register name="/" type="4">
-        <text>debugger</text>
+        <text>initD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGl0ZW0uZ29vZHNDYW5TYWxlSW52ZW50b3J5ID0gaXRlbS5pbnZlbnRvcnk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHZhbHVlKSB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yaWdpbkxpc3QpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>/**
    * 选中的商品数量
    */
   num?: number;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBza3VQaWM6IHN0cmluZzsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBza3VOYW1lOiBzdHJpbmc7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBza3VDb2RlOiBzdHJpbmc7Cg==</text>
-      </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>debugger</last-search>
+      <last-search>initD</last-search>
       <last-offset />
-      <last-pattern>debugger</last-pattern>
+      <last-pattern>initD</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
