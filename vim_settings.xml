@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>status</entry>
-        <entry>活动价</entry>
         <entry>type\</entry>
         <entry>slot=&quot;type</entry>
         <entry>已用</entry>
@@ -25,6 +23,8 @@
         <entry>onLoad</entry>
         <entry>\.skus</entry>
         <entry>console.log</entry>
+        <entry>setDis</entry>
+        <entry>findRe</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -174,20 +174,15 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1598943466519">
-        <mark key="'" line="1255" column="17" />
-        <mark key="[" line="1191" column="19" />
-        <mark key="]" line="1192" column="13" />
-        <mark key="." line="1192" column="12" />
-        <mark key="^" line="1192" column="13" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1598944913871">
+        <mark key="'" line="1221" column="2" />
+        <mark key="[" line="1040" column="0" />
+        <mark key="]" line="1040" column="15" />
+        <mark key="." line="1040" column="0" />
+        <mark key="^" line="1040" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="40" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsList.vue" />
-      <jump line="177" column="14" filename="C:/project/jxg-ops/src/views/operation/limitDiscount2/components/activityGoodsForm.vue" />
-      <jump line="272" column="16" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
-      <jump line="225" column="2" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
-      <jump line="89" column="21" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" />
       <jump line="183" column="32" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
       <jump line="326" column="37" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
       <jump line="313" column="2" filename="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" />
@@ -283,56 +278,61 @@
       <jump line="1255" column="17" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="12" column="48" filename="E:/jxgwxapp/src/goods/components/DetailActivity.vue" />
       <jump line="125" column="4" filename="E:/jxgwxapp/src/goods/components/DetailActivity.vue" />
+      <jump line="366" column="18" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1217" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1037" column="49" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1184" column="38" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1221" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZm8pOwo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>find</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>findRe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsYWNrSW52ZW50b3J5TWFwW3Byb3BWYWx1ZV0gPSBwcm9wVmFsdWUgIT09IHNlbGVjdGVkUHJvcFZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZWN0ZWRQcm9wVmFsdWUgPSBgJHtzZWxlY3RlZFByb3BJZH06JHtzZWxlY3RlZFZhbElkfWA7CiAgICAgIHJldHVybiBza3VQcm9wUGF0aExpc3QuZmlsdGVyKAogICAgICAgIChlbGUpID0+IGVsZS5wcm9wUGF0aC5pbmNsdWRlcyhzZWxlY3RlZFByb3BWYWx1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZm8pOwo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0RGlzYWJsZVN0YXR1cyhyZWxldmFudFByb3BQYXRoKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgc2t1UHJvcFBhdGhMaXN0LCBzZWxlY3RlZEF0dHIgfSA9IHRoaXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGlnaExpZ2h0UHJvcHMoc2t1UHJvcFBhdGhMaXN0LCBza3VQcm9wTGlzdCwgc2VsZWN0ZWRTa3UpOwogICAgbGV0IHJlbGV2YW50UHJvcFBhdGggPSBza3VQcm9wUGF0aExpc3QuZmlsdGVyKAogICAgICBlbGUgPT4gZWxlLnNrdUNvZGUgPT09IHNlbGVjdGVkU2t1LnNrdUNvZGUKICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgLyogISEhsrvE3Mi3yM/OqdK7c2t1LsjnufvIt8jPwcssvs2yu7vhyKW0psDtICovCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlbGV2YW50UHJvcFBhdGggPSByZWxldmFudFByb3BQYXRoID8gW3JlbGV2YW50UHJvcFBhdGhdIDogW107Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZm8pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VsZWN0ZWRTa3UgPSB0aGlzLmdldERlZmF1bHRTZWxlY3RlZFNrdShza3VJbmZvTWFwKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0RGlzYWJsZVN0YXR1cyhyZWxldmFudFByb3BQYXRoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VsZWN0ZWRTa3UgPSB0aGlzLmdldERlZmF1bHRTZWxlY3RlZFNrdShza3VJbmZvTWFwKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuaGlnaExpZ2h0UHJvcHMoc2t1UHJvcFBhdGhMaXN0LCBza3VQcm9wTGlzdCwgc2VsZWN0ZWRTa3UpOwogICAgbGV0IHJlbGV2YW50UHJvcFBhdGggPSBza3VQcm9wUGF0aExpc3QuZmlsdGVyKAogICAgICBlbGUgPT4gZWxlLnNrdUNvZGUgPT09IHNlbGVjdGVkU2t1LnNrdUNvZGUKICAgICk7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>console.log</last-search>
+      <last-search>findRe</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>findRe</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
