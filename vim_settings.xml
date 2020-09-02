@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>IGoodsSku</entry>
         <entry>initD</entry>
         <entry>__img</entry>
         <entry encoding="base64">c2t1TGlzdCA9IA==</entry>
@@ -25,6 +24,7 @@
         <entry>木</entry>
         <entry>console.log</entry>
         <entry>test3</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -122,12 +122,12 @@
     <globalmarks />
     <filemarks>
       <file name="E:/jxgwxapp/src/goods/components/DetailBtn.vue" timestamp="1598953148761">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="E:/jxgwxapp/package.json" timestamp="1599013225407">
-        <mark key="'" line="57" column="50" />
+        <mark key="'" line="53" column="50" />
       </file>
       <file name="E:/jxgwxapp/src/goods/components/DetailActivity.vue" timestamp="1598943431377">
         <mark key="[" line="125" column="0" />
@@ -141,17 +141,6 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/common.ts" timestamp="1598870430261">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1599012696406">
-        <mark key="'" line="1005" column="21" />
-        <mark key="[" line="1750" column="0" />
-        <mark key="]" line="1750" column="21" />
-        <mark key="." line="1750" column="0" />
-      </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1599011540369">
         <mark key="'" line="0" column="0" />
       </file>
@@ -162,6 +151,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1599012749258">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/jxgwxapp/tsconfig.json" timestamp="1599013863266">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -269,14 +264,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBidXlBY3Rpdml0eVNrdU51bTogbnVtYmVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>propId, valueId</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>test3</text>
+        <text>this</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8guPHKvbuv0rvPwrT6wusK</text>
@@ -312,9 +307,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>test3</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern>test3</last-pattern>
+      <last-pattern>this</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
