@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>\.skus</entry>
         <entry>findRe</entry>
         <entry>getRel</entry>
         <entry>findR</entry>
@@ -25,6 +24,7 @@
         <entry>onLoad</entry>
         <entry>setDis</entry>
         <entry>setCu</entry>
+        <entry>@click=&quot;se</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -124,7 +124,7 @@
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1599011540369">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599032224832">
+      <file name="/Dummy.txt" timestamp="1599033231089">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/jxgwxapp/tsconfig.json" timestamp="1599014640140">
@@ -133,8 +133,8 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="C:/project/jxgwxapp/src/goods/pages/detail.vue" timestamp="1599031950955">
-        <mark key="'" line="1298" column="0" />
+      <file name="C:/project/jxgwxapp/src/goods/pages/detail.vue" timestamp="1599033757431">
+        <mark key="'" line="45" column="0" />
         <mark key="[" line="1212" column="14" />
         <mark key="]" line="1213" column="17" />
         <mark key="." line="1213" column="16" />
@@ -180,11 +180,11 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="C:/project/jxgwxapp/vue.config.js" timestamp="1599032545740">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="5" column="3" />
+      <file name="C:/project/jxgwxapp/vue.config.js" timestamp="1599034394980">
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="6" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" timestamp="1599011415137">
         <mark key="[" line="186" column="0" />
@@ -197,8 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1236" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1088" column="32" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1202" column="38" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1239" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1087" column="12" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -297,56 +295,58 @@
       <jump line="1254" column="0" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1045" column="0" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1297" column="0" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1211" column="33" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="45" column="0" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>setCu</text>
+        <text>@click=&quot;se</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmICh0aGlzLnNlbGVjdGVkU2t1LmxpbWl0ID09PSAwKSB7CiAgICAgIHNob3dUb2FzdFRleHQoIrjDyczGt9LRx8C54iIpOwogICAgICByZXR1cm47CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA6ICJpbmxpbmUtc291cmNlLW1hcCI7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2t1UHJvcFBhdGhMaXN0Lmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBCdW5kbGVBbmFseXplclBsdWdpbigpICAvLyDKudPDxKzIz8Xk1sMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICA6ICJpbmxpbmUtc291cmNlLW1hcCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlbGV2YW50UHJvcFBhdGhMaXN0Lmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2t1UHJvcFBhdGhMaXN0Lmxlbmd0aCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBqeGdBZG1pbgo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBidXlBY3Rpdml0eVNrdU51bTogbnVtYmVyOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlbGV2YW50UHJvcFBhdGhMaXN0Lmxlbmd0aCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2VsZWN0ZWRTa3UpOwo=</text>
+        <text encoding="base64">IyBqeGdBZG1pbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICBidXlBY3Rpdml0eVNrdU51bTogbnVtYmVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2VsZWN0ZWRTa3UpOwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>setCu</last-search>
+      <last-search>@click=&quot;se</last-search>
       <last-offset />
-      <last-pattern>setCu</last-pattern>
+      <last-pattern>@click=&quot;se</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
