@@ -54,6 +54,9 @@
   </action>
   <action id="GotoLine" />
   <action id="GotoNextError" />
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="MarkdownNavigator.ToggleBold">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl b" />
   </action>
@@ -102,6 +105,7 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
+  <action id="SaveAll" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
