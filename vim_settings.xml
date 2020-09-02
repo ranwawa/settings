@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">c2t1TGlzdCA9IA==</entry>
-        <entry>skuList</entry>
-        <entry>优惠券</entry>
         <entry>attrList =</entry>
         <entry>attrList</entry>
         <entry>\.skus</entry>
@@ -25,6 +22,9 @@
         <entry>this</entry>
         <entry>_ourJxg</entry>
         <entry>coupon</entry>
+        <entry>抢光</entry>
+        <entry>submit</entry>
+        <entry encoding="base64">bGltaXQgPSA=</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,8 +121,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/jxgwxapp/src/goods/components/DetailBtn.vue" timestamp="1599016514697">
+        <mark key="'" line="118" column="22" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="E:/jxgwxapp/package.json" timestamp="1599013225407">
-        <mark key="'" line="57" column="50" />
+        <mark key="'" line="53" column="50" />
       </file>
       <file name="C:/project/jxg-ops/.pretter.js" timestamp="1599011178074">
         <mark key="'" line="29" column="0" />
@@ -144,16 +150,15 @@
       <file name="E:/jxgwxapp/vue.config.js" timestamp="1599015548914">
         <mark key="'" line="27" column="6" />
       </file>
-      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1599014909523">
-        <mark key="'" line="1800" column="5" />
-        <mark key="[" line="1750" column="0" />
-        <mark key="]" line="1750" column="0" />
-        <mark key="." line="1750" column="0" />
+      <file name="E:/jxgwxapp/src/goods/pages/detail.vue" timestamp="1599016842464">
+        <mark key="[" line="1354" column="5" />
+        <mark key="]" line="1362" column="5" />
+        <mark key="^" line="1362" column="5" />
+        <mark key="." line="1362" column="4" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/goodsList.vue" timestamp="1599011540369">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/project/jxg-ops/.prettierrc.js" timestamp="1599011154234" />
       <file name="/activityGoodsForm.vue" timestamp="1599011710575" />
       <file name="C:/project/jxg-ops/src/views/operation/limitDiscount/components/activityGoodsForm.vue" timestamp="1599011415137">
         <mark key="[" line="186" column="0" />
@@ -167,20 +172,8 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="E:/jxgwxapp/src/order/pages/index.vue" timestamp="1599014898154">
-        <mark key="'" line="300" column="14" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="1093" column="23" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1095" column="9" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="575" column="16" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1094" column="24" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1302" column="13" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1284" column="36" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1293" column="27" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="509" column="12" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1026" column="19" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1173" column="64" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1179" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1223" column="60" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
@@ -272,21 +265,30 @@
       <jump line="1306" column="6" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1800" column="5" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="27" column="6" filename="E:/jxgwxapp/vue.config.js" />
+      <jump line="176" column="9" filename="E:/jxgwxapp/src/order/pages/index.vue" />
+      <jump line="484" column="22" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="29" column="20" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="36" column="2" filename="E:/jxgwxapp/src/goods/components/DetailBtn.vue" />
+      <jump line="118" column="22" filename="E:/jxgwxapp/src/goods/components/DetailBtn.vue" />
+      <jump line="1259" column="11" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1443" column="2" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="643" column="6" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
+      <jump line="1267" column="32" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBidXlBY3Rpdml0eVNrdU51bTogbnVtYmVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>该商品已抢光</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>该商品已抢光</text>
       </register>
       <register name="/" type="4">
-        <text>coupon</text>
+        <text encoding="base64">bGltaXQgPSA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8guPHKvbuv0rvPwrT6wusK</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnNlbGVjdGVkU2t1LmxpbWl0ID09PSAwKSB7CiAgICAgIHNob3dUb2FzdFRleHQoIrjDyczGt9LRx8C54iIpOwogICAgICByZXR1cm47CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBidXlBY3Rpdml0eVNrdU51bTogbnVtYmVyOwo=</text>
@@ -319,9 +321,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>coupon</last-search>
+      <last-search encoding="base64">bGltaXQgPSA=</last-search>
       <last-offset />
-      <last-pattern>coupon</last-pattern>
+      <last-pattern encoding="base64">bGltaXQgPSA=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
