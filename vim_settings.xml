@@ -13,7 +13,6 @@
         <entry>vend</entry>
         <entry>MD5</entry>
         <entry>lodash</entry>
-        <entry>core-js</entry>
         <entry>vsConsole</entry>
         <entry>VConsole</entry>
         <entry>console</entry>
@@ -25,6 +24,7 @@
         <entry>list</entry>
         <entry>qrcode</entry>
         <entry>QRCode</entry>
+        <entry>core-js</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -127,7 +127,7 @@
         <mark key="]" line="788" column="0" />
         <mark key="." line="788" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599111471812">
+      <file name="/Dummy.txt" timestamp="1599113762497">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/project/jxgwxapp/src/goods/pages/detail.vue" timestamp="1599104848573">
@@ -156,12 +156,12 @@
       <file name="C:/project/jxg-h5/dist/index.html" timestamp="1599102349759">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="C:/project/jxgwxapp/src/assets/js/adapter.ts" timestamp="1599111683481">
+      <file name="C:/project/jxgwxapp/src/assets/js/adapter.ts" timestamp="1599114836083">
         <mark key="'" line="8" column="7" />
-        <mark key="[" line="127" column="4" />
-        <mark key="]" line="128" column="11" />
-        <mark key="." line="128" column="10" />
-        <mark key="^" line="128" column="11" />
+        <mark key="[" line="213" column="24" />
+        <mark key="]" line="213" column="24" />
+        <mark key="." line="213" column="30" />
+        <mark key="^" line="397" column="31" />
       </file>
       <file name="C:/project/jxgwxapp/vue.config.js" timestamp="1599104122845">
         <mark key="'" line="20" column="53" />
@@ -170,8 +170,8 @@
         <mark key="." line="47" column="67" />
         <mark key="^" line="47" column="68" />
       </file>
-      <file name="C:/project/jxgwxapp/package.json" timestamp="1599105535342">
-        <mark key="'" line="86" column="43" />
+      <file name="C:/project/jxgwxapp/package.json" timestamp="1599113293451">
+        <mark key="'" line="56" column="5" />
         <mark key="[" line="86" column="43" />
         <mark key="]" line="86" column="45" />
         <mark key="^" line="86" column="45" />
@@ -187,12 +187,12 @@
       <file name="C:/project/jxg-h5/vue.config.js" timestamp="1599111140369">
         <mark key="'" line="140" column="10" />
       </file>
-      <file name="C:/project/jxgwxapp/babel.config.js" timestamp="1599112916963">
+      <file name="C:/project/jxgwxapp/babel.config.js" timestamp="1599115457086">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="56" column="28" />
-        <mark key="]" line="57" column="20" />
-        <mark key="^" line="57" column="20" />
-        <mark key="." line="57" column="19" />
+        <mark key="[" line="56" column="53" />
+        <mark key="]" line="56" column="58" />
+        <mark key="^" line="56" column="58" />
+        <mark key="." line="56" column="57" />
       </file>
       <file name="C:/project/jxgwxapp/src/pages/master/vip.vue" timestamp="1599104876456">
         <mark key="[" line="160" column="0" />
@@ -201,8 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1353" column="25" filename="E:/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="26" column="5" filename="C:/project/jxg-ops/README.md" />
       <jump line="0" column="0" filename="C:/project/jxgwxapp/src/order/pages/index.vue" />
       <jump line="4" column="24" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="1254" column="0" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
@@ -301,21 +299,23 @@
       <jump line="41" column="11" filename="C:/project/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="102" column="41" filename="C:/project/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="8" column="7" filename="C:/project/jxgwxapp/src/assets/js/adapter.ts" />
+      <jump line="119" column="18" filename="C:/project/jxgwxapp/package.json" />
+      <jump line="56" column="5" filename="C:/project/jxgwxapp/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>process.env.UNI_PLATFORM === 'h5' ? 'usage' : 'entry'</text>
+        <text>'usage'</text>
       </register>
       <register name="-" type="4">
-        <text>process.env.UNI_PLATFORM === 'h5' ? 'usage' : 'entry'</text>
+        <text>'usage'</text>
       </register>
       <register name="/" type="4">
-        <text>QRCode</text>
+        <text>core-js</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uZmlnLnBsdWdpbigibG9hZHNoUmVwbGFjZSIpLnVzZShMb2Rhc2hNb2R1bGVSZXBsYWNlbWVudFBsdWdpbik7Cg==</text>
+      <register name="0" type="4">
+        <text>process.env.UNI_PLATFORM === 'h5' ? 'usage' : 'entry'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -348,9 +348,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>QRCode</last-search>
+      <last-search>core-js</last-search>
       <last-offset />
-      <last-pattern>QRCode</last-pattern>
+      <last-pattern>core-js</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
