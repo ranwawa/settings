@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>replace</entry>
-        <entry>countdown</entry>
-        <entry>info =</entry>
         <entry>售后无忧</entry>
         <entry>return</entry>
         <entry>submit</entry>
@@ -20,11 +17,14 @@
         <entry>Vconsole</entry>
         <entry>VConso</entry>
         <entry>plugin</entry>
-        <entry>lodash</entry>
         <entry>chunk-vendors.1c</entry>
         <entry>chunk-vendors</entry>
         <entry>soket</entry>
         <entry>push</entry>
+        <entry>vender</entry>
+        <entry>vend</entry>
+        <entry>MD5</entry>
+        <entry>lodash</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -127,24 +127,9 @@
         <mark key="]" line="788" column="0" />
         <mark key="." line="788" column="0" />
       </file>
-      <file name="C:/project/jxgwxapp/vue.config.js" timestamp="1599099390866">
-        <mark key="'" line="35" column="37" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="C:/project/jxgwxapp/package.json" timestamp="1599042708639">
-        <mark key="'" line="9" column="56" />
-      </file>
-      <file name="C:/project/jxg-h5/vue.config.js" timestamp="1599099251122">
-        <mark key="'" line="137" column="59" />
-      </file>
-      <file name="C:/project/jxgwxapp/babel.config.js" timestamp="1599048919756">
-        <mark key="'" line="41" column="2" />
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="23" />
+      <file name="C:/project/jxgwxapp/src/api/api.ts" timestamp="1599100056961" />
+      <file name="C:/project/jxgwxapp/dist/build/h5/stats.json" timestamp="1599099612179">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="C:/project/jxgwxapp/src/main.ts" timestamp="1599048590769">
         <mark key="'" line="14" column="61" />
@@ -153,20 +138,34 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="13" column="27" />
       </file>
+      <file name="C:/project/jxgwxapp/vue.config.js" timestamp="1599099653270">
+        <mark key="'" line="35" column="37" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="C:/project/jxgwxapp/package.json" timestamp="1599100343126">
+        <mark key="'" line="88" column="12" />
+      </file>
+      <file name="C:/project/jxgwxapp/src/util/basicSet.ts" timestamp="1599100245411">
+        <mark key="'" line="17" column="25" />
+        <mark key="[" line="550" column="13" />
+        <mark key="]" line="550" column="16" />
+        <mark key="." line="550" column="15" />
+        <mark key="^" line="550" column="16" />
+      </file>
+      <file name="C:/project/jxg-h5/vue.config.js" timestamp="1599099251122">
+        <mark key="'" line="137" column="59" />
+      </file>
+      <file name="C:/project/jxgwxapp/babel.config.js" timestamp="1599100412555">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="18" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="27" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="159" column="52" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="160" column="47" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="164" column="31" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="168" column="29" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="169" column="54" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="170" column="31" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="175" column="29" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="235" column="39" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="240" column="33" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="252" column="4" filename="E:/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="269" column="11" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="335" column="16" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="429" column="30" filename="E:/jxgwxapp/src/order/pages/index.vue" />
       <jump line="433" column="9" filename="E:/jxgwxapp/src/order/pages/index.vue" />
@@ -255,18 +254,30 @@
       <jump line="41" column="2" filename="C:/project/jxgwxapp/babel.config.js" />
       <jump line="199" column="20" filename="C:/project/jxgwxapp/src/order/pages/index.vue" />
       <jump line="137" column="59" filename="C:/project/jxg-h5/vue.config.js" />
+      <jump line="3" column="14" filename="C:/project/jxgwxapp/dist/build/h5/stats.json" />
+      <jump line="5" column="21" filename="C:/project/jxgwxapp/dist/build/h5/stats.json" />
+      <jump line="0" column="0" filename="C:/project/jxgwxapp/dist/build/h5/stats.json" />
+      <jump line="550" column="16" filename="C:/project/jxgwxapp/src/util/basicSet.ts" />
+      <jump line="554" column="1" filename="C:/project/jxgwxapp/src/util/basicSet.ts" />
+      <jump line="57" column="11" filename="C:/project/jxgwxapp/src/util/basicSet.ts" />
+      <jump line="17" column="25" filename="C:/project/jxgwxapp/src/util/basicSet.ts" />
+      <jump line="46" column="54" filename="C:/project/jxgwxapp/package.json" />
+      <jump line="44" column="47" filename="C:/project/jxgwxapp/package.json" />
+      <jump line="62" column="5" filename="C:/project/jxgwxapp/package.json" />
+      <jump line="88" column="12" filename="C:/project/jxgwxapp/package.json" />
+      <jump line="37" column="0" filename="C:/project/jxgwxapp/babel.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5wbHVnaW4oJ0J1bmRsZUFuYWx5emVyUGx1Z2luJykudXNlKEJ1bmRsZUFuYWx5emVyUGx1Z2luKTsK</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>xxx</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>push</text>
+        <text>lodash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vICAgZ2VuZXJhdGVTdGF0c0ZpbGU6IGZhbHNlLAo=</text>
@@ -302,9 +313,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>push</last-search>
+      <last-search>lodash</last-search>
       <last-offset />
-      <last-pattern>push</last-pattern>
+      <last-pattern>lodash</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
