@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>quantity</entry>
-        <entry>process</entry>
-        <entry>onLoad</entry>
-        <entry>click=&quot;se</entry>
         <entry>console</entry>
         <entry>replace</entry>
         <entry>countdown</entry>
@@ -25,6 +21,10 @@
         <entry>Vconsole</entry>
         <entry>VConso</entry>
         <entry>plugin</entry>
+        <entry>lodash</entry>
+        <entry>chunk-vendors.1c</entry>
+        <entry>chunk-vendors</entry>
+        <entry>soket</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -127,12 +127,12 @@
         <mark key="]" line="788" column="0" />
         <mark key="." line="788" column="0" />
       </file>
-      <file name="C:/project/jxgwxapp/vue.config.js" timestamp="1599049736924">
+      <file name="C:/project/jxgwxapp/vue.config.js" timestamp="1599096760604">
         <mark key="'" line="35" column="37" />
         <mark key="[" line="53" column="29" />
-        <mark key="]" line="53" column="33" />
-        <mark key="^" line="53" column="33" />
-        <mark key="." line="53" column="32" />
+        <mark key="]" line="53" column="34" />
+        <mark key="^" line="53" column="34" />
+        <mark key="." line="53" column="33" />
       </file>
       <file name="C:/project/jxgwxapp/package.json" timestamp="1599042708639">
         <mark key="'" line="9" column="56" />
@@ -263,13 +263,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>plugin</text>
+        <text>soket</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vICAgZ2VuZXJhdGVTdGF0c0ZpbGU6IGZhbHNlLAo=</text>
@@ -305,9 +305,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>plugin</last-search>
+      <last-search>soket</last-search>
       <last-offset />
-      <last-pattern>plugin</last-pattern>
+      <last-pattern>soket</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
