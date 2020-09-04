@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>MASTER_</entry>
-        <entry>login</entry>
-        <entry>登录</entry>
         <entry>quantity =</entry>
         <entry>quantity</entry>
         <entry>process</entry>
@@ -25,6 +22,9 @@
         <entry>_</entry>
         <entry>\.</entry>
         <entry>_\.</entry>
+        <entry>main</entry>
+        <entry>lodashes</entry>
+        <entry>lodash</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,6 +121,38 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/project/jxg-wxapp/node_modules/lodash-es/package.json" timestamp="1599214534175">
+        <mark key="'" line="46" column="10" />
+      </file>
+      <file name="C:/project/jxg-wxapp/package.json" timestamp="1599214582282">
+        <mark key="'" line="92" column="12" />
+      </file>
+      <file name="C:/project/jxgwxapp/src/assets/js/index.d.ts" timestamp="1599208718815">
+        <mark key="'" line="111" column="38" />
+        <mark key="[" line="134" column="11" />
+        <mark key="]" line="134" column="11" />
+        <mark key="^" line="111" column="40" />
+        <mark key="." line="134" column="11" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/order/pages/detail.vue" timestamp="1599214564683">
+        <mark key="[" line="290" column="9" />
+        <mark key="]" line="290" column="9" />
+        <mark key="." line="290" column="9" />
+        <mark key="^" line="290" column="9" />
+      </file>
+      <file name="C:/project/jxgwxapp/src/assets/js/adapter.ts" timestamp="1599209008042">
+        <mark key="'" line="405" column="4" />
+        <mark key="[" line="234" column="0" />
+        <mark key="]" line="234" column="0" />
+        <mark key="." line="234" column="0" />
+        <mark key="^" line="234" column="28" />
+      </file>
+      <file name="C:/project/jxgwxapp/src/order/pages/index.vue" timestamp="1599206341835">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="921" column="21" />
+        <mark key="]" line="51" column="20" />
+        <mark key="." line="51" column="20" />
+      </file>
       <file name="/Dummy.txt" timestamp="1599209105224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
@@ -139,13 +171,6 @@
         <mark key="]" line="1267" column="37" />
         <mark key="^" line="1267" column="37" />
         <mark key="." line="1267" column="36" />
-      </file>
-      <file name="C:/project/jxgwxapp/src/assets/js/index.d.ts" timestamp="1599208718815">
-        <mark key="'" line="111" column="38" />
-        <mark key="[" line="134" column="11" />
-        <mark key="]" line="134" column="11" />
-        <mark key="^" line="111" column="40" />
-        <mark key="." line="134" column="11" />
       </file>
       <file name="C:/project/jxg-wxapp/src/assets/js/common.ts" timestamp="1599214111876">
         <mark key="'" line="188" column="34" />
@@ -173,33 +198,8 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/order/pages/detail.vue" timestamp="1599214233379">
-        <mark key="[" line="290" column="27" />
-        <mark key="]" line="290" column="28" />
-        <mark key="." line="290" column="27" />
-        <mark key="^" line="290" column="28" />
-      </file>
-      <file name="C:/project/jxgwxapp/src/assets/js/adapter.ts" timestamp="1599209008042">
-        <mark key="'" line="405" column="4" />
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="234" column="0" />
-        <mark key="." line="234" column="0" />
-        <mark key="^" line="234" column="28" />
-      </file>
-      <file name="C:/project/jxgwxapp/src/order/pages/index.vue" timestamp="1599206341835">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="921" column="21" />
-        <mark key="]" line="51" column="20" />
-        <mark key="." line="51" column="20" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="30" filename="C:/project/jxg-h5/vue.config.js" />
-      <jump line="25" column="12" filename="C:/project/jxg-h5/vue.config.js" />
-      <jump line="24" column="49" filename="C:/project/jxgwxapp/dist/build/h5/index.html" />
-      <jump line="154" column="35" filename="C:/project/jxg-h5/vue.config.js" />
-      <jump line="185" column="27" filename="C:/project/jxg-h5/vue.config.js" />
-      <jump line="34" column="6" filename="C:/project/jxg-h5/vue.config.js" />
       <jump line="337" column="5" filename="C:/project/jxgwxapp/src/order/pages/index.vue" />
       <jump line="49" column="0" filename="C:/project/jxgwxapp/vue.config.js" />
       <jump line="351" column="22" filename="C:/project/jxgwxapp/src/assets/js/adapter.ts" />
@@ -294,18 +294,24 @@
       <jump line="1482" column="11" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="763" column="8" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="1247" column="20" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="8" column="17" filename="C:/project/jxg-wxapp/node_modules/lodash-es/package.json" />
+      <jump line="46" column="10" filename="C:/project/jxg-wxapp/node_modules/lodash-es/package.json" />
+      <jump line="0" column="0" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="66" column="5" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="67" column="5" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="92" column="12" filename="C:/project/jxg-wxapp/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGF5QXBpIH0gZnJvbSAiQC9hcGkvcGF5IjsK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>_\.</text>
+        <text>lodash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzaGFyZUxpdmVWaXA6IGxvb3AsCg==</text>
@@ -344,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>_\.</last-search>
+      <last-search>lodash</last-search>
       <last-offset />
-      <last-pattern>_\.</last-pattern>
+      <last-pattern>lodash</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
