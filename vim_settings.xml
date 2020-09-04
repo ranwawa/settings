@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>quantity</entry>
-        <entry>process</entry>
         <entry>submit</entry>
         <entry>number</entry>
         <entry>onLoad</entry>
@@ -25,6 +23,8 @@
         <entry>_</entry>
         <entry>_\.</entry>
         <entry>lodash</entry>
+        <entry>sass-loader</entry>
+        <entry>scss</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -124,15 +124,8 @@
       <file name="C:/project/jxg-wxapp/node_modules/lodash-es/package.json" timestamp="1599214534175">
         <mark key="'" line="46" column="10" />
       </file>
-      <file name="C:/project/jxg-wxapp/package.json" timestamp="1599214582282">
-        <mark key="'" line="92" column="12" />
-      </file>
-      <file name="C:/project/jxgwxapp/src/assets/js/index.d.ts" timestamp="1599208718815">
-        <mark key="'" line="111" column="38" />
-        <mark key="[" line="134" column="11" />
-        <mark key="]" line="134" column="11" />
-        <mark key="^" line="111" column="40" />
-        <mark key="." line="134" column="11" />
+      <file name="C:/project/jxg-wxapp/package.json" timestamp="1599217263001">
+        <mark key="'" line="112" column="5" />
       </file>
       <file name="C:/project/jxg-wxapp/src/assets/js/adapter.ts" timestamp="1599214837492">
         <mark key="'" line="126" column="6" />
@@ -176,17 +169,16 @@
         <mark key="." line="518" column="9" />
         <mark key="^" line="219" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599209105224">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="C:/project/jxg-wxapp/vue.config.js" timestamp="1599217516629">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="47" />
+        <mark key="^" line="17" column="47" />
+        <mark key="." line="17" column="46" />
       </file>
-      <file name="C:/project/jxgwxapp/src/pages/activity/limitPrice.vue" timestamp="1599208660591">
-        <mark key="'" line="105" column="47" />
-        <mark key="[" line="120" column="42" />
-        <mark key="]" line="121" column="28" />
-        <mark key="^" line="121" column="28" />
-        <mark key="." line="121" column="27" />
+      <file name="/Dummy.txt" timestamp="1599215184517">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/project/jxg-wxapp/src/assets/js/common.ts" timestamp="1599214908302">
         <mark key="'" line="8" column="0" />
@@ -215,6 +207,9 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="C:/project/jxg-h5/vue.config.js" timestamp="1599217450805">
+        <mark key="'" line="190" column="17" />
+      </file>
       <file name="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" timestamp="1599215175775">
         <mark key="'" line="211" column="6" />
         <mark key="[" line="104" column="18" />
@@ -237,9 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="4" filename="C:/project/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="21" column="14" filename="C:/project/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="28" column="1" filename="C:/project/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="29" column="1" filename="C:/project/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="66" column="20" filename="C:/project/jxgwxapp/src/assets/constant/common.ts" />
       <jump line="137" column="2" filename="C:/project/jxgwxapp/src/pages/master/anchorAuth.vue" />
@@ -299,7 +291,6 @@
       <jump line="8" column="17" filename="C:/project/jxg-wxapp/node_modules/lodash-es/package.json" />
       <jump line="46" column="10" filename="C:/project/jxg-wxapp/node_modules/lodash-es/package.json" />
       <jump line="0" column="0" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="66" column="5" filename="C:/project/jxg-wxapp/package.json" />
       <jump line="67" column="5" filename="C:/project/jxg-wxapp/package.json" />
       <jump line="92" column="12" filename="C:/project/jxg-wxapp/package.json" />
       <jump line="290" column="15" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
@@ -337,42 +328,46 @@
       <jump line="472" column="11" filename="C:/project/jxg-wxapp/src/order/pages/list.vue" />
       <jump line="105" column="15" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
       <jump line="211" column="6" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
+      <jump line="145" column="56" filename="C:/project/jxg-h5/vue.config.js" />
+      <jump line="66" column="5" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="112" column="5" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="190" column="17" filename="C:/project/jxg-h5/vue.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
+      <register name="&quot;" type="4">
+        <text>~</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
-        <text>lodash</text>
+        <text>scss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzaGFyZUxpdmVWaXA6IGxvb3AsCg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRpdGlvbmFsRGF0YTogYCJAaW1wb3J0IH5yd3ctc2Fzcy9saWIvX2luZGV4LnNjc3M7IEBpbXBvcnQgc3JjL2Fzc2V0cy9zY3NzL2luZGV4LnNjc3M7YAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIC8vINL9yOu5q7myc2NzcwogICAgWyJ2dWUiLCAibm9ybWFsIiwgInZ1ZS1tb2R1bGVzIiwgIm5vcm1hbC1tb2R1bGVzIl0uZm9yRWFjaCgodHlwZSkgPT4gewogICAgICBjb25zdCBydWxlID0gY29uZmlnLm1vZHVsZS5ydWxlKCJzY3NzIikub25lT2YodHlwZSk7CiAgICAgIHJ1bGUKICAgICAgICAudXNlKCJzdHlsZS1yZXNvdXJjZSIpCiAgICAgICAgLmxvYWRlcigic3R5bGUtcmVzb3VyY2VzLWxvYWRlciIpCiAgICAgICAgLm9wdGlvbnMoewogICAgICAgICAgcGF0dGVybnM6IFsKICAgICAgICAgICAgIm5vZGVfbW9kdWxlcy9yd3ctc2Fzcy9saWIvX2luZGV4LnNjc3MiLAogICAgICAgICAgICAic3JjL2Fzc2V0cy9zY3NzL2luZGV4LnNjc3MiLAogICAgICAgICAgXSwKICAgICAgICB9KTsKICAgIH0pOwog</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGF5QXBpIH0gZnJvbSAiQC9hcGkvcGF5IjsK</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgcGF5QXBpIH0gZnJvbSAiQC9hcGkvcGF5IjsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
@@ -384,9 +379,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>lodash</last-search>
+      <last-search>scss</last-search>
       <last-offset />
-      <last-pattern>lodash</last-pattern>
+      <last-pattern>scss</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
