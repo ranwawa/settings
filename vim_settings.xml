@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>submit</entry>
-        <entry>number</entry>
-        <entry>onLoad</entry>
         <entry>rooId: any</entry>
         <entry>roomId: any</entry>
         <entry>IToLiveRoomParam</entry>
@@ -25,6 +22,9 @@
         <entry>lodash</entry>
         <entry>sass-loader</entry>
         <entry>scss</entry>
+        <entry>vue-cli</entry>
+        <entry>onLoad</entry>
+        <entry>activityType</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -124,8 +124,8 @@
       <file name="C:/project/jxg-wxapp/node_modules/lodash-es/package.json" timestamp="1599214534175">
         <mark key="'" line="46" column="10" />
       </file>
-      <file name="C:/project/jxg-wxapp/package.json" timestamp="1599217263001">
-        <mark key="'" line="112" column="5" />
+      <file name="C:/project/jxg-wxapp/package.json" timestamp="1599219678095">
+        <mark key="'" line="89" column="15" />
       </file>
       <file name="C:/project/jxg-wxapp/src/assets/js/adapter.ts" timestamp="1599214837492">
         <mark key="'" line="126" column="6" />
@@ -169,11 +169,11 @@
         <mark key="." line="518" column="9" />
         <mark key="^" line="219" column="14" />
       </file>
-      <file name="C:/project/jxg-wxapp/vue.config.js" timestamp="1599217516629">
-        <mark key="[" line="17" column="46" />
-        <mark key="]" line="17" column="47" />
-        <mark key="^" line="17" column="47" />
-        <mark key="." line="17" column="46" />
+      <file name="C:/project/jxg-wxapp/vue.config.js" timestamp="1599220832611">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="61" />
+        <mark key="." line="16" column="60" />
+        <mark key="^" line="16" column="61" />
       </file>
       <file name="/Dummy.txt" timestamp="1599215184517">
         <mark key="[" line="0" column="0" />
@@ -187,8 +187,8 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="143" column="12" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1599215129529">
-        <mark key="'" line="1482" column="11" />
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1599219923319">
+        <mark key="'" line="1179" column="25" />
         <mark key="[" line="1247" column="21" />
         <mark key="]" line="1247" column="22" />
         <mark key="^" line="1247" column="22" />
@@ -232,43 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="1" filename="C:/project/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="66" column="20" filename="C:/project/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="137" column="2" filename="C:/project/jxgwxapp/src/pages/master/anchorAuth.vue" />
-      <jump line="352" column="8" filename="C:/project/jxgwxapp/src/pages/master/vip.vue" />
-      <jump line="240" column="8" filename="C:/project/jxgwxapp/src/pages/master/vip.vue" />
-      <jump line="237" column="8" filename="C:/project/jxgwxapp/src/pages/master/vip.vue" />
-      <jump line="239" column="2" filename="C:/project/jxgwxapp/src/pages/master/vip.vue" />
-      <jump line="390" column="21" filename="C:/project/jxgwxapp/src/order/pages/index.vue" />
-      <jump line="140" column="2" filename="C:/project/jxgwxapp/src/pages/master/anchorAuth.vue" />
-      <jump line="106" column="0" filename="C:/project/jxgwxapp/src/api/api.ts" />
-      <jump line="0" column="0" filename="C:/project/jxgwxapp/src/api/api.ts" />
-      <jump line="218" column="0" filename="C:/project/jxgwxapp/src/api/api.ts" />
-      <jump line="5" column="0" filename="C:/project/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="52" column="2" filename="C:/project/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="53" column="2" filename="C:/project/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="75" column="9" filename="C:/project/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="78" column="9" filename="C:/project/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="79" column="9" filename="C:/project/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="91" column="9" filename="C:/project/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="92" column="9" filename="C:/project/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="93" column="9" filename="C:/project/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="39" column="2" filename="C:/project/jxgwxapp/src/assets/constant/common.ts" />
-      <jump line="746" column="21" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="0" column="0" filename="C:/project/jxgwxapp/src/pages/activity/limitPrice.vue" />
-      <jump line="199" column="25" filename="C:/project/jxgwxapp/src/pages/master/anchorAuth.vue" />
-      <jump line="0" column="0" filename="C:/project/jxgwxapp/src/pages/master/anchorAuth.vue" />
-      <jump line="1193" column="21" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="124" column="9" filename="C:/project/jxgwxapp/src/pages/activity/limitPrice.vue" />
-      <jump line="118" column="8" filename="C:/project/jxgwxapp/src/pages/activity/limitPrice.vue" />
-      <jump line="0" column="0" filename="C:/project/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="58" column="39" filename="C:/project/jxgwxapp/src/assets/js/adapter.ts" />
-      <jump line="1207" column="21" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1280" column="64" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1364" column="44" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1468" column="25" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="1480" column="8" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
-      <jump line="645" column="19" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="646" column="39" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="653" column="19" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
       <jump line="654" column="29" filename="C:/project/jxgwxapp/src/goods/pages/detail.vue" />
@@ -318,7 +281,6 @@
       <jump line="446" column="24" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="416" column="22" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="763" column="8" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="1247" column="20" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="1306" column="24" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="1346" column="36" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="1414" column="41" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
@@ -330,47 +292,91 @@
       <jump line="211" column="6" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
       <jump line="145" column="56" filename="C:/project/jxg-h5/vue.config.js" />
       <jump line="66" column="5" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="112" column="5" filename="C:/project/jxg-wxapp/package.json" />
       <jump line="190" column="17" filename="C:/project/jxg-h5/vue.config.js" />
+      <jump line="112" column="5" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="8" column="62" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="9" column="62" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="10" column="62" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="11" column="63" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="12" column="63" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="13" column="66" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="14" column="62" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="15" column="76" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="16" column="76" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="17" column="77" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="18" column="77" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="19" column="80" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="20" column="76" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="21" column="75" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="23" column="63" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="24" column="77" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="25" column="75" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="26" column="69" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="27" column="79" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="28" column="77" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="29" column="100" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="30" column="98" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="31" column="87" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="32" column="83" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="33" column="74" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="35" column="76" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="36" column="74" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="37" column="68" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="38" column="78" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="39" column="80" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="40" column="86" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="41" column="82" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="42" column="41" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="87" column="15" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="88" column="15" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="89" column="15" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="1247" column="47" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="1179" column="25" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>~</text>
+        <text>console.log(res)</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text>console.log(res)</text>
       </register>
       <register name="/" type="4">
-        <text>scss</text>
+        <text>activityType</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRpdGlvbmFsRGF0YTogYCJAaW1wb3J0IH5yd3ctc2Fzcy9saWIvX2luZGV4LnNjc3M7IEBpbXBvcnQgc3JjL2Fzc2V0cy9zY3NzL2luZGV4LnNjc3M7YAo=</text>
+      <register name="0" type="4">
+        <text>node-modules</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIC8vINL9yOu5q7myc2NzcwogICAgWyJ2dWUiLCAibm9ybWFsIiwgInZ1ZS1tb2R1bGVzIiwgIm5vcm1hbC1tb2R1bGVzIl0uZm9yRWFjaCgodHlwZSkgPT4gewogICAgICBjb25zdCBydWxlID0gY29uZmlnLm1vZHVsZS5ydWxlKCJzY3NzIikub25lT2YodHlwZSk7CiAgICAgIHJ1bGUKICAgICAgICAudXNlKCJzdHlsZS1yZXNvdXJjZSIpCiAgICAgICAgLmxvYWRlcigic3R5bGUtcmVzb3VyY2VzLWxvYWRlciIpCiAgICAgICAgLm9wdGlvbnMoewogICAgICAgICAgcGF0dGVybnM6IFsKICAgICAgICAgICAgIm5vZGVfbW9kdWxlcy9yd3ctc2Fzcy9saWIvX2luZGV4LnNjc3MiLAogICAgICAgICAgICAic3JjL2Fzc2V0cy9zY3NzL2luZGV4LnNjc3MiLAogICAgICAgICAgXSwKICAgICAgICB9KTsKICAgIH0pOwog</text>
+        <text encoding="base64">LnJ1bGUoJ3Njc3MnKS50YXAocmVzID0+IHsKICAgICAgY29uc29sZS5sb2cocmVzKTsKICAgICAgcmV0dXJuIHJlczsKICAgIH0p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
+      <register name="3" type="4">
+        <text>css: {
+    loaderOptions: {
+      scss: {
+        data: `@import &quot;~rww-sass/lib/_index.scss&quot;; @import &quot;~@/assets/scss/index.scss&quot;;`
+      }
+    }
+  },</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGF5QXBpIH0gZnJvbSAiQC9hcGkvcGF5IjsK</text>
+        <text encoding="base64">ICAgICAgICBhZGRpdGlvbmFsRGF0YTogYEBpbXBvcnQgIi4vbm9kZS1tb2R1bGVzL3J3dy1zYXNzL2xpYi9faW5kZXguc2NzcyI7IEBpbXBvcnQgIi4vc3JjL2Fzc2V0cy9zY3NzL2luZGV4LnNjc3MiO2AsCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIC8vINL9yOu5q7myc2NzcwogICAgWyJ2dWUiLCAibm9ybWFsIiwgInZ1ZS1tb2R1bGVzIiwgIm5vcm1hbC1tb2R1bGVzIl0uZm9yRWFjaCgodHlwZSkgPT4gewogICAgICBjb25zdCBydWxlID0gY29uZmlnLm1vZHVsZS5ydWxlKCJzY3NzIikub25lT2YodHlwZSk7CiAgICAgIHJ1bGUKICAgICAgICAudXNlKCJzdHlsZS1yZXNvdXJjZSIpCiAgICAgICAgLmxvYWRlcigic3R5bGUtcmVzb3VyY2VzLWxvYWRlciIpCiAgICAgICAgLm9wdGlvbnMoewogICAgICAgICAgcGF0dGVybnM6IFsKICAgICAgICAgICAgIm5vZGVfbW9kdWxlcy9yd3ctc2Fzcy9saWIvX2luZGV4LnNjc3MiLAogICAgICAgICAgICAic3JjL2Fzc2V0cy9zY3NzL2luZGV4LnNjc3MiLAogICAgICAgICAgXSwKICAgICAgICB9KTsKICAgIH0pOwog</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgcGF5QXBpIH0gZnJvbSAiQC9hcGkvcGF5IjsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
@@ -379,9 +385,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>scss</last-search>
+      <last-search>activityType</last-search>
       <last-offset />
-      <last-pattern>scss</last-pattern>
+      <last-pattern>activityType</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
