@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>toSecond</entry>
         <entry>扒光</entry>
         <entry>mp</entry>
         <entry>MASTER</entry>
@@ -25,6 +24,7 @@
         <entry>IAppShare</entry>
         <entry>getQrSrc</entry>
         <entry>callPay</entry>
+        <entry>editLiveGoods</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,18 +121,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1599206243252">
+      <file name="/Dummy.txt" timestamp="1599209105224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="C:/project/jxgwxapp/src/config/test.ts" timestamp="1599200208732" />
-      <file name="C:/project/jxgwxapp/src/pages/activity/limitPrice.vue" timestamp="1599206705988">
+      <file name="C:/project/jxgwxapp/src/pages/activity/limitPrice.vue" timestamp="1599208660591">
         <mark key="'" line="105" column="47" />
         <mark key="[" line="120" column="42" />
-        <mark key="]" line="120" column="28" />
-        <mark key="^" line="120" column="28" />
-        <mark key="." line="120" column="27" />
+        <mark key="]" line="121" column="28" />
+        <mark key="^" line="121" column="28" />
+        <mark key="." line="121" column="27" />
       </file>
       <file name="C:/project/jxgwxapp/src/goods/pages/detail.vue" timestamp="1599202576633">
         <mark key="'" line="1235" column="30" />
@@ -146,12 +146,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="C:/project/jxgwxapp/src/assets/js/index.d.ts" timestamp="1599207180034">
-        <mark key="'" line="141" column="10" />
-        <mark key="[" line="111" column="38" />
-        <mark key="]" line="111" column="38" />
+      <file name="C:/project/jxgwxapp/src/assets/js/index.d.ts" timestamp="1599208718815">
+        <mark key="'" line="111" column="38" />
+        <mark key="[" line="134" column="11" />
+        <mark key="]" line="134" column="11" />
         <mark key="^" line="111" column="40" />
-        <mark key="." line="111" column="38" />
+        <mark key="." line="134" column="11" />
       </file>
       <file name="C:/project/jxgwxapp/src/live/pages/previewLiveDetail.vue" timestamp="1599200487892" />
       <file name="C:/project/jxgwxapp/src/assets/constant/common.ts" timestamp="1599203511004">
@@ -161,7 +161,7 @@
         <mark key="." line="80" column="19" />
         <mark key="^" line="80" column="20" />
       </file>
-      <file name="C:/project/jxgwxapp/src/main.ts" timestamp="1599206695906">
+      <file name="C:/project/jxgwxapp/src/main.ts" timestamp="1599208882348">
         <mark key="'" line="40" column="6" />
         <mark key="[" line="14" column="61" />
         <mark key="]" line="14" column="64" />
@@ -170,11 +170,12 @@
       </file>
       <file name="C:/project/jxgwxapp/src/config/build.ts" timestamp="1599200341717" />
       <file name="C:/project/jxgwxapp/src/config/dev2.ts" timestamp="1599200168323" />
-      <file name="C:/project/jxgwxapp/src/assets/js/adapter.ts" timestamp="1599207099122">
-        <mark key="'" line="276" column="5" />
-        <mark key="[" line="296" column="0" />
-        <mark key="]" line="296" column="0" />
-        <mark key="." line="296" column="0" />
+      <file name="C:/project/jxgwxapp/src/assets/js/adapter.ts" timestamp="1599209008042">
+        <mark key="'" line="405" column="4" />
+        <mark key="[" line="234" column="0" />
+        <mark key="]" line="234" column="0" />
+        <mark key="." line="234" column="0" />
+        <mark key="^" line="234" column="28" />
       </file>
       <file name="C:/project/jxg-ops/README.md" timestamp="1599198607241">
         <mark key="[" line="4" column="0" />
@@ -197,8 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="6" filename="C:/project/jxgwxapp/package.json" />
-      <jump line="115" column="5" filename="C:/project/jxgwxapp/package.json" />
       <jump line="131" column="21" filename="C:/project/jxgwxapp/package.json" />
       <jump line="41" column="18" filename="C:/project/jxgwxapp/package.json" />
       <jump line="52" column="28" filename="C:/project/jxgwxapp/package.json" />
@@ -297,59 +296,61 @@
       <jump line="163" column="24" filename="C:/project/jxgwxapp/src/assets/js/index.d.ts" />
       <jump line="276" column="5" filename="C:/project/jxgwxapp/src/assets/js/adapter.ts" />
       <jump line="141" column="10" filename="C:/project/jxgwxapp/src/assets/js/index.d.ts" />
+      <jump line="111" column="38" filename="C:/project/jxgwxapp/src/assets/js/index.d.ts" />
+      <jump line="403" column="4" filename="C:/project/jxgwxapp/src/assets/js/adapter.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
-        <text>callPay</text>
+        <text>editLiveGoods</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdldFFyU3JjOiBhc3luYyAoKSA9PiAnJywK</text>
+        <text encoding="base64">ICBzaGFyZUxpdmVWaXA6IGxvb3AsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtZW1iZXJJZCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZXM7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text>1. 加入白名单,全局就不会拦截了
 2. 进入页面后执行init函数,用于获取用户信息
 3.
 实名认证成功后,返回上一页,之前是返回上一个路由页面,现在是返回app的页面</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGJhc2VVc2VyLnVzZXJJbmZvLmFjY2Vzc190b2tlbikgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgdXNlckFwaS5yZWdpc3RlckxpdmUoe30pOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG91ckp4Zy4K</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8qKgogKiC77ravc2t10MXPogogKi8KaW50ZXJmYWNlIElHb29kc1NrdUluZm9WT1MgewogIC8qKgogICAqILvutq+827jxCiAgICovCiAgYWN0aXZpdHlQcmljZTogbnVtYmVyOwogIC8qKgogICAqIMnMxre827jxCiAgICovCiAgcHJpY2U6IG51bWJlcjsKICAvKioKICAgKiC77ravz9TKvrzbCiAgICovCiAgc2hvd1ByaWNlOiBudW1iZXI7CiAgLyoqCiAgICogz965usr9wb8KICAgKi8KICBsaW1pdDogbnVtYmVyOwogIC8qKgogICAqIL/itOYKICAgKi8KICBxdWFudGl0eTogbnVtYmVyOwogIC8qKgogICAqILWluPZza3W1xLHgwusKICAgKi8KICBza3VDb2RlOiBzdHJpbmc7CiAgLyoqCiAgICogtaW49nNrdbXEw/uzxgogICAqLwogIHNrdU5hbWU6IHN0cmluZzsKICAvKioKICAgKiC1pbj2c2t1tcTNvMasCiAgICovCiAgc2t1UGljOiBzdHJpbmc7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGJhc2VVc2VyLnVzZXJJbmZvLmFjY2Vzc190b2tlbikgewo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>callPay</last-search>
+      <last-search>editLiveGoods</last-search>
       <last-offset />
-      <last-pattern>callPay</last-pattern>
+      <last-pattern>editLiveGoods</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
