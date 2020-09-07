@@ -121,11 +121,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1599215184517">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="C:/project/jxg-wxapp/node_modules/lodash-es/package.json" timestamp="1599214534175">
         <mark key="'" line="46" column="10" />
       </file>
       <file name="C:/project/jxg-wxapp/package.json" timestamp="1599219678095">
         <mark key="'" line="89" column="15" />
+      </file>
+      <file name="/SOQL Query 1.soql" timestamp="1599447867678">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/api/goods.ts" timestamp="1599448389432">
+        <mark key="[" line="41" column="13" />
+        <mark key="]" line="41" column="36" />
+        <mark key="." line="41" column="35" />
+        <mark key="^" line="41" column="36" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/assets/js/common.ts" timestamp="1599214908302">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="143" column="12" />
+        <mark key="]" line="143" column="12" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="143" column="12" />
       </file>
       <file name="C:/project/jxg-wxapp/src/assets/js/adapter.ts" timestamp="1599214837492">
         <mark key="'" line="126" column="6" />
@@ -134,12 +155,25 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="335" column="11" />
       </file>
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1599219923319">
+        <mark key="'" line="1179" column="25" />
+        <mark key="[" line="1247" column="21" />
+        <mark key="]" line="1247" column="22" />
+        <mark key="^" line="1247" column="22" />
+        <mark key="." line="1247" column="21" />
+      </file>
       <file name="C:/project/jxg-wxapp/src/order/pages/list.vue" timestamp="1599215152263">
         <mark key="'" line="472" column="11" />
         <mark key="[" line="175" column="32" />
         <mark key="]" line="175" column="33" />
         <mark key="." line="175" column="32" />
         <mark key="^" line="175" column="33" />
+      </file>
+      <file name="C:/project/jxgwxapp/src/goods/common.ts" timestamp="1599213258861">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="C:/project/jxg-wxapp/src/pages/activity/limitPrice.vue" timestamp="1599214933238">
         <mark key="'" line="74" column="0" />
@@ -169,46 +203,17 @@
         <mark key="." line="518" column="9" />
         <mark key="^" line="219" column="14" />
       </file>
+      <file name="/Anonymous Apex 1.apex" timestamp="1599447871398">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/project/jxg-h5/vue.config.js" timestamp="1599217450805">
+        <mark key="'" line="190" column="17" />
+      </file>
       <file name="C:/project/jxg-wxapp/vue.config.js" timestamp="1599220832611">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="61" />
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="61" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1599215184517">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="C:/project/jxg-wxapp/src/assets/js/common.ts" timestamp="1599214908302">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="143" column="12" />
-        <mark key="]" line="143" column="12" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="143" column="12" />
-      </file>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1599219923319">
-        <mark key="'" line="1179" column="25" />
-        <mark key="[" line="1247" column="21" />
-        <mark key="]" line="1247" column="22" />
-        <mark key="^" line="1247" column="22" />
-        <mark key="." line="1247" column="21" />
-      </file>
-      <file name="C:/project/jxgwxapp/src/main.ts" timestamp="1599208882348">
-        <mark key="'" line="40" column="6" />
-        <mark key="[" line="14" column="61" />
-        <mark key="]" line="14" column="64" />
-        <mark key="^" line="14" column="64" />
-        <mark key="." line="14" column="63" />
-      </file>
-      <file name="C:/project/jxgwxapp/src/goods/common.ts" timestamp="1599213258861">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="5" />
-        <mark key="^" line="10" column="5" />
-        <mark key="." line="10" column="4" />
-      </file>
-      <file name="C:/project/jxg-h5/vue.config.js" timestamp="1599217450805">
-        <mark key="'" line="190" column="17" />
       </file>
       <file name="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" timestamp="1599215175775">
         <mark key="'" line="211" column="6" />
@@ -337,16 +342,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>console.log(res)</text>
+        <text>blade-goods/api/extend/frontend/goodsinfo/detail</text>
       </register>
       <register name="-" type="4">
-        <text>console.log(res)</text>
+        <text>blade-goods/api/extend/frontend/goodsinfo/detail</text>
       </register>
       <register name="/" type="4">
         <text>activityType</text>
       </register>
-      <register name="0" type="4">
-        <text>node-modules</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdXJsOiAiL2JsYWRlLWdvb2RzL2FwaS9leHRlbmQvZnJvbnRlbmQvZ29vZHNpbmZvL2RldGFpbCIsCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">LnJ1bGUoJ3Njc3MnKS50YXAocmVzID0+IHsKICAgICAgY29uc29sZS5sb2cocmVzKTsKICAgICAgcmV0dXJuIHJlczsKICAgIH0p</text>
