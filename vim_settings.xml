@@ -16,7 +16,6 @@
         <entry>activityType</entry>
         <entry>build:h5</entry>
         <entry>showPrice =</entry>
-        <entry>onLoad</entry>
         <entry>await</entry>
         <entry>可用</entry>
         <entry>callPay</entry>
@@ -24,6 +23,7 @@
         <entry>运费</entry>
         <entry>total</entry>
         <entry>抢</entry>
+        <entry>onLoad</entry>
         <entry>优惠券</entry>
       </history-search>
       <history-cmd>
@@ -164,7 +164,8 @@
         <mark key="." line="14" column="63" />
         <mark key="^" line="14" column="64" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1599530550788">
+      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1599534949709">
+        <mark key="'" line="427" column="13" />
         <mark key="[" line="558" column="0" />
         <mark key="]" line="558" column="0" />
         <mark key="." line="558" column="0" />
@@ -173,16 +174,16 @@
       <file name="C:/project/jxg-wxapp/src/api/api.ts" timestamp="1599459560570">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599479083290">
+      <file name="/Dummy.txt" timestamp="1599536277094">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/api/order.ts" timestamp="1599534716992">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="46" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="26" column="41" />
+      <file name="C:/project/jxg-wxapp/src/api/order.ts" timestamp="1599535805541">
+        <mark key="[" line="60" column="28" />
+        <mark key="]" line="60" column="34" />
+        <mark key="." line="60" column="33" />
+        <mark key="^" line="60" column="34" />
       </file>
       <file name="C:/project/jxg-wxapp/src/manifest.json" timestamp="1599534762387">
         <mark key="[" line="101" column="35" />
@@ -214,7 +215,7 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="37" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/api/coupon.ts" timestamp="1599534710388">
+      <file name="C:/project/jxg-wxapp/src/api/coupon.ts" timestamp="1599536273818">
         <mark key="[" line="55" column="13" />
         <mark key="]" line="55" column="46" />
         <mark key="." line="55" column="45" />
@@ -228,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="12" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
       <jump line="36" column="14" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
       <jump line="153" column="0" filename="C:/project/jxg-wxapp/src/pages/master/goods.vue" />
       <jump line="335" column="11" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
@@ -306,7 +306,6 @@
       <jump line="526" column="37" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="545" column="18" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="550" column="26" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="558" column="6" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="561" column="4" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="369" column="31" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="373" column="25" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
@@ -328,6 +327,8 @@
       <jump line="116" column="38" filename="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" />
       <jump line="75" column="16" filename="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" />
       <jump line="78" column="56" filename="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" />
+      <jump line="558" column="69" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="427" column="13" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
