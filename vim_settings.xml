@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>lodash</entry>
-        <entry>sass-loader</entry>
         <entry>scss</entry>
         <entry>vue-cli</entry>
         <entry>activityType</entry>
@@ -25,6 +23,8 @@
         <entry>优惠</entry>
         <entry>暂不</entry>
         <entry>onLoad</entry>
+        <entry>user\.</entry>
+        <entry>领</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,11 +121,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1599558277130">
+      <file name="/Dummy.txt" timestamp="1599614387076">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="C:/project/jxg-wxapp/src/api/mine.ts" timestamp="1599614172805" />
       <file name="C:/project/jxg-wxapp/src/api/order.ts" timestamp="1599558162967">
         <mark key="[" line="74" column="29" />
         <mark key="]" line="74" column="29" />
@@ -134,7 +135,7 @@
       <file name="C:/project/jxg-wxapp/src/assets/constant/common.ts" timestamp="1599547243930">
         <mark key="'" line="20" column="11" />
       </file>
-      <file name="C:/project/jxg-wxapp/global.d.ts" timestamp="1599478937297">
+      <file name="C:/project/jxg-wxapp/global.d.ts" timestamp="1599614179799">
         <mark key="[" line="220" column="18" />
         <mark key="]" line="221" column="16" />
         <mark key="^" line="221" column="16" />
@@ -145,18 +146,17 @@
         <mark key="]" line="105" column="36" />
         <mark key="." line="105" column="36" />
       </file>
-      <file name="C:/project/jxg-wxapp/package.json" timestamp="1599461987163">
-        <mark key="'" line="12" column="7" />
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="21" column="10" />
-        <mark key="^" line="21" column="10" />
-        <mark key="." line="21" column="9" />
+      <file name="C:/project/jxg-wxapp/src/api/goods.ts" timestamp="1599614461685">
+        <mark key="[" line="87" column="23" />
+        <mark key="]" line="87" column="45" />
+        <mark key="." line="87" column="44" />
+        <mark key="^" line="87" column="45" />
       </file>
       <file name="C:/project/jxg-h5-new/src/api/api.ts" timestamp="1599547142034">
         <mark key="'" line="6" column="27" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1599558858701">
-        <mark key="'" line="1256" column="42" />
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1599614431434">
+        <mark key="'" line="817" column="10" />
         <mark key="[" line="1247" column="21" />
         <mark key="]" line="1247" column="22" />
         <mark key="^" line="1247" column="22" />
@@ -193,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1414" column="41" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="1482" column="11" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="176" column="0" filename="C:/project/jxg-wxapp/src/order/pages/list.vue" />
       <jump line="175" column="15" filename="C:/project/jxg-wxapp/src/order/pages/list.vue" />
       <jump line="472" column="11" filename="C:/project/jxg-wxapp/src/order/pages/list.vue" />
@@ -293,21 +291,23 @@
       <jump line="582" column="25" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="94" column="0" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="1256" column="42" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="697" column="38" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="817" column="10" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>getGoodsCouponsList.cgi</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>getGoodsCouponsList.cgi</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>领</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAiL3Nob3BoNWFwaS9tZW1iZXIvYWRkcmVzc0xpc3QuY2dpIiwKICAgICAgICAgICAgYmFzZVVybDogY29uZmlndXJhdGlvbi5hcGlVcmwuY2dpLAo=</text>
+        <text encoding="base64">ICAgICAgdXJsOiAiL3Nob3BoNWFwaS9nZXRHb29kc0NvdXBvbnNMaXN0LmNnaSIsCiAgICAgIGJhc2VVcmw6IGNvbmZpZ3VyYXRpb24uYXBpVXJsLmNnaSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
@@ -340,9 +340,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>领</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>领</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
