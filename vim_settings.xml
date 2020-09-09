@@ -16,7 +16,6 @@
         <entry>total</entry>
         <entry>抢</entry>
         <entry>优惠券</entry>
-        <entry>callPay</entry>
         <entry>isIos</entry>
         <entry>jxg</entry>
         <entry>优惠</entry>
@@ -24,6 +23,7 @@
         <entry>onLoad</entry>
         <entry>user\.</entry>
         <entry>领</entry>
+        <entry>callPay</entry>
         <entry>submit</entry>
       </history-search>
       <history-cmd>
@@ -130,6 +130,9 @@
         <mark key="^" line="221" column="16" />
         <mark key="." line="221" column="15" />
       </file>
+      <file name="C:/project/jxg-wxapp/src/assets/js/adapter.ts" timestamp="1599620609615">
+        <mark key="'" line="305" column="4" />
+      </file>
       <file name="C:/project/jxg-wxapp/src/App.vue" timestamp="1599547491695" />
       <file name="C:/project/jxg-wxapp/src/config/test2.ts" timestamp="1599478324545">
         <mark key="[" line="10" column="7" />
@@ -143,23 +146,25 @@
         <mark key="." line="14" column="63" />
         <mark key="^" line="14" column="64" />
       </file>
+      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1599632973170">
+        <mark key="'" line="525" column="27" />
+        <mark key="[" line="558" column="6" />
+        <mark key="]" line="558" column="7" />
+        <mark key="^" line="558" column="7" />
+        <mark key="." line="558" column="6" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/api/pay.ts" timestamp="1599619964730" />
       <file name="/goods.ts" timestamp="1599615206386" />
-      <file name="/Dummy.txt" timestamp="1599616572104">
+      <file name="/Dummy.txt" timestamp="1599616931449">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
       <file name="C:/project/jxg-wxapp/src/api/mine.ts" timestamp="1599614172805" />
-      <file name="C:/project/jxg-wxapp/src/api/order.ts" timestamp="1599616566613">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="28" />
-        <mark key="." line="16" column="27" />
-        <mark key="^" line="16" column="28" />
-      </file>
       <file name="C:/project/jxg-h5-new/src/api/api.ts" timestamp="1599547142034">
         <mark key="'" line="6" column="27" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1599616917435">
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1599616971666">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="^" line="47" column="45" />
@@ -176,10 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="472" column="11" filename="C:/project/jxg-wxapp/src/order/pages/list.vue" />
-      <jump line="105" column="15" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
-      <jump line="211" column="6" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
-      <jump line="145" column="56" filename="C:/project/jxg-h5/vue.config.js" />
       <jump line="66" column="5" filename="C:/project/jxg-wxapp/package.json" />
       <jump line="190" column="17" filename="C:/project/jxg-h5/vue.config.js" />
       <jump line="112" column="5" filename="C:/project/jxg-wxapp/package.json" />
@@ -254,7 +255,6 @@
       <jump line="427" column="13" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="134" column="15" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
       <jump line="303" column="4" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
-      <jump line="45" column="0" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
       <jump line="6" column="27" filename="C:/project/jxg-h5-new/src/api/api.ts" />
       <jump line="137" column="13" filename="C:/project/jxg-wxapp/src/assets/constant/common.ts" />
       <jump line="169" column="49" filename="C:/project/jxg-wxapp/src/assets/constant/common.ts" />
@@ -276,6 +276,11 @@
       <jump line="817" column="10" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="835" column="38" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="480" column="4" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="37" column="27" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="45" column="21" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="225" column="10" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="305" column="4" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="525" column="27" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
