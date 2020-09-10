@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>showPrice =</entry>
         <entry>await</entry>
         <entry>可用</entry>
         <entry>运费</entry>
@@ -16,7 +15,6 @@
         <entry>jxg</entry>
         <entry>优惠</entry>
         <entry>暂不</entry>
-        <entry>onLoad</entry>
         <entry>user\.</entry>
         <entry>领</entry>
         <entry>callPay</entry>
@@ -25,6 +23,8 @@
         <entry>邀请</entry>
         <entry>link?</entry>
         <entry>link</entry>
+        <entry>onLoad</entry>
+        <entry>clearS</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -125,11 +125,22 @@
         <mark key="'" line="12" column="15" />
         <mark key="[" line="46" column="34" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/assets/js/adapter.ts" timestamp="1599701721013">
-        <mark key="'" line="305" column="4" />
-        <mark key="[" line="44" column="21" />
+      <file name="C:/project/jxg-wxapp/src/pages/coupon/index.vue" timestamp="1599718166314">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/App.vue" timestamp="1599704323012" />
+      <file name="C:/project/jxg-wxapp/src/assets/js/adapter.ts" timestamp="1599718645765">
+        <mark key="'" line="305" column="4" />
+        <mark key="[" line="314" column="26" />
+        <mark key="]" line="314" column="33" />
+        <mark key="^" line="314" column="33" />
+        <mark key="." line="314" column="32" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/App.vue" timestamp="1599719754528">
+        <mark key="[" line="34" column="2" />
+        <mark key="]" line="34" column="2" />
+        <mark key="." line="34" column="2" />
+        <mark key="^" line="35" column="23" />
+      </file>
       <file name="C:/project/swagger-axios-codegen/example/swagger/codegen.v3.js" timestamp="1599639906684">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="16" />
@@ -153,6 +164,12 @@
         <mark key="[" line="557" column="0" />
         <mark key="]" line="558" column="27" />
       </file>
+      <file name="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" timestamp="1599719710408">
+        <mark key="'" line="50" column="9" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="C:/project/live-h5/src/assets/js/adapter.ts" timestamp="1599707517131">
         <mark key="'" line="7" column="22" />
       </file>
@@ -165,22 +182,16 @@
       </file>
       <file name="/index.d.ts" timestamp="1599707440138" />
       <file name="/adapter.ts" timestamp="1599707532859" />
-      <file name="C:/project/jxg-wxapp/src/assets/js/index.d.ts" timestamp="1599707621839">
+      <file name="C:/project/jxg-wxapp/src/assets/js/index.d.ts" timestamp="1599718230097">
         <mark key="'" line="172" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599708037830">
+      <file name="/Dummy.txt" timestamp="1599719716170">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="C:/project/swagger-axios-codegen/example/swagger/services/indexv3.ts" timestamp="1599639667825">
-        <mark key="'" line="292" column="13" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1599642543586">
-        <mark key="'" line="1584" column="2" />
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1599717715670">
+        <mark key="'" line="64" column="17" />
         <mark key="[" line="411" column="0" />
         <mark key="]" line="411" column="0" />
         <mark key="^" line="1583" column="28" />
@@ -192,9 +203,12 @@
         <mark key="." line="48" column="20" />
         <mark key="^" line="48" column="21" />
       </file>
-      <file name="C:/project/swagger-axios-codegen/example/swagger3.json" timestamp="1599639606325" />
-      <file name="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" timestamp="1599704283313">
-        <mark key="'" line="186" column="0" />
+      <file name="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" timestamp="1599718956562">
+        <mark key="'" line="173" column="2" />
+        <mark key="[" line="179" column="16" />
+        <mark key="]" line="179" column="27" />
+        <mark key="." line="179" column="26" />
+        <mark key="^" line="179" column="27" />
       </file>
       <file name="C:/project/live-h5/src/assets/js/index.d.ts" timestamp="1599707592479">
         <mark key="'" line="172" column="2" />
@@ -202,19 +216,6 @@
       <file name="/detail.vue" timestamp="1599708033751" />
     </filemarks>
     <jumps>
-      <jump line="31" column="87" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="32" column="83" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="33" column="74" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="35" column="76" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="36" column="74" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="37" column="68" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="38" column="78" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="39" column="80" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="40" column="86" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="41" column="82" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="42" column="41" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="87" column="15" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="88" column="15" filename="C:/project/jxg-wxapp/package.json" />
       <jump line="89" column="15" filename="C:/project/jxg-wxapp/package.json" />
       <jump line="1247" column="47" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="1179" column="25" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
@@ -302,56 +303,69 @@
       <jump line="181" column="8" filename="C:/project/live-h5/src/order/pages/index.vue" />
       <jump line="480" column="65" filename="C:/project/live-h5/src/order/pages/index.vue" />
       <jump line="12" column="15" filename="C:/project/live-h5/src/goods/pages/detail.vue" />
+      <jump line="323" column="2" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
+      <jump line="64" column="17" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
+      <jump line="147" column="33" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
+      <jump line="173" column="2" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
+      <jump line="47" column="65" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
+      <jump line="73" column="10" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
+      <jump line="64" column="25" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
+      <jump line="78" column="11" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
+      <jump line="45" column="11" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
+      <jump line="56" column="2" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
+      <jump line="58" column="8" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
+      <jump line="50" column="9" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KCkgPT4gKHt9KQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCkgPT4gKHt9KQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>link</text>
+        <text>clearS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIGFwcLXju/fWp7i2uvPNo8H01Nq1scew0rPD5gogICAgaWYgKGlzSDVJbkFwcCkgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jbGVhclN0b3JhZ2UoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaXRlbS5yZWFsRGVkdWN0UHJpY2UgPSAoKGdvb2RzUHJpY2UgKiBpdGVtLmRpc2NvdW50KSAvIDEwMCkudG9GaXhlZCgyKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGludml0ZV9jb2RlKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGludml0ZUNvZGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdW5pLmNsZWFyU3RvcmFnZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx2aWV3IHJlZj0icmVmVmlldyIgQGNsaWNrPSJ0ZXN0Ij4xMTExMTExMTExMTE8L3ZpZXc+CiAgICA8YnV0dG9uIHJlZj0icmVmQnRuIiBAY2xpY2s9InRlc3QiPjIyMjIyMjIyMjIyMjIyMjIyPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgdW5pLmNsZWFyU3RvcmFnZSgpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ewogICAgICAgICAga2V5OiA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgPSBxcy5zdHJpbmdpZnkocXVlcnkpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGNvbnNvbGUubG9nKDMzMzMzMzMzMywgcXVlcnkpOwogICAgaWYocXVlcnkpIHsKICAgICAgcmV0dXJuOwogICAgfQogICAgcXVlcnkg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC92aWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgLy8g1eLA79Do0qrKudPDzayyvbXELLfx1PK74dTaxLPQqcfpv/bPwrW81sLO3reosaMK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>link</last-search>
+      <last-search>clearS</last-search>
       <last-offset />
-      <last-pattern>link</last-pattern>
+      <last-pattern>clearS</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
