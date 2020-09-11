@@ -124,36 +124,26 @@
       <file name="C:/project/jxg-wxapp/src/assets/js/index.d.ts" timestamp="1599718230097">
         <mark key="'" line="172" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599723401209">
+      <file name="/Dummy.txt" timestamp="1599789088110">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/api/mine.ts" timestamp="1599727064352">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="47" />
-        <mark key="." line="20" column="46" />
-        <mark key="^" line="20" column="47" />
-      </file>
-      <file name="C:/project/jxg-wxapp/src/manifest.json" timestamp="1599786725308">
-        <mark key="[" line="101" column="35" />
-        <mark key="]" line="101" column="36" />
-        <mark key="." line="101" column="35" />
-        <mark key="^" line="101" column="36" />
+      <file name="C:/project/jxg-wxapp/src/manifest.json" timestamp="1599789562661">
+        <mark key="[" line="101" column="28" />
+        <mark key="]" line="101" column="35" />
+        <mark key="." line="101" column="34" />
+        <mark key="^" line="101" column="35" />
       </file>
       <file name="C:/project/live-h5/src/goods/pages/detail.vue" timestamp="1599717377912">
         <mark key="'" line="12" column="15" />
         <mark key="[" line="46" column="34" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/api/goods.ts" timestamp="1599727052051">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="45" />
-      </file>
-      <file name="C:/project/jxg-wxapp/src/pages/coupon/index.vue" timestamp="1599723394999">
-        <mark key="'" line="57" column="42" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+      <file name="C:/project/jxg-wxapp/src/pages/coupon/index.vue" timestamp="1599788323893">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1599721620053">
         <mark key="'" line="1176" column="14" />
@@ -203,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="526" column="37" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="545" column="18" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="550" column="26" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="561" column="4" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
@@ -303,15 +292,16 @@
       <jump line="79" column="6" filename="C:/project/jxg-wxapp/src/api/goods.ts" />
       <jump line="40" column="6" filename="C:/project/jxg-wxapp/src/api/goods.ts" />
       <jump line="49" column="6" filename="C:/project/jxg-wxapp/src/api/goods.ts" />
+      <jump line="124" column="0" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>acivitySkuDetail.cgi</text>
+        <text>jxgint</text>
       </register>
       <register name="-" type="4">
-        <text>acivitySkuDetail.cgi</text>
+        <text>jxgint</text>
       </register>
       <register name="/" type="4">
         <text>base</text>
@@ -320,15 +310,24 @@
         <text encoding="base64">ICAgICAgdXJsOiAiL3Nob3BoNWFwaS9hY2l2aXR5U2t1RGV0YWlsLmNnaSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdXJsOiAiL2JsYWRlLW1pbmlwcm9ncmFtL2FwaS9tZW1iZXIvZ2V0SW5mbyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgb25SZWFkeSgpIHsKICAgIGNvbnNvbGUubG9nKHRoaXMuZ2V0U2hhcmVQYXJhbSgpKTsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPC90ZW1wbGF0ZT4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdXJsOiAiL2JsYWRlLW1pbmlwcm9ncmFtL2FwaS9tZW1iZXIvZ2V0SW5mbyIsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgb25SZWFkeSgpIHsKICAgIGNvbnNvbGUubG9nKHRoaXMuZ2V0U2hhcmVQYXJhbSgpKTsKICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>if (PLATFORM.H5_GZH === platform) {
       ourJxg.appShare({
         ...this.getShareParam(),
@@ -336,20 +335,11 @@
       });
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGludml0ZV9jb2RlKSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGludml0ZUNvZGUpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdW5pLmNsZWFyU3RvcmFnZSgpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdW5pLmNsZWFyU3RvcmFnZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGludml0ZV9jb2RlKSB7Cg==</text>
       </register>
     </registers>
   </component>
