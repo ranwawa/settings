@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>link?</entry>
         <entry>link</entry>
         <entry>clearS</entry>
         <entry>subimt</entry>
@@ -21,10 +20,11 @@
         <entry>nav</entry>
         <entry>fill</entry>
         <entry>Pull</entry>
-        <entry>码库</entry>
         <entry>用户数据</entry>
-        <entry>coupon</entry>
+        <entry>userData</entry>
         <entry>userdata</entry>
+        <entry>coupon</entry>
+        <entry>码库</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -124,7 +124,7 @@
       <file name="C:/project/jxg-wxapp/src/assets/js/index.d.ts" timestamp="1599718230097">
         <mark key="'" line="172" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599795837663">
+      <file name="/Dummy.txt" timestamp="1599796671464">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -132,7 +132,9 @@
       <file name="C:/project/jxg-ops/src/const/dic.js" timestamp="1599795823788">
         <mark key="'" line="545" column="12" />
       </file>
-      <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1599796376402" />
+      <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1599796667325">
+        <mark key="'" line="264" column="31" />
+      </file>
       <file name="C:/project/jxg-ops/src/api/operation/coupon.js" timestamp="1599795826815" />
       <file name="C:/project/jxg-wxapp/src/manifest.json" timestamp="1599789562661">
         <mark key="[" line="101" column="28" />
@@ -185,10 +187,18 @@
       <file name="C:/project/jxg-wxapp/src/pages/activity/limitPrice.vue" timestamp="1599722065118">
         <mark key="'" line="139" column="29" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/operation/coupon/list.vue" timestamp="1599796163748" />
+      <file name="C:/project/jxg-ops/src/views/operation/coupon/list.vue" timestamp="1599796574085">
+        <mark key="'" line="62" column="35" />
+      </file>
       <file name="/index.vue" timestamp="1599707977096">
         <mark key="[" line="557" column="0" />
         <mark key="]" line="558" column="27" />
+      </file>
+      <file name="C:/project/supplier-ops/src/page/login/index.vue" timestamp="1599797604375">
+        <mark key="[" line="22" column="44" />
+        <mark key="]" line="22" column="51" />
+        <mark key="^" line="22" column="51" />
+        <mark key="." line="22" column="50" />
       </file>
       <file name="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" timestamp="1599718956562">
         <mark key="'" line="173" column="2" />
@@ -197,16 +207,9 @@
         <mark key="." line="179" column="26" />
         <mark key="^" line="179" column="27" />
       </file>
-      <file name="C:/project/live-h5/src/assets/js/index.d.ts" timestamp="1599707592479">
-        <mark key="'" line="172" column="2" />
-      </file>
       <file name="C:/project/jxg-ops/src/views/operation/coupon/coupon-data.vue" timestamp="1599795796534" />
     </filemarks>
     <jumps>
-      <jump line="390" column="34" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="489" column="49" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="493" column="28" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="582" column="25" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="94" column="0" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="1256" column="42" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
@@ -288,7 +291,6 @@
       <jump line="158" column="7" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
       <jump line="6" column="25" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
       <jump line="397" column="15" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
-      <jump line="62" column="51" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
       <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
       <jump line="71" column="21" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
       <jump line="452" column="44" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
@@ -303,6 +305,11 @@
       <jump line="251" column="29" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="259" column="87" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="268" column="87" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="65" column="35" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
+      <jump line="62" column="35" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
+      <jump line="823" column="20" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="287" column="36" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="264" column="31" filename="C:/project/jxg-ops/src/router/views/operation.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,7 +321,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>userdata</text>
+        <text>码库</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdXJsOiAiL3Nob3BoNWFwaS9hY2l2aXR5U2t1RGV0YWlsLmNnaSIsCg==</text>
@@ -350,9 +357,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>userdata</last-search>
+      <last-search>码库</last-search>
       <last-offset />
-      <last-pattern>userdata</last-pattern>
+      <last-pattern>码库</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
