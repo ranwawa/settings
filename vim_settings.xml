@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>link</entry>
-        <entry>clearS</entry>
         <entry>subimt</entry>
         <entry>submit</entry>
         <entry>url</entry>
@@ -23,8 +21,10 @@
         <entry>用户数据</entry>
         <entry>userData</entry>
         <entry>userdata</entry>
-        <entry>coupon</entry>
         <entry>码库</entry>
+        <entry>广告</entry>
+        <entry>coupon</entry>
+        <entry>user-data</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -124,34 +124,21 @@
       <file name="C:/project/jxg-ops/src/const/dic.js" timestamp="1599795823788">
         <mark key="'" line="558" column="12" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/pages/coupon/index.vue" timestamp="1599788323893">
-        <mark key="'" line="130" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="C:/project/jxg-wxapp/src/App.vue" timestamp="1599719754528">
-        <mark key="[" line="34" column="2" />
-        <mark key="]" line="34" column="2" />
-        <mark key="." line="34" column="2" />
-        <mark key="^" line="35" column="23" />
-      </file>
-      <file name="C:/project/jxg-wxapp/src/pages/activity/limitPrice.vue" timestamp="1599722065118">
-        <mark key="'" line="139" column="29" />
-      </file>
-      <file name="C:/project/jxg-ops/src/views/operation/coupon/list.vue" timestamp="1599796574085" />
+      <file name="C:/project/jxg-ops/src/views/operation/coupon/list.vue" timestamp="1599805161414" />
       <file name="C:/project/supplier-ops/src/page/login/index.vue" timestamp="1599797604375">
         <mark key="[" line="22" column="44" />
         <mark key="]" line="22" column="51" />
         <mark key="^" line="22" column="51" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599799386081">
+      <file name="/Dummy.txt" timestamp="1599805129939">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1599796667325" />
+      <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1599805168390">
+        <mark key="'" line="273" column="90" />
+      </file>
       <file name="C:/project/jxg-wxapp/src/manifest.json" timestamp="1599789562661">
         <mark key="[" line="101" column="28" />
         <mark key="]" line="101" column="35" />
@@ -171,24 +158,20 @@
       <file name="C:/project/jxg-wxapp/node_modules/uni-vant/lib/swiper-dot.vue" timestamp="1599793247799">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/project/jxg-ops/src/page/login/index.vue" timestamp="1599799568364">
-        <mark key="[" line="24" column="45" />
-        <mark key="]" line="24" column="45" />
-        <mark key="^" line="22" column="45" />
-        <mark key="." line="24" column="45" />
+      <file name="C:/project/jxg-ops/src/views/components/linkExport.vue" timestamp="1599805123614" />
+      <file name="C:/project/jxg-ops/src/views/operation/coupon/codeLibrary.vue" timestamp="1599805208760">
+        <mark key="'" line="287" column="0" />
       </file>
+      <file name="C:/project/jxg-ops/src/page/login/index.vue" timestamp="1599804668308" />
       <file name="C:/project/jxg-ops/src/views/operation/coupon/coupon-data.vue" timestamp="1599795796534" />
+      <file name="C:/project/jxg-ops/src/views/operation/coupon/user-data.vue" timestamp="1599805145478">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="^" line="185" column="0" />
+        <mark key="." line="184" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="582" column="25" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="94" column="0" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="1256" column="42" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="697" column="38" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="817" column="10" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="480" column="4" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="37" column="27" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
-      <jump line="45" column="21" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
-      <jump line="225" column="10" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
       <jump line="305" column="4" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
       <jump line="525" column="27" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="319" column="17" filename="C:/project/swagger-axios-codegen/example/swagger/services/indexv3.ts" />
@@ -273,13 +256,22 @@
       <jump line="66" column="28" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
       <jump line="658" column="36" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="251" column="29" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="259" column="87" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="268" column="87" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="65" column="35" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
       <jump line="62" column="35" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
       <jump line="823" column="20" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="287" column="36" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="264" column="31" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="17" column="14" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="249" column="32" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="250" column="83" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="259" column="83" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="268" column="83" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="214" column="23" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="221" column="75" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="223" column="38" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="831" column="0" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="273" column="90" filename="C:/project/jxg-ops/src/router/views/operation.js" />
+      <jump line="287" column="0" filename="C:/project/jxg-ops/src/views/operation/coupon/codeLibrary.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,7 +283,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>码库</text>
+        <text>user-data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdXJsOiAiL3Nob3BoNWFwaS9hY2l2aXR5U2t1RGV0YWlsLmNnaSIsCg==</text>
@@ -327,9 +319,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>码库</last-search>
+      <last-search>user-data</last-search>
       <last-offset />
-      <last-pattern>码库</last-pattern>
+      <last-pattern>user-data</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
