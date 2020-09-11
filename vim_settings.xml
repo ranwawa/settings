@@ -5,11 +5,8 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>subimt</entry>
-        <entry>submit</entry>
         <entry>url</entry>
         <entry>base</entry>
-        <entry>onLoad</entry>
         <entry>created</entry>
         <entry>all\/detail</entry>
         <entry>pull</entry>
@@ -25,6 +22,9 @@
         <entry>广告</entry>
         <entry>coupon</entry>
         <entry>user-data</entry>
+        <entry>onLod</entry>
+        <entry>onLoad</entry>
+        <entry>int2</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -124,29 +124,32 @@
       <file name="C:/project/jxg-ops/src/const/dic.js" timestamp="1599795823788">
         <mark key="'" line="558" column="12" />
       </file>
+      <file name="C:/project/jxg-wxapp/package.json" timestamp="1599806434847">
+        <mark key="'" line="11" column="5" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/pages/coupon/index.vue" timestamp="1599806192641">
+        <mark key="'" line="23" column="10" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="C:/project/jxg-ops/src/views/operation/coupon/list.vue" timestamp="1599805161414" />
+      <file name="C:/project/jxg-ops/package.json" timestamp="1599806478304">
+        <mark key="'" line="10" column="42" />
+      </file>
       <file name="C:/project/supplier-ops/src/page/login/index.vue" timestamp="1599797604375">
         <mark key="[" line="22" column="44" />
         <mark key="]" line="22" column="51" />
         <mark key="^" line="22" column="51" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599805129939">
+      <file name="/Dummy.txt" timestamp="1599805222742">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1599805168390">
         <mark key="'" line="273" column="90" />
-      </file>
-      <file name="C:/project/jxg-wxapp/src/manifest.json" timestamp="1599789562661">
-        <mark key="[" line="101" column="28" />
-        <mark key="]" line="101" column="35" />
-        <mark key="." line="101" column="34" />
-        <mark key="^" line="101" column="35" />
-      </file>
-      <file name="C:/project/jxg-h5/src/views/goodsList/goodsDetail.vue" timestamp="1599791565552">
-        <mark key="'" line="939" column="13" />
       </file>
       <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1599793387694">
         <mark key="'" line="6" column="9" />
@@ -155,9 +158,7 @@
         <mark key="." line="731" column="29" />
         <mark key="^" line="731" column="30" />
       </file>
-      <file name="C:/project/jxg-wxapp/node_modules/uni-vant/lib/swiper-dot.vue" timestamp="1599793247799">
-        <mark key="'" line="0" column="0" />
-      </file>
+      <file name="C:/project/supplier-ops/package.json" timestamp="1599806497063" />
       <file name="C:/project/jxg-ops/src/views/components/linkExport.vue" timestamp="1599805123614" />
       <file name="C:/project/jxg-ops/src/views/operation/coupon/codeLibrary.vue" timestamp="1599805208760">
         <mark key="'" line="287" column="0" />
@@ -172,12 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="4" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
-      <jump line="525" column="27" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="319" column="17" filename="C:/project/swagger-axios-codegen/example/swagger/services/indexv3.ts" />
-      <jump line="1575" column="23" filename="C:/project/swagger-axios-codegen/example/swagger/services/indexv3.ts" />
-      <jump line="199" column="23" filename="C:/project/swagger-axios-codegen/example/swagger/services/indexv3.ts" />
-      <jump line="326" column="19" filename="C:/project/swagger-axios-codegen/example/swagger/services/indexv3.ts" />
       <jump line="1577" column="3" filename="C:/project/swagger-axios-codegen/example/swagger/services/indexv3.ts" />
       <jump line="292" column="13" filename="C:/project/swagger-axios-codegen/example/swagger/services/indexv3.ts" />
       <jump line="548" column="49" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
@@ -272,6 +267,12 @@
       <jump line="831" column="0" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="273" column="90" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="287" column="0" filename="C:/project/jxg-ops/src/views/operation/coupon/codeLibrary.vue" />
+      <jump line="23" column="10" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
+      <jump line="21" column="9" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="19" column="5" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="11" column="5" filename="C:/project/jxg-wxapp/package.json" />
+      <jump line="23" column="41" filename="C:/project/jxg-ops/package.json" />
+      <jump line="10" column="42" filename="C:/project/jxg-ops/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -283,7 +284,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>user-data</text>
+        <text>int2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdXJsOiAiL3Nob3BoNWFwaS9hY2l2aXR5U2t1RGV0YWlsLmNnaSIsCg==</text>
@@ -319,9 +320,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>user-data</last-search>
+      <last-search>int2</last-search>
       <last-offset />
-      <last-pattern>user-data</last-pattern>
+      <last-pattern>int2</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
