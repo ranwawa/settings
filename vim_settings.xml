@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>url</entry>
-        <entry>base</entry>
-        <entry>created</entry>
         <entry>all\/detail</entry>
         <entry>pull</entry>
         <entry>pullDo</entry>
@@ -24,7 +21,10 @@
         <entry>user-data</entry>
         <entry>onLod</entry>
         <entry>onLoad</entry>
+        <entry>test2</entry>
         <entry>int2</entry>
+        <entry>int</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,8 +121,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-ops/src/const/dic.js" timestamp="1599795823788">
-        <mark key="'" line="558" column="12" />
+      <file name="C:/project/supplier-ops/src/config/env.js" timestamp="1599807923541">
+        <mark key="'" line="36" column="22" />
       </file>
       <file name="C:/project/jxg-wxapp/package.json" timestamp="1599806434847">
         <mark key="'" line="11" column="5" />
@@ -133,9 +133,13 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="C:/project/jxg-ops/.env.int2" timestamp="1599806622810" />
       <file name="C:/project/jxg-ops/src/views/operation/coupon/list.vue" timestamp="1599805161414" />
-      <file name="C:/project/jxg-ops/package.json" timestamp="1599806478304">
-        <mark key="'" line="10" column="42" />
+      <file name="C:/project/jxg-ops/package.json" timestamp="1599807549841">
+        <mark key="'" line="11" column="42" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="69" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="C:/project/supplier-ops/src/page/login/index.vue" timestamp="1599797604375">
         <mark key="[" line="22" column="44" />
@@ -143,7 +147,7 @@
         <mark key="^" line="22" column="51" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599805222742">
+      <file name="/Dummy.txt" timestamp="1599807278378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -151,20 +155,22 @@
       <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1599805168390">
         <mark key="'" line="273" column="90" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1599793387694">
-        <mark key="'" line="6" column="9" />
-        <mark key="[" line="730" column="22" />
-        <mark key="]" line="731" column="30" />
-        <mark key="." line="731" column="29" />
-        <mark key="^" line="731" column="30" />
+      <file name="C:/project/jxg-ops/src/config/env.js" timestamp="1599807885176">
+        <mark key="'" line="55" column="14" />
+        <mark key="[" line="52" column="11" />
+        <mark key="]" line="52" column="12" />
+        <mark key="." line="52" column="11" />
+        <mark key="^" line="52" column="12" />
       </file>
       <file name="C:/project/supplier-ops/package.json" timestamp="1599806497063" />
+      <file name="C:/project/jxg-ops/vue.config.js" timestamp="1599806544402">
+        <mark key="'" line="7" column="16" />
+      </file>
       <file name="C:/project/jxg-ops/src/views/components/linkExport.vue" timestamp="1599805123614" />
       <file name="C:/project/jxg-ops/src/views/operation/coupon/codeLibrary.vue" timestamp="1599805208760">
         <mark key="'" line="287" column="0" />
       </file>
       <file name="C:/project/jxg-ops/src/page/login/index.vue" timestamp="1599804668308" />
-      <file name="C:/project/jxg-ops/src/views/operation/coupon/coupon-data.vue" timestamp="1599795796534" />
       <file name="C:/project/jxg-ops/src/views/operation/coupon/user-data.vue" timestamp="1599805145478">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="185" column="0" />
@@ -173,31 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1577" column="3" filename="C:/project/swagger-axios-codegen/example/swagger/services/indexv3.ts" />
-      <jump line="292" column="13" filename="C:/project/swagger-axios-codegen/example/swagger/services/indexv3.ts" />
-      <jump line="548" column="49" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="835" column="38" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="521" column="25" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="1586" column="2" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="48" column="2" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
-      <jump line="24" column="0" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
-      <jump line="186" column="0" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
-      <jump line="141" column="1" filename="C:/project/live-h5/src/assets/js/adapter.ts" />
-      <jump line="7" column="22" filename="C:/project/live-h5/src/assets/js/adapter.ts" />
-      <jump line="193" column="0" filename="C:/project/live-h5/src/assets/js/index.d.ts" />
-      <jump line="172" column="2" filename="C:/project/live-h5/src/assets/js/index.d.ts" />
-      <jump line="7" column="2" filename="C:/project/jxg-wxapp/src/assets/js/index.d.ts" />
-      <jump line="172" column="2" filename="C:/project/jxg-wxapp/src/assets/js/index.d.ts" />
-      <jump line="233" column="7" filename="C:/project/live-h5/src/order/pages/index.vue" />
-      <jump line="0" column="0" filename="C:/project/live-h5/src/order/pages/index.vue" />
-      <jump line="553" column="6" filename="C:/project/live-h5/src/order/pages/index.vue" />
-      <jump line="181" column="8" filename="C:/project/live-h5/src/order/pages/index.vue" />
-      <jump line="480" column="65" filename="C:/project/live-h5/src/order/pages/index.vue" />
-      <jump line="12" column="15" filename="C:/project/live-h5/src/goods/pages/detail.vue" />
-      <jump line="323" column="2" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
-      <jump line="64" column="17" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
-      <jump line="147" column="33" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
       <jump line="173" column="2" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
       <jump line="47" column="65" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
       <jump line="73" column="10" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
@@ -272,57 +253,82 @@
       <jump line="19" column="5" filename="C:/project/jxg-wxapp/package.json" />
       <jump line="11" column="5" filename="C:/project/jxg-wxapp/package.json" />
       <jump line="23" column="41" filename="C:/project/jxg-ops/package.json" />
+      <jump line="7" column="16" filename="C:/project/jxg-ops/vue.config.js" />
+      <jump line="4" column="13" filename="C:/project/jxg-ops/package.json" />
+      <jump line="20" column="13" filename="C:/project/jxg-ops/src/config/env.js" />
+      <jump line="39" column="25" filename="C:/project/jxg-ops/src/config/env.js" />
+      <jump line="41" column="14" filename="C:/project/jxg-ops/src/config/env.js" />
+      <jump line="42" column="41" filename="C:/project/jxg-ops/src/config/env.js" />
+      <jump line="43" column="18" filename="C:/project/jxg-ops/src/config/env.js" />
+      <jump line="38" column="8" filename="C:/project/jxg-ops/src/config/env.js" />
+      <jump line="52" column="8" filename="C:/project/jxg-ops/src/config/env.js" />
+      <jump line="53" column="26" filename="C:/project/jxg-ops/src/config/env.js" />
+      <jump line="55" column="14" filename="C:/project/jxg-ops/src/config/env.js" />
       <jump line="10" column="42" filename="C:/project/jxg-ops/package.json" />
+      <jump line="114" column="0" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="56" column="46" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="57" column="22" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="52" column="10" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="53" column="30" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="55" column="18" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="82" column="15" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="88" column="18" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="29" column="18" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="31" column="10" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="32" column="26" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="34" column="18" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="35" column="42" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="36" column="22" filename="C:/project/supplier-ops/src/config/env.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>int2</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdXJsOiAiL3Nob3BoNWFwaS9hY2l2aXR5U2t1RGV0YWlsLmNnaSIsCg==</text>
+        <text encoding="base64">ICAgICJkZXYiOiAidnVlLWNsaS1zZXJ2aWNlIHNlcnZlIC0tbW9kZSBkZXYiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF0dHIuZmlsbCgxKS5sb2cK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF0dHIuZmlsbCgxKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGJyZWFrOwogIGNhc2UgJ2RldnMnOgogICAgYmFzZVVybCA9IGBodHRwOi8vMTkyLjE2OC4xLjIyMmA7CiAgICB3aW5kb3cuVUVESVRPUl9IT01FX1VSTCA9IGBodHRwOi8vMTkyLjE2OC4xLjIyMmA7CiAgICBINVVybCA9CiAgICAgICdodHRwOi8vdGVzdGg1YXBpLmppeHVnb3UuY24vIy9zaGFyZUg1L2dvb2RzRGV0YWlsP3VzZXJBZ2VudD1wYyZnb29kc0lkPSc7CiAgICBicmVhazs=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJidWlsZDphZG1pbiI6ICJ2dWUtY2xpLXNlcnZpY2UgYnVpbGQgLS1tb2RlIGFkbWluIC0tZGVzdCBhZG1pbiIsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJzZXJ2ZSI6ICJ2dWUtY2xpLXNlcnZpY2Ugc2VydmUgLS1tb2RlIGRldiIsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJzZXJ2ZSI6ICJ2dWUtY2xpLXNlcnZpY2Ugc2VydmUgLS1tb2RlIGRldiIsCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC90ZW1wbGF0ZT4K</text>
+        <text encoding="base64">ICAgICJkZXYyIjogInZ1ZS1jbGktc2VydmljZSBidWlsZCAtLW1vZGUgZGV2cyAtLWRlc3QgZGlzdCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdXJsOiAiL2JsYWRlLW1pbmlwcm9ncmFtL2FwaS9tZW1iZXIvZ2V0SW5mbyIsCg==</text>
+        <text encoding="base64">ICAgICJpbnR0ZXN0IjogInZ1ZS1jbGktc2VydmljZSBidWlsZCAtLW1vZGUgaW50dGVzdCAtLWRlc3QgZGlzdCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgb25SZWFkeSgpIHsKICAgIGNvbnNvbGUubG9nKHRoaXMuZ2V0U2hhcmVQYXJhbSgpKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICJpbnR0ZXN0IjogInZ1ZS1jbGktc2VydmljZSBidWlsZCAtLW1vZGUgaW50dGVzdCAtLWRlc3QgZGlzdCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICJ0ZXN0MiI6ICJ2dWUtY2xpLXNlcnZpY2UgYnVpbGQgLS1tb2RlIHRlc3QyIC0tZGVzdCBkaXN0IiwK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>int2</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>int2</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
