@@ -12,7 +12,6 @@
         <entry>Pull</entry>
         <entry>用户数据</entry>
         <entry>userData</entry>
-        <entry>userdata</entry>
         <entry>码库</entry>
         <entry>广告</entry>
         <entry>coupon</entry>
@@ -25,6 +24,7 @@
         <entry>test</entry>
         <entry>jxgint</entry>
         <entry>created</entry>
+        <entry>userdata</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -124,11 +124,10 @@
       <file name="C:/project/supplier-ops/src/config/env.js" timestamp="1599811253289">
         <mark key="'" line="56" column="43" />
       </file>
-      <file name="C:/project/jxg-ops/src/api/operation/coupon.js" timestamp="1599814936410">
-        <mark key="[" line="160" column="42" />
-        <mark key="]" line="161" column="35" />
-        <mark key="^" line="161" column="35" />
-        <mark key="." line="161" column="34" />
+      <file name="C:/project/jxg-ops/src/api/operation/coupon.js" timestamp="1599815770713">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="C:/project/jxg-wxapp/package.json" timestamp="1599806434847">
         <mark key="'" line="11" column="5" />
@@ -142,14 +141,20 @@
       <file name="C:/project/jxg-ops/.env.int2" timestamp="1599806622810" />
       <file name="C:/project/jxg-ops/src/views/operation/coupon/list.vue" timestamp="1599805161414" />
       <file name="C:/project/jxg-ops/package.json" timestamp="1599807549841" />
+      <file name="C:/project/jxg-ops/src/views/operation/coupon/index.vue" timestamp="1599816193172">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="50" />
+        <mark key="^" line="1" column="50" />
+        <mark key="." line="1" column="49" />
+      </file>
       <file name="C:/project/supplier-ops/src/main.js" timestamp="1599809567983" />
-      <file name="/Dummy.txt" timestamp="1599813193499">
+      <file name="/Dummy.txt" timestamp="1599815791640">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1599805168390">
-        <mark key="'" line="273" column="90" />
+      <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1599816142302">
+        <mark key="'" line="277" column="7" />
       </file>
       <file name="C:/project/jxg-ops/src/config/env.js" timestamp="1599809249174">
         <mark key="'" line="45" column="14" />
@@ -159,7 +164,7 @@
         <mark key="^" line="42" column="12" />
       </file>
       <file name="C:/project/supplier-ops/package.json" timestamp="1599806497063" />
-      <file name="C:/project/jxg-ops/vue.config.js" timestamp="1599813700322">
+      <file name="C:/project/jxg-ops/vue.config.js" timestamp="1599815151416">
         <mark key="'" line="7" column="16" />
         <mark key="[" line="21" column="39" />
         <mark key="]" line="21" column="39" />
@@ -177,15 +182,15 @@
         <mark key="^" line="414" column="10" />
       </file>
       <file name="C:/project/jxg-ops/src/page/login/index.vue" timestamp="1599804668308" />
-      <file name="C:/project/jxg-ops/src/views/operation/coupon/user-data.vue" timestamp="1599814926059">
-        <mark key="'" line="6" column="21" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="133" column="25" />
-        <mark key="." line="132" column="0" />
+      <file name="C:/project/jxg-ops/src/views/operation/coupon/user-data.vue" timestamp="1599816124177">
+        <mark key="'" line="7" column="21" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="10" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
       <jump line="64" column="25" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
       <jump line="78" column="11" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
       <jump line="45" column="11" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
@@ -285,56 +290,57 @@
       <jump line="56" column="43" filename="C:/project/supplier-ops/src/config/env.js" />
       <jump line="13" column="32" filename="C:/project/jxg-ops/src/views/operation/coupon/user-data.vue" />
       <jump line="6" column="21" filename="C:/project/jxg-ops/src/views/operation/coupon/user-data.vue" />
+      <jump line="277" column="7" filename="C:/project/jxg-ops/src/router/views/operation.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMxMjMxMjMsIGFwaUNvdXBvblVzZXJEYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMTIzLCBhcGlDb3Vwb25Vc2VyRGF0YSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>created</text>
+        <text>userdata</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJkZXYiOiAidnVlLWNsaS1zZXJ2aWNlIHNlcnZlIC0tbW9kZSBkZXYiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMxMjMxMjMsIGFwaUNvdXBvblVzZXJEYXRhKTsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMTIzLCBhcGlDb3Vwb25Vc2VyRGF0YSk7Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMxMjMxMjMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMxMjMxMjMsIGFwaUNvdXBvblVzZXJEYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTExLCBhcGlDb3Vwb25Vc2VyRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMTIzLCBhcGlDb3Vwb25Vc2VyRGF0YSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMxMjMxMjMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnQgJiYgKGRvY3VtZW50LmJvZHkuc2Nyb2xsVG9wID0gZG9jdW1lbnQuYm9keS5zY3JvbGxIZWlnaHQpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTExLCBhcGlDb3Vwb25Vc2VyRGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYoIWRvY3VtZW50KSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gd2luZG93LnNjcm9sbFRvKDAsIDApOwo=</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQgJiYgKGRvY3VtZW50LmJvZHkuc2Nyb2xsVG9wID0gZG9jdW1lbnQuYm9keS5zY3JvbGxIZWlnaHQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoIWRvY3VtZW50KSByZXR1cm47Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>created</last-search>
+      <last-search>userdata</last-search>
       <last-offset />
-      <last-pattern>created</last-pattern>
+      <last-pattern>userdata</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
