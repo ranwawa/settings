@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>all\/detail</entry>
         <entry>pull</entry>
         <entry>pullDo</entry>
         <entry>info</entry>
@@ -25,6 +24,7 @@
         <entry>int2</entry>
         <entry>int</entry>
         <entry>test</entry>
+        <entry>jxgint</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,7 +121,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/supplier-ops/src/config/env.js" timestamp="1599807923541" />
+      <file name="C:/project/supplier-ops/src/config/env.js" timestamp="1599811253289">
+        <mark key="'" line="56" column="43" />
+      </file>
       <file name="C:/project/jxg-wxapp/package.json" timestamp="1599806434847">
         <mark key="'" line="11" column="5" />
       </file>
@@ -139,17 +141,11 @@
         <mark key="]" line="15" column="69" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/project/supplier-ops/src/page/login/index.vue" timestamp="1599810018276">
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="20" column="29" />
-        <mark key="^" line="20" column="29" />
-        <mark key="." line="20" column="28" />
-      </file>
       <file name="C:/project/supplier-ops/src/main.js" timestamp="1599809567983" />
-      <file name="/Dummy.txt" timestamp="1599810005854">
+      <file name="/Dummy.txt" timestamp="1599810047452">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="C:/project/jxg-ops/src/router/views/operation.js" timestamp="1599805168390">
         <mark key="'" line="273" column="90" />
@@ -168,6 +164,13 @@
       <file name="C:/project/jxg-ops/src/views/components/linkExport.vue" timestamp="1599805123614" />
       <file name="C:/project/jxg-ops/src/views/operation/coupon/codeLibrary.vue" timestamp="1599805208760">
         <mark key="'" line="287" column="0" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" timestamp="1599812961699">
+        <mark key="'" line="173" column="2" />
+        <mark key="[" line="414" column="5" />
+        <mark key="]" line="414" column="10" />
+        <mark key="." line="414" column="9" />
+        <mark key="^" line="414" column="10" />
       </file>
       <file name="C:/project/jxg-ops/src/page/login/index.vue" timestamp="1599804668308" />
       <file name="C:/project/jxg-ops/src/views/operation/coupon/user-data.vue" timestamp="1599805145478">
@@ -265,10 +268,8 @@
       <jump line="55" column="14" filename="C:/project/jxg-ops/src/config/env.js" />
       <jump line="10" column="42" filename="C:/project/jxg-ops/package.json" />
       <jump line="114" column="0" filename="C:/project/supplier-ops/src/config/env.js" />
-      <jump line="56" column="46" filename="C:/project/supplier-ops/src/config/env.js" />
       <jump line="57" column="22" filename="C:/project/supplier-ops/src/config/env.js" />
       <jump line="52" column="10" filename="C:/project/supplier-ops/src/config/env.js" />
-      <jump line="53" column="30" filename="C:/project/supplier-ops/src/config/env.js" />
       <jump line="55" column="18" filename="C:/project/supplier-ops/src/config/env.js" />
       <jump line="82" column="15" filename="C:/project/supplier-ops/src/config/env.js" />
       <jump line="88" column="18" filename="C:/project/supplier-ops/src/config/env.js" />
@@ -276,58 +277,60 @@
       <jump line="31" column="10" filename="C:/project/supplier-ops/src/config/env.js" />
       <jump line="32" column="26" filename="C:/project/supplier-ops/src/config/env.js" />
       <jump line="34" column="18" filename="C:/project/supplier-ops/src/config/env.js" />
-      <jump line="35" column="42" filename="C:/project/supplier-ops/src/config/env.js" />
       <jump line="36" column="22" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="35" column="61" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="53" column="27" filename="C:/project/supplier-ops/src/config/env.js" />
+      <jump line="56" column="43" filename="C:/project/supplier-ops/src/config/env.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXI6IGdsb3coMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQgJiYgKGRvY3VtZW50LmJvZHkuc2Nyb2xsVG9wID0gZG9jdW1lbnQuYm9keS5zY3JvbGxIZWlnaHQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>gray(1)</text>
+        <text>va</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>jxgint</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJkZXYiOiAidnVlLWNsaS1zZXJ2aWNlIHNlcnZlIC0tbW9kZSBkZXYiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXI6IGdsb3coMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQgJiYgKGRvY3VtZW50LmJvZHkuc2Nyb2xsVG9wID0gZG9jdW1lbnQuYm9keS5zY3JvbGxIZWlnaHQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgPgo=</text>
+        <text encoding="base64">ICAgICAgaWYoIWRvY3VtZW50KSByZXR1cm47Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDx0ZW1wbGF0ZSB2LWlmPSIhaXNBZG1pbiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj7E47rDo6E8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2Pru2063AtLW9vK/Q6Lm6uak8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGVtcGxhdGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGVtcGxhdGUgdi1lbHNlPiC688youdzA7c+1zbM8L3RlbXBsYXRl</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLy8gd2luZG93LnNjcm9sbFRvKDAsIDApOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJyZWFrOwogIGNhc2UgJ2RldnMnOgogICAgYmFzZVVybCA9IGBodHRwOi8vMTkyLjE2OC4xLjIyMmA7CiAgICB3aW5kb3cuVUVESVRPUl9IT01FX1VSTCA9IGBodHRwOi8vMTkyLjE2OC4xLjIyMmA7CiAgICBINVVybCA9CiAgICAgICdodHRwOi8vdGVzdGg1YXBpLmppeHVnb3UuY24vIy9zaGFyZUg1L2dvb2RzRGV0YWlsP3VzZXJBZ2VudD1wYyZnb29kc0lkPSc7CiAgICBicmVhazs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJidWlsZDphZG1pbiI6ICJ2dWUtY2xpLXNlcnZpY2UgYnVpbGQgLS1tb2RlIGFkbWluIC0tZGVzdCBhZG1pbiIsCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXI6IGdsb3coMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZSI6ICJ2dWUtY2xpLXNlcnZpY2Ugc2VydmUgLS1tb2RlIGRldiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZSI6ICJ2dWUtY2xpLXNlcnZpY2Ugc2VydmUgLS1tb2RlIGRldiIsCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IDx0ZW1wbGF0ZSB2LWlmPSIhaXNBZG1pbiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj7E47rDo6E8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2Pru2063AtLW9vK/Q6Lm6uak8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGVtcGxhdGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGVtcGxhdGUgdi1lbHNlPiC688youdzA7c+1zbM8L3RlbXBsYXRl</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJkZXYyIjogInZ1ZS1jbGktc2VydmljZSBidWlsZCAtLW1vZGUgZGV2cyAtLWRlc3QgZGlzdCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>test</last-search>
+      <last-search>jxgint</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>jxgint</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
