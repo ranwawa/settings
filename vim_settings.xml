@@ -12,7 +12,6 @@
         <entry>广告</entry>
         <entry>coupon</entry>
         <entry>onLod</entry>
-        <entry>onLoad</entry>
         <entry>test2</entry>
         <entry>int2</entry>
         <entry>int</entry>
@@ -25,6 +24,7 @@
         <entry>核销</entry>
         <entry>clear</entry>
         <entry>regtime</entry>
+        <entry>onLoad</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -124,32 +124,49 @@
       <file name="C:/project/supplier-ops/src/config/env.js" timestamp="1599811253289">
         <mark key="'" line="56" column="43" />
       </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/api-express/index.js" timestamp="1600050180363">
+        <mark key="[" line="57" column="4" />
+        <mark key="]" line="57" column="4" />
+        <mark key="." line="57" column="4" />
+      </file>
       <file name="C:/project/jxg-ops/src/api/operation/coupon.js" timestamp="1599815770713">
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="C:/project/jxg-ops/.env.int2" timestamp="1599806622810" />
+      <file name="C:/project/jxg-wxapp/src/pages/coupon/index.vue" timestamp="1600047916878">
+        <mark key="'" line="159" column="25" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" timestamp="1600047540165" />
-      <file name="C:/project/jxg-ops/package.json" timestamp="1599807549841" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/index.js" timestamp="1600049987821">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="C:/project/jxg-ops/src/views/operation/coupon/index.vue" timestamp="1599816193172">
         <mark key="[" line="1" column="37" />
         <mark key="]" line="1" column="50" />
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="49" />
       </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/alihuocang.js" timestamp="1600050182576">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="39" column="29" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="8" column="25" />
+      </file>
       <file name="C:/project/supplier-ops/src/main.js" timestamp="1599809567983" />
-      <file name="/Dummy.txt" timestamp="1600047599860">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="/Dummy.txt" timestamp="1600047665189">
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="C:/project/jxg-wxapp/src/live/pages/liveroom.vue" timestamp="1599967298816">
         <mark key="'" line="581" column="59" />
       </file>
       <file name="/baseUser.ts" timestamp="1600047486792" />
-      <file name="C:/project/jxg-ops/src/config/env.js" timestamp="1599809249174" />
-      <file name="C:/project/supplier-ops/package.json" timestamp="1599806497063" />
       <file name="C:/project/jxg-ops/src/views/operation/coupon/codeLibrary.vue" timestamp="1599819671518" />
       <file name="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" timestamp="1600047663095">
         <mark key="'" line="190" column="33" />
@@ -167,9 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="0" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
-      <jump line="588" column="16" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="727" column="21" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="1110" column="30" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="206" column="0" filename="C:/project/jxg-h5/src/views/goodsList/goodsDetail.vue" />
       <jump line="939" column="13" filename="C:/project/jxg-h5/src/views/goodsList/goodsDetail.vue" />
@@ -267,56 +281,59 @@
       <jump line="580" column="61" filename="C:/project/jxg-wxapp/src/live/pages/liveroom.vue" />
       <jump line="581" column="59" filename="C:/project/jxg-wxapp/src/live/pages/liveroom.vue" />
       <jump line="190" column="33" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
+      <jump line="101" column="71" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
+      <jump line="21" column="2" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
+      <jump line="159" column="25" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text encoding="base64">dW5pQ2xvdWQubG9nZ2VyLmxvZygisKLA77v1sta72LX3Lcjrss4iLCBib2R5KTsKICAgIGNvbnN0IG5ld0JvZHkgPSBKU09OLnBhcnNlKGRlY29kZVVSSUNvbXBvbmVudChib2R5KS5zcGxpdCgiPSIpWzFdIHx8IFtdKTsKICAgIGlmICghQXJyYXkuaXNBcnJheShuZXdCb2R5KSB8fCBuZXdCb2R5Lmxlbmd0aCA8IDEpIHsKICAgICAgcmV0dXJuIHsgc3VjY2VzczogZmFsc2UgfTsKICAgIH0KICAgIGNvbnN0IHJlcyA9IGF3YWl0IGNvbENzT3JkZXIKICAgICAgLndoZXJlKHsKICAgICAgICBiYXRjaE5vOiBuZXdCb2R5WzBdLmJhdGNoTm8sCiAgICAgIH0pCiAgICAgIC5maWVsZCh7IGFkZHJlc3NJbmZvOiB0cnVlIH0pCiAgICAgIC5nZXQoKTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrCiwO+79bLWu9i19yyy6dGvtqm1pS2z9rLOIiwgcmVzKTsKICAgIGlmIChyZXMuZGF0YS5sZW5ndGggPCAxKSB7CiAgICAgIHJldHVybiB7IHN1Y2Nlc3M6IGZhbHNlIH07CiAgICB9CiAgICBjb25zdCB7IF9pZCwgYWRkcmVzc0luZm8gfSA9IHJlcy5kYXRhWzBdOwogICAgY29uc3QgYWRkcmVzc0luZm9OZXcgPSBhZGRyZXNzSW5mby5tYXAoKGVsZSkgPT4gewogICAgICBjb25zdCBhZGRyZXNzSXRlbSA9IG5ld0JvZHkuZmluZCgKICAgICAgICAoaXRlbSkgPT4gaXRlbS50aGlyZE9yZGVyTm8gPT09IGVsZS5hZGRyZXNzSWQKICAgICAgKTsKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5lbGUsCiAgICAgICAgcmVjb3JkSWQ6IGFkZHJlc3NJdGVtLnJlY29yZElkLAogICAgICAgIHNwQW1vdW50OiBhZGRyZXNzSXRlbS5hbW91bnQsCiAgICAgIH07CiAgICB9KTsKICAgIGNvbnN0IHJlczIgPSBhd2FpdCBjb2xDc09yZGVyLmRvYyhfaWQpLnVwZGF0ZSh7CiAgICAgIGFkZHJlc3NJbmZvOiBhZGRyZXNzSW5mb05ldywKICAgIH0pOwogICAgdW5pQ2xvdWQubG9nZ2VyLmxvZygisKLA77v1sta72LX3LLLp0a+2qbWlLbP2ss4iLCByZXMyKTsKICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUgfTs=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>regtime</text>
+        <text>onLoad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Vwb25UeXBlOiB0aGlzLiRyb3V0ZS5wYXJhbXMudHlwZSwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5ld0JvZHkgPSBKU09OLnBhcnNlKGRlY29kZVVSSUNvbXBvbmVudChib2R5KS5zcGxpdCgiPSIpWzFdIHx8IFtdKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmxpc3REYXRhKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">dW5pQ2xvdWQubG9nZ2VyLmxvZygisKLA77v1sta72LX3Lcjrss4iLCBib2R5KTsKICAgIGNvbnN0IG5ld0JvZHkgPSBKU09OLnBhcnNlKGRlY29kZVVSSUNvbXBvbmVudChib2R5KS5zcGxpdCgiPSIpWzFdIHx8IFtdKTsKICAgIGlmICghQXJyYXkuaXNBcnJheShuZXdCb2R5KSB8fCBuZXdCb2R5Lmxlbmd0aCA8IDEpIHsKICAgICAgcmV0dXJuIHsgc3VjY2VzczogZmFsc2UgfTsKICAgIH0KICAgIGNvbnN0IHJlcyA9IGF3YWl0IGNvbENzT3JkZXIKICAgICAgLndoZXJlKHsKICAgICAgICBiYXRjaE5vOiBuZXdCb2R5WzBdLmJhdGNoTm8sCiAgICAgIH0pCiAgICAgIC5maWVsZCh7IGFkZHJlc3NJbmZvOiB0cnVlIH0pCiAgICAgIC5nZXQoKTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrCiwO+79bLWu9i19yyy6dGvtqm1pS2z9rLOIiwgcmVzKTsKICAgIGlmIChyZXMuZGF0YS5sZW5ndGggPCAxKSB7CiAgICAgIHJldHVybiB7IHN1Y2Nlc3M6IGZhbHNlIH07CiAgICB9CiAgICBjb25zdCB7IF9pZCwgYWRkcmVzc0luZm8gfSA9IHJlcy5kYXRhWzBdOwogICAgY29uc3QgYWRkcmVzc0luZm9OZXcgPSBhZGRyZXNzSW5mby5tYXAoKGVsZSkgPT4gewogICAgICBjb25zdCBhZGRyZXNzSXRlbSA9IG5ld0JvZHkuZmluZCgKICAgICAgICAoaXRlbSkgPT4gaXRlbS50aGlyZE9yZGVyTm8gPT09IGVsZS5hZGRyZXNzSWQKICAgICAgKTsKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5lbGUsCiAgICAgICAgcmVjb3JkSWQ6IGFkZHJlc3NJdGVtLnJlY29yZElkLAogICAgICAgIHNwQW1vdW50OiBhZGRyZXNzSXRlbS5hbW91bnQsCiAgICAgIH07CiAgICB9KTsKICAgIGNvbnN0IHJlczIgPSBhd2FpdCBjb2xDc09yZGVyLmRvYyhfaWQpLnVwZGF0ZSh7CiAgICAgIGFkZHJlc3NJbmZvOiBhZGRyZXNzSW5mb05ldywKICAgIH0pOwogICAgdW5pQ2xvdWQubG9nZ2VyLmxvZygisKLA77v1sta72LX3LLLp0a+2qbWlLbP2ss4iLCByZXMyKTsKICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUgfTs=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMTIzLCBhcGlDb3Vwb25Vc2VyRGF0YSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">YXN5bmMgKGRhdGEpID0+IHsKCn0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bWFpbi5leHBvcnRzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMxMjMxMjMsIGFwaUNvdXBvblVzZXJEYXRhKTsK</text>
+        <text encoding="base64">ICBjb25zdCBuZXdCb2R5ID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMTIzLCBhcGlDb3Vwb25Vc2VyRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmxpc3REYXRhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMxMjMxMjMpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMTIzLCBhcGlDb3Vwb25Vc2VyRGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTExLCBhcGlDb3Vwb25Vc2VyRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMxMjMxMjMsIGFwaUNvdXBvblVzZXJEYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnQgJiYgKGRvY3VtZW50LmJvZHkuc2Nyb2xsVG9wID0gZG9jdW1lbnQuYm9keS5zY3JvbGxIZWlnaHQpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMTIzLCBhcGlDb3Vwb25Vc2VyRGF0YSk7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>regtime</last-search>
+      <last-search>onLoad</last-search>
       <last-offset />
-      <last-pattern>regtime</last-pattern>
+      <last-pattern>onLoad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
