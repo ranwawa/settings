@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>nav</entry>
         <entry>fill</entry>
         <entry>Pull</entry>
         <entry>用户数据</entry>
@@ -25,6 +24,7 @@
         <entry>码库</entry>
         <entry>核销</entry>
         <entry>clear</entry>
+        <entry>regtime</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -129,16 +129,8 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/pages/coupon/index.vue" timestamp="1599806192641">
-        <mark key="'" line="23" column="10" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="C:/project/jxg-ops/.env.int2" timestamp="1599806622810" />
-      <file name="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" timestamp="1599967130655">
-        <mark key="'" line="116" column="10" />
-      </file>
+      <file name="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" timestamp="1600047540165" />
       <file name="C:/project/jxg-ops/package.json" timestamp="1599807549841" />
       <file name="C:/project/jxg-ops/src/views/operation/coupon/index.vue" timestamp="1599816193172">
         <mark key="[" line="1" column="37" />
@@ -147,21 +139,24 @@
         <mark key="." line="1" column="49" />
       </file>
       <file name="C:/project/supplier-ops/src/main.js" timestamp="1599809567983" />
-      <file name="/Dummy.txt" timestamp="1599824743865">
+      <file name="/Dummy.txt" timestamp="1600047599860">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
+      <file name="C:/project/jxg-wxapp/src/live/pages/liveroom.vue" timestamp="1599967298816">
+        <mark key="'" line="581" column="59" />
+      </file>
+      <file name="/baseUser.ts" timestamp="1600047486792" />
       <file name="C:/project/jxg-ops/src/config/env.js" timestamp="1599809249174" />
       <file name="C:/project/supplier-ops/package.json" timestamp="1599806497063" />
-      <file name="C:/project/jxg-ops/src/views/components/linkExport.vue" timestamp="1599805123614" />
       <file name="C:/project/jxg-ops/src/views/operation/coupon/codeLibrary.vue" timestamp="1599819671518" />
-      <file name="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" timestamp="1599813184600">
-        <mark key="'" line="173" column="2" />
-        <mark key="[" line="414" column="5" />
-        <mark key="]" line="414" column="10" />
-        <mark key="." line="414" column="9" />
-        <mark key="^" line="414" column="10" />
+      <file name="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" timestamp="1600047663095">
+        <mark key="'" line="190" column="33" />
+        <mark key="[" line="75" column="12" />
+        <mark key="]" line="75" column="16" />
+        <mark key="." line="75" column="15" />
+        <mark key="^" line="75" column="16" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/coupon/user-data.vue" timestamp="1599819189436">
         <mark key="'" line="121" column="16" />
@@ -172,11 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="6" filename="C:/project/jxg-wxapp/src/api/goods.ts" />
-      <jump line="70" column="6" filename="C:/project/jxg-wxapp/src/api/goods.ts" />
-      <jump line="79" column="6" filename="C:/project/jxg-wxapp/src/api/goods.ts" />
-      <jump line="40" column="6" filename="C:/project/jxg-wxapp/src/api/goods.ts" />
-      <jump line="49" column="6" filename="C:/project/jxg-wxapp/src/api/goods.ts" />
       <jump line="124" column="0" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
       <jump line="588" column="16" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="727" column="21" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
@@ -272,6 +262,11 @@
       <jump line="87" column="15" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
       <jump line="88" column="10" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
       <jump line="116" column="10" filename="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" />
+      <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/live/pages/liveroom.vue" />
+      <jump line="579" column="57" filename="C:/project/jxg-wxapp/src/live/pages/liveroom.vue" />
+      <jump line="580" column="61" filename="C:/project/jxg-wxapp/src/live/pages/liveroom.vue" />
+      <jump line="581" column="59" filename="C:/project/jxg-wxapp/src/live/pages/liveroom.vue" />
+      <jump line="190" column="33" filename="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -283,7 +278,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>clear</text>
+        <text>regtime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb3Vwb25UeXBlOiB0aGlzLiRyb3V0ZS5wYXJhbXMudHlwZSwK</text>
@@ -319,9 +314,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>clear</last-search>
+      <last-search>regtime</last-search>
       <last-offset />
-      <last-pattern>clear</last-pattern>
+      <last-pattern>regtime</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
