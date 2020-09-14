@@ -129,12 +129,18 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/index.js" timestamp="1600072586308">
-        <mark key="'" line="58" column="4" />
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="19" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/callFunc.js" timestamp="1600079536182">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="30" />
+      </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/index.js" timestamp="1600079636080">
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="60" column="10" />
+        <mark key="]" line="61" column="11" />
+        <mark key="^" line="61" column="11" />
+        <mark key="." line="61" column="10" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/index.js" timestamp="1600076863663">
         <mark key="[" line="14" column="29" />
@@ -148,11 +154,12 @@
       <file name="C:/project/supplier-ops/src/router/views/system.js" timestamp="1600068592095">
         <mark key="'" line="14" column="27" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/callback-map.js" timestamp="1600077655714">
-        <mark key="'" line="8" column="38" />
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/callback-map.js" timestamp="1600079728552">
+        <mark key="'" line="16" column="22" />
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/index.js" timestamp="1600071607156">
         <mark key="[" line="6" column="0" />
@@ -192,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
       <jump line="71" column="21" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
       <jump line="452" column="44" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
       <jump line="461" column="21" filename="C:/project/jxg-ops/src/views/operation/coupon/list.vue" />
@@ -292,6 +298,7 @@
       <jump line="14" column="27" filename="C:/project/supplier-ops/src/router/views/system.js" />
       <jump line="15" column="13" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/index.js" />
       <jump line="8" column="38" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/callback-map.js" />
+      <jump line="15" column="22" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/callback-map.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,36 +316,36 @@
         <text encoding="base64">YXdhaXQgaW5zdGFuY2VbZnVuY05hbWVdKGRhdGEsIEFQUElELCBldmVudCwgY29udGV4dCk7IA==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRhdGE6IHsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB1bmkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgfSwK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>{
         batchNo:</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgdW5pSWRUb2tlbjogdGhpcy4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">LyoqCiAqIEBmaWxlILrztsvP4LnYvdO/2gogKiBAdmVyc2lvbiAwLjAuMQogKiBAYXV0aG9yIMi9zd7N3iA8Mjc0NTQ0MzM4QHFxLmNvbT4KICogQHNpbmNlIDIwMjAvOS8xNCAxMTo1NQogKi8=</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text>const CustomerOrder = require('./customer-order');
 const fileMap = {
   'customer-order': CustomerOrder,
 };
 const NOT_FOUND = { code: 404, msg: '未找到访问的接口' };</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBpbnN0YW5jZS5jaGVja1Rva2VuICYmIGF3YWl0IGluc3RhbmNlLmNoZWNrVG9rZW4oKTsKICBjb25zb2xlLmxvZyhldmVudCwgY29udGV4dCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTExMTExMTExMTExMTExMTExKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY2FsbEJhY2tNYXAgPSByZXF1aXJlKCcuL2NhbGxiYWNrLW1hcCcpOwo=</text>
       </register>
     </registers>
   </component>
