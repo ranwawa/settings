@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>fill</entry>
         <entry>Pull</entry>
         <entry>用户数据</entry>
         <entry>userData</entry>
@@ -25,6 +24,7 @@
         <entry>clear</entry>
         <entry>regtime</entry>
         <entry>onLoad</entry>
+        <entry>注册</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,9 +121,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/supplier-ops/src/config/env.js" timestamp="1599811253289">
-        <mark key="'" line="56" column="43" />
-      </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/api-express/index.js" timestamp="1600050180363">
         <mark key="[" line="57" column="4" />
         <mark key="]" line="57" column="4" />
@@ -134,12 +131,7 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/pages/coupon/index.vue" timestamp="1600047916878">
-        <mark key="'" line="159" column="25" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
+      <file name="C:/project/jxg-wxapp/src/pages/coupon/index.vue" timestamp="1600047916878" />
       <file name="C:/project/jxg-wxapp/src/assets/js/baseUser.ts" timestamp="1600047540165" />
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/index.js" timestamp="1600049987821">
         <mark key="[" line="11" column="0" />
@@ -158,7 +150,6 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="C:/project/supplier-ops/src/main.js" timestamp="1599809567983" />
       <file name="/Dummy.txt" timestamp="1600047665189">
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -166,7 +157,17 @@
       <file name="C:/project/jxg-wxapp/src/live/pages/liveroom.vue" timestamp="1599967298816">
         <mark key="'" line="581" column="59" />
       </file>
+      <file name="C:/project/jxg-ops/src/page/forgetPass/index.vue" timestamp="1600051959212">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+      </file>
       <file name="/baseUser.ts" timestamp="1600047486792" />
+      <file name="C:/project/jxg-ops/src/page/register/index.vue" timestamp="1600052014674">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+      </file>
       <file name="C:/project/jxg-ops/src/views/operation/coupon/codeLibrary.vue" timestamp="1599819671518" />
       <file name="C:/project/jxg-wxapp/src/pages/user/bindPhone.vue" timestamp="1600047663095">
         <mark key="'" line="190" column="33" />
@@ -174,6 +175,13 @@
         <mark key="]" line="75" column="16" />
         <mark key="." line="75" column="15" />
         <mark key="^" line="75" column="16" />
+      </file>
+      <file name="C:/project/jxg-ops/src/page/login/userlogin.vue" timestamp="1600052135092" />
+      <file name="C:/project/jxg-ops/src/page/login/index.vue" timestamp="1600052150530">
+        <mark key="'" line="42" column="20" />
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
       </file>
       <file name="C:/project/jxg-ops/src/views/operation/coupon/user-data.vue" timestamp="1599819189436">
         <mark key="'" line="121" column="16" />
@@ -184,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1110" column="30" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="206" column="0" filename="C:/project/jxg-h5/src/views/goodsList/goodsDetail.vue" />
       <jump line="939" column="13" filename="C:/project/jxg-h5/src/views/goodsList/goodsDetail.vue" />
       <jump line="522" column="2" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
@@ -284,56 +291,57 @@
       <jump line="101" column="71" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
       <jump line="21" column="2" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
       <jump line="159" column="25" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
+      <jump line="46" column="20" filename="C:/project/jxg-ops/src/page/login/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dW5pQ2xvdWQubG9nZ2VyLmxvZygisKLA77v1sta72LX3Lcjrss4iLCBib2R5KTsKICAgIGNvbnN0IG5ld0JvZHkgPSBKU09OLnBhcnNlKGRlY29kZVVSSUNvbXBvbmVudChib2R5KS5zcGxpdCgiPSIpWzFdIHx8IFtdKTsKICAgIGlmICghQXJyYXkuaXNBcnJheShuZXdCb2R5KSB8fCBuZXdCb2R5Lmxlbmd0aCA8IDEpIHsKICAgICAgcmV0dXJuIHsgc3VjY2VzczogZmFsc2UgfTsKICAgIH0KICAgIGNvbnN0IHJlcyA9IGF3YWl0IGNvbENzT3JkZXIKICAgICAgLndoZXJlKHsKICAgICAgICBiYXRjaE5vOiBuZXdCb2R5WzBdLmJhdGNoTm8sCiAgICAgIH0pCiAgICAgIC5maWVsZCh7IGFkZHJlc3NJbmZvOiB0cnVlIH0pCiAgICAgIC5nZXQoKTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrCiwO+79bLWu9i19yyy6dGvtqm1pS2z9rLOIiwgcmVzKTsKICAgIGlmIChyZXMuZGF0YS5sZW5ndGggPCAxKSB7CiAgICAgIHJldHVybiB7IHN1Y2Nlc3M6IGZhbHNlIH07CiAgICB9CiAgICBjb25zdCB7IF9pZCwgYWRkcmVzc0luZm8gfSA9IHJlcy5kYXRhWzBdOwogICAgY29uc3QgYWRkcmVzc0luZm9OZXcgPSBhZGRyZXNzSW5mby5tYXAoKGVsZSkgPT4gewogICAgICBjb25zdCBhZGRyZXNzSXRlbSA9IG5ld0JvZHkuZmluZCgKICAgICAgICAoaXRlbSkgPT4gaXRlbS50aGlyZE9yZGVyTm8gPT09IGVsZS5hZGRyZXNzSWQKICAgICAgKTsKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5lbGUsCiAgICAgICAgcmVjb3JkSWQ6IGFkZHJlc3NJdGVtLnJlY29yZElkLAogICAgICAgIHNwQW1vdW50OiBhZGRyZXNzSXRlbS5hbW91bnQsCiAgICAgIH07CiAgICB9KTsKICAgIGNvbnN0IHJlczIgPSBhd2FpdCBjb2xDc09yZGVyLmRvYyhfaWQpLnVwZGF0ZSh7CiAgICAgIGFkZHJlc3NJbmZvOiBhZGRyZXNzSW5mb05ldywKICAgIH0pOwogICAgdW5pQ2xvdWQubG9nZ2VyLmxvZygisKLA77v1sta72LX3LLLp0a+2qbWlLbP2ss4iLCByZXMyKTsKICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUgfTs=</text>
+        <text>到</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>到</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>注册</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG5ld0JvZHkgPSBKU09OLnBhcnNlKGRlY29kZVVSSUNvbXBvbmVudChib2R5KS5zcGxpdCgiPSIpWzFdIHx8IFtdKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dW5pQ2xvdWQubG9nZ2VyLmxvZygisKLA77v1sta72LX3Lcjrss4iLCBib2R5KTsKICAgIGNvbnN0IG5ld0JvZHkgPSBKU09OLnBhcnNlKGRlY29kZVVSSUNvbXBvbmVudChib2R5KS5zcGxpdCgiPSIpWzFdIHx8IFtdKTsKICAgIGlmICghQXJyYXkuaXNBcnJheShuZXdCb2R5KSB8fCBuZXdCb2R5Lmxlbmd0aCA8IDEpIHsKICAgICAgcmV0dXJuIHsgc3VjY2VzczogZmFsc2UgfTsKICAgIH0KICAgIGNvbnN0IHJlcyA9IGF3YWl0IGNvbENzT3JkZXIKICAgICAgLndoZXJlKHsKICAgICAgICBiYXRjaE5vOiBuZXdCb2R5WzBdLmJhdGNoTm8sCiAgICAgIH0pCiAgICAgIC5maWVsZCh7IGFkZHJlc3NJbmZvOiB0cnVlIH0pCiAgICAgIC5nZXQoKTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrCiwO+79bLWu9i19yyy6dGvtqm1pS2z9rLOIiwgcmVzKTsKICAgIGlmIChyZXMuZGF0YS5sZW5ndGggPCAxKSB7CiAgICAgIHJldHVybiB7IHN1Y2Nlc3M6IGZhbHNlIH07CiAgICB9CiAgICBjb25zdCB7IF9pZCwgYWRkcmVzc0luZm8gfSA9IHJlcy5kYXRhWzBdOwogICAgY29uc3QgYWRkcmVzc0luZm9OZXcgPSBhZGRyZXNzSW5mby5tYXAoKGVsZSkgPT4gewogICAgICBjb25zdCBhZGRyZXNzSXRlbSA9IG5ld0JvZHkuZmluZCgKICAgICAgICAoaXRlbSkgPT4gaXRlbS50aGlyZE9yZGVyTm8gPT09IGVsZS5hZGRyZXNzSWQKICAgICAgKTsKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5lbGUsCiAgICAgICAgcmVjb3JkSWQ6IGFkZHJlc3NJdGVtLnJlY29yZElkLAogICAgICAgIHNwQW1vdW50OiBhZGRyZXNzSXRlbS5hbW91bnQsCiAgICAgIH07CiAgICB9KTsKICAgIGNvbnN0IHJlczIgPSBhd2FpdCBjb2xDc09yZGVyLmRvYyhfaWQpLnVwZGF0ZSh7CiAgICAgIGFkZHJlc3NJbmZvOiBhZGRyZXNzSW5mb05ldywKICAgIH0pOwogICAgdW5pQ2xvdWQubG9nZ2VyLmxvZygisKLA77v1sta72LX3LLLp0a+2qbWlLbP2ss4iLCByZXMyKTsKICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUgfTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZW1wbGF0ZSB2LWVsc2U+uvPMqLncwO3Ptc2zPC90ZW1wbGF0ZT4K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">YXN5bmMgKGRhdGEpID0+IHsKCn0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGVtcGxhdGU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWFpbi5leHBvcnRzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PsTjusOjoTwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBuZXdCb2R5ID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZW1wbGF0ZSB2LWlmPSIhaXNBZG1pbiI+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmxpc3REYXRhKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">dW5pQ2xvdWQubG9nZ2VyLmxvZygisKLA77v1sta72LX3Lcjrss4iLCBib2R5KTsKICAgIGNvbnN0IG5ld0JvZHkgPSBKU09OLnBhcnNlKGRlY29kZVVSSUNvbXBvbmVudChib2R5KS5zcGxpdCgiPSIpWzFdIHx8IFtdKTsKICAgIGlmICghQXJyYXkuaXNBcnJheShuZXdCb2R5KSB8fCBuZXdCb2R5Lmxlbmd0aCA8IDEpIHsKICAgICAgcmV0dXJuIHsgc3VjY2VzczogZmFsc2UgfTsKICAgIH0KICAgIGNvbnN0IHJlcyA9IGF3YWl0IGNvbENzT3JkZXIKICAgICAgLndoZXJlKHsKICAgICAgICBiYXRjaE5vOiBuZXdCb2R5WzBdLmJhdGNoTm8sCiAgICAgIH0pCiAgICAgIC5maWVsZCh7IGFkZHJlc3NJbmZvOiB0cnVlIH0pCiAgICAgIC5nZXQoKTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrCiwO+79bLWu9i19yyy6dGvtqm1pS2z9rLOIiwgcmVzKTsKICAgIGlmIChyZXMuZGF0YS5sZW5ndGggPCAxKSB7CiAgICAgIHJldHVybiB7IHN1Y2Nlc3M6IGZhbHNlIH07CiAgICB9CiAgICBjb25zdCB7IF9pZCwgYWRkcmVzc0luZm8gfSA9IHJlcy5kYXRhWzBdOwogICAgY29uc3QgYWRkcmVzc0luZm9OZXcgPSBhZGRyZXNzSW5mby5tYXAoKGVsZSkgPT4gewogICAgICBjb25zdCBhZGRyZXNzSXRlbSA9IG5ld0JvZHkuZmluZCgKICAgICAgICAoaXRlbSkgPT4gaXRlbS50aGlyZE9yZGVyTm8gPT09IGVsZS5hZGRyZXNzSWQKICAgICAgKTsKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5lbGUsCiAgICAgICAgcmVjb3JkSWQ6IGFkZHJlc3NJdGVtLnJlY29yZElkLAogICAgICAgIHNwQW1vdW50OiBhZGRyZXNzSXRlbS5hbW91bnQsCiAgICAgIH07CiAgICB9KTsKICAgIGNvbnN0IHJlczIgPSBhd2FpdCBjb2xDc09yZGVyLmRvYyhfaWQpLnVwZGF0ZSh7CiAgICAgIGFkZHJlc3NJbmZvOiBhZGRyZXNzSW5mb05ldywKICAgIH0pOwogICAgdW5pQ2xvdWQubG9nZ2VyLmxvZygisKLA77v1sta72LX3LLLp0a+2qbWlLbP2ss4iLCByZXMyKTsKICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUgfTs=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMTIzLCBhcGlDb3Vwb25Vc2VyRGF0YSk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">YXN5bmMgKGRhdGEpID0+IHsKCn0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bWFpbi5leHBvcnRzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMjMxMjMxMjMsIGFwaUNvdXBvblVzZXJEYXRhKTsK</text>
+        <text encoding="base64">ICBjb25zdCBuZXdCb2R5ID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTIzMTIzMTIzLCBhcGlDb3Vwb25Vc2VyRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmxpc3REYXRhKTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>注册</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>注册</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
