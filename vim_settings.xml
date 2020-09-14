@@ -136,7 +136,7 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/index.js" timestamp="1600076018585">
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/index.js" timestamp="1600076863663">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
@@ -148,12 +148,11 @@
       <file name="C:/project/supplier-ops/src/router/views/system.js" timestamp="1600068592095">
         <mark key="'" line="14" column="27" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/callback-map.js" timestamp="1600074308301">
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/callback-map.js" timestamp="1600076878995">
         <mark key="'" line="8" column="38" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="52" column="13" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/index.js" timestamp="1600071607156">
         <mark key="[" line="6" column="0" />
@@ -183,6 +182,12 @@
         <mark key="]" line="33" column="4" />
         <mark key="^" line="33" column="4" />
         <mark key="." line="33" column="2" />
+      </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/customer-order.js" timestamp="1600076905386">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -291,10 +296,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Auth</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Auth</text>
       </register>
       <register name="/" type="4">
         <text>_id</text>
@@ -303,35 +308,35 @@
         <text encoding="base64">YXdhaXQgaW5zdGFuY2VbZnVuY05hbWVdKGRhdGEsIEFQUElELCBldmVudCwgY29udGV4dCk7IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdW5pSWRUb2tlbjogdGhpcy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIEBmaWxlILrztsvP4LnYvdO/2gogKiBAdmVyc2lvbiAwLjAuMQogKiBAYXV0aG9yIMi9zd7N3iA8Mjc0NTQ0MzM4QHFxLmNvbT4KICogQHNpbmNlIDIwMjAvOS8xNCAxMTo1NQogKi8=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">LyoqCiAqIEBmaWxlILrztsvP4LnYvdO/2gogKiBAdmVyc2lvbiAwLjAuMQogKiBAYXV0aG9yIMi9zd7N3iA8Mjc0NTQ0MzM4QHFxLmNvbT4KICogQHNpbmNlIDIwMjAvOS8xNCAxMTo1NQogKi8=</text>
+      </register>
+      <register name="4" type="2">
         <text>const CustomerOrder = require('./customer-order');
 const fileMap = {
   'customer-order': CustomerOrder,
 };
 const NOT_FOUND = { code: 404, msg: '未找到访问的接口' };</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBpbnN0YW5jZS5jaGVja1Rva2VuICYmIGF3YWl0IGluc3RhbmNlLmNoZWNrVG9rZW4oKTsKICBjb25zb2xlLmxvZyhldmVudCwgY29udGV4dCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coMTExMTExMTExMTExMTExMTExKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y29uc3QgY2FsbEJhY2tNYXAgPSByZXF1aXJlKCcuL2NhbGxiYWNrLW1hcCcpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICBhbGlIdW9DYW5nOiAK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">YXN5bmMgKGRhdGEpID0+IHsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coJ7CiwO+79bLWu9i19y3I67LOJywgZGF0YSk7CiAgICBpZiAoIWRhdGEpIHsKICAgICAgcmV0dXJuIHsgc3VjY2VzczogZmFsc2UgfTsKICAgIH0KICAgIGNvbnN0IG5ld0RhdGEgPSBkZWNvZGVVUklDb21wb25lbnQoZGF0YSkuc3BsaXQoJz0nKTsKICAgIGNvbnN0IG5ld0JvZHkgPSBKU09OLnBhcnNlKG5ld0RhdGFbMV0gfHwgJ1tdJyk7CiAgICBpZiAoIUFycmF5LmlzQXJyYXkobmV3Qm9keSkgfHwgbmV3Qm9keS5sZW5ndGggPCAxKSB7CiAgICAgIHJldHVybiB7IHN1Y2Nlc3M6IGZhbHNlIH07CiAgICB9CiAgICBjb25zdCByZXMgPSBhd2FpdCB1bmlDbG91ZC5jYWxsRnVuY3Rpb24oewogICAgICBuYW1lOiAnY29udHJvbGxlci1iYWNrZW5kJywKICAgICAgZGF0YTogewogICAgICAgIGFjdGlvbjogJ2JhY2tlbmQtb3JkZXIvZ2V0T3JkZXJBZGRyZXNzQnlCYXRjaENvZGUnLAogICAgICAgIGRhdGE6IHsKICAgICAgICAgIGJhdGNoTm86IG5ld0JvZHlbMF0uYmF0Y2hObywKICAgICAgICB9LAogICAgICB9LAogICAgfSk7CiAgICBpZiAoIXJlcy5kYXRhLl9pZCkgewogICAgICByZXR1cm4geyBzdWNjZXNzOiBmYWxzZSB9OwogICAgfQogICAgY29uc3QgeyBfaWQsIGFkZHJlc3NJbmZvIH0gPSByZXMuZGF0YTsKICAgIGNvbnN0IGFkZHJlc3NJbmZvTmV3ID0gYWRkcmVzc0luZm8ubWFwKChlbGUpID0+IHsKICAgICAgY29uc3QgYWRkcmVzc0l0ZW0gPSBuZXdCb2R5LmZpbmQoCiAgICAgICAgKGl0ZW0pID0+IGl0ZW0udGhpcmRPcmRlck5vID09PSBlbGUuYWRkcmVzc0lkLAogICAgICApOwogICAgICByZXR1cm4gewogICAgICAgIC4uLmVsZSwKICAgICAgICByZWNvcmRJZDogYWRkcmVzc0l0ZW0ucmVjb3JkSWQsCiAgICAgICAgc3BBbW91bnQ6IGFkZHJlc3NJdGVtLmFtb3VudCwKICAgICAgfTsKICAgIH0pOwogICAgY29uc3QgcmVzMiA9IGF3YWl0IHVuaUNsb3VkLmNhbGxGdW5jdGlvbih7CiAgICAgIG5hbWU6ICdjb250cm9sbGVyLWJhY2tlbmQnLAogICAgICBkYXRhOiB7CiAgICAgICAgYWN0aW9uOiAnYmFja2VuZC1vcmRlci91cGRhdGVPcmRlckFkZHJlc3NSZWNvcmRJZCcsCiAgICAgICAgZGF0YTogewogICAgICAgICAgYmF0Y2hObzogbmV3Qm9keVswXS5iYXRjaE5vLAogICAgICAgIH0sCiAgICAgIH0sCiAgICB9KTsKICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUgfTsKICB9LAogIA==</text>
       </register>
     </registers>
   </component>
