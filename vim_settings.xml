@@ -121,6 +121,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/index.js" timestamp="1600154529243" />
       <file name="C:/project/jxg-wxapp/src/assets/js/adapter.ts" timestamp="1600138707932">
         <mark key="'" line="156" column="32" />
       </file>
@@ -139,6 +140,12 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="18" />
       </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/db.js" timestamp="1600154642040">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="12" />
+      </file>
       <file name="C:/project/jxg-h5/src/router/index.ts" timestamp="1600150536028" />
       <file name="C:/project/kongbao/src/pages.json" timestamp="1600138265302">
         <mark key="[" line="136" column="39" />
@@ -151,11 +158,11 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="C:/project/kongbao/src/api/agent.ts" timestamp="1600153044182">
-        <mark key="[" line="28" column="13" />
-        <mark key="]" line="28" column="18" />
-        <mark key="^" line="28" column="18" />
-        <mark key="." line="28" column="17" />
+      <file name="C:/project/kongbao/src/api/agent.ts" timestamp="1600153637898">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/common.js" timestamp="1600134706157">
         <mark key="[" line="5" column="3" />
@@ -163,7 +170,7 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="C:/project/kongbao/src/api/fund.ts" timestamp="1600140776856" />
+      <file name="C:/project/kongbao/src/api/fund.ts" timestamp="1600153642555" />
       <file name="C:/project/jxg-h5/src/views/goodsList/goodsDetail.vue" timestamp="1600150545046">
         <mark key="'" line="328" column="23" />
       </file>
@@ -175,12 +182,11 @@
       </file>
       <file name="C:/project/kongbao/src/api/address.ts" timestamp="1600140681012" />
       <file name="C:/project/kongbao/src/api/request.ts" timestamp="1600140774016" />
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/callback-map.js" timestamp="1600082838481">
-        <mark key="'" line="15" column="22" />
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="32" />
-        <mark key="^" line="7" column="33" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/agent-info.js" timestamp="1600154604002">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" timestamp="1600152985748">
         <mark key="[" line="118" column="0" />
@@ -300,47 +306,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>common</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb2xTcEluZm9zLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>common</text>
+        <text>fund</text>
       </register>
       <register name="/" type="4">
         <text>created</text>
       </register>
-      <register name="0" type="4">
-        <text>if (money) {
-      uniWrapper.showToastText('请先输入金额');
-      return;
-    }</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgY29sQWdGdW5kID0gZGIuY29sbGVjdGlvbigia2ItYWctZnVuZCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICBjb2xTcEluZm9zLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMyAscmVzKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgc3JjLCB0eXBlID0gJ3BuZycsIG1vbmV5IH0gPSB0aGlzLm5ld1FyOwo=</text>
+        <text encoding="base64">Y29uc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgY29uc29sZS5sb2coZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMyAscmVzKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgc3JjLCB0eXBlID0gJ3BuZycsIG1vbmV5IH0gPSB0aGlzLm5ld1FyOwo=</text>
       </register>
     </registers>
   </component>
