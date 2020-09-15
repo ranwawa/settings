@@ -124,10 +124,10 @@
       <file name="C:/project/supplier-ops/src/router/views/docManage.js" timestamp="1600067307548">
         <mark key="'" line="22" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1600068601904">
+      <file name="/Dummy.txt" timestamp="1600083125422">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/callFunc.js" timestamp="1600079536182">
         <mark key="[" line="16" column="30" />
@@ -135,21 +135,10 @@
         <mark key="^" line="16" column="31" />
         <mark key="." line="16" column="30" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/index.js" timestamp="1600079636080">
-        <mark key="'" line="59" column="4" />
-        <mark key="[" line="60" column="10" />
-        <mark key="]" line="61" column="11" />
-        <mark key="^" line="61" column="11" />
-        <mark key="." line="61" column="10" />
-      </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/index.js" timestamp="1600076863663">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
-        <mark key="^" line="11" column="40" />
-      </file>
-      <file name="C:/project/supplier-ops/src/router/views/finance.js" timestamp="1600067305665">
-        <mark key="'" line="73" column="34" />
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
       </file>
       <file name="C:/project/supplier-ops/src/router/views/system.js" timestamp="1600068592095">
         <mark key="'" line="14" column="27" />
@@ -181,6 +170,12 @@
         <mark key="]" line="25" column="12" />
         <mark key="." line="25" column="12" />
       </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/test/index.js" timestamp="1600132607717">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="18" />
+      </file>
       <file name="C:/project/supplier-ops/src/router/views/dept.js" timestamp="1600067312623">
         <mark key="'" line="27" column="15" />
       </file>
@@ -190,12 +185,6 @@
         <mark key="]" line="33" column="4" />
         <mark key="^" line="33" column="4" />
         <mark key="." line="33" column="2" />
-      </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/customer-order.js" timestamp="1600082831782">
-        <mark key="[" line="28" column="47" />
-        <mark key="]" line="28" column="54" />
-        <mark key="." line="28" column="53" />
-        <mark key="^" line="28" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -304,7 +293,24 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>eoata</text>
+        <text>const { action = &quot;&quot;, data = {}, uniIdToken = &quot;&quot; } = event;
+  const { APPID } = context;
+  const [fileName, funcName] = action.split(&quot;/&quot;);
+  const fileClass = fileMap[fileName];
+  if (!fileName || !fileClass || !funcName) {
+    return NOT_FOUND;
+  }
+  const instance = new fileClass(APPID, uniIdToken);
+  if (!instance[funcName]) {
+    return NOT_FOUND;
+  }
+  if (instance.checkToken) {
+    const res = await instance.checkToken();
+    return res.code !== 0
+      ? res
+      : await instance[funcName](data, event, context);
+  }
+  return await instance[funcName](data, event, context);</text>
       </register>
       <register name="-" type="4">
         <text>eoata</text>
@@ -315,32 +321,49 @@
       <register name="0" type="2">
         <text encoding="base64">ICByZXR1cm4geyBzdWNjZXNzOiB0cnVlIH07Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>const { action = &quot;&quot;, data = {}, uniIdToken = &quot;&quot; } = event;
+  const { APPID } = context;
+  const [fileName, funcName] = action.split(&quot;/&quot;);
+  const fileClass = fileMap[fileName];
+  if (!fileName || !fileClass || !funcName) {
+    return NOT_FOUND;
+  }
+  const instance = new fileClass(APPID, uniIdToken);
+  if (!instance[funcName]) {
+    return NOT_FOUND;
+  }
+  if (instance.checkToken) {
+    const res = await instance.checkToken();
+    return res.code !== 0
+      ? res
+      : await instance[funcName](data, event, context);
+  }
+  return await instance[funcName](data, event, context);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmF0Y2hObzogbmV3Qm9keVswXS5iYXRjaE5vLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgYmF0Y2hObzogbmV3Qm9keVswXS5iYXRjaE5vLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGRhdGE6IHsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB1bmkK</text>
+        <text encoding="base64">ICAgIGRhdGE6IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICB1bmkK</text>
       </register>
     </registers>
   </component>
