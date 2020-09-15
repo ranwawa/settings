@@ -5,14 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>int</entry>
-        <entry>test</entry>
-        <entry>jxgint</entry>
-        <entry>userdata</entry>
-        <entry>user-data</entry>
-        <entry>码库</entry>
-        <entry>核销</entry>
-        <entry>clear</entry>
         <entry>regtime</entry>
         <entry>onLoad</entry>
         <entry>注册</entry>
@@ -25,6 +17,14 @@
         <entry>getUserInfo</entry>
         <entry>align</entry>
         <entry>created</entry>
+        <entry>money</entry>
+        <entry>button</entry>
+        <entry>push</entry>
+        <entry>isLoad</entry>
+        <entry>保存</entry>
+        <entry>console.log</entry>
+        <entry>console</entry>
+        <entry>field</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -139,6 +139,12 @@
       <file name="C:/project/kongbao/node_modules/uni-vant/lib/field.vue" timestamp="1600142486622">
         <mark key="'" line="608" column="13" />
       </file>
+      <file name="C:/project/kongbao/src/main.ts" timestamp="1600161402231">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="21" />
+        <mark key="^" line="21" column="22" />
+      </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/db.js" timestamp="1600154642040">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="13" />
@@ -156,68 +162,51 @@
         <mark key="^" line="136" column="44" />
         <mark key="." line="136" column="43" />
       </file>
-      <file name="C:/project/kongbao/src/api/agent.ts" timestamp="1600158348518">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="16" />
-        <mark key="^" line="18" column="16" />
-        <mark key="." line="18" column="15" />
-      </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/common.js" timestamp="1600134706157">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="7" column="9" />
-        <mark key="^" line="7" column="9" />
-        <mark key="." line="7" column="8" />
+      <file name="C:/project/kongbao/src/api/agent.ts" timestamp="1600161103917">
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="24" column="56" />
+        <mark key="^" line="24" column="56" />
+        <mark key="." line="24" column="55" />
       </file>
       <file name="C:/project/kongbao/src/api/fund.ts" timestamp="1600153642555" />
       <file name="C:/project/jxg-h5/src/views/goodsList/goodsDetail.vue" timestamp="1600150545046">
         <mark key="'" line="328" column="23" />
       </file>
-      <file name="C:/project/kongbao/src/api/common.ts" timestamp="1600158783186">
+      <file name="C:/project/kongbao/src/api/common.ts" timestamp="1600164542913">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="20" column="49" />
-        <mark key="." line="20" column="48" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
         <mark key="^" line="20" column="49" />
       </file>
       <file name="C:/project/kongbao/src/api/address.ts" timestamp="1600140681012" />
       <file name="C:/project/kongbao/src/api/request.ts" timestamp="1600140774016" />
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/agent-info.js" timestamp="1600157969333">
-        <mark key="[" line="22" column="57" />
-        <mark key="]" line="22" column="64" />
-        <mark key="." line="22" column="63" />
-        <mark key="^" line="22" column="64" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/agent-info.js" timestamp="1600164763782">
+        <mark key="[" line="46" column="14" />
+        <mark key="]" line="46" column="14" />
+        <mark key="." line="46" column="14" />
+        <mark key="^" line="55" column="64" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/index.js" timestamp="1600156168638">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" timestamp="1600158748243">
-        <mark key="'" line="133" column="21" />
-        <mark key="[" line="150" column="19" />
-        <mark key="]" line="150" column="20" />
-        <mark key="." line="150" column="19" />
-        <mark key="^" line="150" column="20" />
+      <file name="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" timestamp="1600165349080">
+        <mark key="'" line="62" column="6" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="22" column="6" />
       </file>
-      <file name="C:/project/kongbao/src/pages/index.d.ts" timestamp="1600158135619">
-        <mark key="[" line="25" column="13" />
-        <mark key="]" line="25" column="21" />
-        <mark key="." line="25" column="20" />
-        <mark key="^" line="25" column="21" />
+      <file name="C:/project/kongbao/src/pages/index.d.ts" timestamp="1600161318460">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="28" column="20" />
+        <mark key="." line="28" column="19" />
+        <mark key="^" line="28" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="31" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="17" column="14" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="249" column="32" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="250" column="83" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="259" column="83" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="268" column="83" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="214" column="23" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="221" column="75" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="223" column="38" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="831" column="0" filename="C:/project/jxg-ops/src/router/views/operation.js" />
-      <jump line="273" column="90" filename="C:/project/jxg-ops/src/router/views/operation.js" />
       <jump line="287" column="0" filename="C:/project/jxg-ops/src/views/operation/coupon/codeLibrary.vue" />
       <jump line="23" column="10" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
       <jump line="21" column="9" filename="C:/project/jxg-wxapp/package.json" />
@@ -307,60 +296,71 @@
       <jump line="18" column="46" filename="C:/project/kongbao/src/api/common.ts" />
       <jump line="28" column="0" filename="C:/project/kongbao/src/api/common.ts" />
       <jump line="133" column="21" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="154" column="13" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="5" column="2" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="241" column="17" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="85" column="22" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="68" column="12" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="165" column="11" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="173" column="9" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="107" column="2" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="158" column="22" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="13" column="0" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="26" column="6" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gaXRlbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>currentTab = item</text>
+        <text>JSON.parse(JSON.stringify(this.newQr))</text>
       </register>
       <register name="/" type="4">
-        <text>created</text>
+        <text>field</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHVuaUNsb3VkLmxvZ2dlci5pbmZvKCLQwtT2ytW/7rb+zqzC6y3I67LOIiwgb3B0aW9ucyk7Cg==</text>
+      <register name="0" type="4">
+        <text>JSON.parse(JSON.stringify(this.newQr)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gaXRlbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgICAgPCEtLSDM7bzT0MK1xMrVv+62/s6swusgLS0+CiAgICAgIDx2aWV3IGNsYXNzPSJxcl9faXRlbSBxcl9faXRlbS1hZGQiPgogICAgICAgIDxpbWFnZQogICAgICAgICAgdi1pZj0ibmV3UXIuc3JjIgogICAgICAgICAgOnNyYz0ibmV3UXIuc3JjIgogICAgICAgICAgbW9kZT0iYXNwZWN0RmlsbCIKICAgICAgICAgIGNsYXNzPSJxcl9faW1hZ2UiCiAgICAgICAgICBAY2xpY2s9ImFkZFFySW1nIgogICAgICAgIC8+CiAgICAgICAgPHZpZXcKICAgICAgICAgIHYtZWxzZQogICAgICAgICAgY2xhc3M9InFyX19pbWFnZSBxcl9faW1hZ2UtZW1wdHkiCiAgICAgICAgICBAY2xpY2s9ImFkZFFySW1nIgogICAgICAgIC8+CiAgICAgICAgPHZpZXcgY2xhc3M9InFyX19pbnB1dCI+CiAgICAgICAgICA8dXYtZmllbGQKICAgICAgICAgICAgdi1tb2RlbD0ibmV3UXIubW9uZXkiCiAgICAgICAgICAgIDpib3JkZXI9ImZhbHNlIgogICAgICAgICAgICA6ZGlzYWJsZWQ9ImlzTG9hZGluZ05ld1FyIgogICAgICAgICAgICBwbGFjZWhvbGRlcj0ix+vK5MjrvfC27iIKICAgICAgICAgICAgdHlwZT0ibnVtYmVyIgogICAgICAgICAgICBhbGlnbj0iY2VudGVyIgogICAgICAgICAgICBjbGVhcmFibGUKICAgICAgICAgIC8+CiAgICAgICAgICA8dXYtYnV0dG9uCiAgICAgICAgICAgIDpkaXNhYmxlZD0iaXNMb2FkaW5nTmV3UXIiCiAgICAgICAgICAgIDpsb2FkaW5nPSJpc0xvYWRpbmdOZXdRciIKICAgICAgICAgICAgc2l6ZT0ibWluaSIKICAgICAgICAgICAgdHlwZT0iaW5mbyIKICAgICAgICAgICAgcm91bmQKICAgICAgICAgICAgQGNsaWNrPSJhZGRRciIKICAgICAgICAgID4KICAgICAgICAgICAgsaO05gogICAgICAgICAgPC91di1idXR0b24+CiAgICAgICAgPC92aWV3PgogICAgICA8L3ZpZXc+CiA=</text>
+      </register>
+      <register name="3" type="4">
         <text>{
+      ...this.newQr,
+      src: data.fileID,
+      money: moneyCent,
     }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmlsZU5hbWU6IGAke21vbmV5Q2VudH0uJHt0eXBlfWAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZmlsZVBhdGg6IHNyYywK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVuaUNsb3VkLmxvZ2dlci5pbmZvKCfQwtT2ytW/7rb+zqzC6y2z9rLOJywgcmVzKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYCR7ZGF0YS50YWJUeXBlfSR7ZGF0YS5tb25leX0ke2RhdGEuaW1nVHlwZX1gKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmKCkgewogICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuJHNldCh0aGlzLndlY2hhdE1hcCwgbW9uZXlDZW50LCBKU09OLnBhcnNlKEpTT04uc3RyaW5naWZ5KHRoaXMubmV3UXIpKSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICBtb25leTogMTIzLAogICAgICAgICAgc3JjOiBvcHRpb25zLnNyYywKICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud2VjaGF0TWFwKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-          money: options.money,
-          src: options.src,
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>created</last-search>
+      <last-search>field</last-search>
       <last-offset />
-      <last-pattern>created</last-pattern>
+      <last-pattern>field</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
