@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>regtime</entry>
-        <entry>onLoad</entry>
         <entry>注册</entry>
         <entry>callFun</entry>
         <entry>导出</entry>
@@ -25,6 +23,8 @@
         <entry>console.log</entry>
         <entry>console</entry>
         <entry>field</entry>
+        <entry>remove</entry>
+        <entry>revmoe</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -130,11 +130,11 @@
       <file name="C:/project/jxg-wxapp/src/assets/js/adapter.ts" timestamp="1600138707932">
         <mark key="'" line="156" column="32" />
       </file>
-      <file name="C:/project/kongbao/global.d.ts" timestamp="1600141278510">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="40" />
-        <mark key="." line="21" column="39" />
-        <mark key="^" line="21" column="40" />
+      <file name="C:/project/kongbao/global.d.ts" timestamp="1600166332207">
+        <mark key="[" line="166" column="33" />
+        <mark key="]" line="170" column="23" />
+        <mark key="." line="170" column="22" />
+        <mark key="^" line="170" column="23" />
       </file>
       <file name="C:/project/kongbao/node_modules/uni-vant/lib/field.vue" timestamp="1600142486622">
         <mark key="'" line="608" column="13" />
@@ -156,17 +156,12 @@
         <mark key="]" line="19" column="61" />
       </file>
       <file name="C:/project/jxg-h5/src/router/index.ts" timestamp="1600150536028" />
-      <file name="C:/project/kongbao/src/pages.json" timestamp="1600138265302">
-        <mark key="[" line="136" column="39" />
-        <mark key="]" line="136" column="44" />
-        <mark key="^" line="136" column="44" />
-        <mark key="." line="136" column="43" />
-      </file>
-      <file name="C:/project/kongbao/src/api/agent.ts" timestamp="1600161103917">
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="56" />
-        <mark key="^" line="24" column="56" />
-        <mark key="." line="24" column="55" />
+      <file name="C:/project/kongbao/src/api/agent.ts" timestamp="1600166818013">
+        <mark key="'" line="32" column="38" />
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="37" />
+        <mark key="." line="32" column="36" />
+        <mark key="^" line="32" column="37" />
       </file>
       <file name="C:/project/kongbao/src/api/fund.ts" timestamp="1600153642555" />
       <file name="C:/project/jxg-h5/src/views/goodsList/goodsDetail.vue" timestamp="1600150545046">
@@ -181,23 +176,24 @@
       </file>
       <file name="C:/project/kongbao/src/api/address.ts" timestamp="1600140681012" />
       <file name="C:/project/kongbao/src/api/request.ts" timestamp="1600140774016" />
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/agent-info.js" timestamp="1600164763782">
-        <mark key="[" line="46" column="14" />
-        <mark key="]" line="46" column="14" />
-        <mark key="." line="46" column="14" />
-        <mark key="^" line="55" column="64" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/agent-info.js" timestamp="1600166815002">
+        <mark key="'" line="70" column="49" />
+        <mark key="[" line="65" column="15" />
+        <mark key="]" line="65" column="22" />
+        <mark key="." line="65" column="21" />
+        <mark key="^" line="65" column="22" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/index.js" timestamp="1600156168638">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" timestamp="1600165349080">
+      <file name="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" timestamp="1600166961001">
         <mark key="'" line="62" column="6" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="22" column="6" />
+        <mark key="[" line="209" column="18" />
+        <mark key="]" line="209" column="23" />
+        <mark key="." line="209" column="22" />
+        <mark key="^" line="209" column="23" />
       </file>
       <file name="C:/project/kongbao/src/pages/index.d.ts" timestamp="1600161318460">
         <mark key="[" line="26" column="21" />
@@ -205,10 +201,14 @@
         <mark key="." line="28" column="19" />
         <mark key="^" line="28" column="20" />
       </file>
+      <file name="C:/project/kongbao/src/assets/js/uni-wrapper.ts" timestamp="1600167424360">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="43" />
+        <mark key="^" line="22" column="43" />
+        <mark key="." line="22" column="42" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="0" filename="C:/project/jxg-ops/src/views/operation/coupon/codeLibrary.vue" />
-      <jump line="23" column="10" filename="C:/project/jxg-wxapp/src/pages/coupon/index.vue" />
       <jump line="21" column="9" filename="C:/project/jxg-wxapp/package.json" />
       <jump line="19" column="5" filename="C:/project/jxg-wxapp/package.json" />
       <jump line="11" column="5" filename="C:/project/jxg-wxapp/package.json" />
@@ -307,60 +307,61 @@
       <jump line="158" column="22" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="13" column="0" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="26" column="6" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="70" column="49" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/agent-info.js" />
+      <jump line="32" column="38" filename="C:/project/kongbao/src/api/agent.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>any</text>
       </register>
       <register name="-" type="4">
-        <text>JSON.parse(JSON.stringify(this.newQr))</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
-        <text>field</text>
+        <text>revmoe</text>
       </register>
       <register name="0" type="4">
-        <text>JSON.parse(JSON.stringify(this.newQr)</text>
+        <text encoding="base64">IC8qKgogICAqILj5vt1hcHBJZLLp0a+0+sDtt9bVvtDFz6IKICAgKi8KICBhc3luYyBnZXRTaW5nbGVCeUFwcElkKGRhdGEgPSB7fSkgewogICAgcmV0dXJuIHJlcXVlc3RBZGRyZXNzLnN0YXJ0PG9iamVjdCwgYWRtaW4uSUFnZW50SW5mbz4oewogICAgICBkYXRhLAogICAgICBhY3Rpb246ICJhZ2VudC1pbmZvL2dldFNpbmdsZUJ5QXBwSWQiLAogICAgfSk7CiAgfQogIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBwID0gIFByb21pc2U8PjsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgPCEtLSDM7bzT0MK1xMrVv+62/s6swusgLS0+CiAgICAgIDx2aWV3IGNsYXNzPSJxcl9faXRlbSBxcl9faXRlbS1hZGQiPgogICAgICAgIDxpbWFnZQogICAgICAgICAgdi1pZj0ibmV3UXIuc3JjIgogICAgICAgICAgOnNyYz0ibmV3UXIuc3JjIgogICAgICAgICAgbW9kZT0iYXNwZWN0RmlsbCIKICAgICAgICAgIGNsYXNzPSJxcl9faW1hZ2UiCiAgICAgICAgICBAY2xpY2s9ImFkZFFySW1nIgogICAgICAgIC8+CiAgICAgICAgPHZpZXcKICAgICAgICAgIHYtZWxzZQogICAgICAgICAgY2xhc3M9InFyX19pbWFnZSBxcl9faW1hZ2UtZW1wdHkiCiAgICAgICAgICBAY2xpY2s9ImFkZFFySW1nIgogICAgICAgIC8+CiAgICAgICAgPHZpZXcgY2xhc3M9InFyX19pbnB1dCI+CiAgICAgICAgICA8dXYtZmllbGQKICAgICAgICAgICAgdi1tb2RlbD0ibmV3UXIubW9uZXkiCiAgICAgICAgICAgIDpib3JkZXI9ImZhbHNlIgogICAgICAgICAgICA6ZGlzYWJsZWQ9ImlzTG9hZGluZ05ld1FyIgogICAgICAgICAgICBwbGFjZWhvbGRlcj0ix+vK5MjrvfC27iIKICAgICAgICAgICAgdHlwZT0ibnVtYmVyIgogICAgICAgICAgICBhbGlnbj0iY2VudGVyIgogICAgICAgICAgICBjbGVhcmFibGUKICAgICAgICAgIC8+CiAgICAgICAgICA8dXYtYnV0dG9uCiAgICAgICAgICAgIDpkaXNhYmxlZD0iaXNMb2FkaW5nTmV3UXIiCiAgICAgICAgICAgIDpsb2FkaW5nPSJpc0xvYWRpbmdOZXdRciIKICAgICAgICAgICAgc2l6ZT0ibWluaSIKICAgICAgICAgICAgdHlwZT0iaW5mbyIKICAgICAgICAgICAgcm91bmQKICAgICAgICAgICAgQGNsaWNrPSJhZGRRciIKICAgICAgICAgID4KICAgICAgICAgICAgsaO05gogICAgICAgICAgPC91di1idXR0b24+CiAgICAgICAgPC92aWV3PgogICAgICA8L3ZpZXc+CiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0eXBlIHAgIFByb21pc2U8W2FueSwgeyBjYW5jZWw6IGJvb2xlYW4sIGNvbmZpcm06IGJvb2xlYW4sIGVyck1zZzogc3RyaW5nfSB8IG51bGxdPjsK</text>
       </register>
       <register name="3" type="4">
         <text>{
-      ...this.newQr,
-      src: data.fileID,
-      money: moneyCent,
-    }</text>
+      cancel: false,
+      confirm: false,
+    };</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmKHJlcy5jb25mKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYCR7ZGF0YS50YWJUeXBlfSR7ZGF0YS5tb25leX0ke2RhdGEuaW1nVHlwZX1gKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuJHNldCh0aGlzLndlY2hhdE1hcCwgbW9uZXlDZW50LCBKU09OLnBhcnNlKEpTT04uc3RyaW5naWZ5KHRoaXMubmV3UXIpKSk7Cg==</text>
+        <text encoding="base64">ICBhc3luYyByZW1vdmVRcigpIHsKICAgIAogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud2VjaGF0TWFwKTsK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gaXRlbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycjIsIGRhdGEyKTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>field</last-search>
+      <last-search>revmoe</last-search>
       <last-offset />
-      <last-pattern>field</last-pattern>
+      <last-pattern>revmoe</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
