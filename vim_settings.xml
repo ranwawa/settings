@@ -131,11 +131,6 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="6" />
       </file>
-      <file name="C:/project/kongbao/src/api/fund.ts" timestamp="1600307227009">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-      </file>
       <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600329148833">
         <mark key="'" line="763" column="6" />
         <mark key="[" line="704" column="24" />
@@ -143,11 +138,11 @@
         <mark key="^" line="705" column="20" />
         <mark key="." line="705" column="19" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" timestamp="1600312584522">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="96" column="54" />
-        <mark key="." line="97" column="0" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" timestamp="1600333344965">
+        <mark key="[" line="82" column="6" />
+        <mark key="]" line="82" column="6" />
+        <mark key="^" line="82" column="36" />
+        <mark key="." line="82" column="6" />
       </file>
       <file name="C:/project/kongbao/src/assets/constant/recharge.vue" timestamp="1600313717961">
         <mark key="[" line="27" column="26" />
@@ -155,18 +150,18 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="27" />
       </file>
-      <file name="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" timestamp="1600331061156">
+      <file name="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" timestamp="1600332643492">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="^" line="195" column="15" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/customer-fund-order.js" timestamp="1600322338966">
-        <mark key="[" line="49" column="15" />
-        <mark key="]" line="49" column="15" />
-        <mark key="." line="49" column="15" />
-        <mark key="^" line="49" column="32" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/customer-fund-order.js" timestamp="1600333737972">
+        <mark key="[" line="73" column="35" />
+        <mark key="]" line="73" column="35" />
+        <mark key="." line="73" column="35" />
+        <mark key="^" line="73" column="38" />
       </file>
       <file name="C:/project/kongbao/src/pages/fund/balance.vue" timestamp="1600321863263">
         <mark key="'" line="0" column="9" />
@@ -181,13 +176,19 @@
         <mark key="]" line="486" column="36" />
         <mark key="." line="486" column="22" />
       </file>
-      <file name="C:/project/kongbao/src/api/order.ts" timestamp="1600313568981">
-        <mark key="[" line="60" column="31" />
-        <mark key="]" line="60" column="45" />
-        <mark key="^" line="60" column="45" />
-        <mark key="." line="60" column="44" />
+      <file name="C:/project/kongbao/src/pages.json" timestamp="1600332736829">
+        <mark key="[" line="84" column="39" />
+        <mark key="]" line="84" column="43" />
+        <mark key="^" line="84" column="43" />
+        <mark key="." line="84" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1600329153720">
+      <file name="C:/project/kongbao/src/api/order.ts" timestamp="1600333225453">
+        <mark key="[" line="62" column="15" />
+        <mark key="]" line="62" column="34" />
+        <mark key="^" line="62" column="34" />
+        <mark key="." line="62" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1600332189858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -345,47 +346,52 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgdGhpcy5jb21wdXRlZFNob3dMb2dpc3RpY3NGZWU=</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgdGhpcy5jb21wdXRlZFNob3dMb2dpc3RpY3NGZWU=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>优惠</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlIHRoaXMud2VjaGF0TWFwW2l0ZW0ubW9uZXldOwo=</text>
+      <register name="0" type="4">
+        <text>{
+					&quot;path&quot;: &quot;balance&quot;,
+					&quot;style&quot;: {
+						&quot;navigationBarTitleText&quot;: &quot;余额充值&quot;
+					}
+				}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">LyoqCiAgICogyLfIz7Pk1rW2qbWlCiAgICovCiAgYXN5bmMgY29uZmlybUZ1bmRPcmRlcihvcHRpb25zKSB7CiAgICBjb25zdCB7IG1vbmV5LCBwYXlUeXBlIH0gPSBvcHRpb25zOwogICAgaWYgKAogICAgICAodHlwZW9mIG1vbmV5ICE9PSAnbnVtYmVyJyAmJiBtb25leSA8IDApIHx8CiAgICAgICh0eXBlb2YgcGF5VHlwZSAhPT0gJ251bWJlcicgJiYgcGF5VHlwZSA+IDIpCiAgICApIHsKICAgICAgcmV0dXJuIG5ldyB0aGlzLlJlc3BvbnNlTW9kYWwoNDAwLCB7fSwgJ7LOyv3T0M7zJyk7CiAgICB9CiAgICBjb25zdCBhZGRSZXMgPSBhd2FpdCB0aGlzLmFkZEZ1bmRPcmRlcihvcHRpb25zKTsKICAgIGlmICghYWRkUmVzLmlkKSB7CiAgICAgIHJldHVybiBuZXcgdGhpcy5SZXNwb25zZU1vZGFsKDUwMCwge30sICe0tL2otqm1pcqnsNwnKTsKICAgIH0KICAgIGNvbnN0IFtlcnIsIGRhdGFdID0gYXdhaXQgdGhpcy5wYXlzQXBpKHsKICAgICAgLi4ub3B0aW9ucywKICAgICAgb3JkZXJJZDogYWRkUmVzLmlkLAogICAgfSk7CiAgICBpZiAoZXJyKSB7CiAgICAgIHJldHVybiBuZXcgdGhpcy5SZXNwb25zZU1vZGFsKDUwMCwge30sIGVyci5tc2cpOwogICAgfQogIH0KICA=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBra2trCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgbW9uZXksIHBheVR5cGUgfSA9IG9wdGlvbnM7CiAgICBpZiAoCiAgICAgICh0eXBlb2YgbW9uZXkgIT09ICdudW1iZXInICYmIG1vbmV5IDwgMCkgfHwKICAgICAgKHR5cGVvZiBwYXlUeXBlICE9PSAnbnVtYmVyJyAmJiBwYXlUeXBlID4gMikKICAgICkgewogICAgICByZXR1cm4gbmV3IHRoaXMuUmVzcG9uc2VNb2RhbCg0MDAsIHt9LCAnss7K/dPQzvMnKTsKICAgIH0KICAgIGNvbnN0IGFkZFJlcyA9IGF3YWl0IHRoaXMuYWRkRnVuZE9yZGVyKG9wdGlvbnMpOwogICAgaWYgKCFhZGRSZXMuaWQpIHsKICAgICAgcmV0dXJuIG5ldyB0aGlzLlJlc3BvbnNlTW9kYWwoNTAwLCB7fSwgJ7S0vai2qbWlyqew3CcpOwogICAgfQogICAgY29uc3QgW2VyciwgZGF0YV0gPSBhd2FpdCB0aGlzLnBheXNBcGkoewogICAgICAuLi5vcHRpb25zLAogICAgICBvcmRlcklkOiBhZGRSZXMuaWQsCiAgICB9KTsKICAgIGlmIChlcnIpIHsKICAgICAgcmV0dXJuIG5ldyB0aGlzLlJlc3BvbnNlTW9kYWwoNTAwLCB7fSwgZXJyLm1zZyk7CiAgICB9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>tabType: payType;
     /**
      * 是否正在编辑该二维码的价格
      */
     isEditMoney?: boolean;</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGltZ1R5cGU6ICdwbmcnLAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRhYlR5cGU6IFBBWV9UWVBFLkFMSVBBWSwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgaW1nVHlwZTogc3RyaW5nOwogICAgdGFiVHlwZTogcGF5VHlwZTsKICAgIC8qKgogICAgICogyse38dX91Nqx4LytuMO2/s6swuu1xLzbuPEKICAgICAqLwogICAgaXNFZGl0TW9uZXk/OiBib29sZWFuOw==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLi4udGhpcy5uZXdRciwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGF5VHlwZTogdGhpcy5jdXJyZW50VGFiLnR5cGUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLi4udGhpcy5uZXdRciwK</text>
+        <text encoding="base64">IAo=</text>
       </register>
     </registers>
   </component>
