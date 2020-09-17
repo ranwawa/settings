@@ -13,11 +13,9 @@
         <entry>ts</entry>
         <entry>小计</entry>
         <entry>优惠券</entry>
-        <entry>优惠</entry>
         <entry>List =</entry>
         <entry>money</entry>
         <entry>sort</entry>
-        <entry>type</entry>
         <entry>tabType</entry>
         <entry>onLOAD</entry>
         <entry>onload</entry>
@@ -25,6 +23,8 @@
         <entry>请输入金额</entry>
         <entry>submit</entry>
         <entry>v-model</entry>
+        <entry>type</entry>
+        <entry>优惠</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -155,12 +155,12 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="27" />
       </file>
-      <file name="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" timestamp="1600330186342">
+      <file name="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" timestamp="1600331061156">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="193" column="19" />
-        <mark key="]" line="194" column="36" />
-        <mark key="." line="194" column="35" />
-        <mark key="^" line="194" column="36" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="195" column="15" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/customer-fund-order.js" timestamp="1600322338966">
         <mark key="[" line="49" column="15" />
@@ -174,6 +174,12 @@
         <mark key="]" line="92" column="36" />
         <mark key="." line="92" column="35" />
         <mark key="^" line="92" column="36" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600332075781">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="486" column="36" />
+        <mark key="]" line="486" column="36" />
+        <mark key="." line="486" column="22" />
       </file>
       <file name="C:/project/kongbao/src/api/order.ts" timestamp="1600313568981">
         <mark key="[" line="60" column="31" />
@@ -226,17 +232,14 @@
         <mark key="." line="200" column="25" />
         <mark key="^" line="200" column="26" />
       </file>
-      <file name="C:/project/kongbao/src/pages/index.d.ts" timestamp="1600325857352">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="21" />
+      <file name="C:/project/kongbao/src/pages/index.d.ts" timestamp="1600331578026">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="2" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
-      <jump line="241" column="17" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
-      <jump line="85" column="22" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="165" column="11" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="173" column="9" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="107" column="2" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
@@ -306,7 +309,6 @@
       <jump line="122" column="41" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="121" column="42" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="546" column="43" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="82" column="22" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="83" column="41" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="168" column="4" filename="C:/project/kongbao/src/pages/address/list.vue" />
@@ -334,56 +336,64 @@
       <jump line="762" column="6" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="174" column="4" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="0" column="0" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="290" column="28" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="413" column="19" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="348" column="21" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">ICsgdGhpcy5jb21wdXRlZFNob3dMb2dpc3RpY3NGZWU=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ICsgdGhpcy5jb21wdXRlZFNob3dMb2dpc3RpY3NGZWU=</text>
       </register>
       <register name="/" type="4">
-        <text>v-model</text>
+        <text>优惠</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGVsZXRlIHRoaXMud2VjaGF0TWFwW2l0ZW0ubW9uZXldOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLi4udGhpcy5uZXdRciwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGF5VHlwZTogdGhpcy5jdXJyZW50VGFiLnR5cGUK</text>
+      <register name="2" type="4">
+        <text>tabType: payType;
+    /**
+     * 是否正在编辑该二维码的价格
+     */
+    isEditMoney?: boolean;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLi4udGhpcy5uZXdRciwK</text>
+        <text encoding="base64">ICAgIGltZ1R5cGU6ICdwbmcnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhYlR5cGU6IFBBWV9UWVBFLkFMSVBBWSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmV3UXIgPSArbW9uZXkgKiAxMDA7Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgaW1nVHlwZTogc3RyaW5nOwogICAgdGFiVHlwZTogcGF5VHlwZTsKICAgIC8qKgogICAgICogyse38dX91Nqx4LytuMO2/s6swuu1xLzbuPEKICAgICAqLwogICAgaXNFZGl0TW9uZXk/OiBib29sZWFuOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmN1cnJlbnRUYWIudHlwZSA9PT0gUEFZX1RZUEUuV0VDSEFUKSB7CiAgICAgIGRlbGV0ZSB0aGlzLndlY2hhdE1hcFtpdGVtLm1vbmV5XTsKICAgIH0gZWxzZSB7CiAgICAgIGRlbGV0ZSB0aGlzLmFsaXBheU1hcFtpdGVtLm1vbmV5XTsKICAgIH0KICAgIGNvbnNvbGUubG9nKGVyciwgZGF0YSk7</text>
+        <text encoding="base64">ICAgICAgLi4udGhpcy5uZXdRciwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hbGlwYXlNYXBbbW9uZXlDZW50XSA9IHBhcmFtOwo=</text>
+        <text encoding="base64">ICAgICAgcGF5VHlwZTogdGhpcy5jdXJyZW50VGFiLnR5cGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSB0aGlzLgo=</text>
+        <text encoding="base64">ICAgICAgLi4udGhpcy5uZXdRciwK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>v-model</last-search>
+      <last-search>优惠</last-search>
       <last-offset />
-      <last-pattern>v-model</last-pattern>
+      <last-pattern>优惠</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
