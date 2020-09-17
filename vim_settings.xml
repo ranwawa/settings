@@ -5,12 +5,9 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>menu</entry>
-        <entry>active</entry>
         <entry>暂不</entry>
         <entry>notSend</entry>
         <entry>butx</entry>
-        <entry>onLoad</entry>
         <entry>请填写正确的</entry>
         <entry>_id</entry>
         <entry>callPay</entry>
@@ -25,6 +22,9 @@
         <entry>sort</entry>
         <entry>type</entry>
         <entry>tabType</entry>
+        <entry>onLOAD</entry>
+        <entry>onload</entry>
+        <entry>onLoad</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -122,13 +122,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/project/jxg-wxapp/src/config/gray.ts" timestamp="1600314469521" />
-      <file name="C:/project/kongbao/src/pages/address/list.vue" timestamp="1600307091970">
-        <mark key="'" line="168" column="4" />
-        <mark key="[" line="162" column="50" />
-        <mark key="]" line="162" column="59" />
-        <mark key="." line="162" column="58" />
-        <mark key="^" line="162" column="59" />
-      </file>
       <file name="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" timestamp="1600312459387">
         <mark key="'" line="167" column="64" />
       </file>
@@ -142,6 +135,13 @@
         <mark key="[" line="8" column="32" />
         <mark key="]" line="8" column="32" />
         <mark key="." line="8" column="32" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600329148833">
+        <mark key="'" line="763" column="6" />
+        <mark key="[" line="704" column="24" />
+        <mark key="]" line="705" column="20" />
+        <mark key="^" line="705" column="20" />
+        <mark key="." line="705" column="19" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" timestamp="1600312584522">
         <mark key="[" line="97" column="0" />
@@ -177,12 +177,6 @@
         <mark key="]" line="92" column="36" />
         <mark key="." line="92" column="35" />
         <mark key="^" line="92" column="36" />
-      </file>
-      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600314790626">
-        <mark key="'" line="10" column="18" />
-        <mark key="[" line="84" column="12" />
-        <mark key="]" line="84" column="12" />
-        <mark key="." line="84" column="12" />
       </file>
       <file name="C:/project/kongbao/src/api/order.ts" timestamp="1600313568981">
         <mark key="[" line="60" column="31" />
@@ -236,9 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="46" filename="C:/project/kongbao/src/api/common.ts" />
-      <jump line="28" column="0" filename="C:/project/kongbao/src/api/common.ts" />
-      <jump line="133" column="21" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="154" column="13" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="5" column="2" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="241" column="17" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
@@ -336,6 +327,9 @@
       <jump line="164" column="30" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="203" column="11" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="124" column="16" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="264" column="28" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="1181" column="37" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="762" column="6" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -347,7 +341,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>tabType</text>
+        <text>onLoad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGVsZXRlIHRoaXMud2VjaGF0TWFwW2l0ZW0ubW9uZXldOwo=</text>
@@ -383,9 +377,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tabType</last-search>
+      <last-search>onLoad</last-search>
       <last-offset />
-      <last-pattern>tabType</last-pattern>
+      <last-pattern>onLoad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
