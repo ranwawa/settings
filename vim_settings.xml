@@ -166,7 +166,7 @@
         <mark key="." line="272" column="29" />
         <mark key="^" line="272" column="30" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/customer-fund-order.js" timestamp="1600337466834">
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/customer-fund-order.js" timestamp="1600337614106">
         <mark key="[" line="73" column="33" />
         <mark key="]" line="73" column="37" />
         <mark key="." line="73" column="36" />
@@ -179,12 +179,12 @@
         <mark key="." line="92" column="35" />
         <mark key="^" line="92" column="36" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600335719498">
+      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600338600594">
         <mark key="'" line="472" column="0" />
-        <mark key="[" line="483" column="16" />
-        <mark key="]" line="483" column="15" />
-        <mark key="." line="483" column="14" />
-        <mark key="^" line="483" column="15" />
+        <mark key="[" line="543" column="0" />
+        <mark key="]" line="543" column="0" />
+        <mark key="." line="543" column="0" />
+        <mark key="^" line="542" column="60" />
       </file>
       <file name="C:/project/kongbao/src/pages.json" timestamp="1600332736829">
         <mark key="[" line="84" column="39" />
@@ -349,11 +349,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1999</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>1999</text>
+        <text>item.</text>
       </register>
       <register name="/" type="4">
         <text>10</text>
@@ -369,29 +369,37 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmV3UXIucGF5VGFwZSA9IGl0ZW0udHlwZTsK</text>
+      <register name="2" type="4">
+        <text>const goodsPrice = this.computedOrderAmount.goods;
+    if (item.couponType === 2) {
+      item.realDeductPrice = 
+    } else {
+      item.realDeductPrice = ;
+    }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>(
+        (goodsPrice * (100 - +item.discount)) /
+        100
+      ).toFixed(2);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubmV3UXIucGF5VGFwZSA9IGl0ZW0udHlwZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogtda/28DgsfAgMMnMxrcgMdTLt9EgMsuwt9EKICAgICAqLwogICAgZGVkdWN0aW9uVHlwZTogc3RyaW5nOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVkdWN0aW9uVHlwZTogdGhpcy5jb21wdXRlZERlZHVjdFR5cGUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LyoqCiAgICogyLfIz7Pk1rW2qbWlCiAgICovCiAgYXN5bmMgY29uZmlybUZ1bmRPcmRlcihvcHRpb25zKSB7CiAgICBjb25zdCB7IG1vbmV5LCBwYXlUeXBlIH0gPSBvcHRpb25zOwogICAgaWYgKAogICAgICAodHlwZW9mIG1vbmV5ICE9PSAnbnVtYmVyJyAmJiBtb25leSA8IDApIHx8CiAgICAgICh0eXBlb2YgcGF5VHlwZSAhPT0gJ251bWJlcicgJiYgcGF5VHlwZSA+IDIpCiAgICApIHsKICAgICAgcmV0dXJuIG5ldyB0aGlzLlJlc3BvbnNlTW9kYWwoNDAwLCB7fSwgJ7LOyv3T0M7zJyk7CiAgICB9CiAgICBjb25zdCBhZGRSZXMgPSBhd2FpdCB0aGlzLmFkZEZ1bmRPcmRlcihvcHRpb25zKTsKICAgIGlmICghYWRkUmVzLmlkKSB7CiAgICAgIHJldHVybiBuZXcgdGhpcy5SZXNwb25zZU1vZGFsKDUwMCwge30sICe0tL2otqm1pcqnsNwnKTsKICAgIH0KICAgIGNvbnN0IFtlcnIsIGRhdGFdID0gYXdhaXQgdGhpcy5wYXlzQXBpKHsKICAgICAgLi4ub3B0aW9ucywKICAgICAgb3JkZXJJZDogYWRkUmVzLmlkLAogICAgfSk7CiAgICBpZiAoZXJyKSB7CiAgICAgIHJldHVybiBuZXcgdGhpcy5SZXNwb25zZU1vZGFsKDUwMCwge30sIGVyci5tc2cpOwogICAgfQogIH0KICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogtda/28DgsfAgMMnMxrcgMdTLt9EgMsuwt9EKICAgICAqLwogICAgZGVkdWN0aW9uVHlwZTogc3RyaW5nOw==</text>
       </register>
     </registers>
   </component>
