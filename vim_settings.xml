@@ -22,9 +22,9 @@
         <entry>callPay</entry>
         <entry>sign</entry>
         <entry>ts</entry>
-        <entry>submit</entry>
         <entry>小计</entry>
         <entry>优惠券</entry>
+        <entry>submit</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -147,6 +147,12 @@
         <mark key="]" line="8" column="32" />
         <mark key="." line="8" column="32" />
       </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" timestamp="1600309315621">
+        <mark key="[" line="84" column="38" />
+        <mark key="]" line="84" column="42" />
+        <mark key="." line="84" column="41" />
+        <mark key="^" line="84" column="42" />
+      </file>
       <file name="C:/project/kongbao/src/pages/order/list.vue" timestamp="1600307098455">
         <mark key="'" line="0" column="0" />
       </file>
@@ -173,11 +179,12 @@
         <mark key="." line="56" column="32" />
         <mark key="^" line="56" column="17" />
       </file>
-      <file name="C:/project/kongbao/src/pages/fund/balance.vue" timestamp="1600307322285">
-        <mark key="[" line="19" column="41" />
-        <mark key="]" line="19" column="42" />
-        <mark key="." line="19" column="41" />
-        <mark key="^" line="19" column="42" />
+      <file name="C:/project/kongbao/src/pages/fund/balance.vue" timestamp="1600308856621">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="93" column="7" />
+        <mark key="]" line="94" column="27" />
+        <mark key="." line="94" column="26" />
+        <mark key="^" line="94" column="27" />
       </file>
       <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600304854837">
         <mark key="'" line="83" column="41" />
@@ -194,11 +201,11 @@
         <mark key="." line="130" column="37" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/customer/customer-order.js" timestamp="1600255258912" />
-      <file name="C:/project/kongbao/src/api/order.ts" timestamp="1600307214936">
-        <mark key="[" line="39" column="15" />
-        <mark key="]" line="39" column="30" />
-        <mark key="^" line="39" column="30" />
-        <mark key="." line="39" column="29" />
+      <file name="C:/project/kongbao/src/api/order.ts" timestamp="1600308122805">
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="49" column="56" />
+        <mark key="^" line="49" column="56" />
+        <mark key="." line="49" column="55" />
       </file>
       <file name="/Dummy.txt" timestamp="1600304860321">
         <mark key="[" line="0" column="11" />
@@ -227,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="76" filename="C:/project/supplier-ops/src/router/views/system.js" />
       <jump line="14" column="27" filename="C:/project/supplier-ops/src/router/views/system.js" />
       <jump line="15" column="13" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/index.js" />
       <jump line="8" column="38" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/callback-map.js" />
@@ -327,58 +333,59 @@
       <jump line="168" column="4" filename="C:/project/kongbao/src/pages/address/list.vue" />
       <jump line="0" column="0" filename="C:/project/kongbao/src/pages/order/list.vue" />
       <jump line="193" column="28" filename="C:/project/kongbao/src/api/index.d.ts" />
+      <jump line="0" column="9" filename="C:/project/kongbao/src/pages/fund/balance.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>options</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>options</text>
       </register>
       <register name="/" type="4">
-        <text>优惠券</text>
+        <text>submit</text>
       </register>
-      <register name="0" type="4">
-        <text>¥</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHVuaUNsb3VkLmxvZ2dlci5pbmZvKCLIt8jPs+TWtbaptaUtyOuyziIsIG9wdGlvbnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgY3VycmVudFN0YXR1cyB9ID0gdGhpczsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgaWQ6IDIsCiAgICAgIG5hbWU6ICLOotDFIiwKICAgICAgaWNvbjogInBob25lIiwKICAgIH0sCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaWQ6IDEsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgKiBAcGFyYW0gZGF0YQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
         <text>确认订单后传给app的值toFix一下
 
 避免浮点精度丢失的问题</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7IGNvbXB1dGVkQ2FuVXNlQ291cG9uTnVtIH19v8nTw9PFu93Irwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMTExMTEpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMTExMSk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBkYkNtLAo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>优惠券</last-search>
+      <last-search>submit</last-search>
       <last-offset />
-      <last-pattern>优惠券</last-pattern>
+      <last-pattern>submit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
