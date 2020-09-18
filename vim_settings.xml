@@ -212,7 +212,12 @@
         <mark key="." line="109" column="17" />
         <mark key="^" line="109" column="18" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/main-func.js" timestamp="1600410496699" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/main-func.js" timestamp="1600417685295">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="54" />
+      </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/index.js" timestamp="1600400244431">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -332,8 +337,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>/paged</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWxlTmFtZSwgZnVuY05hbWUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>/paged</text>
@@ -345,39 +350,39 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobm93LCBleHBpcmVUaW1lLCBub3cgLSBleHBpcmVUaW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBwYXRoINTGuq/K/XVybLuvLMfrx/O1xMK3vrYKICAvLyBib2R5ILSrtd25/cC0tcSyzsr9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWxlTmFtZSwgZnVuY05hbWUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBwYXRoINTGuq/K/XVybLuvLMfrx/O1xMK3vrYK</text>
+        <text encoding="base64">ICBmaWxlTQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAvLyBwYXRoINTGuq/K/XVybLuvLMfrx/O1xMK3vrYKICAvLyBib2R5ILSrtd25/cC0tcSyzsr9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBwYXRoINTGuq/K/XVybLuvLMfrx/O1xMK3vrYK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>const { path = '', body = '' } = event;
   if (!path) {
     return { success: false };
   }
   return callBackMap[path] ? callBackMap[path](body) : { success: false };</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>const { path = '', body = '' } = event;
   if (!path) {
     return { success: false };
   }
   return callBackMap[path] ? callBackMap[path](body) : { success: false };</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBldgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY2FsbEJhY2tNYXAgPSByZXF1aXJlKCcuL2NhbGxiYWNrLW1hcCcpOwo=</text>
+        <text encoding="base64">ICBldgo=</text>
       </register>
     </registers>
   </component>
