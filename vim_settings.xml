@@ -12,7 +12,6 @@
         <entry>v-model</entry>
         <entry>type</entry>
         <entry>优惠</entry>
-        <entry>onLoad</entry>
         <entry>10</entry>
         <entry>submit</entry>
         <entry>qr</entry>
@@ -25,6 +24,7 @@
         <entry>apy</entry>
         <entry>orderType</entry>
         <entry>已抢完</entry>
+        <entry>onLoad</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,8 +121,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600423191118">
-        <mark key="'" line="587" column="9" />
+      <file name="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" timestamp="1600423779894">
+        <mark key="'" line="167" column="64" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600425569155">
+        <mark key="'" line="520" column="33" />
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="8" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" timestamp="1600420032134">
         <mark key="[" line="85" column="0" />
@@ -173,13 +180,6 @@
         <mark key="^" line="13" column="45" />
         <mark key="." line="13" column="44" />
       </file>
-      <file name="C:/project/kongbao/src/api/index.d.ts" timestamp="1600399786818">
-        <mark key="'" line="197" column="28" />
-        <mark key="[" line="219" column="18" />
-        <mark key="]" line="221" column="11" />
-        <mark key="." line="221" column="10" />
-        <mark key="^" line="221" column="11" />
-      </file>
       <file name="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" timestamp="1600423686178">
         <mark key="'" line="110" column="37" />
         <mark key="[" line="113" column="14" />
@@ -197,11 +197,11 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/cb-pays-api.js" timestamp="1600422451572">
-        <mark key="[" line="40" column="16" />
-        <mark key="]" line="40" column="18" />
-        <mark key="^" line="40" column="18" />
-        <mark key="." line="40" column="17" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/cb-pays-api.js" timestamp="1600425591465">
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="40" column="35" />
+        <mark key="^" line="40" column="35" />
+        <mark key="." line="40" column="34" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/customer/customer-fund.js" timestamp="1600422085218">
         <mark key="'" line="9" column="1" />
@@ -230,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="558" column="36" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="168" column="64" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
       <jump line="71" column="3" filename="C:/project/supplier-ops/src/page/index/sidebar/sidebarItem.vue" />
       <jump line="85" column="4" filename="C:/project/supplier-ops/src/page/index/sidebar/sidebarItem.vue" />
@@ -330,6 +329,7 @@
       <jump line="587" column="9" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="104" column="10" filename="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" />
       <jump line="110" column="37" filename="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" />
+      <jump line="520" column="33" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,7 +341,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>已抢完</text>
+        <text>onLoad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy4kZW1pdCgiY2xpY2stc3VibWl0Iik7Cg==</text>
@@ -377,9 +377,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>已抢完</last-search>
+      <last-search>onLoad</last-search>
       <last-offset />
-      <last-pattern>已抢完</last-pattern>
+      <last-pattern>onLoad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
