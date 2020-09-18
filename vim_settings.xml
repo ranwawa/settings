@@ -19,12 +19,12 @@
         <entry>onLOAD</entry>
         <entry>onload</entry>
         <entry>请输入金额</entry>
-        <entry>submit</entry>
         <entry>v-model</entry>
         <entry>type</entry>
         <entry>优惠</entry>
         <entry>onLoad</entry>
         <entry>10</entry>
+        <entry>submit</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -128,12 +128,12 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="6" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600329148833">
-        <mark key="'" line="763" column="6" />
-        <mark key="[" line="704" column="24" />
-        <mark key="]" line="705" column="20" />
-        <mark key="^" line="705" column="20" />
-        <mark key="." line="705" column="19" />
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600393171138">
+        <mark key="'" line="703" column="0" />
+        <mark key="[" line="1481" column="15" />
+        <mark key="]" line="1481" column="19" />
+        <mark key="^" line="1481" column="19" />
+        <mark key="." line="1481" column="18" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" timestamp="1600337062472">
         <mark key="[" line="94" column="17" />
@@ -179,12 +179,12 @@
         <mark key="." line="92" column="35" />
         <mark key="^" line="92" column="36" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600340955581">
+      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600394032485">
         <mark key="'" line="472" column="0" />
-        <mark key="[" line="529" column="0" />
-        <mark key="]" line="529" column="0" />
-        <mark key="." line="529" column="0" />
-        <mark key="^" line="528" column="30" />
+        <mark key="[" line="513" column="0" />
+        <mark key="]" line="513" column="0" />
+        <mark key="." line="513" column="0" />
+        <mark key="^" line="519" column="34" />
       </file>
       <file name="C:/project/kongbao/src/pages.json" timestamp="1600332736829">
         <mark key="[" line="84" column="39" />
@@ -245,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="38" filename="C:/project/kongbao/src/api/agent.ts" />
       <jump line="48" column="2" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
       <jump line="7" column="47" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
       <jump line="19" column="27" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
@@ -345,18 +344,19 @@
       <jump line="77" column="18" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="180" column="53" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="301" column="13" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
+      <jump line="703" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>store</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>store</text>
+        <text>goodsPrice</text>
       </register>
       <register name="/" type="4">
-        <text>10</text>
+        <text>submit</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -367,12 +367,30 @@
 				}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKCkudG9GaXhlZCgyKTsK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZHVjdGlvblR5cGUK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZHVjdGlvblR5cAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgKCkudG9GaXhlZCgyKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
         <text>const goodsPrice = this.computedOrderAmount.goods;
     if (item.couponType === 2) {
       item.realDeductPrice = 
@@ -380,34 +398,13 @@
       item.realDeductPrice = ;
     }</text>
       </register>
-      <register name="4" type="4">
-        <text>(
-        (goodsPrice * (100 - +item.discount)) /
-        100
-      ).toFixed(2);</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmV3UXIucGF5VGFwZSA9IGl0ZW0udHlwZTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>10</last-search>
+      <last-search>submit</last-search>
       <last-offset />
-      <last-pattern>10</last-pattern>
+      <last-pattern>submit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
