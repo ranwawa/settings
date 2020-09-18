@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>sort</entry>
         <entry>tabType</entry>
         <entry>onLOAD</entry>
         <entry>onload</entry>
@@ -25,6 +24,7 @@
         <entry>console.log</entry>
         <entry>apy</entry>
         <entry>orderType</entry>
+        <entry>已抢完</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,6 +121,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600423191118">
+        <mark key="'" line="587" column="9" />
+      </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" timestamp="1600420032134">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -177,6 +180,13 @@
         <mark key="." line="221" column="10" />
         <mark key="^" line="221" column="11" />
       </file>
+      <file name="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" timestamp="1600423686178">
+        <mark key="'" line="110" column="37" />
+        <mark key="[" line="113" column="14" />
+        <mark key="]" line="113" column="15" />
+        <mark key="." line="113" column="14" />
+        <mark key="^" line="113" column="15" />
+      </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/agent-fund.js" timestamp="1600420378876">
         <mark key="[" line="1" column="8" />
       </file>
@@ -220,9 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="592" column="39" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="596" column="8" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="590" column="18" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="558" column="36" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="168" column="64" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
       <jump line="71" column="3" filename="C:/project/supplier-ops/src/page/index/sidebar/sidebarItem.vue" />
@@ -320,69 +327,59 @@
       <jump line="9" column="1" filename="C:/project/kongbao/cloudfunctions-aliyun/customer/customer-fund.js" />
       <jump line="495" column="0" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="1478" column="41" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="587" column="9" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="104" column="10" filename="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" />
+      <jump line="110" column="37" filename="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>order</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>order</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>orderType</text>
+        <text>已抢完</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgQ3VzdG9tZXJPcmRlciA9IHJlcXVpcmUoIi4vY3VzdG9tZXItb3JkZXIiKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy4kZW1pdCgiY2xpY2stc3VibWl0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmFsYW5jZTogYmFsYW5jZUN1c3RvbWVyLAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="4">
-        <text>const param = {
-    remark: orderInfo._id,
-    type: 21,
-    isIncome: false,
-    isDelete: false,
-    createTime: now,
-    appId: this.appId,
-    userId: this.userInfo._id,
-  };
-  const res = colCsFund.add({
-                  ...param,
-                  price: orderInfo.csAmount,
-                  balance: balanceCustomer,
-                }),</text>
+        <text encoding="base64">IGVsc2UgewogICAgICAgIHJldHVybjsKICAgICAgfQ==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAvKioKICAgKiDR6dakdG9rZW4KICAgKiBAcmV0dXJucyB7UHJvbWlzZTxSZXNwb25zZU1vZGFsfHttc2c6IHN0cmluZywgY29kZTogbnVtYmVyfXx7bXNnOiBzdHJpbmcsCiAgICogICBjb2RlOiBudW1iZXJ9fHttc2c6IHN0cmluZywgY29kZTogbnVtYmVyfXwqfHttc2c6IHN0cmluZywgY29kZTogbnVtYmVyLAogICAqICAgZXJyOiAqfXx7bXNnOiBzdHJpbmcsIGNvZGU6IG51bWJlciwgZXJyOiAqfT59CiAgICovCiAgYXN5bmMgY2hlY2tUb2tlbigpIHsKICAgIGlmICghdGhpcy51bmlJZFRva2VuKSB7CiAgICAgIHJldHVybiBuZXcgUmVzcG9uc2VNb2RhbCg0MDEsICLH67XHwry687fDzsoiKTsKICAgIH0KICAgIGNvbnN0IHJlcyA9IGF3YWl0IHVuaUlELmNoZWNrVG9rZW4odGhpcy51bmlJZFRva2VuKTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coItHp1qR0b2tlbi2z9rLOIiwgcmVzKTsKICAgIGlmIChyZXMuY29kZSAhPT0gMCkgewogICAgICByZXR1cm4gcmVzOwogICAgfQogICAgaWYgKHJlcy5hcHBJZCAhPT0gdGhpcy5hcHBJZCkgewogICAgICB1bmlDbG91ZC5sb2dnZXIud2Fybigi0enWpHRva2VuIiwgIteisuHKsWFwcElk0+u1x8K8yrFhcHBJZNPQsu7S7CIpOwogICAgfQogICAgY29uc3Qgc3BSZXMgPSBhd2FpdCB0aGlzLmdldEFjY2Vzc1Rva2VuKCk7CiAgICBpZiAoIXNwUmVzKSB7CiAgICAgIHJldHVybiBuZXcgUmVzcG9uc2VNb2RhbCgzMDAxMSwgIs+1zbPS7LOjLMfrwarPtbncwO3UsSIpOwogICAgfQogICAgdGhpcy51c2VySWQgPSByZXMudWlkOwogICAgdGhpcy5pc1ZpcCA9IHJlcy51c2VySW5mby5pc1ZpcDsKICAgIHJldHVybiByZXM7CiAgfQog</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLiRlbWl0KCJjbGljay1zdWJtaXQiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBzaG93VG9hc3RUZXh0KCK4w8nMxre77rav0tG94cr4Iik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vINSt19PQ3rjE0+C27go=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJucyB7e2lzQmFzZTY0RW5jb2RlZDogYm9vbGVhbiwgaGVhZGVyczoge2hlYWRlck5hbWU6IHN0cmluZ30sIG1wc2VydmVybGVzc0NvbXBvc2VkUmVzcG9uc2U6IGJvb2xlYW4sIGJvZHk6IHN0cmluZywgc3RhdHVzQ29kZTogbnVtYmVyfX0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gb3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgc2hvd1RvYXN0VGV4dCgiuMPJzMa3u+62r9LRveHK+CIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG15S2V5LCBrZXkpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>orderType</last-search>
+      <last-search>已抢完</last-search>
       <last-offset />
-      <last-pattern>orderType</last-pattern>
+      <last-pattern>已抢完</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
