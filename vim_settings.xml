@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onLOAD</entry>
         <entry>onload</entry>
         <entry>请输入金额</entry>
         <entry>v-model</entry>
@@ -25,6 +24,7 @@
         <entry>status =</entry>
         <entry>submit</entry>
         <entry>onLoad</entry>
+        <entry>haveMore</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,55 +121,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1600498978293">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="C:/project/jxg-wxapp/src/manifest.json" timestamp="1600482330312">
-        <mark key="[" line="89" column="32" />
-        <mark key="]" line="89" column="32" />
-        <mark key="." line="89" column="32" />
-        <mark key="^" line="89" column="18" />
-      </file>
       <file name="C:/project/jxg-wxapp/src/goods/common.ts" timestamp="1600483935418">
         <mark key="[" line="47" column="10" />
         <mark key="]" line="47" column="10" />
         <mark key="." line="47" column="10" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/main-func.js" timestamp="1600417685295">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="54" />
-      </file>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600499724181">
-        <mark key="'" line="1484" column="45" />
-        <mark key="[" line="1487" column="41" />
-        <mark key="]" line="1488" column="4" />
-        <mark key="." line="1488" column="3" />
-        <mark key="^" line="1488" column="4" />
-      </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" timestamp="1600420032134">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="84" column="17" />
-        <mark key="." line="85" column="0" />
-      </file>
-      <file name="C:/project/kongbao/global.d.ts" timestamp="1600507116168">
+      <file name="C:/project/kongbao/global.d.ts" timestamp="1600507130048">
         <mark key="[" line="609" column="25" />
         <mark key="]" line="609" column="26" />
         <mark key="^" line="609" column="26" />
         <mark key="." line="609" column="25" />
-      </file>
-      <file name="C:/project/kongbao/src/pages/fund/recharge.vue" timestamp="1600506918217">
-        <mark key="'" line="104" column="37" />
-        <mark key="[" line="130" column="34" />
-        <mark key="]" line="130" column="34" />
-        <mark key="." line="130" column="34" />
-      </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/agent-fund.js" timestamp="1600420378876">
-        <mark key="[" line="1" column="8" />
       </file>
       <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600422181652">
         <mark key="'" line="495" column="0" />
@@ -185,13 +146,6 @@
         <mark key="^" line="130" column="38" />
         <mark key="." line="130" column="37" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/cb-pays-api.js" timestamp="1600506453696" />
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/api-paysapi.js" timestamp="1600420007004">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="27" />
-        <mark key="^" line="21" column="27" />
-        <mark key="." line="21" column="26" />
-      </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/customer/customer-order.js" timestamp="1600420283912">
         <mark key="[" line="473" column="0" />
         <mark key="]" line="473" column="0" />
@@ -204,6 +158,48 @@
         <mark key="^" line="57" column="63" />
         <mark key="." line="57" column="56" />
       </file>
+      <file name="/Dummy.txt" timestamp="1600498978293">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="C:/project/kongbao/src/pages/tab/goods-category.vue" timestamp="1600507994278">
+        <mark key="[" line="182" column="3" />
+        <mark key="]" line="183" column="2" />
+        <mark key="^" line="183" column="2" />
+        <mark key="." line="183" column="1" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/manifest.json" timestamp="1600482330312">
+        <mark key="[" line="89" column="32" />
+        <mark key="]" line="89" column="32" />
+        <mark key="." line="89" column="32" />
+        <mark key="^" line="89" column="18" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600499724181">
+        <mark key="'" line="1484" column="45" />
+        <mark key="[" line="1487" column="41" />
+        <mark key="]" line="1488" column="4" />
+        <mark key="." line="1488" column="3" />
+        <mark key="^" line="1488" column="4" />
+      </file>
+      <file name="C:/project/kongbao/src/pages/fund/list.vue" timestamp="1600508427749">
+        <mark key="'" line="5" column="28" />
+        <mark key="[" line="58" column="12" />
+        <mark key="]" line="58" column="17" />
+        <mark key="." line="58" column="16" />
+        <mark key="^" line="58" column="17" />
+      </file>
+      <file name="C:/project/kongbao/src/pages/fund/recharge.vue" timestamp="1600506918217">
+        <mark key="'" line="104" column="37" />
+        <mark key="[" line="130" column="34" />
+        <mark key="]" line="130" column="34" />
+        <mark key="." line="130" column="34" />
+      </file>
+      <file name="C:/project/kongbao/src/pages/order/list.vue" timestamp="1600508356420" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/agent-fund.js" timestamp="1600420378876">
+        <mark key="[" line="1" column="8" />
+      </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/cb-pays-api.js" timestamp="1600506453696" />
       <file name="C:/project/kongbao/cloudfunctions-aliyun/customer/customer-fund.js" timestamp="1600422085218">
         <mark key="'" line="9" column="1" />
         <mark key="[" line="28" column="45" />
@@ -213,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/project/kongbao/src/pages/tab/goods-category.vue" />
       <jump line="7" column="18" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/supplier-store.js" />
       <jump line="11" column="0" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/supplier-store.js" />
       <jump line="62" column="32" filename="C:/project/kongbao/src/pages/tab/goods-category.vue" />
@@ -313,56 +308,63 @@
       <jump line="1484" column="45" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="130" column="6" filename="C:/project/kongbao/src/pages/fund/recharge.vue" />
       <jump line="104" column="37" filename="C:/project/kongbao/src/pages/fund/recharge.vue" />
+      <jump line="5" column="28" filename="C:/project/kongbao/src/pages/fund/list.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>type</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>haveMore</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;skuPic&quot;, &quot;skuName&quot;, &quot;skuCode&quot;, &quot;num&quot;</text>
+        <text encoding="base64">PHZpZXcgY2xhc3M9InV2LXRhYnMiPgogICAgICA8dmlldwogICAgICAgIHYtZm9yPSJpdGVtIGluIHN0b3JlTGlzdCIKICAgICAgICA6a2V5PSJpdGVtLmNvZGUiCiAgICAgICAgOmNsYXNzPSJ7ICd1di10YWItYWN0aXZlJzogaXRlbS5zdG9yZUNvZGUgPT09IGN1cnJlbnRTdG9yZS5zdG9yZUNvZGUgfSIKICAgICAgICBjbGFzcz0idXYtdGFiIgogICAgICAgIEBjbGljaz0ic3dpdGNoU3RvcmVUYWIoaXRlbSkiCiAgICAgID4KICAgICAgICB7eyBpdGVtLnN0b3JlTmFtZSB9fQogICAgICA8L3ZpZXc+CiAgICA8L3ZpZXc+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoIj09PT0xMTExPT09PT4+PiIgKyBzdGF0dXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCI9PT09MzMzMzM9PT09Pj4+IiArIHN0YXR1cyk7Cg==</text>
+      <register name="2" type="4">
+        <text>FundListQuery = {
+    currentPage: 1,
+    pageSize: 20,
+    ha
+  }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXR1czoge3sgYWN0aXZpdHkuc3RhdHVzIH19Cg==</text>
+        <text>interface IFundListQuery extends IPageBase {
+  type: 1 | 2;
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">aW50ZXJhY3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvCg==</text>
+        <text encoding="base64">aW50ZXJhY3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbgo=</text>
+        <text encoding="base64">ICBjdQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCfK/cG/JywgbGFja1F1YW50aXR5TnVtKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy5pbml0RGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoIj09PT0xMTExPT09PT4+PiIgKyBzdGF0dXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KCI9PT09MzMzMzM9PT09Pj4+IiArIHN0YXR1cyk7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>haveMore</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>haveMore</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
