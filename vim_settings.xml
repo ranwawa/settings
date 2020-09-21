@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>请输入金额</entry>
         <entry>v-model</entry>
         <entry>type</entry>
         <entry>优惠</entry>
@@ -25,6 +24,7 @@
         <entry>onLoad</entry>
         <entry>haveMore</entry>
         <entry>test2</entry>
+        <entry>mounted</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -126,6 +126,7 @@
         <mark key="]" line="47" column="10" />
         <mark key="." line="47" column="10" />
       </file>
+      <file name="C:/project/jxg-h5/src/views/about/license.vue" timestamp="1600657631445" />
       <file name="C:/project/kongbao/global.d.ts" timestamp="1600507130048">
         <mark key="[" line="609" column="25" />
         <mark key="]" line="609" column="26" />
@@ -135,13 +136,6 @@
       <file name="C:/project/jxg-h5/package.json" timestamp="1600653503062">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600422181652">
-        <mark key="'" line="495" column="0" />
-        <mark key="[" line="513" column="0" />
-        <mark key="]" line="513" column="0" />
-        <mark key="." line="513" column="0" />
-        <mark key="^" line="519" column="34" />
-      </file>
       <file name="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" timestamp="1600484428776">
         <mark key="'" line="68" column="21" />
         <mark key="[" line="57" column="56" />
@@ -149,7 +143,7 @@
         <mark key="^" line="57" column="63" />
         <mark key="." line="57" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1600652537958">
+      <file name="/Dummy.txt" timestamp="1600653685883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -160,18 +154,18 @@
         <mark key="^" line="183" column="2" />
         <mark key="." line="183" column="1" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/manifest.json" timestamp="1600482330312">
-        <mark key="[" line="89" column="32" />
-        <mark key="]" line="89" column="32" />
-        <mark key="." line="89" column="32" />
+      <file name="C:/project/jxg-wxapp/src/manifest.json" timestamp="1600657960281">
+        <mark key="[" line="95" column="32" />
+        <mark key="]" line="95" column="32" />
+        <mark key="." line="95" column="32" />
         <mark key="^" line="89" column="18" />
       </file>
       <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600499724181">
-        <mark key="'" line="1484" column="45" />
-        <mark key="[" line="1487" column="41" />
-        <mark key="]" line="1488" column="4" />
-        <mark key="." line="1488" column="3" />
-        <mark key="^" line="1488" column="4" />
+        <mark key="'" line="1485" column="45" />
+        <mark key="[" line="1488" column="41" />
+        <mark key="]" line="1489" column="4" />
+        <mark key="." line="1489" column="3" />
+        <mark key="^" line="1489" column="4" />
       </file>
       <file name="C:/project/kongbao/src/pages/fund/list.vue" timestamp="1600508427749">
         <mark key="'" line="5" column="28" />
@@ -179,6 +173,12 @@
         <mark key="]" line="58" column="17" />
         <mark key="." line="58" column="16" />
         <mark key="^" line="58" column="17" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" timestamp="1600658379608">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="103" column="34" />
+        <mark key="^" line="103" column="34" />
+        <mark key="." line="103" column="33" />
       </file>
       <file name="C:/project/kongbao/src/pages/fund/recharge.vue" timestamp="1600506918217">
         <mark key="'" line="104" column="37" />
@@ -297,58 +297,61 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>type</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>test2</text>
+        <text>mounted</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PHZpZXcgY2xhc3M9InV2LXRhYnMiPgogICAgICA8dmlldwogICAgICAgIHYtZm9yPSJpdGVtIGluIHN0b3JlTGlzdCIKICAgICAgICA6a2V5PSJpdGVtLmNvZGUiCiAgICAgICAgOmNsYXNzPSJ7ICd1di10YWItYWN0aXZlJzogaXRlbS5zdG9yZUNvZGUgPT09IGN1cnJlbnRTdG9yZS5zdG9yZUNvZGUgfSIKICAgICAgICBjbGFzcz0idXYtdGFiIgogICAgICAgIEBjbGljaz0ic3dpdGNoU3RvcmVUYWIoaXRlbSkiCiAgICAgID4KICAgICAgICB7eyBpdGVtLnN0b3JlTmFtZSB9fQogICAgICA8L3ZpZXc+CiAgICA8L3ZpZXc+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="4">
+        <text>if (this.computedBtnBuyText === &quot;已抢完&quot;) {
+      showToastText(&quot;该商品活动已结束&quot;);
+      return;
+    }</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">fHwKICAgICAgKHRoaXMuY29tcHV0ZWRJc0luU2VjS2lsbFByb2dyZXNzICYmIHRoaXMuc2VsZWN0ZWRTa3UucXVhbnRpdHkgPCAxKQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgKHRoaXMuY29tcHV0ZWRJc0luU2VjS2lsbFByb2dyZXNzICYmIHRoaXMuc2VsZWN0ZWRTa3UucXVhbnRpdHkgPCAxKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>FundListQuery = {
     currentPage: 1,
     pageSize: 20,
     ha
   }</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text>interface IFundListQuery extends IPageBase {
   type: 1 | 2;
 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW50ZXJhY3QK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW50ZXJhY3QK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjdQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoIj09PT0xMTExPT09PT4+PiIgKyBzdGF0dXMpOwo=</text>
+        <text encoding="base64">aW50ZXJhY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCI9PT09MzMzMzM9PT09Pj4+IiArIHN0YXR1cyk7Cg==</text>
+        <text encoding="base64">aW50ZXJhY3QK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>test2</last-search>
+      <last-search>mounted</last-search>
       <last-offset />
-      <last-pattern>test2</last-pattern>
+      <last-pattern>mounted</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
