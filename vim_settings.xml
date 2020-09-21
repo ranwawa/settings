@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>v-model</entry>
-        <entry>type</entry>
         <entry>优惠</entry>
         <entry>10</entry>
         <entry>qr</entry>
@@ -20,11 +18,13 @@
         <entry>orderType</entry>
         <entry>已抢完</entry>
         <entry>status =</entry>
-        <entry>submit</entry>
         <entry>onLoad</entry>
         <entry>haveMore</entry>
         <entry>test2</entry>
+        <entry>submit</entry>
         <entry>mounted</entry>
+        <entry>merge</entry>
+        <entry encoding="base64">ID0gdHJ1ZQ==</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -136,12 +136,12 @@
       <file name="C:/project/jxg-h5/package.json" timestamp="1600653503062">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" timestamp="1600484428776">
-        <mark key="'" line="68" column="21" />
-        <mark key="[" line="57" column="56" />
-        <mark key="]" line="57" column="56" />
-        <mark key="^" line="57" column="63" />
-        <mark key="." line="57" column="56" />
+      <file name="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" timestamp="1600659959760">
+        <mark key="'" line="67" column="56" />
+        <mark key="[" line="46" column="34" />
+        <mark key="]" line="46" column="34" />
+        <mark key="^" line="19" column="64" />
+        <mark key="." line="46" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1600653685883">
         <mark key="[" line="0" column="0" />
@@ -160,12 +160,12 @@
         <mark key="." line="95" column="32" />
         <mark key="^" line="89" column="18" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600499724181">
-        <mark key="'" line="1485" column="45" />
-        <mark key="[" line="1488" column="41" />
-        <mark key="]" line="1489" column="4" />
-        <mark key="." line="1489" column="3" />
-        <mark key="^" line="1489" column="4" />
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600660729500">
+        <mark key="'" line="396" column="9" />
+        <mark key="[" line="598" column="50" />
+        <mark key="]" line="598" column="51" />
+        <mark key="." line="598" column="50" />
+        <mark key="^" line="598" column="51" />
       </file>
       <file name="C:/project/kongbao/src/pages/fund/list.vue" timestamp="1600508427749">
         <mark key="'" line="5" column="28" />
@@ -193,22 +193,6 @@
       <file name="C:/project/jxg-wxapp/src/pages/master/vip.vue" timestamp="1600649553532" />
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/supplier-store.js" />
-      <jump line="62" column="32" filename="C:/project/kongbao/src/pages/tab/goods-category.vue" />
-      <jump line="0" column="0" filename="C:/project/kongbao/src/pages/goods/detail.vue" />
-      <jump line="102" column="27" filename="C:/project/kongbao/src/pages/goods/detail.vue" />
-      <jump line="97" column="0" filename="C:/project/kongbao/src/pages/goods/detail.vue" />
-      <jump line="37" column="26" filename="C:/project/kongbao/src/pages/goods/detail.vue" />
-      <jump line="100" column="42" filename="C:/project/kongbao/src/pages/goods/detail.vue" />
-      <jump line="0" column="0" filename="C:/project/kongbao/src/pages/order/index.vue" />
-      <jump line="55" column="32" filename="C:/project/kongbao/src/api/address.ts" />
-      <jump line="134" column="0" filename="C:/project/kongbao/src/pages/order/index.vue" />
-      <jump line="0" column="0" filename="C:/project/kongbao/src/components/address-add.vue" />
-      <jump line="155" column="44" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
-      <jump line="205" column="3" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/customer-address.js" />
-      <jump line="8" column="38" filename="C:/project/kongbao/cloudfunctions-aliyun/common/api/index.js" />
-      <jump line="0" column="27" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/customer-address.js" />
-      <jump line="7" column="23" filename="C:/project/kongbao/cloudfunctions-aliyun/common/api/api-kdhelp.js" />
       <jump line="8" column="35" filename="C:/project/kongbao/cloudfunctions-aliyun/common/api/api-kdhelp.js" />
       <jump line="13" column="12" filename="C:/project/kongbao/cloudfunctions-aliyun/common/api/api-kdhelp.js" />
       <jump line="131" column="50" filename="C:/project/kongbao/src/pages/order/index.vue" />
@@ -293,54 +277,70 @@
       <jump line="104" column="37" filename="C:/project/kongbao/src/pages/fund/recharge.vue" />
       <jump line="5" column="28" filename="C:/project/kongbao/src/pages/fund/list.vue" />
       <jump line="3" column="0" filename="C:/project/jxg-h5/package.json" />
+      <jump line="1315" column="41" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="1230" column="35" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="1471" column="12" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="66" column="56" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
+      <jump line="591" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="562" column="18" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="733" column="22" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="741" column="56" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="742" column="52" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="853" column="15" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="863" column="18" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="884" column="23" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="887" column="23" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="898" column="21" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="531" column="31" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="396" column="9" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>mounted</text>
+        <text encoding="base64">ID0gdHJ1ZQ==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PHZpZXcgY2xhc3M9InV2LXRhYnMiPgogICAgICA8dmlldwogICAgICAgIHYtZm9yPSJpdGVtIGluIHN0b3JlTGlzdCIKICAgICAgICA6a2V5PSJpdGVtLmNvZGUiCiAgICAgICAgOmNsYXNzPSJ7ICd1di10YWItYWN0aXZlJzogaXRlbS5zdG9yZUNvZGUgPT09IGN1cnJlbnRTdG9yZS5zdG9yZUNvZGUgfSIKICAgICAgICBjbGFzcz0idXYtdGFiIgogICAgICAgIEBjbGljaz0ic3dpdGNoU3RvcmVUYWIoaXRlbSkiCiAgICAgID4KICAgICAgICB7eyBpdGVtLnN0b3JlTmFtZSB9fQogICAgICA8L3ZpZXc+CiAgICA8L3ZpZXc+</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vILvutq+9+NDQ1tDH0s7ev+K05sqxz9TKvsrQs6G82wo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>if (this.computedBtnBuyText === &quot;已抢完&quot;) {
       showToastText(&quot;该商品活动已结束&quot;);
       return;
     }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">fHwKICAgICAgKHRoaXMuY29tcHV0ZWRJc0luU2VjS2lsbFByb2dyZXNzICYmIHRoaXMuc2VsZWN0ZWRTa3UucXVhbnRpdHkgPCAxKQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgKHRoaXMuY29tcHV0ZWRJc0luU2VjS2lsbFByb2dyZXNzICYmIHRoaXMuc2VsZWN0ZWRTa3UucXVhbnRpdHkgPCAxKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>FundListQuery = {
     currentPage: 1,
     pageSize: 20,
     ha
   }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text>interface IFundListQuery extends IPageBase {
   type: 1 | 2;
 }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW50ZXJhY3QK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW50ZXJhY3QK</text>
@@ -349,9 +349,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mounted</last-search>
+      <last-search encoding="base64">ID0gdHJ1ZQ==</last-search>
       <last-offset />
-      <last-pattern>mounted</last-pattern>
+      <last-pattern encoding="base64">ID0gdHJ1ZQ==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
