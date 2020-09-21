@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>支付成功</entry>
-        <entry>log</entry>
         <entry>1111</entry>
         <entry>console.log</entry>
         <entry>apy</entry>
@@ -24,7 +22,9 @@
         <entry>merge</entry>
         <entry>111</entry>
         <entry>seckillTitleMap</entry>
+        <entry>computedAmount</entry>
         <entry>submit</entry>
+        <entry>callPay</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,12 +121,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-wxapp/src/goods/common.ts" timestamp="1600483935418">
-        <mark key="[" line="47" column="10" />
-        <mark key="]" line="47" column="10" />
-        <mark key="." line="47" column="10" />
-      </file>
       <file name="C:/project/jxg-h5/src/views/about/license.vue" timestamp="1600657631445" />
+      <file name="C:/project/jxg-wxapp/src/assets/js/adapter.ts" timestamp="1600676535459">
+        <mark key="'" line="142" column="27" />
+      </file>
       <file name="C:/project/kongbao/global.d.ts" timestamp="1600507130048">
         <mark key="[" line="609" column="25" />
         <mark key="]" line="609" column="26" />
@@ -136,6 +134,19 @@
       <file name="C:/project/jxg-h5/package.json" timestamp="1600653503062">
         <mark key="'" line="3" column="0" />
       </file>
+      <file name="C:/project/jxg-wxapp/src/main.ts" timestamp="1600677169969">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="16" column="45" />
+        <mark key="." line="16" column="44" />
+        <mark key="^" line="16" column="45" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600676516639">
+        <mark key="'" line="345" column="21" />
+        <mark key="[" line="545" column="0" />
+        <mark key="]" line="545" column="45" />
+        <mark key="." line="545" column="23" />
+        <mark key="^" line="545" column="24" />
+      </file>
       <file name="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" timestamp="1600672991658">
         <mark key="'" line="98" column="33" />
         <mark key="[" line="106" column="70" />
@@ -143,7 +154,7 @@
         <mark key="^" line="106" column="71" />
         <mark key="." line="106" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1600653685883">
+      <file name="/Dummy.txt" timestamp="1600676475755">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -194,16 +205,6 @@
       <file name="C:/project/jxg-wxapp/src/pages/master/vip.vue" timestamp="1600649553532" />
     </filemarks>
     <jumps>
-      <jump line="193" column="28" filename="C:/project/kongbao/src/api/index.d.ts" />
-      <jump line="0" column="9" filename="C:/project/kongbao/src/pages/fund/balance.vue" />
-      <jump line="10" column="18" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="93" column="37" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
-      <jump line="38" column="34" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
-      <jump line="76" column="33" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
-      <jump line="68" column="9" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
-      <jump line="42" column="12" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
-      <jump line="50" column="12" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
-      <jump line="92" column="0" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="97" column="6" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="101" column="6" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="106" column="4" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
@@ -294,21 +295,31 @@
       <jump line="52" column="6" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
       <jump line="99" column="33" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
       <jump line="112" column="14" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="220" column="19" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="222" column="28" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="541" column="22" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="126" column="16" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="191" column="41" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="270" column="6" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="547" column="22" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="144" column="15" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="345" column="21" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="142" column="27" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text>callPay</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNldCgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMSwgdGhpcy5jb21wdXRlZEFtb3VudCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vINLUsePTw9StvNu5usLyCg==</text>
@@ -341,9 +352,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>submit</last-search>
+      <last-search>callPay</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern>callPay</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
