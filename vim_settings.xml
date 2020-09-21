@@ -5,13 +5,9 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>1111</entry>
-        <entry>console.log</entry>
-        <entry>apy</entry>
         <entry>orderType</entry>
         <entry>已抢完</entry>
         <entry>status =</entry>
-        <entry>onLoad</entry>
         <entry>haveMore</entry>
         <entry>test2</entry>
         <entry>mounted</entry>
@@ -25,6 +21,10 @@
         <entry>computedAmount</entry>
         <entry>submit</entry>
         <entry>callPay</entry>
+        <entry>root</entry>
+        <entry>计算运费</entry>
+        <entry>onLoad</entry>
+        <entry>-btn</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -122,30 +122,22 @@
     <globalmarks />
     <filemarks>
       <file name="C:/project/jxg-h5/src/views/about/license.vue" timestamp="1600657631445" />
-      <file name="C:/project/jxg-wxapp/src/assets/js/adapter.ts" timestamp="1600676535459">
-        <mark key="'" line="142" column="27" />
-      </file>
-      <file name="C:/project/kongbao/global.d.ts" timestamp="1600507130048">
-        <mark key="[" line="609" column="25" />
-        <mark key="]" line="609" column="26" />
-        <mark key="^" line="609" column="26" />
-        <mark key="." line="609" column="25" />
-      </file>
       <file name="C:/project/jxg-h5/package.json" timestamp="1600653503062">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/main.ts" timestamp="1600677169969">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="16" column="45" />
-        <mark key="." line="16" column="44" />
-        <mark key="^" line="16" column="45" />
+      <file name="C:/project/jxg-wxapp/src/config/test2.ts" timestamp="1600679834379" />
+      <file name="C:/project/jxg-wxapp/src/main.ts" timestamp="1600682066331">
+        <mark key="[" line="15" column="77" />
+        <mark key="]" line="15" column="81" />
+        <mark key="^" line="15" column="81" />
+        <mark key="." line="15" column="80" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600676516639">
-        <mark key="'" line="345" column="21" />
-        <mark key="[" line="545" column="0" />
-        <mark key="]" line="545" column="45" />
-        <mark key="." line="545" column="23" />
-        <mark key="^" line="545" column="24" />
+      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600682890064">
+        <mark key="'" line="280" column="27" />
+        <mark key="[" line="407" column="27" />
+        <mark key="]" line="409" column="42" />
+        <mark key="." line="409" column="41" />
+        <mark key="^" line="409" column="42" />
       </file>
       <file name="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" timestamp="1600672991658">
         <mark key="'" line="98" column="33" />
@@ -154,16 +146,10 @@
         <mark key="^" line="106" column="71" />
         <mark key="." line="106" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1600676475755">
+      <file name="/Dummy.txt" timestamp="1600682894933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
-      </file>
-      <file name="C:/project/kongbao/src/pages/tab/goods-category.vue" timestamp="1600507994278">
-        <mark key="[" line="182" column="3" />
-        <mark key="]" line="183" column="2" />
-        <mark key="^" line="183" column="2" />
-        <mark key="." line="183" column="1" />
       </file>
       <file name="C:/project/jxg-wxapp/src/manifest.json" timestamp="1600657960281">
         <mark key="[" line="95" column="32" />
@@ -171,12 +157,12 @@
         <mark key="." line="95" column="32" />
         <mark key="^" line="89" column="18" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600673156383">
-        <mark key="'" line="112" column="14" />
-        <mark key="[" line="1586" column="24" />
-        <mark key="]" line="1586" column="25" />
-        <mark key="^" line="1586" column="25" />
-        <mark key="." line="1586" column="24" />
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600683098267">
+        <mark key="'" line="67" column="33" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="45" />
+        <mark key="^" line="1587" column="25" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="C:/project/kongbao/src/pages/fund/list.vue" timestamp="1600508427749">
         <mark key="'" line="5" column="28" />
@@ -185,30 +171,26 @@
         <mark key="." line="58" column="16" />
         <mark key="^" line="58" column="17" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" timestamp="1600667473401">
+      <file name="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" timestamp="1600683175742">
         <mark key="'" line="39" column="9" />
-        <mark key="[" line="76" column="13" />
-        <mark key="]" line="76" column="13" />
-        <mark key="^" line="103" column="34" />
-        <mark key="." line="76" column="13" />
+        <mark key="[" line="78" column="28" />
+        <mark key="]" line="79" column="22" />
+        <mark key="^" line="79" column="22" />
+        <mark key="." line="79" column="21" />
       </file>
-      <file name="C:/project/kongbao/src/pages/fund/recharge.vue" timestamp="1600506918217">
-        <mark key="'" line="104" column="37" />
-        <mark key="[" line="130" column="34" />
-        <mark key="]" line="130" column="34" />
-        <mark key="." line="130" column="34" />
+      <file name="C:/project/jxg-h5/src/api/api.ts" timestamp="1600679932452">
+        <mark key="'" line="25" column="13" />
+        <mark key="[" line="114" column="17" />
+        <mark key="]" line="114" column="17" />
+        <mark key="^" line="114" column="17" />
+        <mark key="." line="114" column="16" />
       </file>
       <file name="C:/project/kongbao/src/pages/order/list.vue" timestamp="1600508356420" />
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-callback/cb-pays-api.js" timestamp="1600506453696" />
       <file name="C:/project/jxg-h5/src/views/about/secretTreaty.vue" timestamp="1600652292769" />
       <file name="C:/project/jxg-h5/vue.config.js" timestamp="1600653624535" />
       <file name="C:/project/jxg-wxapp/src/pages/master/vip.vue" timestamp="1600649553532" />
     </filemarks>
     <jumps>
-      <jump line="97" column="6" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
-      <jump line="101" column="6" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
-      <jump line="106" column="4" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
-      <jump line="121" column="12" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="123" column="11" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="164" column="30" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
       <jump line="203" column="11" filename="C:/project/kongbao/src/pages/admin/pay-qr-code.vue" />
@@ -305,56 +287,62 @@
       <jump line="144" column="15" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
       <jump line="345" column="21" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="142" column="27" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="25" column="13" filename="C:/project/jxg-h5/src/api/api.ts" />
+      <jump line="410" column="26" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="259" column="27" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="67" column="33" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text>callPay</text>
+        <text>-btn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMSwgdGhpcy5jb21wdXRlZEFtb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA6aXMtbGFjay1xdWFudGl0eT0iaXNBbGxBY3Rpdml0eVNrdTAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vINLUsePTw9StvNu5usLyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vILvutq+94cr4uvMsu/LV37vutq/OtL+qyryyu7Sru+62r2lkus277ravwODQzQo=</text>
+      <register name="2" type="4">
+        <text>if (this.computedIsInSecKillProgress) {
+      return &quot;马上抢&quot;;
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHVzID09PSBBQ1RJVklUWV9TVEFUVVMuRklOSVNIRUQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHVzID09PSBBQ1RJVklUWV9TVEFUVVMuTk9ORSB8fAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIXN0YXR1cyB8fAo=</text>
+        <text encoding="base64">ICAgIC8vINLUsePTw9StvNu5usLyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICkgewogICAgICByZXR1cm4gdHJ1ZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vILvutq+94cr4uvMsu/LV37vutq/OtL+qyryyu7Sru+62r2lkus277ravwODQzQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFjdGl2aXR5LmNvdW50RG93blRleHQK</text>
+        <text encoding="base64">ICAgICAgc3RhdHVzID09PSBBQ1RJVklUWV9TVEFUVVMuRklOSVNIRUQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIChhY3Rpdml0eS5zdGF0dXMgPT09IDEgfHwgYWN0aXZpdHkuc3RhdHVzID09PSAyKSAmJgo=</text>
+        <text encoding="base64">ICAgICAgc3RhdHVzID09PSBBQ1RJVklUWV9TVEFUVVMuTk9ORSB8fAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">KGFjdGl2aXR5LnN0YXR1cyA9PT0gMSB8fCBhY3Rpdml0eS5zdGF0dXMgPT09IDIpICYmCiAgICAgICAgYWN0aXZpdHkuY291bnREb3duVGV4dA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgIXN0YXR1cyB8fAo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>callPay</last-search>
+      <last-search>-btn</last-search>
       <last-offset />
-      <last-pattern>callPay</last-pattern>
+      <last-pattern>-btn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
