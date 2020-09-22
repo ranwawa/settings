@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onReachBottom</entry>
-        <entry>onRe</entry>
-        <entry>售价</entry>
-        <entry>emit</entry>
-        <entry>activity =</entry>
         <entry>rww-saas</entry>
         <entry>rww-sass</entry>
         <entry>template</entry>
@@ -25,6 +20,11 @@
         <entry>pull</entry>
         <entry>console</entry>
         <entry>md</entry>
+        <entry>onLoad</entry>
+        <entry>content</entry>
+        <entry>grid</entry>
+        <entry>data-length</entry>
+        <entry>price</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,24 +121,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/project/kongbao/src/pages/fund/vip.vue" timestamp="1600762927181">
+        <mark key="'" line="28" column="12" />
+        <mark key="[" line="137" column="29" />
+        <mark key="]" line="137" column="30" />
+        <mark key="." line="137" column="29" />
+        <mark key="^" line="137" column="30" />
+      </file>
       <file name="C:/project/kongbao/src/components/goods-card.vue" timestamp="1600758520333">
         <mark key="[" line="60" column="20" />
         <mark key="]" line="60" column="21" />
         <mark key="." line="60" column="21" />
         <mark key="^" line="59" column="13" />
       </file>
-      <file name="C:/project/jxg-wxapp/package.json" timestamp="1600755901504">
-        <mark key="'" line="20" column="0" />
+      <file name="/Dummy.txt" timestamp="1600757108449">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
-      <file name="C:/project/jxg-wxapp/README.md" timestamp="1600755868121" />
-      <file name="C:/project/kongbao/node_modules/rww-sass/lib/_size.scss" timestamp="1600758590689">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-        <mark key="." line="8" column="17" />
-      </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/customer-order.js" timestamp="1600756834041">
-        <mark key="[" line="62" column="3" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/customer-vip.js" timestamp="1600763751720">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="42" column="67" />
       </file>
       <file name="C:/project/kongbao/src/manifest.json" timestamp="1600758547928">
         <mark key="'" line="12" column="14" />
@@ -147,15 +152,23 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="1" />
       </file>
+      <file name="/vip.vue" timestamp="1600762457480" />
       <file name="C:/project/kongbao/src/pages/tab/home.vue" timestamp="1600757788219">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/agent-goods.js" timestamp="1600756351805" />
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/customer-address.js" timestamp="1600756657355">
-        <mark key="[" line="128" column="30" />
-        <mark key="]" line="129" column="24" />
-        <mark key="^" line="129" column="24" />
-        <mark key="." line="129" column="23" />
+      <file name="C:/project/kongbao/src/api/fund.ts" timestamp="1600759350357" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" timestamp="1600763953370">
+        <mark key="'" line="117" column="21" />
+        <mark key="[" line="347" column="34" />
+        <mark key="]" line="339" column="11" />
+        <mark key="^" line="335" column="7" />
+        <mark key="." line="339" column="0" />
+      </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/user-anonymous.js" timestamp="1600764200537">
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="37" column="19" />
+        <mark key="^" line="37" column="19" />
+        <mark key="." line="37" column="18" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/customer-order.js" timestamp="1600756964812">
         <mark key="[" line="175" column="0" />
@@ -163,13 +176,28 @@
         <mark key="^" line="175" column="1" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1600757108449">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/user-anonymous.js" timestamp="1600763130122">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="59" />
+      </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/customer-address.js" timestamp="1600756657355">
+        <mark key="[" line="128" column="30" />
+        <mark key="]" line="129" column="24" />
+        <mark key="^" line="129" column="24" />
+        <mark key="." line="129" column="23" />
       </file>
       <file name="C:/project/kongbao/src/App.vue" timestamp="1600757783844">
         <mark key="'" line="0" column="1" />
+      </file>
+      <file name="C:/project/kongbao/src/api/vip.ts" timestamp="1600759991010">
+        <mark key="'" line="15" column="25" />
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="19" />
+      </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/customer-order.js" timestamp="1600756834041">
+        <mark key="[" line="62" column="3" />
       </file>
       <file name="C:/project/kongbao/node_modules/rww-sass/lib/_function.scss" timestamp="1600758559816">
         <mark key="[" line="15" column="41" />
@@ -177,25 +205,14 @@
         <mark key="." line="15" column="41" />
         <mark key="^" line="15" column="42" />
       </file>
+      <file name="C:/project/kongbao/src/api/index.d.ts" timestamp="1600762201080">
+        <mark key="[" line="244" column="19" />
+        <mark key="]" line="245" column="18" />
+        <mark key="." line="245" column="17" />
+        <mark key="^" line="245" column="18" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="27" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
-      <jump line="68" column="21" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
-      <jump line="1201" column="45" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="1604" column="21" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="609" column="28" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="1481" column="34" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="1477" column="35" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="65" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="1484" column="45" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="130" column="6" filename="C:/project/kongbao/src/pages/fund/recharge.vue" />
-      <jump line="104" column="37" filename="C:/project/kongbao/src/pages/fund/recharge.vue" />
-      <jump line="5" column="28" filename="C:/project/kongbao/src/pages/fund/list.vue" />
-      <jump line="3" column="0" filename="C:/project/jxg-h5/package.json" />
-      <jump line="1230" column="35" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="1471" column="12" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="66" column="56" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
-      <jump line="591" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="562" column="18" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="733" column="22" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="741" column="56" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
@@ -279,56 +296,77 @@
       <jump line="0" column="1" filename="C:/project/kongbao/src/App.vue" />
       <jump line="0" column="0" filename="C:/project/kongbao/src/pages/tab/home.vue" />
       <jump line="11" column="14" filename="C:/project/kongbao/src/manifest.json" />
+      <jump line="78" column="0" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
+      <jump line="15" column="25" filename="C:/project/kongbao/src/api/vip.ts" />
+      <jump line="286" column="29" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
+      <jump line="307" column="7" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
+      <jump line="310" column="14" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
+      <jump line="317" column="14" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
+      <jump line="329" column="38" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
+      <jump line="259" column="21" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
+      <jump line="130" column="0" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
+      <jump line="373" column="34" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
+      <jump line="0" column="0" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
+      <jump line="372" column="35" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
+      <jump line="28" column="12" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
+      <jump line="278" column="16" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" />
+      <jump line="339" column="10" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" />
+      <jump line="20" column="25" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" />
+      <jump line="117" column="21" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>750</text>
+        <text>{
+        balance: _.inc(price),
+      }</text>
       </register>
       <register name="-" type="4">
-        <text>750</text>
+        <text>Balance</text>
       </register>
       <register name="/" type="4">
-        <text>md</text>
+        <text>price</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyogI2lmZGVmIE1QICovCiRkZXNpZ24td2lkdGg6IDc1MCAhZGVmYXVsdDsKLyogI2VuZGlmICovCg==</text>
+        <text encoding="base64">ICAgIHByaWNlICYmIChwYXJhbS5iYWxhbmNlID0gXy5pbmMocHJpY2UpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZsZXgtZ3JvdzogMTsK</text>
+      <register name="1" type="4">
+        <text>{
+        balance: _.inc(price),
+      }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZnMSAK</text>
+        <text encoding="base64">ICAgIHByaWNlICYmIChwYXJhbS5iYWxhbmNlID0gXy5pbmMocHJpY2UpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiBweDJycHgoMTgxKTsK</text>
+        <text encoding="base64">ICAgIHByaWNlICYmIChwYXJhbS5iYWxhbmNlID0gXy5pbmMocHJpY2UpKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAvKioKICAgKiC807mktKu13bj4uanTpsnMtcS2qbWl0MXPogogICAqLwogIGdldFBvc3REYXRhKGNzR29vZHNJbmZvLCBhZGRyZXNzSW5mb0l0ZW0sIHNlcnZpY2VJbmZvKSB7CiAgICByZXR1cm4gewogICAgICBzdG9yZWhvdXNlQ29kZTogY3NHb29kc0luZm8uc3RvcmVDb2RlLAogICAgICBnb29kc0NvZGU6IGNzR29vZHNJbmZvLmdvb2RzQ29kZSwKICAgICAgbWluU2luZ2xlR29vZHNXZWlnaHQ6IGNzR29vZHNJbmZvLm1pbiB8fCAwLjYsCiAgICAgIG1heFNpbmdsZUdvb2RzV2VpZ2h0OiBjc0dvb2RzSW5mby5tYXggfHwgMC44LAogICAgICByZWNlaXZlcjogYWRkcmVzc0luZm9JdGVtLm5hbWUsCiAgICAgIHJlY2VpdmVyUGhvbmU6IGFkZHJlc3NJbmZvSXRlbS5tb2JpbGUsCiAgICAgIHJlY2VpdmVyUHJvdmluY2VOYW1lOiBhZGRyZXNzSW5mb0l0ZW0ucHJvdmluY2VOYW1lLAogICAgICByZWNlaXZlckNpdHlOYW1lOiBhZGRyZXNzSW5mb0l0ZW0uY2l0eU5hbWUsCiAgICAgIHJlY2VpdmVyQXJlYU5hbWU6IGFkZHJlc3NJbmZvSXRlbS5hcmVhTmFtZSwKICAgICAgcmVjZWl2ZXJBZGRyZXNzOiBhZGRyZXNzSW5mb0l0ZW0uYWRkcmVzcywKICAgICAgdGhpcmRPcmRlck5vOiBhZGRyZXNzSW5mb0l0ZW0uYWRkcmVzc0lkLAogICAgICBnb29kc051bTogMSwKICAgICAgc2hpcHBlck5hbWU6IHNlcnZpY2VJbmZvLm5hbWUsCiAgICAgIHNoaXBwZXJQaG9uZTogc2VydmljZUluZm8ubW9iaWxlLAogICAgfTsKICB9CiAgLyoqCiAgICogtuDM9bXY1rfS7LK9z8K1pQogICAqLwogIGFzeW5jIGJ1eU1vcmUob3JkZXJJbmZvKSB7CiAgICBjb25zdCB7IGNzR29vZHNJbmZvLCBzZXJ2aWNlSW5mbywgYWRkcmVzc0luZm8gfSA9IG9yZGVySW5mbzsKICAgIGNvbnN0IG9yZGVySWQgPSBvcmRlckluZm8uX2lkOwogICAgY29uc3QgcGFyYW0gPSB7CiAgICAgIGFjY2Vzc1Rva2VuOiB0aGlzLmFjY2Vzc1Rva2VuLAogICAgICBkYXRhczogSlNPTi5zdHJpbmdpZnkoCiAgICAgICAgYWRkcmVzc0luZm8ubWFwKChlbGUpID0+CiAgICAgICAgICB0aGlzLmdldFBvc3REYXRhKGNzR29vZHNJbmZvLCBlbGUsIHNlcnZpY2VJbmZvKQogICAgICAgICkKICAgICAgKSwKICAgIH07CiAgICB1bmlDbG91ZC5sb2dnZXIubG9nKCK24Mz1tdjWt9Lssr3PwrWlLcjrss4iLCBwYXJhbSk7CiAgICBjb25zdCBbZXJyLCByZXNdID0gYXdhaXQgcmVxdWVzdCh7CiAgICAgIHVybDogImh0dHA6Ly93d3cuYWxpaHVvY2FuZy5jb20vYXBpL2NyZWF0ZU9yZGVyL21lcmNoYW50Q3JlYXRlT3JkZXJMaXN0IiwKICAgICAgbWV0aG9kOiAiUE9TVCIsCiAgICAgIGRhdGE6IHBhcmFtLAogICAgfSk7CiAgICB1bmlDbG91ZC5sb2dnZXIubG9nKCK24Mz1tdjWt9Lssr3PwrWlLbP2ss4iLCBbZXJyLCByZXNdKTsKICAgIGlmIChlcnIgfHwgcmVzLmxlbmd0aCA8IDEpIHsKICAgICAgcmV0dXJuOwogICAgfQogICAgY29uc3QgcmVzMiA9IGF3YWl0IGNvbENzT3JkZXIuZG9jKG9yZGVySWQpLnVwZGF0ZSh7CiAgICAgIGJhdGNoTm86IHJlc1swXS5iYXRjaE5vLAogICAgICBzcEFtb3VudDogK3Jlcy5hbW91bnQgKiAxMDAsCiAgICAgIHN0YXR1czogMywKICAgICAgc3BCdXlUaW1lOiBEYXRlLm5vdygpLAogICAgfSk7CiAgICB1bmlDbG91ZC5sb2dnZXIubG9nKCK24Mz1tdjWt9Lssr3PwrWls8m5piy4/NDCtqm1pde0zKwts/ayziIsIHJlczIpOwogICAgcmV0dXJuIHJlczIudXBkYXRlZDsKICB9CiAgLyoqCiAgICogtaXM9c2ssr3PwrWlCiAgICovCiAgYXN5bmMgYnV5T25lKG9yZGVySW5mbykgewogICAgY29uc3QgeyBjc0dvb2RzSW5mbywgc2VydmljZUluZm8sIGFkZHJlc3NJbmZvIH0gPSBvcmRlckluZm87CiAgICBjb25zdCBbYWRkcmVzc0luZm9PbmVdID0gYWRkcmVzc0luZm87CiAgICBjb25zdCBvcmRlcklkID0gb3JkZXJJbmZvLl9pZDsKICAgIGNvbnN0IHBhcmFtID0gdGhpcy5nZXRQb3N0RGF0YShjc0dvb2RzSW5mbywgYWRkcmVzc0luZm9PbmUsIHNlcnZpY2VJbmZvKTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrWlzPXNrLK9z8K1pS3I67LOIiwgcGFyYW0pOwogICAgY29uc3QgW2VyciwgcmVzXSA9IGF3YWl0IHJlcXVlc3QoewogICAgICB1cmw6ICJodHRwOi8vd3d3LmFsaWh1b2NhbmcuY29tL2FwaS9jcmVhdGVPcmRlci9tZXJjaGFudENyZWF0ZU9yZGVyIiwKICAgICAgbWV0aG9kOiAiUE9TVCIsCiAgICAgIGRhdGE6IHsKICAgICAgICBhY2Nlc3NUb2tlbjogdGhpcy5hY2Nlc3NUb2tlbiwKICAgICAgICAuLi5wYXJhbSwKICAgICAgfSwKICAgIH0pOwogICAgdW5pQ2xvdWQubG9nZ2VyLmxvZygitaXM9c2ssr3PwrWlLbP2ss4iLCBbZXJyLCByZXNdKTsKICAgIGlmIChlcnIpIHsKICAgICAgcmV0dXJuOwogICAgfQogICAgY29uc3QgcmVzMiA9IGF3YWl0IGNvbENzT3JkZXIuZG9jKG9yZGVySWQpLnVwZGF0ZSh7CiAgICAgIGFkZHJlc3NJbmZvOiBbYWRkcmVzc0luZm9PbmVdLAogICAgICBzcEFtb3VudDogK3Jlcy5hbW91bnQgKiAxMDAsCiAgICAgIHN0YXR1czogMywKICAgICAgc3BCdXlUaW1lOiBEYXRlLm5vdygpLAogICAgfSk7CiAgICB1bmlDbG91ZC5sb2dnZXIubG9nKCLPwrWls8m5piy4/NDCtqm1pde0zKwts/ayziIsIHJlczIpOwogICAgcmV0dXJuIHJlczIudXBkYXRlZDsKICB9CgogIC8vIC8qKgogIC8vICAqINHp1qR0b2tlbgogIC8vICAqIEByZXR1cm5zIHtQcm9taXNlPFJlc3BvbnNlTW9kYWx8e21zZzogc3RyaW5nLCBjb2RlOiBudW1iZXJ9fHttc2c6IHN0cmluZywKICAvLyAgKiAgIGNvZGU6IG51bWJlcn18e21zZzogc3RyaW5nLCBjb2RlOiBudW1iZXJ9fCp8e21zZzogc3RyaW5nLCBjb2RlOiBudW1iZXIsCiAgLy8gICogICBlcnI6ICp9fHttc2c6IHN0cmluZywgY29kZTogbnVtYmVyLCBlcnI6ICp9Pn0KICAvLyAgKi8KICAvLyBhc3luYyBjaGVja1Rva2VuKCkgewogIC8vICAgaWYgKCF0aGlzLnVuaUlkVG9rZW4pIHsKICAvLyAgICAgcmV0dXJuIG5ldyB0aGlzLlJlc3BvbnNlTW9kYWwoNDAxLCAix+u1x8K8uvO3w87KIik7CiAgLy8gICB9CiAgLy8gICBjb25zdCByZXMgPSBhd2FpdCB1bmlJRC5jaGVja1Rva2VuKHRoaXMudW5pSWRUb2tlbik7CiAgLy8gICB1bmlDbG91ZC5sb2dnZXIubG9nKCLR6dakdG9rZW4ts/ayziIsIHJlcyk7CiAgLy8gICBpZiAocmVzLmNvZGUgIT09IDApIHsKICAvLyAgICAgcmV0dXJuIHJlczsKICAvLyAgIH0KICAvLyAgIGlmIChyZXMuYXBwSWQgIT09IHRoaXMuYXBwSWQpIHsKICAvLyAgICAgdW5pQ2xvdWQubG9nZ2VyLndhcm4oItHp1qR0b2tlbiIsICLXorLhyrFhcHBJZNPrtcfCvMqxYXBwSWTT0LLu0uwiKTsKICAvLyAgIH0KICAvLyAgIC8vIGNvbnN0IHNwUmVzID0gYXdhaXQgdGhpcy5nZXRBY2Nlc3NUb2tlbigpOwogIC8vICAgLy8gaWYgKCFzcFJlcykgewogIC8vICAgLy8gICByZXR1cm4gbmV3IFJlc3BvbnNlTW9kYWwoMzAwMTEsICLPtc2z0uyzoyzH68Gqz7W53MDt1LEiKTsKICAvLyAgIC8vIH0KICAvLyAgIHRoaXMudXNlcklkID0gcmVzLnVpZDsKICAvLyAgIHRoaXMuaXNWaXAgPSByZXMudXNlckluZm8uaXNWaXA7CiAgLy8gICByZXR1cm4gcmVzOwogIC8vIH0KICAvKioKICAgKiC78cihuanTpsnMtcRhY2Nlc3NUb2tlbgogICAqLwogIGFzeW5jIGdldEFjY2Vzc1Rva2VuKCkgewogICAgY29uc3QgcmVzID0gYXdhaXQgY29sU3BJbmZvcwogICAgICAud2hlcmUoewogICAgICAgIGFwcElkOiB0aGlzLmFwcElkLAogICAgICAgIGlzRGVsZXRlOiBmYWxzZSwKICAgICAgICBpc0VuYWJsZTogdHJ1ZSwKICAgICAgfSkKICAgICAgLmxpbWl0KDEpCiAgICAgIC5nZXQoKTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrvxyKG5qdOmycy1xGFjY2Vzc1Rva2VuLbP2ss4iLCByZXMpOwogICAgY29uc3QgewogICAgICBkYXRhOiBbc3BJbmZvXSwKICAgIH0gPSByZXM7CiAgICBjb25zdCBhY2Nlc3NUb2tlbiA9IHNwSW5mbyAmJiBzcEluZm8uYWNjZXNzVG9rZW47CiAgICByZXR1cm4gKHRoaXMuYWNjZXNzVG9rZW4gPSBhY2Nlc3NUb2tlbik7CiAgfQp9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtID0ge307Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAvKioKICAgKiC24Mz1tdjWt9Lssr3PwrWlCiAgICovCiAgYXN5bmMgYnV5TW9yZShvcmRlckluZm8pIHsKICAgIGNvbnN0IHsgY3NHb29kc0luZm8sIHNlcnZpY2VJbmZvLCBhZGRyZXNzSW5mbyB9ID0gb3JkZXJJbmZvOwogICAgY29uc3Qgb3JkZXJJZCA9IG9yZGVySW5mby5faWQ7CiAgICBjb25zdCBwYXJhbSA9IHsKICAgICAgYWNjZXNzVG9rZW46IHRoaXMuYWNjZXNzVG9rZW4sCiAgICAgIGRhdGFzOiBKU09OLnN0cmluZ2lmeSgKICAgICAgICBhZGRyZXNzSW5mby5tYXAoKGVsZSkgPT4KICAgICAgICAgIHRoaXMuZ2V0UG9zdERhdGEoY3NHb29kc0luZm8sIGVsZSwgc2VydmljZUluZm8pCiAgICAgICAgKQogICAgICApLAogICAgfTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrbgzPW12Na30uyyvc/CtaUtyOuyziIsIHBhcmFtKTsKICAgIGNvbnN0IFtlcnIsIHJlc10gPSBhd2FpdCByZXF1ZXN0KHsKICAgICAgdXJsOiAiaHR0cDovL3d3dy5hbGlodW9jYW5nLmNvbS9hcGkvY3JlYXRlT3JkZXIvbWVyY2hhbnRDcmVhdGVPcmRlckxpc3QiLAogICAgICBtZXRob2Q6ICJQT1NUIiwKICAgICAgZGF0YTogcGFyYW0sCiAgICB9KTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrbgzPW12Na30uyyvc/CtaUts/ayziIsIFtlcnIsIHJlc10pOwogICAgaWYgKGVyciB8fCByZXMubGVuZ3RoIDwgMSkgewogICAgICByZXR1cm47CiAgICB9CiAgICBjb25zdCByZXMyID0gYXdhaXQgY29sQ3NPcmRlci5kb2Mob3JkZXJJZCkudXBkYXRlKHsKICAgICAgYmF0Y2hObzogcmVzWzBdLmJhdGNoTm8sCiAgICAgIHNwQW1vdW50OiArcmVzLmFtb3VudCAqIDEwMCwKICAgICAgc3RhdHVzOiAzLAogICAgICBzcEJ1eVRpbWU6IERhdGUubm93KCksCiAgICB9KTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrbgzPW12Na30uyyvc/CtaWzybmmLLj80MK2qbWl17TMrC2z9rLOIiwgcmVzMik7CiAgICByZXR1cm4gcmVzMi51cGRhdGVkOwogIH0KICAvKioKICAgKiC1pcz1zayyvc/CtaUKICAgKi8KICBhc3luYyBidXlPbmUob3JkZXJJbmZvKSB7CiAgICBjb25zdCB7IGNzR29vZHNJbmZvLCBzZXJ2aWNlSW5mbywgYWRkcmVzc0luZm8gfSA9IG9yZGVySW5mbzsKICAgIGNvbnN0IFthZGRyZXNzSW5mb09uZV0gPSBhZGRyZXNzSW5mbzsKICAgIGNvbnN0IG9yZGVySWQgPSBvcmRlckluZm8uX2lkOwogICAgY29uc3QgcGFyYW0gPSB0aGlzLmdldFBvc3REYXRhKGNzR29vZHNJbmZvLCBhZGRyZXNzSW5mb09uZSwgc2VydmljZUluZm8pOwogICAgdW5pQ2xvdWQubG9nZ2VyLmxvZygitaXM9c2ssr3PwrWlLcjrss4iLCBwYXJhbSk7CiAgICBjb25zdCBbZXJyLCByZXNdID0gYXdhaXQgcmVxdWVzdCh7CiAgICAgIHVybDogImh0dHA6Ly93d3cuYWxpaHVvY2FuZy5jb20vYXBpL2NyZWF0ZU9yZGVyL21lcmNoYW50Q3JlYXRlT3JkZXIiLAogICAgICBtZXRob2Q6ICJQT1NUIiwKICAgICAgZGF0YTogewogICAgICAgIGFjY2Vzc1Rva2VuOiB0aGlzLmFjY2Vzc1Rva2VuLAogICAgICAgIC4uLnBhcmFtLAogICAgICB9LAogICAgfSk7CiAgICB1bmlDbG91ZC5sb2dnZXIubG9nKCK1pcz1zayyvc/CtaUts/ayziIsIFtlcnIsIHJlc10pOwogICAgaWYgKGVycikgewogICAgICByZXR1cm47CiAgICB9CiAgICBjb25zdCByZXMyID0gYXdhaXQgY29sQ3NPcmRlci5kb2Mob3JkZXJJZCkudXBkYXRlKHsKICAgICAgYWRkcmVzc0luZm86IFthZGRyZXNzSW5mb09uZV0sCiAgICAgIHNwQW1vdW50OiArcmVzLmFtb3VudCAqIDEwMCwKICAgICAgc3RhdHVzOiAzLAogICAgICBzcEJ1eVRpbWU6IERhdGUubm93KCksCiAgICB9KTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIs/CtaWzybmmLLj80MK2qbWl17TMrC2z9rLOIiwgcmVzMik7CiAgICByZXR1cm4gcmVzMi51cGRhdGVkOwogIH0K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vILLp0a/T4LbuCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAvKioKICAgKiC4/NDC0+C27gogICAqLwogIGFzeW5jIHVwZGF0ZUJhbGFuY2Uob3JkZXJJbmZvLCBiYWxhbmNlQ3VzdG9tZXIsIGJhbGFuY2VBZ2VudCkgewogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IHBhcmFtID0gewogICAgICByZW1hcms6IG9yZGVySW5mby5faWQsCiAgICAgIHR5cGU6IDIxLAogICAgICBpc0luY29tZTogZmFsc2UsCiAgICAgIGlzRGVsZXRlOiBmYWxzZSwKICAgICAgY3JlYXRlVGltZTogbm93LAogICAgICBhcHBJZDogdGhpcy5hcHBJZCwKICAgICAgdXNlcklkOiB0aGlzLnVzZXJJbmZvLl9pZCwKICAgIH07CiAgICBjb25zdCBhbGxQcm9taXNlID0gWwoKICAgICAgY29sQWdGdW5kLmFkZCh7CiAgICAgICAgLi4ucGFyYW0sCiAgICAgICAgcHJpY2U6IG9yZGVySW5mby5hZ0Ftb3VudCwKICAgICAgICBiYWxhbmNlOiBiYWxhbmNlQWdlbnQsCiAgICAgIH0pLAogICAgXTsKICAgIGNvbnN0IHJlcyA9IGF3YWl0IFByb21pc2UuYWxsKGFsbFByb21pc2UpOwogICAgdW5pQ2xvdWQubG9nZ2VyLmxvZygiuPzQwtPgtu4ts/ayziIsIHJlcyk7CiAgICBpZiAocmVzLmxlbmd0aCAmJiByZXMubGVuZ3RoIDwgMikgewogICAgICByZXR1cm47CiAgICB9CiAgICBjb25zdCByZXMyID0gYXdhaXQgY29sQ3NPcmRlci5kb2Mob3JkZXJJbmZvLl9pZCkudXBkYXRlKHsKICAgICAgc3RhdHVzOiAyLAogICAgICBwYXlUaW1lOiBub3csCiAgICB9KTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrj80MLT4LbuuvO4/NDCtqm1pde0zKwts/ayziIsIHJlczIpOwogICAgcmV0dXJuIHJlczIudXBkYXRlZDsKICB9CiA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmKHR5cGVvZiBvcHRpb25zLnZpcElkICE9PSAnc3RyaW5nJykgewogICAgICByZXR1cm4gbmV3IHRoaXMuUmVzcG9uc2VNb2RhbCg0MDAsIHt9LCAnss7K/dPQzvMnKTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKHR5cGVvZiBvcHRpb25zLnZpcElkICE9PSAnc3RyaW5nJykgewogICAgICByZXR1cm4gbmV3IHRoaXMuUmVzcG9uc2VNb2RhbCg0MDAsIHt9LCAnss7K/dPQzvMnKTsKICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IC8qKgogICAqILLp0a+31tW+0+C27gogICAqLwogIGFzeW5jIGdldEFnZW50QmFsYW5jZShnb29kc0Ftb3VudCkgewogICAgLy8guPm+3dPDu6fJ7bfdyKF2aXC78sHjytu82wogICAgLy8gttSxyNPgtu66zbzbuPEKICAgIGNvbnN0IHJlcyA9IGF3YWl0IGNvbEFnRnVuZAogICAgICAud2hlcmUoewogICAgICAgIGFwcElkOiB0aGlzLmFwcElkLAogICAgICB9KQogICAgICAub3JkZXJCeSgiY3JlYXRlVGltZSIsICJkZXNjIikKICAgICAgLmZpZWxkKHsKICAgICAgICBiYWxhbmNlOiB0cnVlLAogICAgICB9KQogICAgICAubGltaXQoMSkKICAgICAgLmdldCgpOwogICAgdW5pQ2xvdWQubG9nZ2VyLmxvZygisunRr7fW1b7T4LbuLbP2ss4iLCByZXMpOwogICAgY29uc3QgYmFsYW5jZSA9IHJlcy5kYXRhWzBdID8gcmVzLmRhdGFbMF0uYmFsYW5jZSA6IDA7CiAgICByZXR1cm4gYmFsYW5jZSAtIGdvb2RzQW1vdW50OwogIH0KIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBhc3luYyBnZXRWaXBJbmZvKG9wdGlvbnMpIHsKICAgIHJldHVybiB0aGlzLmN1CiAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IC8qKgogICAqILLp0a/Tw7un0+C27gogICAqLwogIGFzeW5jIGdldEN1c3RvbWVyQmFsYW5jZShnb29kc0Ftb3VudCkgewogICAgLy8guPm+3dPDu6fJ7bfdyKF2aXC78sHjytu82wogICAgLy8gttSxyNPgtu66zbzbuPEKICAgIGNvbnN0IHJlcyA9IGF3YWl0IGNvbENzRnVuZAogICAgICAud2hlcmUoewogICAgICAgIGFwcElkOiB0aGlzLmFwcElkLAogICAgICAgIHVzZXJJZDogdGhpcy51c2VySW5mby5faWQsCiAgICAgIH0pCiAgICAgIC5vcmRlckJ5KCJjcmVhdGVUaW1lIiwgImRlc2MiKQogICAgICAuZmllbGQoewogICAgICAgIGJhbGFuY2U6IHRydWUsCiAgICAgIH0pCiAgICAgIC5saW1pdCgxKQogICAgICAuZ2V0KCk7CiAgICB1bmlDbG91ZC5sb2dnZXIubG9nKCKy6dGv08O7p9Pgtu4ts/ayziIsIHJlcyk7CiAgICBjb25zdCBiYWxhbmNlID0gcmVzLmRhdGFbMF0gPyByZXMuZGF0YVswXS5iYWxhbmNlIDogMDsKICAgIHJldHVybiBiYWxhbmNlIC0gZ29vZHNBbW91bnQ7CiAgfQog</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLnByb2plY3QoKQo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>md</last-search>
+      <last-search>price</last-search>
       <last-offset />
-      <last-pattern>md</last-pattern>
+      <last-pattern>price</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
