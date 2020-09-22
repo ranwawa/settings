@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>computedAmount</entry>
-        <entry>submit</entry>
-        <entry>callPay</entry>
-        <entry>root</entry>
-        <entry>计算运费</entry>
-        <entry>onLoad</entry>
         <entry>-btn</entry>
         <entry>onReachBottom</entry>
         <entry>onRe</entry>
@@ -25,6 +19,12 @@
         <entry>rww</entry>
         <entry>rpx</entry>
         <entry>placeholder</entry>
+        <entry>console.log</entry>
+        <entry>log</entry>
+        <entry>test</entry>
+        <entry>pullDown</entry>
+        <entry>pull</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -126,6 +126,7 @@
         <mark key="]" line="6" column="64" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="C:/project/jxg-wxapp/README.md" timestamp="1600754754325" />
       <file name="C:/project/kongbao/node_modules/uni-vant/lib/field.vue" timestamp="1600746784732">
         <mark key="'" line="5" column="28" />
         <mark key="[" line="266" column="27" />
@@ -145,19 +146,18 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="C:/project/rww-sass/lib/_border.scss" timestamp="1600738818874" />
-      <file name="C:/project/kongbao/src/manifest.json" timestamp="1600745162949">
-        <mark key="'" line="9" column="5" />
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="22" />
-        <mark key="^" line="6" column="22" />
-        <mark key="." line="6" column="21" />
-      </file>
       <file name="C:/project/kongbao/package.json" timestamp="1600739659835">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="64" column="23" />
         <mark key="]" line="64" column="24" />
         <mark key="." line="64" column="24" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1600754595411">
+        <mark key="'" line="1117" column="6" />
+        <mark key="[" line="1482" column="26" />
+        <mark key="]" line="1482" column="26" />
+        <mark key="^" line="740" column="35" />
+        <mark key="." line="1482" column="26" />
       </file>
       <file name="C:/project/kongbao/src/pages/user/login-home.vue" timestamp="1600744507633">
         <mark key="'" line="0" column="0" />
@@ -165,6 +165,11 @@
         <mark key="]" line="64" column="22" />
         <mark key="." line="64" column="21" />
         <mark key="^" line="64" column="22" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" timestamp="1600753790252">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="C:/project/rww-sass/package.json" timestamp="1600739415726">
         <mark key="[" line="2" column="19" />
@@ -179,10 +184,7 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="C:/project/jxg-wxapp/vue.config.js" timestamp="1600687876926">
-        <mark key="'" line="40" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1600739075341">
+      <file name="/Dummy.txt" timestamp="1600754625132">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -208,22 +210,8 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="C:/project/rww-sass/lib/_size.scss" timestamp="1600738850098" />
     </filemarks>
     <jumps>
-      <jump line="136" column="35" filename="C:/project/kongbao/src/pages/fund/recharge.vue" />
-      <jump line="223" column="26" filename="C:/project/kongbao/src/pages/fund/recharge.vue" />
-      <jump line="141" column="24" filename="C:/project/kongbao/src/pages/fund/recharge.vue" />
-      <jump line="126" column="0" filename="C:/project/kongbao/src/pages/fund/recharge.vue" />
-      <jump line="139" column="19" filename="C:/project/kongbao/src/pages/fund/recharge.vue" />
-      <jump line="144" column="6" filename="C:/project/kongbao/src/pages/fund/recharge.vue" />
-      <jump line="9" column="1" filename="C:/project/kongbao/cloudfunctions-aliyun/customer/customer-fund.js" />
-      <jump line="495" column="0" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="1478" column="41" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="587" column="9" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="104" column="10" filename="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" />
-      <jump line="110" column="37" filename="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" />
-      <jump line="520" column="33" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="85" column="0" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
       <jump line="131" column="8" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
       <jump line="134" column="8" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
@@ -285,7 +273,6 @@
       <jump line="25" column="13" filename="C:/project/jxg-h5/src/api/api.ts" />
       <jump line="410" column="26" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="259" column="27" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="67" column="33" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="194" column="8" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="723" column="2" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="6" column="9" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
@@ -311,56 +298,70 @@
       <jump line="42" column="22" filename="C:/project/uni-vant/src/components/field.vue" />
       <jump line="43" column="28" filename="C:/project/uni-vant/src/components/field.vue" />
       <jump line="5" column="28" filename="C:/project/kongbao/node_modules/uni-vant/lib/field.vue" />
+      <jump line="1263" column="24" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="1250" column="6" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="1262" column="12" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="74" column="2" filename="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" />
+      <jump line="112" column="12" filename="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" />
+      <jump line="1181" column="37" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="67" column="43" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="68" column="33" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="479" column="28" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="732" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="1257" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="1482" column="17" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="1117" column="6" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>placeholder</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyogI2lmZGVmIE1QICovCiRkZXNpZ24td2lkdGg6IDc1MCAhZGVmYXVsdDsKLyogI2VuZGlmICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogI2VuZGlmICovCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyBzZWxlY3RlZFNrdSB9ID0gdGhpczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyogI2lmZGVmIE1QICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyogI2lmZGVmIEg1ICovCiRkZXNpZ24td2lkdGg6IDM3NSAhZGVmYXVsdDsKLyogI2VuZGlmICovCg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmVuYWJsZUNvbnNvbGVUaW1lcyA9PT0gMTApIHsKICAgICAgbmV3IHRoaXMuX1Zjb25zb2xlKCk7CiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyogI2lmZGVmIEg1ICovCiRkZXNpZ24td2lkdGg6IDM3NSAhZGVmYXVsdDsKLyogI2VuZGlmICovCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZW5hYmxlQ29uc29sZVRpbWVzICs9IDE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogI2lmZGVmIEg1ICovCiRkZXNpZ24td2lkdGg6IDM3NSAhZGVmYXVsdDsKLyogI2VuZGlmICovCg==</text>
+        <text encoding="base64">ICBlbmFibGVDb25zb2xlVGltZXMgPSAwOyAvLyDG9LavtM7K/Qo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyBzZWxlY3RlZFNrdSB9ID0gdGhpczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JGRlc2lnbi13aWR0aDogNzUwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZW5hYmxlQ29uc29sZVRpbWVzICs9IDE7CiAgICBpZiAodGhpcy5lbmFibGVDb25zb2xlVGltZXMgPT09IDEwKSB7CiAgICAgIG5ldyB0aGlzLl9WY29uc29sZSgpOwogICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>placeholder</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>placeholder</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
