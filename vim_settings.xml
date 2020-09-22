@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>rww-saas</entry>
         <entry>rww-sass</entry>
         <entry>template</entry>
         <entry>uni-vant</entry>
@@ -25,6 +24,7 @@
         <entry>grid</entry>
         <entry>data-length</entry>
         <entry>price</entry>
+        <entry>updateBa</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -157,14 +157,14 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="C:/project/kongbao/src/api/fund.ts" timestamp="1600759350357" />
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" timestamp="1600763953370">
-        <mark key="'" line="117" column="21" />
-        <mark key="[" line="347" column="34" />
-        <mark key="]" line="339" column="11" />
-        <mark key="^" line="335" column="7" />
-        <mark key="." line="339" column="0" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" timestamp="1600767504453">
+        <mark key="'" line="328" column="7" />
+        <mark key="[" line="358" column="46" />
+        <mark key="]" line="358" column="59" />
+        <mark key="." line="358" column="58" />
+        <mark key="^" line="358" column="59" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/user-anonymous.js" timestamp="1600764200537">
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/user-anonymous.js" timestamp="1600767365853">
         <mark key="[" line="37" column="14" />
         <mark key="]" line="37" column="19" />
         <mark key="^" line="37" column="19" />
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="562" column="18" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="733" column="22" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="741" column="56" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="742" column="52" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
@@ -313,60 +312,59 @@
       <jump line="339" column="10" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" />
       <jump line="20" column="25" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" />
       <jump line="117" column="21" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" />
+      <jump line="328" column="7" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/order-operate.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-        balance: _.inc(price),
-      }</text>
+        <text>余额不足，请先充值</text>
       </register>
       <register name="-" type="4">
-        <text>Balance</text>
+        <text>余额不足，请先充值</text>
       </register>
       <register name="/" type="4">
-        <text>price</text>
+        <text>updateBa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaWNlICYmIChwYXJhbS5iYWxhbmNlID0gXy5pbmMocHJpY2UpKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyB0aGlzLlJlc3BvbnNlTW9kYWwoNDAwLCB7fSwgJ9Pgtu6yu9fjo6zH68/Is+TWtScpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIL/bvPXT4LbusqLR07OkdmlwyrG85Ao=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGVycjIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMTExMTExLCByZXMpOwo=</text>
+      </register>
+      <register name="5" type="4">
         <text>{
         balance: _.inc(price),
       }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaWNlICYmIChwYXJhbS5iYWxhbmNlID0gXy5pbmMocHJpY2UpKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaWNlICYmIChwYXJhbS5iYWxhbmNlID0gXy5pbmMocHJpY2UpKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtID0ge307Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vILLp0a/T4LbuCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKHR5cGVvZiBvcHRpb25zLnZpcElkICE9PSAnc3RyaW5nJykgewogICAgICByZXR1cm4gbmV3IHRoaXMuUmVzcG9uc2VNb2RhbCg0MDAsIHt9LCAnss7K/dPQzvMnKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaWNlICYmIChwYXJhbS5iYWxhbmNlID0gXy5pbmMocHJpY2UpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmKHR5cGVvZiBvcHRpb25zLnZpcElkICE9PSAnc3RyaW5nJykgewogICAgICByZXR1cm4gbmV3IHRoaXMuUmVzcG9uc2VNb2RhbCg0MDAsIHt9LCAnss7K/dPQzvMnKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaWNlICYmIChwYXJhbS5iYWxhbmNlID0gXy5pbmMocHJpY2UpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhc3luYyBnZXRWaXBJbmZvKG9wdGlvbnMpIHsKICAgIHJldHVybiB0aGlzLmN1CiAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtID0ge307Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnByb2plY3QoKQo=</text>
+        <text encoding="base64">ICAgIC8vILLp0a/T4LbuCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>price</last-search>
+      <last-search>updateBa</last-search>
       <last-offset />
-      <last-pattern>price</last-pattern>
+      <last-pattern>updateBa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
