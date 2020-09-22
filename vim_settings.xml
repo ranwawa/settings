@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>原价</entry>
         <entry>setInterval</entry>
         <entry>merge</entry>
         <entry>111</entry>
@@ -25,6 +24,7 @@
         <entry>rww-saas</entry>
         <entry>rww</entry>
         <entry>rww-sass</entry>
+        <entry>template</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,13 +121,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-wxapp/src/config/test2.ts" timestamp="1600679834379" />
       <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600686924288">
         <mark key="'" line="280" column="27" />
         <mark key="[" line="545" column="15" />
         <mark key="]" line="545" column="15" />
         <mark key="." line="545" column="15" />
         <mark key="^" line="409" column="42" />
+      </file>
+      <file name="C:/project/kongbao/public/index-h5.html" timestamp="1600741974193">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="24" />
       </file>
       <file name="C:/project/jxg-wxapp/vue.config.js" timestamp="1600687876926">
         <mark key="'" line="40" column="0" />
@@ -144,6 +149,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="C:/project/kongbao/src/manifest.json" timestamp="1600742185734">
+        <mark key="'" line="9" column="5" />
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="C:/project/kongbao/package.json" timestamp="1600739659835">
         <mark key="'" line="0" column="0" />
@@ -164,13 +176,6 @@
       <file name="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" timestamp="1600683175742">
         <mark key="'" line="39" column="9" />
       </file>
-      <file name="C:/project/jxg-h5/src/api/api.ts" timestamp="1600679932452">
-        <mark key="'" line="25" column="13" />
-        <mark key="[" line="114" column="17" />
-        <mark key="]" line="114" column="17" />
-        <mark key="^" line="114" column="17" />
-        <mark key="." line="114" column="16" />
-      </file>
       <file name="C:/project/rww-sass/lib/_mixins.scss" timestamp="1600739015546">
         <mark key="[" line="19" column="10" />
         <mark key="]" line="20" column="19" />
@@ -185,7 +190,6 @@
       <file name="C:/project/rww-sass/lib/_size.scss" timestamp="1600738850098" />
     </filemarks>
     <jumps>
-      <jump line="348" column="21" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="182" column="41" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
       <jump line="472" column="0" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
@@ -285,18 +289,19 @@
       <jump line="40" column="0" filename="C:/project/jxg-wxapp/vue.config.js" />
       <jump line="0" column="0" filename="C:/project/kongbao/src/pages/user/login-home.vue" />
       <jump line="0" column="0" filename="C:/project/kongbao/package.json" />
+      <jump line="8" column="5" filename="C:/project/kongbao/src/manifest.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>popover</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>popover</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>rww-sass</text>
+        <text>template</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6aXMtbGFjay1xdWFudGl0eT0iaXNBbGxBY3Rpdml0eVNrdTAiCg==</text>
@@ -334,9 +339,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>rww-sass</last-search>
+      <last-search>template</last-search>
       <last-offset />
-      <last-pattern>rww-sass</last-pattern>
+      <last-pattern>template</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
