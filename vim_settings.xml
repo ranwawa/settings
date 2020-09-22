@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>-btn</entry>
         <entry>onReachBottom</entry>
         <entry>onRe</entry>
         <entry>售价</entry>
@@ -25,6 +24,7 @@
         <entry>pullDown</entry>
         <entry>pull</entry>
         <entry>console</entry>
+        <entry>md</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,12 +121,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/project/jxg-wxapp/package.json" timestamp="1600755901504">
+        <mark key="'" line="20" column="0" />
+      </file>
       <file name="C:/project/kongbao/vue.config.js" timestamp="1600745083336">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="64" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/project/jxg-wxapp/README.md" timestamp="1600754754325" />
+      <file name="C:/project/jxg-wxapp/README.md" timestamp="1600755868121" />
       <file name="C:/project/kongbao/node_modules/uni-vant/lib/field.vue" timestamp="1600746784732">
         <mark key="'" line="5" column="28" />
         <mark key="[" line="266" column="27" />
@@ -184,7 +187,7 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1600754625132">
+      <file name="/Dummy.txt" timestamp="1600755870999">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -194,12 +197,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="C:/project/rww-sass/lib/_mixins.scss" timestamp="1600739015546">
-        <mark key="[" line="19" column="10" />
-        <mark key="]" line="20" column="19" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="20" column="18" />
-      </file>
+      <file name="C:/project/jxg-wxapp/src/config/dev.ts" timestamp="1600755866959" />
       <file name="C:/project/kongbao/src/assets/css/common.scss" timestamp="1600745559544">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -212,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
       <jump line="131" column="8" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
       <jump line="134" column="8" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
       <jump line="136" column="15" filename="C:/project/jxg-wxapp/src/goods/components/DetailActivity.vue" />
@@ -312,6 +309,7 @@
       <jump line="1257" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="1482" column="17" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="1117" column="6" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="20" column="0" filename="C:/project/jxg-wxapp/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,7 +321,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>md</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyogI2lmZGVmIE1QICovCiRkZXNpZ24td2lkdGg6IDc1MCAhZGVmYXVsdDsKLyogI2VuZGlmICovCg==</text>
@@ -359,9 +357,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>console</last-search>
+      <last-search>md</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>md</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
