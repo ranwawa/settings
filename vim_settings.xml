@@ -139,10 +139,11 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/supplier-store.js" timestamp="1600930397716">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="14" column="0" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/supplier-store.js" timestamp="1600934551668">
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="23" column="52" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="23" column="52" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/platform-log.js" timestamp="1600929841303">
         <mark key="[" line="7" column="8" />
@@ -161,13 +162,6 @@
         <mark key="]" line="68" column="0" />
         <mark key="^" line="68" column="22" />
         <mark key="." line="68" column="0" />
-      </file>
-      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1600856392176">
-        <mark key="'" line="491" column="27" />
-        <mark key="[" line="337" column="3" />
-        <mark key="]" line="153" column="55" />
-        <mark key="^" line="153" column="55" />
-        <mark key="." line="153" column="54" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/db.js" timestamp="1600929548674">
         <mark key="[" line="25" column="12" />
@@ -209,17 +203,23 @@
         <mark key="." line="148" column="75" />
         <mark key="^" line="148" column="76" />
       </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/call-func.js" timestamp="1600933261535">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="18" />
+      </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-update-order.js" timestamp="1600918734744">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="73" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" timestamp="1600932049457">
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" timestamp="1600934451860">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="94" column="16" />
-        <mark key="." line="95" column="0" />
+        <mark key="[" line="90" column="15" />
+        <mark key="]" line="88" column="20" />
+        <mark key="^" line="88" column="20" />
+        <mark key="." line="88" column="19" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/user-auth.js" timestamp="1600859076776">
         <mark key="[" line="18" column="0" />
@@ -344,56 +344,51 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJucyB7UHJvbWlzZTwqPn0K</text>
+      <register name="&quot;" type="4">
+        <text>options</text>
       </register>
       <register name="-" type="4">
-        <text>仓库信息</text>
+        <text>options</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="4">
         <text>/**
-   * 添加一条仓库信息
+   * 新增一条仓库
    */
-  async addStore(storeInfo) {
-    uniCloud.logger.info('(alihuocang-async)添加一条仓库信息-入参', storeInfo);
-    const res = await callFunc({
-      name: BACK_END,
-      action: 'supplier-store/getSingleById',
-      data: { storeId },
-    });
-    uniCloud.logger.info('(alihuocang-async)添加一条仓库信息-出参', res)
-    return res;
+  async add(options) {
+    uniCloud.logger.info(&quot;(supplier-store)新增一条仓库-入参&quot;, options);
+    const res = await colSpStore.add(options);
+    return this.processResponseData(res,'(supplier-store)新增一条仓库');
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJucyB7UHJvbWlzZTwqPn0K</text>
+        <text encoding="base64">ICAgICAgX2lkOiBtZDUoYCR7c3BJZH0tJHtuZXdTdG9yZUl0ZW0uY29kZX1gKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc29ydDogMCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJucyB7UHJvbWlzZTx2b2lkPn0K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gb3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgW2RvY10gPSBvbGRTdG9yZS5kYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCFkYXRhLl9pZCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgb2xkU3RvcmUgPSBhd2FpdCB0aGlzLmdldChlbnRpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkZFN0b3JlKGVudGl0eSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBlcnIgPyAnJyA6IGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy51cGRhdGVTdG9yZShlbnRpdHkpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMuY3JlYXRlVGltZSA9IERhdGUubm93KCk7CiAgICBvcHRpb25zLmlzRGVsZXRlZCA9IGZhbHNlOwogICAgb3B0aW9ucy5pc0VuYWJsZSA9IHRydWU7CiAgICBvcHRpb25zLnNvcnQgPSAwOw==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXM7Cg==</text>
       </register>
     </registers>
   </component>
