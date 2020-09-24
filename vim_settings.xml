@@ -139,11 +139,11 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/supplier-store.js" timestamp="1600934551668">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="52" />
-        <mark key="." line="23" column="51" />
-        <mark key="^" line="23" column="52" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/supplier-store.js" timestamp="1600936460959">
+        <mark key="[" line="23" column="92" />
+        <mark key="]" line="23" column="93" />
+        <mark key="." line="23" column="92" />
+        <mark key="^" line="23" column="93" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/platform-log.js" timestamp="1600929841303">
         <mark key="[" line="7" column="8" />
@@ -169,10 +169,10 @@
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="10" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/api-express/store.js" timestamp="1600928333973">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/api-express/store.js" timestamp="1600936913336">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/utils.js" timestamp="1600918327267">
         <mark key="[" line="7" column="10" />
@@ -185,10 +185,10 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/api-alhc.js" timestamp="1600926649830">
-        <mark key="[" line="26" column="56" />
-        <mark key="]" line="26" column="59" />
-        <mark key="." line="26" column="58" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/api-alhc.js" timestamp="1600936534894">
+        <mark key="[" line="35" column="29" />
+        <mark key="]" line="35" column="30" />
+        <mark key="." line="35" column="30" />
         <mark key="^" line="26" column="59" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-task/index.js" timestamp="1600916070740">
@@ -203,23 +203,22 @@
         <mark key="." line="148" column="75" />
         <mark key="^" line="148" column="76" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/call-func.js" timestamp="1600933261535">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="12" column="19" />
-        <mark key="^" line="12" column="19" />
-        <mark key="." line="12" column="18" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/call-func.js" timestamp="1600935603067">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-update-order.js" timestamp="1600918734744">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="73" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" timestamp="1600934451860">
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" timestamp="1600936778888">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="90" column="15" />
-        <mark key="]" line="88" column="20" />
-        <mark key="^" line="88" column="20" />
-        <mark key="." line="88" column="19" />
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="8" />
+        <mark key="^" line="22" column="14" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/user-auth.js" timestamp="1600859076776">
         <mark key="[" line="18" column="0" />
@@ -344,51 +343,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>options</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>options</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
-      <register name="0" type="4">
-        <text>/**
-   * 新增一条仓库
-   */
-  async add(options) {
-    uniCloud.logger.info(&quot;(supplier-store)新增一条仓库-入参&quot;, options);
-    const res = await colSpStore.add(options);
-    return this.processResponseData(res,'(supplier-store)新增一条仓库');
-  }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHVuaUNsb3VkLmxvZ2dlci5pbmZvKCcoYWxpaHVvY2FuZy1hc3luYynM7bzT0rvM9bLWv+LQxc+iLcjrss4nLCBuZXdTdG9yZUl0ZW0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgX2lkOiBtZDUoYCR7c3BJZH0tJHtuZXdTdG9yZUl0ZW0uY29kZX1gKSwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc29ydDogMCwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFkYXRhLl9pZCkgewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFkZFN0b3JlKGVudGl0eSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy51cGRhdGVTdG9yZShlbnRpdHkpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgLyoqCiAgICogu/HIobLp0a+yzsr9CiAgICogQHBhcmFtIG5ld1N0b3JlSXRlbQogICAqIEByZXR1cm5zIHt7ZXhwcmVzc05hbWU6ICosIGNvZGU6ICosIHNwSWQ6ICp9fQogICAqLwogIGdldFdoZXJlUGFyYW0obmV3U3RvcmVJdGVtKSB7CiAgICByZXR1cm4gewogICAgICBzcElkOiB0aGlzLnNwSWQsCiAgICAgIHN0b3JlQ29kZTogbmV3U3RvcmVJdGVtLnN0b3JlQ29kZSwKICAgICAgc3RvcmVOYW1lOiBuZXdTdG9yZUl0ZW0uc3RvcmVOYW1lLAogICAgfTsKICB9</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IC8qKgogICAqILeisrzNqNaqCiAgICovCiAgbm90aWZ5KGV2ZW50TmFtZSwgbmV3U3RvcmVJdGVtKSB7CiAgICBjb25zdCBzdWJzY3JpYmVySGFuZGxlckxpc3QgPSB0aGlzLnN1YnNjcmliZXJzW2V2ZW50TmFtZV07CiAgICBpZiAoIXN1YnNjcmliZXJIYW5kbGVyTGlzdCkgcmV0dXJuOwogICAgc3Vic2NyaWJlckhhbmRsZXJMaXN0LmZvckVhY2goKGVsZSkgPT4gewogICAgICBlbGUobmV3U3RvcmVJdGVtKTsKICAgIH0pOwogIH0KICAvKioKICAgKiC007XaM7e9u/HIobLWv+LB0LHtCiAgICovCiAgYXN5bmMgZ2V0TGlzdEZyb21BcGkocmVxdWVzdEJvZHkpIHsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrTTtdozt72y6dGvsta/4i3I67LOIiwgcmVxdWVzdEJvZHkpOwogICAgY29uc3QgW2VyciwgZGF0YV0gPSBhd2FpdCByZXF1ZXN0KHJlcXVlc3RCb2R5KTsKICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrTTtdozt72y6dGvsta/4i2z9rLOIiwgZXJyIHx8IGRhdGEpOwogICAgcmV0dXJuIGVyciB8fCAhZGF0YSB8fCAhZGF0YS5sZW5ndGggPyBbXSA6IGRhdGE7CiAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvKioKICAgKiDNrLK9sta/4tDFz6IKICAgKiBAcmV0dXJucyB7UHJvbWlzZTxib29sZWFuPn0KICAgKi8KICBhc3luYyBzeW5jSW5mbyhyZXF1ZXN0Qm9keSA9IHt9KSB7CiAgICB1bmlDbG91ZC5sb2dnZXIuaW5mbygizayyvbLWv+LQxc+iLcjrss4iLCByZXF1ZXN0Qm9keSk7CiAgICAvLyC009S2s8y78cihsta/4tDFz6IKICAgIC8vILLp1dKxvrXYsta/4tDFz6IKICAgIC8vIMjnufvT0NTyuPzQwiwgyOe5+8S+09As1PLQwtT2CiAgICAvLyC4/NDCyczGt9DFz6IKICAgIGNvbnN0IG5ld1N0b3JlTGlzdCA9IGF3YWl0IHRoaXMuZ2V0TGlzdEZyb21BcGkocmVxdWVzdEJvZHkpOwogICAgZm9yIChsZXQgbmV3U3RvcmVJdGVtIG9mIG5ld1N0b3JlTGlzdCkgewogICAgICBjb25zdCBlbnRpdHkgPSB0aGlzLmNvbWJpbmVTdG9yZUVudGl0eShuZXdTdG9yZUl0ZW0pOwogICAgICAvLyC3orK8uPzQwsnMxre1xMrCvP4KICAgICAgdGhpcy5ub3RpZnkoInN5bmNHb29kc0luZm8iLCBlbnRpdHkpOwogICAgICBjb25zdCBvbGRTdG9yZSA9IGF3YWl0IHRoaXMuZ2V0KGVudGl0eSk7CiAgICAgIGNvbnN0IFtkb2NdID0gb2xkU3RvcmUuZGF0YTsKICAgICAgZG9jID8gYXdhaXQgdGhpcy51cGRhdGUoZG9jLl9pZCwgZW50aXR5KSA6IGF3YWl0IHRoaXMuYWRkKGVudGl0eSk7CiAgICB9CiAgfQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvKioKICAgKiDV+7rPsta/4sq1zOUKICAgKiDQ6NKqvau12jO3vbLWv+LQxc+iLNequ7uzybHq17y1xLLWv+LQxc+iCiAgICovCiAgY29tYmluZVN0b3JlRW50aXR5KHRoaXJkU3RvcmVJdGVtID0ge30pIHsKICAgIC8vILHpwPqx6te8yrXM5dOzyeQKICAgIC8vIL2rtdozt73X1rbO16q05rn9wLQKICAgIGNvbnN0IGVudGl0eSA9IHt9OwogICAgT2JqZWN0LmVudHJpZXModGhpcy5tb2RlbE1hcCkuZm9yRWFjaCgoW3N0YW5kYXJkS2V5LCB0aGlyZEtleV0pID0+IHsKICAgICAgZW50aXR5W3N0YW5kYXJkS2V5XSA9IHRoaXJkU3RvcmVJdGVtW3RoaXJkS2V5XTsKICAgIH0pOwogICAgZW50aXR5LnRoaXJkT2JqID0gdGhpcmRTdG9yZUl0ZW07CiAgICBlbnRpdHkuc3BJZCA9IHRoaXMuc3BJZDsKICAgIGVudGl0eS5faWQgPSBtZDUoYCR7dGhpcy5zcElkfS0ke2VudGl0eS5zdG9yZUNvZGV9YCk7CiAgICBlbnRpdHkuc29ydCA9IDA7CiAgICBlbnRpdHkudXBkYXRlVGltZSA9IERhdGUubm93KCk7CiAgICAvLyC9q73wtu7Xqru7s8m31s6qtaXOu7XECiAgICBpZiAodHlwZW9mIGVudGl0eS5leHByZXNzQ29zdFByaWNlID09PSAic3RyaW5nIikgewogICAgICBlbnRpdHkuZXhwcmVzc0Nvc3RQcmljZSA9ICtlbnRpdHkuZXhwcmVzc0Nvc3RQcmljZSAqIDEwMDsKICAgIH0KICAgIHVuaUNsb3VkLmxvZ2dlci5sb2coIrrPsqKy1r/iyrXM5cr9vt0ts/ayziIsIGVudGl0eSk7CiAgICByZXR1cm4gZW50aXR5OwogIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHVuaUNsb3VkLmxvZ2dlci5pbmZvKCcoYWxpaHVvY2FuZy1hc3luYym4/NDCsta/4i3I67LOJywgc3RvcmVJbmZvTmV3LCBzdG9yZUluZm9PbGQpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
