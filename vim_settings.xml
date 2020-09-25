@@ -5,14 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>sass</entry>
-        <entry>login</entry>
-        <entry>padding-top</entry>
-        <entry>push</entry>
-        <entry>login-tip</entry>
-        <entry>font-size</entry>
-        <entry>fig</entry>
-        <entry>figure</entry>
         <entry>url</entry>
         <entry>其他</entry>
         <entry>全部</entry>
@@ -25,6 +17,14 @@
         <entry>log</entry>
         <entry>preview-h5</entry>
         <entry>H5Url</entry>
+        <entry>价格调整</entry>
+        <entry>label</entry>
+        <entry>update-price</entry>
+        <entry>list-menu</entry>
+        <entry>data</entry>
+        <entry>row =</entry>
+        <entry>row</entry>
+        <entry>disable</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,71 +121,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsAdd.vue" timestamp="1601000206609">
-        <mark key="[" line="314" column="7" />
-        <mark key="]" line="315" column="6" />
-        <mark key="^" line="315" column="6" />
-        <mark key="." line="315" column="5" />
-      </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/index.js" timestamp="1600941270645">
-        <mark key="'" line="93" column="2" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="36" column="14" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/supplier-goods.js" timestamp="1600942847532">
-        <mark key="]" line="46" column="0" />
+        <mark key="]" line="56" column="0" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-task/modal.js" timestamp="1600939289676">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="1" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/platform-cities.js" timestamp="1601017211762">
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="20" />
+        <mark key="." line="35" column="19" />
+        <mark key="^" line="35" column="20" />
       </file>
-      <file name="C:/project/backend-h5/src/config/env.js" timestamp="1601003472566">
-        <mark key="[" line="55" column="14" />
-        <mark key="]" line="55" column="14" />
-        <mark key="." line="55" column="14" />
+      <file name="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/index.vue" timestamp="1601005702897">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/index.js" timestamp="1600942308330">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="38" />
-        <mark key="." line="23" column="37" />
-        <mark key="^" line="23" column="38" />
-      </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/supplier-store.js" timestamp="1600938037516">
-        <mark key="[" line="23" column="92" />
-        <mark key="]" line="23" column="93" />
-        <mark key="." line="23" column="92" />
-        <mark key="^" line="23" column="93" />
-      </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/db.js" timestamp="1600943375161">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="32" column="18" />
-        <mark key="^" line="32" column="18" />
-        <mark key="." line="32" column="17" />
-      </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-task/supplier-store-goods.js" timestamp="1600941250675">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="49" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1600944277704">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-task/index.js" timestamp="1600942050599">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="17" />
-      </file>
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/request.js" timestamp="1600942422124">
-        <mark key="'" line="13" column="15" />
+      <file name="C:/project/backend-h5/src/views/goods/goodsInfo/list.vue" timestamp="1601005658129">
+        <mark key="'" line="106" column="4" />
       </file>
       <file name="C:/project/jxg-ops/src/config/env.js" timestamp="1601002563008">
         <mark key="[" line="4" column="48" />
@@ -193,42 +142,62 @@
         <mark key="." line="4" column="48" />
         <mark key="^" line="3" column="57" />
       </file>
-      <file name="C:/project/jxg-ops/src/views/goods/goodsInfo/list.vue" timestamp="1601000580724" />
-      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" timestamp="1600943539502">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="^" line="208" column="9" />
-        <mark key="." line="209" column="0" />
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/agent-goods.js" timestamp="1601016134490">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/api-express/goods.js" timestamp="1600942942177">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="C:/project/jxg-ops/src/views/operation/limitDiscount2/goodsAdd.vue" timestamp="1601000206609">
+        <mark key="[" line="314" column="7" />
+        <mark key="]" line="315" column="6" />
+        <mark key="^" line="315" column="6" />
+        <mark key="." line="315" column="5" />
+      </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/index.js" timestamp="1601015527390">
+        <mark key="'" line="93" column="2" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="36" column="14" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="C:/project/backend-h5/src/config/env.js" timestamp="1601004109769">
+        <mark key="^" line="37" column="12" />
+      </file>
+      <file name="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" timestamp="1601005452561">
+        <mark key="'" line="24" column="9" />
+      </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/common/api/db.js" timestamp="1601015562363">
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="29" column="14" />
+        <mark key="^" line="29" column="14" />
+        <mark key="." line="29" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1601003956676">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="C:/project/jxg-ops/src/views/goods/goodsInfo/list.vue" timestamp="1601000580724" />
+      <file name="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" timestamp="1601005812025">
+        <mark key="'" line="173" column="4" />
+      </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" timestamp="1600943539502">
+        <mark key="'" line="1" column="0" />
+      </file>
+      <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/index.js" timestamp="1601015880866">
+        <mark key="'" line="29" column="30" />
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="35" />
+        <mark key="^" line="21" column="36" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="28" filename="C:/project/uni-vant/src/components/field.vue" />
-      <jump line="5" column="28" filename="C:/project/kongbao/node_modules/uni-vant/lib/field.vue" />
-      <jump line="1263" column="24" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="1250" column="6" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="1262" column="12" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="74" column="2" filename="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" />
-      <jump line="112" column="12" filename="C:/project/jxg-wxapp/src/goods/components/DetailBtn.vue" />
-      <jump line="1181" column="37" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="67" column="43" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="68" column="33" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="479" column="28" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="732" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="1257" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="1482" column="17" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="1117" column="6" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="20" column="0" filename="C:/project/jxg-wxapp/package.json" />
-      <jump line="17" column="1" filename="C:/project/kongbao/src/App.vue" />
-      <jump line="0" column="1" filename="C:/project/kongbao/src/App.vue" />
-      <jump line="0" column="0" filename="C:/project/kongbao/src/pages/tab/home.vue" />
-      <jump line="11" column="14" filename="C:/project/kongbao/src/manifest.json" />
       <jump line="78" column="0" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
       <jump line="15" column="25" filename="C:/project/kongbao/src/api/vip.ts" />
       <jump line="286" column="29" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
@@ -308,56 +277,77 @@
       <jump line="98" column="2" filename="C:/project/jxg-ops/src/config/env.js" />
       <jump line="10" column="14" filename="C:/project/jxg-ops/src/config/env.js" />
       <jump line="8" column="13" filename="C:/project/jxg-ops/package.json" />
+      <jump line="6" column="28" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
+      <jump line="166" column="16" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
+      <jump line="212" column="12" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
+      <jump line="216" column="12" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
+      <jump line="0" column="0" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
+      <jump line="89" column="20" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
+      <jump line="0" column="0" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
+      <jump line="3" column="34" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
+      <jump line="7" column="56" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
+      <jump line="18" column="19" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
+      <jump line="19" column="14" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
+      <jump line="24" column="9" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
+      <jump line="226" column="24" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/index.vue" />
+      <jump line="23" column="15" filename="C:/project/backend-h5/src/views/goods/goodsInfo/list.vue" />
+      <jump line="0" column="0" filename="C:/project/backend-h5/src/views/goods/goodsInfo/list.vue" />
+      <jump line="106" column="4" filename="C:/project/backend-h5/src/views/goods/goodsInfo/list.vue" />
+      <jump line="371" column="62" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/index.vue" />
+      <jump line="0" column="0" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/index.vue" />
+      <jump line="156" column="2" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
+      <jump line="173" column="4" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
+      <jump line="27" column="30" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>H5Url</text>
+        <text>disable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVuaUNsb3VkLmxvZ2dlci5pbmZvKCLM7bzTyczGty2z9rLOIiwgcmVzKTsK</text>
+        <text encoding="base64">Y29uc3QgU3VwcGxpZXJTdG9yZSA9IHJlcXVpcmUoIi4vc3VwcGxpZXItc3RvcmUiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gdGhpcy5wcm8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SDVVcmwgPQogICdodHRwOi8vMTkyLjE2OC4xLjc3OjgwODIvIy9zaGFyZUg1L2dvb2RzRGV0YWlsP3VzZXJBZ2VudD1wYyZnb29kc0lkPSc7Cg==</text>
+        <text encoding="base64">ICAgICAgLm1hdGNoKHsgX2lkOiBjaXR5SWQsIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEg1VXJsID0KICAgICAgJ2h0dHA6Ly8xOTIuMTY4LjEuNzc6ODA4Mi8jL3NoYXJlSDUvZ29vZHNEZXRhaWw/dXNlckFnZW50PXBjJmdvb2RzSWQ9JzsK</text>
+        <text encoding="base64">ICAgIGF3YWl0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEg1VXJsID0KICAgICAgJ2h0dHA6Ly9qaXh1Z291Lm9rMTYwLmNvbTo1ODA4NS8jL3NoYXJlSDUvZ29vZHNEZXRhaWw/dXNlckFnZW50PXBjJmdvb2RzSWQ9JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEg1VXJsID0KICAgICAgJ2h0dHBzOi8vZ3JheWg1YXBpLmppeHVnb3UuY24vIy9zaGFyZUg1L2dvb2RzRGV0YWlsP3VzZXJBZ2VudD1wYyZnb29kc0lkPSc7Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJucyB7UHJvbWlzZTx2b2lkPn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEg1VXJsID0KICAgICAgJ2h0dHBzOi8vaml4Z2g1YXBpLmppeHVnb3UuY24vIy9zaGFyZUg1L2dvb2RzRGV0YWlsP3VzZXJBZ2VudD1wYyZnb29kc0lkPSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEg1VXJsID0KICAgICAgJ2h0dHA6Ly9pbnRoNS5qaXh1Z291LmNuLyMvc2hhcmVINS9nb29kc0RldGFpbD91c2VyQWdlbnQ9cGMmZ29vZHNJZD0nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEg1VXJsID0KICAgICAgJ2h0dHA6Ly90ZXN0M2g1YXBpLmppeHVnb3UuY24vIy9zaGFyZUg1L2dvb2RzRGV0YWlsP3VzZXJBZ2VudD1wYyZnb29kc0lkPSc7Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJucyB7UHJvbWlzZTx2b2lkPn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEg1VXJsID0KICAgICAgJ2h0dHA6Ly90ZXN0Mmg1YXBpLmppeHVnb3UuY24vIy9zaGFyZUg1L2dvb2RzRGV0YWlsP3VzZXJBZ2VudD1wYyZnb29kc0lkPSc7Cg==</text>
+        <text encoding="base64">ICBrCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>H5Url</last-search>
+      <last-search>disable</last-search>
       <last-offset />
-      <last-pattern>H5Url</last-pattern>
+      <last-pattern>disable</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
