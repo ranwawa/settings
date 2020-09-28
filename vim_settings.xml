@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>其他</entry>
         <entry>全部</entry>
         <entry>_</entry>
         <entry>_.</entry>
@@ -25,6 +24,7 @@
         <entry>row</entry>
         <entry>disable</entry>
         <entry>submit</entry>
+        <entry>共</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -144,8 +144,8 @@
         <mark key="." line="33" column="15" />
         <mark key="^" line="33" column="16" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1601262438223">
-        <mark key="'" line="6" column="9" />
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1601262515371">
+        <mark key="'" line="656" column="0" />
         <mark key="[" line="1533" column="18" />
         <mark key="]" line="1533" column="20" />
         <mark key="." line="1533" column="19" />
@@ -170,6 +170,9 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="29" />
       </file>
+      <file name="C:/project/jxg-wxapp/src/order/pages/index.vue" timestamp="1601263246793">
+        <mark key="'" line="122" column="24" />
+      </file>
       <file name="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/index.js" timestamp="1601022692808">
         <mark key="'" line="29" column="30" />
         <mark key="[" line="22" column="0" />
@@ -178,9 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="25" filename="C:/project/kongbao/src/api/vip.ts" />
-      <jump line="286" column="29" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
-      <jump line="307" column="7" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
       <jump line="310" column="14" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
       <jump line="317" column="14" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
       <jump line="329" column="38" filename="C:/project/kongbao/src/pages/fund/vip.vue" />
@@ -278,6 +278,9 @@
       <jump line="173" column="4" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
       <jump line="27" column="30" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/index.js" />
       <jump line="6" column="9" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="656" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="272" column="34" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
+      <jump line="122" column="24" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -289,7 +292,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text>共</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICBnZXRTdG9yZUxpc3QoZGF0YSA9IHt9KSB7CiAgICByZXR1cm4gcmVxdWVzdC5zdGFydDxBcnJheTxzdG9yZS5JU3RvcmVJdGVtPj4oewogICAgICBkYXRhLAogICAgICBhY3Rpb246ICJzdXBwbGllci1zdG9yZS9nZXRMaXN0IiwKICAgIH0pOwogIH0K</text>
@@ -325,9 +328,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>submit</last-search>
+      <last-search>共</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern>共</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
