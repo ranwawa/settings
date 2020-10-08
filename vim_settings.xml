@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>config</entry>
-        <entry>notice</entry>
-        <entry>notify</entry>
         <entry>log</entry>
         <entry>preview-h5</entry>
         <entry>H5Url</entry>
@@ -25,6 +22,9 @@
         <entry>goBack</entry>
         <entry>onLoad</entry>
         <entry>timeout</entry>
+        <entry>product</entry>
+        <entry>product =</entry>
+        <entry>initData</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -138,8 +138,12 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1602126030711">
-        <mark key="'" line="1145" column="32" />
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1602141627463">
+        <mark key="'" line="1104" column="10" />
+        <mark key="[" line="1107" column="9" />
+        <mark key="]" line="1108" column="13" />
+        <mark key="^" line="1108" column="13" />
+        <mark key="." line="1108" column="12" />
       </file>
       <file name="C:/project/document/problem/基础语法/HTML.md" timestamp="1602138345627">
         <mark key="[" line="128" column="0" />
@@ -209,21 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="9" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/customer-order.js" />
-      <jump line="99" column="6" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/customer-order.js" />
-      <jump line="43" column="8" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/customer-order.js" />
-      <jump line="136" column="40" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="339" column="5" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="447" column="7" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="456" column="10" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="491" column="27" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="2" column="34" filename="C:/project/kongbao/cloudfunctions-aliyun/common/api/index.js" />
-      <jump line="30" column="61" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" />
-      <jump line="35" column="18" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" />
-      <jump line="0" column="43" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" />
-      <jump line="32" column="21" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" />
-      <jump line="42" column="11" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" />
-      <jump line="82" column="28" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" />
       <jump line="1" column="0" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" />
       <jump line="54" column="0" filename="C:/project/kongbao/cloudfunctions-aliyun/api-express/store.js" />
       <jump line="21" column="0" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-task/modal.js" />
@@ -298,7 +287,6 @@
       <jump line="1111" column="14" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="1640" column="2" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="1806" column="4" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="15" column="7" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="26" column="52" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="415" column="24" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
@@ -309,6 +297,22 @@
       <jump line="17" column="18" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="708" column="3" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="1144" column="32" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="551" column="2" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="581" column="22" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="43" column="29" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="46" column="20" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="76" column="13" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="98" column="15" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="145" column="16" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="148" column="18" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="154" column="18" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="188" column="52" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="231" column="20" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="234" column="22" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="239" column="20" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="739" column="9" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="1103" column="10" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +324,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>timeout</text>
+        <text>initData</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIHByb3BzLmhpc3RvcnkucHVzaCgnL2hvbWUnKTsK</text>
@@ -356,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>timeout</last-search>
+      <last-search>initData</last-search>
       <last-offset />
-      <last-pattern>timeout</last-pattern>
+      <last-pattern>initData</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
