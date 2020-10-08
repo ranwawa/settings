@@ -121,10 +121,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1602141643391">
+      <file name="/Dummy.txt" timestamp="1602144730412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="C:/project/learning/src/ReduxDemo/Store.jsx" timestamp="1602149957183">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="31" />
+        <mark key="." line="34" column="30" />
+        <mark key="^" line="34" column="31" />
       </file>
       <file name="C:/project/learning/src/RouterDemo/NavLink.jsx" timestamp="1602055915612">
         <mark key="[" line="14" column="60" />
@@ -205,11 +211,11 @@
         <mark key="^" line="330" column="17" />
         <mark key="." line="330" column="16" />
       </file>
-      <file name="C:/project/learning/src/app.jsx" timestamp="1602065270420">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="21" />
+      <file name="C:/project/learning/src/app.jsx" timestamp="1602148980436">
+        <mark key="[" line="40" column="14" />
+        <mark key="]" line="40" column="16" />
+        <mark key="." line="40" column="15" />
+        <mark key="^" line="40" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -318,43 +324,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>console.log(store.getState())</text>
       </register>
       <register name="/" type="4">
         <text>initData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIHByb3BzLmhpc3RvcnkucHVzaCgnL2hvbWUnKTsK</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eyAoKSA9PiB0aGlzLmhhbmRsZUNsaWNrKElOQ1JFTUVOVCkgfT680zE8L2J1dHRvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGJ1dHRvbiBvbkNsaWNrPXsgaGFuZGxlQ2xpY2sgfSA+teO797C0xaU8L2J1dHRvbj4K</text>
+        <text encoding="base64">c3RvcmUuc3Vic2NyaWJlKCgpID0+ICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlID48L1JvdXRlPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXQK</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eyAoKSA9PiBzdG9yZS5kaXNwYXRjaCh7IHR5cGU6IERFQ1JFTUVOVCB9KX0+vPUxPC9idXR0b24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gb25DbGljaz17aGFuZGxlQ2xpY2t9Pre1u9jK19KzPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgPGJ1dHRvbiBvbkNsaWNrPXsgaGFuZGxlQ2xpY2sgfSA+teO797C0xaU8L2J1dHRvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxMaW5rIHRvPSIiPre1u9jK19KzPC9MaW5rPgo=</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlID48L1JvdXRlPgo=</text>
       </register>
     </registers>
   </component>
