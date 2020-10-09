@@ -121,10 +121,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1602144730412">
+      <file name="/Dummy.txt" timestamp="1602152840052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="C:/project/learning/src/ReduxDemo/reducer.jsx" timestamp="1602210553832">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="18" column="21" />
       </file>
       <file name="C:/project/learning/src/ReduxDemo/Store.jsx" timestamp="1602152763006">
         <mark key="[" line="48" column="0" />
@@ -157,8 +163,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="C:/project/backend-h5/src/views/workorder/list/components/list.vue" timestamp="1602053067930">
-        <mark key="'" line="59" column="15" />
+      <file name="C:/project/learning/src/ReduxDemo/MiddleWare.jsx" timestamp="1602210565144">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="10" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="C:/project/learning/src/RouterDemo/RedirectAndPush.jsx" timestamp="1602063962214">
         <mark key="'" line="44" column="0" />
@@ -167,31 +176,11 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="25" />
       </file>
-      <file name="C:/project/learning/src/RouterDemo/RenderFunction.jsx" timestamp="1602053380635">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="22" />
-        <mark key="^" line="2" column="23" />
-      </file>
       <file name="C:/project/document/problem/基础语法/BOM.md" timestamp="1602144728171">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="10" />
-      </file>
-      <file name="C:/project/learning/src/RouterDemo/SwitchAnd404.jsx" timestamp="1602050774402">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="1" />
-      </file>
-      <file name="C:/project/learning/src/RouterDemo/RenderFunctionComponent.jsx" timestamp="1602053203410">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="14" />
       </file>
       <file name="C:/project/learning/src/RouterDemo/WithRouter.jsx" timestamp="1602066461142">
         <mark key="[" line="27" column="0" />
@@ -211,15 +200,16 @@
         <mark key="^" line="330" column="17" />
         <mark key="." line="330" column="16" />
       </file>
-      <file name="C:/project/learning/src/app.jsx" timestamp="1602148980436">
-        <mark key="[" line="40" column="14" />
-        <mark key="]" line="40" column="16" />
-        <mark key="." line="40" column="15" />
-        <mark key="^" line="40" column="16" />
+      <file name="C:/project/learning/src/app.jsx" timestamp="1602209407711">
+        <mark key="'" line="20" column="10" />
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="21" />
+        <mark key="." line="43" column="20" />
+        <mark key="^" line="43" column="21" />
       </file>
+      <file name="C:/project/learning/src/ReduxDemo/bind.jsx" timestamp="1602209538366" />
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-task/alihuocang-async.js" />
       <jump line="54" column="0" filename="C:/project/kongbao/cloudfunctions-aliyun/api-express/store.js" />
       <jump line="21" column="0" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-task/modal.js" />
       <jump line="28" column="46" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-backend/supplier-goods.js" />
@@ -319,15 +309,16 @@
       <jump line="239" column="20" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="739" column="9" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
       <jump line="1103" column="10" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
+      <jump line="19" column="10" filename="C:/project/learning/src/app.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlLmdldFN0YXRlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>jion</text>
       </register>
       <register name="/" type="4">
         <text>initData</text>
@@ -336,31 +327,31 @@
         <text>store.getState()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlLmdldFN0YXRlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZbXE1rU6IHsgc3RvcmUuZ2V0U3RhdGUoKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB7IHRoaXMucHJvcHMudXNlci5qb2luKCcsJyl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMucmVuZGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhYmMnLCB2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7IHRoaXMucHJvcHMuY291bnRlciB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlID0gc3RvcmUuZ2V0U3RhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAxMTExMTExMTExMTEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhYmMnLCBzdG9yZS5nZXRTdGF0ZSgpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0b3JlLmdldFN0YXRlKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZbXE1rU6IHsgc3RvcmUuZ2V0U3RhdGUoKSB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RvcmUuc3Vic2NyaWJlKCgpID0+ICk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMucmVuZGVyKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMTExMSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhYmMnLCB2YWx1ZSk7Cg==</text>
       </register>
     </registers>
   </component>
