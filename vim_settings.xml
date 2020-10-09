@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>价格调整</entry>
-        <entry>label</entry>
-        <entry>update-price</entry>
         <entry>list-menu</entry>
         <entry>data</entry>
         <entry>row =</entry>
@@ -25,6 +22,9 @@
         <entry>item =</entry>
         <entry>initData</entry>
         <entry>item\.orderStatus</entry>
+        <entry>router</entry>
+        <entry>react</entry>
+        <entry>react-router-dom</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -146,12 +146,6 @@
         <mark key="^" line="177" column="34" />
         <mark key="." line="264" column="0" />
       </file>
-      <file name="C:/project/learning/src/ReduxDemo/MiddleWare.jsx" timestamp="1602212544701">
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="18" />
-        <mark key="^" line="11" column="68" />
-        <mark key="." line="11" column="18" />
-      </file>
       <file name="C:/project/learning/src/ReduxDemo/MiddleWareAsync.jsx" timestamp="1602226588433">
         <mark key="'" line="24" column="22" />
         <mark key="[" line="28" column="24" />
@@ -173,18 +167,12 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="C:/project/gift-admin/src/App.tsx" timestamp="1602233748754">
-        <mark key="[" line="54" column="26" />
-        <mark key="]" line="55" column="21" />
-        <mark key="." line="55" column="20" />
-        <mark key="^" line="55" column="21" />
-      </file>
-      <file name="C:/project/learning/src/app.jsx" timestamp="1602213152645">
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="44" column="24" />
-        <mark key="]" line="44" column="25" />
-        <mark key="." line="44" column="24" />
-        <mark key="^" line="44" column="25" />
+      <file name="C:/project/gift-admin/src/App.tsx" timestamp="1602235010499">
+        <mark key="'" line="51" column="50" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="C:/project/learning/src/ReduxDemo/bind.jsx" timestamp="1602213338748" />
       <file name="/Dummy.txt" timestamp="1602226842819">
@@ -205,6 +193,18 @@
         <mark key="^" line="1108" column="13" />
         <mark key="." line="1108" column="12" />
       </file>
+      <file name="C:/project/gift-admin/src/pages/sp/list.tsx" timestamp="1602234569777">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="13" column="6" />
+        <mark key="^" line="13" column="6" />
+        <mark key="." line="13" column="5" />
+      </file>
+      <file name="C:/project/learning/package.json" timestamp="1602234600409">
+        <mark key="'" line="14" column="11" />
+      </file>
+      <file name="C:/project/gift-admin/package.json" timestamp="1602234769482">
+        <mark key="'" line="15" column="5" />
+      </file>
       <file name="C:/project/jxg-h5/src/views/about/secretTreaty.vue" timestamp="1602228132352" />
       <file name="C:/project/gift-admin/src/index.tsx" timestamp="1602231345351" />
       <file name="C:/project/gift-admin/src/App.css" timestamp="1602230734035">
@@ -213,27 +213,9 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="C:/project/learning/src/ReduxDemo/MiddleWareSync.jsx" timestamp="1602213061189">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="41" />
-        <mark key="^" line="16" column="41" />
-        <mark key="." line="16" column="40" />
-      </file>
       <file name="/detail.vue" timestamp="1602223120879" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/index.vue" />
-      <jump line="156" column="2" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
-      <jump line="173" column="4" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
-      <jump line="27" column="30" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/index.js" />
-      <jump line="6" column="9" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="656" column="0" filename="C:/project/jxg-wxapp/src/goods/pages/detail.vue" />
-      <jump line="272" column="34" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="122" column="24" filename="C:/project/jxg-wxapp/src/order/pages/index.vue" />
-      <jump line="26" column="34" filename="C:/project/kongbao/cloudfunctions-aliyun/controller-frontend/agent-goods.js" />
-      <jump line="29" column="2" filename="C:/project/kongbao/src/components/goods-cell.vue" />
-      <jump line="15" column="1" filename="C:/project/learning/src/app.jsx" />
-      <jump line="2" column="22" filename="C:/project/learning/src/app.jsx" />
       <jump line="22" column="18" filename="C:/project/learning/src/app.jsx" />
       <jump line="23" column="0" filename="C:/project/learning/src/app.jsx" />
       <jump line="24" column="8" filename="C:/project/learning/src/app.jsx" />
@@ -322,56 +304,68 @@
       <jump line="24" column="22" filename="C:/project/learning/src/ReduxDemo/MiddleWareAsync.jsx" />
       <jump line="8" column="29" filename="C:/project/learning/src/index.js" />
       <jump line="71" column="41" filename="C:/project/gift-admin/src/pages/test.tsx" />
+      <jump line="14" column="11" filename="C:/project/learning/package.json" />
+      <jump line="50" column="50" filename="C:/project/gift-admin/src/App.tsx" />
+      <jump line="0" column="0" filename="C:/project/gift-admin/package.json" />
+      <jump line="6" column="22" filename="C:/project/gift-admin/package.json" />
+      <jump line="10" column="12" filename="C:/project/gift-admin/package.json" />
+      <jump line="11" column="12" filename="C:/project/gift-admin/package.json" />
+      <jump line="13" column="5" filename="C:/project/gift-admin/package.json" />
+      <jump line="14" column="5" filename="C:/project/gift-admin/package.json" />
+      <jump line="16" column="5" filename="C:/project/gift-admin/package.json" />
+      <jump line="20" column="14" filename="C:/project/gift-admin/package.json" />
+      <jump line="21" column="14" filename="C:/project/gift-admin/package.json" />
+      <jump line="15" column="5" filename="C:/project/gift-admin/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEJyb3dzZXJSb3V0ZXI+CiAgICAgICAgICAgIDwvQnJvd3NlclJvdXRlcj4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPXt7IG1hcmdpbjogJzAgMjRweCAyNHB4IDI0cHgnLCBtaW5IZWlnaHQ6IDUwMH19</text>
+        <text encoding="base64">PGFueT4=</text>
       </register>
       <register name="/" type="4">
-        <text>item\.orderStatus</text>
+        <text>react-router-dom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPEJyZWFkY3J1bWIuSXRlbT65qdOmycy53MDtPC9CcmVhZGNydW1iLkl0ZW0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEJyb3dzZXJSb3V0ZXI+CiAgICAgICAgICAgIDwvQnJvd3NlclJvdXRlcj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8TGF5b3V0LkNvbnRlbnQ+CiAgICAgICAgPC9MYXlvdXQuQ29udGVudD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8U3dpdGNoPgogICAgICAgICAgICAgIDwvU3dpdGNoPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvc3AvbGlzdCI+MTIzMjEzMTIzPC9Sb3V0ZT4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgPEJyZWFkY3J1bWIgIHN0eWxlPXt7IG1hcmdpbjogJzE2cHggMCd9fT4KICAgICAgICAgICAgPEJyZWFkY3J1bWIuSXRlbT65qdOmycy53MDtPC9CcmVhZGNydW1iLkl0ZW0+CiAgICAgICAgICAgIDxCcmVhZGNydW1iLkl0ZW0+uanTpsnMwdCx7TwvQnJlYWRjcnVtYi5JdGVtPgogICAgICAgICAgPC9CcmVhZGNydW1iID4KICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQnJvd3NlclJvdXRlciB9IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDIyMgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMjIyMjIyMjIyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9TcGFjZT4K</text>
+        <text encoding="base64">aW1wb3J0IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L1NwYWNlPgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQnJvd3NlclJvdXRlciB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8U3BhY2U+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>item\.orderStatus</last-search>
+      <last-search>react-router-dom</last-search>
       <last-offset />
-      <last-pattern>item\.orderStatus</last-pattern>
+      <last-pattern>react-router-dom</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
