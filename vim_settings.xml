@@ -173,11 +173,11 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="C:/project/gift-admin/src/App.tsx" timestamp="1602230664857">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-        <mark key="." line="8" column="26" />
+      <file name="C:/project/gift-admin/src/App.tsx" timestamp="1602233748754">
+        <mark key="[" line="54" column="26" />
+        <mark key="]" line="55" column="21" />
+        <mark key="." line="55" column="20" />
+        <mark key="^" line="55" column="21" />
       </file>
       <file name="C:/project/learning/src/app.jsx" timestamp="1602213152645">
         <mark key="'" line="37" column="4" />
@@ -192,6 +192,12 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="C:/project/gift-admin/src/pages/test.tsx" timestamp="1602231438180">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="29" />
+      </file>
       <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1602223054635">
         <mark key="'" line="1104" column="10" />
         <mark key="[" line="1107" column="9" />
@@ -200,12 +206,7 @@
         <mark key="." line="1108" column="12" />
       </file>
       <file name="C:/project/jxg-h5/src/views/about/secretTreaty.vue" timestamp="1602228132352" />
-      <file name="C:/project/document/problem/基础语法/BOM.md" timestamp="1602144728171">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="10" />
-      </file>
+      <file name="C:/project/gift-admin/src/index.tsx" timestamp="1602231345351" />
       <file name="C:/project/gift-admin/src/App.css" timestamp="1602230734035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -221,7 +222,6 @@
       <file name="/detail.vue" timestamp="1602223120879" />
     </filemarks>
     <jumps>
-      <jump line="371" column="62" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/index.vue" />
       <jump line="0" column="0" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/index.vue" />
       <jump line="156" column="2" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
       <jump line="173" column="4" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
@@ -321,48 +321,49 @@
       <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
       <jump line="24" column="22" filename="C:/project/learning/src/ReduxDemo/MiddleWareAsync.jsx" />
       <jump line="8" column="29" filename="C:/project/learning/src/index.js" />
+      <jump line="71" column="41" filename="C:/project/gift-admin/src/pages/test.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text encoding="base64">IHN0eWxlPXt7IG1hcmdpbjogJzAgMjRweCAyNHB4IDI0cHgnLCBtaW5IZWlnaHQ6IDUwMH19</text>
       </register>
       <register name="/" type="4">
         <text>item\.orderStatus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YnIgLz4KICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEJyZWFkY3J1bWIuSXRlbT65qdOmycy53MDtPC9CcmVhZGNydW1iLkl0ZW0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPgogICAgICAgIDxpbWcgc3JjPXtsb2dvfSBjbGFzc05hbWU9IkFwcC1sb2dvIiBhbHQ9ImxvZ28iIC8+CiAgICAgICAgPHA+CiAgICAgICAgICBFZGl0IDxjb2RlPnNyYy9BcHAudHN4PC9jb2RlPiBhbmQgc2F2ZSB0byByZWxvYWQuCiAgICAgICAgPC9wPgogICAgICAgIDxhCiAgICAgICAgICBjbGFzc05hbWU9IkFwcC1saW5rIgogICAgICAgICAgaHJlZj0iaHR0cHM6Ly9yZWFjdGpzLm9yZyIKICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgID4KICAgICAgICAgIExlYXJuIFJlYWN0CiAgICAgICAgPC9hPgogICAgICA8L2hlYWRlcj4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8TGF5b3V0LkNvbnRlbnQ+CiAgICAgICAgPC9MYXlvdXQuQ29udGVudD4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgPEJyZWFkY3J1bWIgIHN0eWxlPXt7IG1hcmdpbjogJzE2cHggMCd9fT4KICAgICAgICAgICAgPEJyZWFkY3J1bWIuSXRlbT65qdOmycy53MDtPC9CcmVhZGNydW1iLkl0ZW0+CiAgICAgICAgICAgIDxCcmVhZGNydW1iLkl0ZW0+uanTpsnMwdCx7TwvQnJlYWRjcnVtYi5JdGVtPgogICAgICAgICAgPC9CcmVhZGNydW1iID4KICAgICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgeyB0aGlzLnByb3BzLmNvdW50ZXIgfQogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIDIyMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICkgewo=</text>
+        <text encoding="base64">ICAgICAgPC9TcGFjZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdj48Lz4K</text>
+        <text encoding="base64">ICAgICAgICA8L1NwYWNlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgCiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8U3BhY2U+Cg==</text>
       </register>
     </registers>
   </component>
