@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry>preview-h5</entry>
-        <entry>H5Url</entry>
         <entry>价格调整</entry>
         <entry>label</entry>
         <entry>update-price</entry>
@@ -23,8 +20,11 @@
         <entry>timeout</entry>
         <entry>product</entry>
         <entry>product =</entry>
-        <entry>initData</entry>
         <entry>goBack</entry>
+        <entry>item</entry>
+        <entry>item =</entry>
+        <entry>initData</entry>
+        <entry>item\.orderStatus</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -121,10 +121,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/project/learning/src/ReduxDemo/reducer.jsx" timestamp="1602213292374">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="C:/project/learning/src/ReduxDemo/reducer.jsx" timestamp="1602225114877">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="8" column="21" />
       </file>
       <file name="C:/project/learning/src/ReduxDemo/Store.jsx" timestamp="1602213605997">
         <mark key="[" line="48" column="0" />
@@ -132,14 +133,14 @@
         <mark key="^" line="42" column="31" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="C:/project/learning/src/ReduxDemo/actions.jsx" timestamp="1602214041889">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="29" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="8" column="28" />
+      <file name="C:/project/learning/src/ReduxDemo/actions.jsx" timestamp="1602224916547">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="6" />
+        <mark key="^" line="10" column="7" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/assets/js/adapter.ts" timestamp="1602221900508">
-        <mark key="'" line="214" column="11" />
+      <file name="C:/project/jxg-wxapp/src/assets/js/adapter.ts" timestamp="1602221916175">
+        <mark key="'" line="68" column="2" />
         <mark key="[" line="264" column="0" />
         <mark key="]" line="264" column="39" />
         <mark key="^" line="177" column="34" />
@@ -151,23 +152,24 @@
         <mark key="^" line="11" column="68" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="C:/project/learning/src/ReduxDemo/MiddleWareAsync.jsx" timestamp="1602214475429">
-        <mark key="[" line="5" column="49" />
-        <mark key="]" line="12" column="29" />
-        <mark key="." line="12" column="28" />
-        <mark key="^" line="12" column="29" />
+      <file name="C:/project/learning/src/ReduxDemo/MiddleWareAsync.jsx" timestamp="1602225094623">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="28" column="24" />
+      </file>
+      <file name="C:/project/jxg-wxapp/src/order/pages/detail.vue" timestamp="1602223075196">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="219" column="10" />
+        <mark key="]" line="219" column="10" />
+        <mark key="." line="219" column="18" />
+        <mark key="^" line="214" column="20" />
       </file>
       <file name="C:/project/learning/src/index.js" timestamp="1602214205440">
         <mark key="[" line="24" column="48" />
         <mark key="]" line="24" column="55" />
         <mark key="." line="24" column="54" />
         <mark key="^" line="24" column="55" />
-      </file>
-      <file name="C:/project/learning/src/RouterDemo/WithRouter.jsx" timestamp="1602066461142">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="8" />
       </file>
       <file name="C:/project/document/problem/软件/WebStorm.md" timestamp="1602126261392">
         <mark key="[" line="328" column="33" />
@@ -183,12 +185,12 @@
         <mark key="^" line="44" column="25" />
       </file>
       <file name="C:/project/learning/src/ReduxDemo/bind.jsx" timestamp="1602213338748" />
-      <file name="/Dummy.txt" timestamp="1602212759065">
+      <file name="/Dummy.txt" timestamp="1602223142801">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1602141848587">
+      <file name="C:/project/jxg-wxapp/src/goods/pages/detail.vue" timestamp="1602223054635">
         <mark key="'" line="1104" column="10" />
         <mark key="[" line="1107" column="9" />
         <mark key="]" line="1108" column="13" />
@@ -213,22 +215,9 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="16" column="40" />
       </file>
+      <file name="/detail.vue" timestamp="1602223120879" />
     </filemarks>
     <jumps>
-      <jump line="6" column="28" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
-      <jump line="166" column="16" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
-      <jump line="212" column="12" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
-      <jump line="216" column="12" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
-      <jump line="0" column="0" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/handle-btn/updatePrice.vue" />
-      <jump line="89" column="20" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
-      <jump line="0" column="0" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
-      <jump line="3" column="34" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
-      <jump line="7" column="56" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
-      <jump line="18" column="19" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
-      <jump line="19" column="14" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
-      <jump line="24" column="9" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/list-menu.vue" />
-      <jump line="226" column="24" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/index.vue" />
-      <jump line="23" column="15" filename="C:/project/backend-h5/src/views/goods/goodsInfo/list.vue" />
       <jump line="0" column="0" filename="C:/project/backend-h5/src/views/goods/goodsInfo/list.vue" />
       <jump line="106" column="4" filename="C:/project/backend-h5/src/views/goods/goodsInfo/list.vue" />
       <jump line="371" column="62" filename="C:/project/backend-h5/src/views/goods/goodsInfo/components/list/index.vue" />
@@ -307,64 +296,78 @@
       <jump line="213" column="11" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
       <jump line="264" column="10" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
       <jump line="296" column="4" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
-      <jump line="298" column="13" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
       <jump line="365" column="15" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
       <jump line="414" column="15" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
-      <jump line="68" column="2" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
       <jump line="179" column="8" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
       <jump line="182" column="5" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
       <jump line="211" column="4" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
       <jump line="214" column="11" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="267" column="6" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="298" column="4" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="300" column="13" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="367" column="15" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="416" column="15" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="68" column="2" filename="C:/project/jxg-wxapp/src/assets/js/adapter.ts" />
+      <jump line="404" column="0" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
+      <jump line="470" column="16" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
+      <jump line="507" column="13" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
+      <jump line="532" column="15" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
+      <jump line="324" column="11" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
+      <jump line="336" column="67" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
+      <jump line="306" column="11" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
+      <jump line="226" column="12" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
+      <jump line="454" column="6" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
+      <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdW5pLnNob3dNb2RhbCh7IHRpdGxlOiAizPi1x8K8wcsiIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>触发了回退</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>goBack</text>
+        <text>item\.orderStatus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdW5pLnNob3dNb2RhbCh7IHRpdGxlOiAizPi1x8K8wcsiIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICA8YnIgLz4KICAgICAgICB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHR5cGU6ICdpbmNyZW1lbnQnLAogICAgbnVtOiAzLAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgeyB0aGlzLnByb3BzLmNvdW50ZXIgfQogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7IHRoaXMucHJvcHMuY291bnRlciB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj48Lz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZWR1eExvZ2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgCiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiAgIC0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>goBack</last-search>
+      <last-search>item\.orderStatus</last-search>
       <last-offset />
-      <last-pattern>goBack</last-pattern>
+      <last-pattern>item\.orderStatus</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
