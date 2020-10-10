@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>row =</entry>
-        <entry>row</entry>
         <entry>disable</entry>
         <entry>submit</entry>
         <entry>共</entry>
@@ -25,6 +23,8 @@
         <entry>react-router-dom</entry>
         <entry>onShow</entry>
         <entry>onLoad</entry>
+        <entry>blade</entry>
+        <entry>blade-auth</entry>
       </history-search>
       <history-cmd>
         <entry>id</entry>
@@ -161,6 +161,12 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="C:/project/jxg-wxapp/src/api/api.ts" timestamp="1602297676228">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="154" column="60" />
+        <mark key="." line="151" column="0" />
+      </file>
       <file name="C:/project/jxg-wxapp/src/assets/js/index.d.ts" timestamp="1602296827042">
         <mark key="[" line="145" column="14" />
         <mark key="]" line="143" column="14" />
@@ -206,8 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="17" filename="C:/project/learning/src/app.jsx" />
-      <jump line="4" column="64" filename="C:/project/learning/src/RouterDemo/RenderFunction.jsx" />
       <jump line="12" column="0" filename="C:/project/learning/src/RouterDemo/RenderFunction.jsx" />
       <jump line="59" column="15" filename="C:/project/backend-h5/src/views/workorder/list/components/list.vue" />
       <jump line="34" column="27" filename="C:/project/learning/src/app.jsx" />
@@ -306,56 +310,58 @@
       <jump line="292" column="11" filename="C:/project/jxg-wxapp/src/order/pages/detail.vue" />
       <jump line="5" column="2" filename="C:/project/jxg-wxapp/src/pages/master/goods.vue" />
       <jump line="102" column="26" filename="C:/project/jxg-wxapp/src/pages/master/vip.vue" />
+      <jump line="0" column="0" filename="C:/project/jxg-wxapp/src/api/api.ts" />
+      <jump line="151" column="5" filename="C:/project/jxg-wxapp/src/api/api.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>testh5api.jixugou.cn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJibGFkZS1hdXRoIjogYmFzZVVzZXIudG9rZW4sCg==</text>
       </register>
       <register name="-" type="4">
         <text>testh5api.jixugou.cn</text>
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>blade-auth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgd2luZG93LndlYmtpdC5tZXNzYWdlSGFuZGxlcnMuanhnLnBvc3RNZXNzYWdlKHsgam9pbkxpdmVSb29tOiBqc29uIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAganhnLnRvQ3JlYXRlTGl2ZSgpOwo=</text>
+        <text encoding="base64">ICAgICJibGFkZS1hdXRoIjogYmFzZVVzZXIudG9rZW4sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBmCg==</text>
+        <text encoding="base64">ICAgICAganhnLnRvQ3JlYXRlTGl2ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNnac/gudi907/a0OjSqsrayKi687LFxNzKudPDLMv50tTV4sDv0qrPyLvxyKF0b2tlbtTZx+vKvr3Tv9oKICAgIGF3YWl0IGJhc2VVc2VyLmluaXRVc2VySW5mb0luSDVBcHAodGhpcy5xdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0eXBmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKi8K</text>
+        <text encoding="base64">ICAgIC8vIGNnac/gudi907/a0OjSqsrayKi687LFxNzKudPDLMv50tTV4sDv0qrPyLvxyKF0b2tlbtTZx+vKvr3Tv9oKICAgIGF3YWl0IGJhc2VVc2VyLmluaXRVc2VySW5mb0luSDVBcHAodGhpcy5xdWVyeSk7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIC8qKi8K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICA8TWVudS5TdWJNZW51CiAgICAgICAgICAgICAgICBrZXk9InNwIgogICAgICAgICAgICAgICAgdGl0bGU9Irmp06bJzLncwO0iCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9InNwMSI+CiAgICAgICAgICAgICAgICAgIDxMaW5rIHRvPSIvc3AvbGlzdCI+uanTpsnMwdCx7TwvTGluaz4KICAgICAgICAgICAgICAgIDwvTWVudS5JdGVtPgogICAgICAgICAgICAgIDwvTWVudS5TdWJNZW51PgogICAgICAgICAgICAgIDxNZW51LlN1Yk1lbnUKICAgICAgICAgICAgICAgIGtleT0iZ29vZHMiCiAgICAgICAgICAgICAgICB0aXRsZT0iyczGt7ncwO0iCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9Imdvb2RzMSI+ILmp06bJzMHQse0gPC9NZW51Lkl0ZW0+CiAgICAgICAgICAgICAgPC9NZW51LlN1Yk1lbnU+CiAgICAgICAgICAgICAgPE1lbnUuU3ViTWVudQogICAgICAgICAgICAgICAga2V5PSJhZyIKICAgICAgICAgICAgICAgIHRpdGxlPSK31tW+udzA7SIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8TWVudS5JdGVtIGtleT0iYWcxIj4gt9bVvsHQse0gPC9NZW51Lkl0ZW0+CiAgICAgICAgICAgICAgPC9NZW51LlN1Yk1lbnU+CiAgICAgICAgICAgICAgPE1lbnUuU3ViTWVudQogICAgICAgICAgICAgICAga2V5PSJjcyIKICAgICAgICAgICAgICAgIHRpdGxlPSLTw7unudzA7SIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8TWVudS5JdGVtIGtleT0iY3MxIj4g08O7p8HQse0gPC9NZW51Lkl0ZW0+CiAgICAgICAgICAgICAgPC9NZW51LlN1Yk1lbnU+</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU9e30K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>blade-auth</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>blade-auth</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
